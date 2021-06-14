@@ -2,13 +2,13 @@
 title: Gerenciamento de acesso
 description: Entenda o sistema de controle de acesso Adobe Journey Optimizer e os oito perfis personalizados. Saiba como gerenciar perfis e permissões de produtos e como adicionar e gerenciar usuários.
 kt: 7677
-thumbnail: 333998
+thumbnail: 333998.jpg
 feature: Gerenciamento de acesso
 doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: 50dd912c4a0a64af3d98ecad28b1805abfd89daa
+source-git-commit: 1debd81aa3cc2fa8d20a514b07a4278f1a02f13a
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 10%

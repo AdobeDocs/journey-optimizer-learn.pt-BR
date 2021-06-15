@@ -1,21 +1,23 @@
 ---
 title: Relatórios ao vivo e globais
-description: Saiba como acessar e analisar o jornada e fornecer relatórios globais e em tempo real.
-kt: 7677
-thumbnail: 333998
+description: Saiba mais sobre a diferença entre relatórios ao vivo e globais, como acessar e analisar a Jornada e os relatórios específicos de mensagem e como modificar os painéis do relatório.  
+kt: 7690
+thumbnail: 334108.jpg
 feature: Relatório
 doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: 50dd912c4a0a64af3d98ecad28b1805abfd89daa
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 2%
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
 
 # Relatórios ao vivo e globais
 
-Saiba como acessar e analisar o jornada e fornecer relatórios globais e em tempo real.
+Saiba mais sobre a diferença entre relatórios ao vivo e globais, como acessar e analisar a Jornada e os relatórios específicos de mensagem e como modificar os painéis do relatório.  
+
+>[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12)

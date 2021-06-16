@@ -2,10 +2,10 @@
 title: Vídeos e Tutorials do Journey Optimizer
 description: Este guia do usuário contém vídeos e tutoriais sobre os recursos e funcionalidades do Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 4ccc9340e312db53c5414c15d37a637107afd333
+source-git-commit: ea9765d4cc39c5d5346c0a3f120c6d109f8d1052
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 32%
+source-wordcount: '148'
+ht-degree: 17%
 
 ---
 
@@ -19,5 +19,36 @@ A Journey Optimizer ajuda as empresas a fornecer experiências conectadas, conte
 Este guia do usuário contém vídeos e tutoriais sobre os recursos e funcionalidades do Adobe Journey Optimizer.
 
 ## Escolhas da equipe
+<table>
+<tr>
+  <td>
+    <a href="./introduction/journey-optimizer-overview-part-1.md">
+      <img alt="Visão geral da Journey Optimizer Parte 1 - Fornecer jornadas omnicanais (vídeo)" src="./assets/334174.jpg"/>
+    </a>
+    <div>
+      <a href="./introduction/journey-optimizer-overview-part-1.md">
+    <strong>Visão geral da Journey Optimizer Parte 1  </strong>
+    </a>
+    </div>
+    <p>
+    <em>Este vídeo mostra como as marcas podem usar a Otimização de Jornada do Adobe para fornecer jornadas personalizadas de omnicanal aos seus consumidores.</em>
+    <p>
+  </td>
+    <td>
+    <a href="./introduction/journey-optimizer-overview-part-2.md">
+      <img alt="Visão geral da Journey Optimizer Parte 2 - Fornecer jornadas omnicanais (vídeo)" src="./assets/334175.jpg"/>
+    </a>
+    <div>
+      <a href="./introduction/journey-optimizer-overview-part-2.md">
+    <strong>Visão geral da Journey Optimizer Parte 2  </strong>
+    </a>
+    </div>
+    <p>
+    <em>Este vídeo mostra como as marcas podem usar o offer decisioning da Otimização de Jornada do Adobe, a qualificação de segmento em tempo real e o gerenciamento de eventos comerciais para levar suas jornadas de consumidores a novos patamares.</em>
+    <p>
+  </td>
+</table>
 
-Em breve
+
+
+

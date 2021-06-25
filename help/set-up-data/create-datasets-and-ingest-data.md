@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
-source-git-commit: 359377095abbf30572f671b61f363abef67074aa
+source-git-commit: 4c5bbbca213048a26fb2c07980cf71e2658e680b
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 5%
+source-wordcount: '90'
+ht-degree: 13%
 
 ---
 
@@ -21,3 +21,8 @@ ht-degree: 5%
 Saiba como criar um conjunto de dados, mapeá-lo para um esquema, adicionar dados a ele e confirmar que os dados foram assimilados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
+
+## Recursos adicionais
+
+* [Criar um esquema, um conjunto de dados e assimilar dados para adicionar perfis de teste](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html)
+* [Criar e gerenciar conjuntos de dados](https://experienceleague.adobe.com/docs/experience-platform/catalog/datasets/user-guide.html?lang=pt-BR)

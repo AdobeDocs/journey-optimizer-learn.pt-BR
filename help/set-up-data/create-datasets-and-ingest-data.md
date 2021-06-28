@@ -8,15 +8,15 @@ doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
-source-git-commit: 4c5bbbca213048a26fb2c07980cf71e2658e680b
+source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 13%
+source-wordcount: '92'
+ht-degree: 9%
 
 ---
 
 
-# Configurar fontes de dados
+# Criar conjuntos de dados e assimilar dados
 
 Saiba como criar um conjunto de dados, mapeá-lo para um esquema, adicionar dados a ele e confirmar que os dados foram assimilados.
 

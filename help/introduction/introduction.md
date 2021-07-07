@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Adobe Journey Optimizer
-description: Entenda o que é o Adobe Journey Optimizer, quais desafios comerciais esta solução resolve e quais são os principais casos de uso.
+description: Entenda o que é o Adobe Journey Optimizer, quais desafios comerciais essa solução resolve e quais são os principais casos de uso.
 kt: 7517
 thumbnail: 333745.jpg
 feature: Visão geral
@@ -10,9 +10,9 @@ role: Business Practitioner
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
@@ -24,5 +24,5 @@ Entenda o que é o Adobe Journey Optimizer, quais desafios comerciais esta solu�
 
 ## Recursos adicionais
 
-*[O que é o Journey Optimizer?](https://experienceleague.adobe.com/docs/journey-optimizer/using/get-started/get-started.html)
-*[Etapas principais para começar com o Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/get-started/quick-start.html)
+*[O que é o Journey Optimizer?](https://experienceleague.adobe.com/docs/journey-optimizer/using/get-started/get-started.html?lang=pt-BR)
+*[Etapas principais para começar a usar o Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/get-started/quick-start.html?lang=pt-BR)

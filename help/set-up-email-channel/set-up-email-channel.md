@@ -1,6 +1,6 @@
 ---
 title: Configurar canal de email
-description: Saiba como criar predefinições de mensagens, usá-las e delegar um subdomínio e criar um pool de IP.
+description: Saiba como criar predefinições de mensagens, usá-las, delegar um subdomínio e criar um pool de IP.
 kt: 7854
 thumbnail: 334343.jpg
 feature: Jornadas, Fontes de dados
@@ -9,15 +9,15 @@ team: PM
 role: Administrator, Developer
 level: Beginner
 source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Configurar canal de email
 
-Saiba como criar predefinições de mensagens, usá-las e delegar um subdomínio e criar um pool de IP.
+Saiba como criar predefinições de mensagens, usá-las, delegar um subdomínio e criar um pool de IP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12)

@@ -2,10 +2,10 @@
 title: Vídeos e tutoriais do Journey Optimizer
 description: Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
+source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 77%
+source-wordcount: '265'
+ht-degree: 57%
 
 ---
 
@@ -19,6 +19,18 @@ O Journey Optimizer ajuda as empresas a fornecer experiências conectadas, conte
 Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Journey Optimizer.
 
 ## Novidades
+
+* **[Configurar dados - Visão geral](/help/set-up-data/set-up-data-overview.md)**
+
+   *Saiba mais sobre os dados de perfil do cliente em tempo real e quais etapas são necessárias para configurar os dados de perfil do cliente para o Journey Optimizer.*
+
+* **[Mapear identidades](/help/set-up-data/map-identities.md)**
+
+   *Saiba como e quando rotular um campo de esquema como uma identidade, como criar um namespace, quando tornar uma identidade primária e como assimilar e verificar dados de identidade.*
+
+* **[Configurar fontes de dados](/help/set-up-data/configure-data-sources.md)**
+
+   *Saiba mais sobre conectores de origem e como configurá-los no Journey Optimizer*
 
 * **[Introdução à criação de uma jornada](/help/create-journeys/introduction-to-building-a-journey.md)**
 

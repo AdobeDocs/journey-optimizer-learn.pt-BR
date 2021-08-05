@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de aprendizado do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são os tutorials de aprendizado do Journey Optimizer.
-source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
+source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 87%
+source-wordcount: '161'
+ht-degree: 88%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 87%
    + [Criar e gerenciar sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
    + Configuração de dados {#data-configuration}
       + [Visão geral](/help/set-up-data/set-up-data-overview.md)
-      + [[Criar um esquema](/help/set-up-data/create-schema.md)
+      + [Criar um esquema](/help/set-up-data/create-schema.md)
       + [Mapear identidades](/help/set-up-data/map-identities.md)
       + [Criar conjuntos de dados e assimilar dados](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [Configurar fontes](/help/set-up-data/configure-sources.md)
+      + [Configurar fontes de dados](/help/set-up-data/configure-data-sources.md)
    + Configuração de canal {#channel-configuration}
       + [Configurar canal de email](/help/set-up-email-channel/set-up-email-channel.md)
    + Configuração do gerenciamento de decisões {#decision-management-configuration}

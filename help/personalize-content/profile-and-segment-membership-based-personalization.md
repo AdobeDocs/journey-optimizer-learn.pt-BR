@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+source-git-commit: a68e7eae1c38d7484e449de5cccb78ea8b892308
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -24,7 +24,7 @@ Saiba como adicionar uma personalização baseada em perfil a uma mensagem e com
 
 ## Recursos adicionais
 
-* [Introdução à personalização no Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.htmllang=pt-BR)
-* [Caso de uso: adicionar personalização em uma notificação por push](https://experienceleague.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html?lang=pt-BR)
+* [Introdução à personalização no Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html?lang=pt-BR)
+* [Caso de uso: adicionar personalização em uma notificação por push](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-use-cases/personalization-use-case.html)
 * [Entender a sintaxe de personalização](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html?lang=pt-BR)
 * [Usar funções auxiliares](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html?lang=pt-BR)

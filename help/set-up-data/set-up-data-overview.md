@@ -1,6 +1,6 @@
 ---
-title: Configurar dados - Visão geral
-description: Saiba mais sobre os dados de perfil do cliente em tempo real e quais etapas são necessárias para configurar os dados de perfil do cliente para o Journey Optimizer.
+title: Configurar dados — Visão geral
+description: Saiba mais sobre os dados de perfil do cliente em tempo real e as etapas necessárias para configurá-los no Journey Optimizer.
 kt: 7855
 thumbnail: 335878.jpg
 feature: Esquemas
@@ -11,14 +11,14 @@ level: Beginner
 source-git-commit: 203f391d8216ff55b1b8b455d3789f5fd9060126
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
 
-# Configurar dados - Visão geral
+# Configurar dados — Visão geral
 
-Saiba mais sobre os dados de perfil do cliente em tempo real e quais etapas são necessárias para configurar os dados de perfil do cliente para o Journey Optimizer.
+Saiba mais sobre os dados de perfil do cliente em tempo real e as etapas necessárias para configurá-los no Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335878?quality=12)
 

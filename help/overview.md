@@ -2,7 +2,7 @@
 title: Vídeos e tutoriais do Journey Optimizer
 description: Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
+source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 91%
@@ -28,7 +28,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
    *Saiba mais sobre conectores de origem e como configurá-los no Journey Optimizer*
 
-* **[Caso de uso — mensagem de interrupção](/help/create-journeys/use-case-read-burst-message.md)**
+* **[Caso de uso — mensagem de interrupção](/help/create-journeys/use-case-burst-message.md)**
 
    *Entenda os casos de uso aplicáveis para mensagens de interrupção. Saiba como configurar uma jornada para mensagens de interrupção e quais práticas recomendadas aplicar.*
 

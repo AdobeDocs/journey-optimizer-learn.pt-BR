@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de aprendizado do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são os tutorials de aprendizado do Journey Optimizer.
-source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
+source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 98%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 0%
    + [Criar um esquema](/help/set-up-data/create-schema.md)
    + [Mapear identidades](/help/set-up-data/map-identities.md)
    + [Criar conjuntos de dados e assimilar dados](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [Configurar fontes de dados](/help/set-up-data/configure-data-sources.md)
+   + [Configurar fontes de dados](/help/set-up-data/configure-source-connectors.md)
 + Configuração de canal {#channel-configuration}
    + [Configurar canal de email](/help/set-up-email-channel/set-up-email-channel.md)
 + Configuração do gerenciamento de decisões {#decision-management-configuration}
 + Configuração de jornadas{#journey-configuration}
-   + [Configurar fontes de dados](/help/set-up-journeys/configure-data-sources.md)
+   + [Configurar fontes de dados](/help/set-up-journeys/configure-source-connectors.md)
    + [Criar eventos](/help/set-up-journeys/create-events.md)
    + [Criar ações](/help/set-up-journeys/create-actions.md)
 + [Criar segmentos](/help/set-up-resources/create-segments.md)

@@ -3,14 +3,14 @@ title: Configurar dados — Visão geral
 description: Saiba mais sobre os dados de perfil do cliente em tempo real e as etapas necessárias para configurá-los no Journey Optimizer.
 kt: 7855
 thumbnail: 335878.jpg
-feature: Esquemas
+feature: Schemas
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: 203f391d8216ff55b1b8b455d3789f5fd9060126
+source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
@@ -27,4 +27,4 @@ Saiba mais sobre os dados de perfil do cliente em tempo real e as etapas necess�
 * [Criar um esquema](/help/set-up-data/create-schema.md)
 * [Mapear identidades](/help/set-up-data/map-identities.md)
 * [Criar conjuntos de dados e assimilar dados](/help/set-up-data/create-datasets-and-ingest-data.md)
-* [Configurar fontes](/help/set-up-data/configure-data-sources.md)
+* [Configurar fontes](/help/set-up-data/configure-source-connectors.md)

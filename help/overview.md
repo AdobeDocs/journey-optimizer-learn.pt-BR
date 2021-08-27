@@ -2,7 +2,7 @@
 title: Vídeos e tutoriais do Journey Optimizer
 description: Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
+source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 91%
@@ -24,7 +24,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
    *Saiba como configurar um evento, especificar o endpoint de transmissão e a carga útil de um evento.*
 
-* **[Configurar fontes de dados](/help/set-up-data/configure-source-connectors.md)**
+* **[Configurar fontes de dados](/help/set-up-journeys/configure-data-sources.md)**
 
    *Saiba mais sobre conectores de origem e como configurá-los no Journey Optimizer*
 

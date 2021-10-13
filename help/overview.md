@@ -3,9 +3,9 @@ title: Vídeos e tutoriais do Journey Optimizer
 description: Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 79%
 
 ![](./assets/ajo-banner.png)
 
-O Journey Optimizer ajuda as empresas a fornecer experiências conectadas, contextuais e personalizadas aos clientes. A jornada do cliente é todo o processo de interações do cliente com a marca, desde os primeiros momentos de contato até que o cliente saia do site.
+O Journey Optimizer ajuda as empresas a fornecer experiências conectadas, contextuais e personalizadas aos clientes. A jornada do cliente envolve todo o processo de interação do cliente com a marca, desde os primeiros momentos de contato até o cliente sair do site.
 
-Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Journey Optimizer.
+Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e capacidades do Adobe Journey Optimizer.
 
 ## Novidades
 
 * **[Criar eventos](/help/set-up-journeys/create-events.md)**
 
-   *Saiba como configurar um evento, especificar o endpoint de transmissão e a carga útil de um evento.*
+   *Saiba como configurar um evento, especificar o ponto de encerramento da transmissão e a carga útil de um evento.*
 
 * **[Configurar fontes de dados](/help/set-up-journeys/configure-data-sources.md)**
 

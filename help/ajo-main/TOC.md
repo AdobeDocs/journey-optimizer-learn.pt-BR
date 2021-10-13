@@ -5,7 +5,7 @@ user-guide-description: Estes são os tutorials de aprendizado do Journey Optimi
 source-git-commit: 73c14dba1d95e0bdd369ee5530fc0c3f763be385
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 97%
 + Configuração de canal {#channel-configuration}
    + [Configurar canal de email](/help/set-up-email-channel/set-up-email-channel.md)
 + Configuração do gerenciamento de decisões {#decision-management-configuration}
-   + [Introdução ao [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
-   + [Demonstração do [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
+   + [Introdução ao  [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
+   + [Demonstração do  [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
    + [Criar inserções](/help/set-up-decision-management/create-placements.md)
    + [Criar regras](/help/set-up-decision-management/create-rules.md)
    + [Criar tags](/help/set-up-decision-management/create-tags.md)
@@ -40,7 +40,7 @@ ht-degree: 97%
    + [Criar ofertas substitutas](/help/set-up-decision-management/create-fallback-offers.md)
    + [Criar coleções](/help/set-up-decision-management/create-collections.md)
    + [Criar atividades de oferta](/help/set-up-decision-management/create-offer-activities.md)
-   + [Fornecer ofertas com a API de decisões](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
+   + [Fornecer ofertas com a API de Decisões](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
 + Configuração de jornadas{#journey-configuration}
    + [Configurar fontes de dados](/help/set-up-journeys/configure-data-sources.md)
    + [Criar eventos](/help/set-up-journeys/create-events.md)

@@ -2,10 +2,10 @@
 title: Vídeos e tutoriais do Journey Optimizer
 description: Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
+source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '201'
+ht-degree: 92%
 
 ---
 
@@ -20,6 +20,10 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 ## Novidades
 
+* **[Delegar subdomínios CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+
+   *Saiba como criar um subdomínio usando CNAME para apontar para registros específicos do Adobe.*
+
 * **[Criar eventos](/help/set-up-journeys/create-events.md)**
 
    *Saiba como configurar um evento, especificar o ponto de encerramento da transmissão e a carga útil de um evento.*
@@ -28,9 +32,6 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
    *Saiba mais sobre conectores de origem e como configurá-los no Journey Optimizer*
 
-* **[Caso de uso — mensagem de interrupção](/help/create-journeys/use-case-burst-message.md)**
-
-   *Entenda os casos de uso aplicáveis para mensagens de interrupção. Saiba como configurar uma jornada para mensagens de interrupção e quais práticas recomendadas aplicar.*
 
 ## Escolhas da equipe
 

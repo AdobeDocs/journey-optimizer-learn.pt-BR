@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de aprendizado do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são os tutorials de aprendizado do Journey Optimizer.
-source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 98%
+ht-degree: 88%
 
 ---
 
@@ -59,10 +59,10 @@ ht-degree: 98%
 + Criar jornadas {#create-journeys}
    + [Introdução à criação de uma jornada](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso de uso - jornada transacional](/help/create-journeys/use-case-transactional-journey.md)
-   + [Caso de uso - ler segmento](/help/create-journeys/use-case-read-segment.md)
-   + [Caso de uso — evento comercial](/help/create-journeys/use-case-business-event.md)
-   + [Caso de uso - qualificação de segmento](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Caso de uso — mensagem de interrupção](/help/create-journeys/use-case-burst-message.md)
+   + [Caso de uso - Ler segmento](/help/create-journeys/use-case-read-segment.md)
+   + [Caso de uso - Evento comercial](/help/create-journeys/use-case-business-event.md)
+   + [Caso de uso - Qualificação do segmento](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [Caso de uso - Mensagem de interrupção](/help/create-journeys/use-case-burst-message.md)
    + [Criar um perfil de teste](/help/create-journeys/test-a-journey.md)
    + [Publicar uma jornada](/help/create-journeys/publish-a-journey.md)
 + Relatar e monitorar {#report-and-monitor}

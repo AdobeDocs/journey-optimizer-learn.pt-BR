@@ -3,15 +3,15 @@ title: Usar informações de evento contextual para personalização
 description: Saiba como usar informações de evento contextual de uma jornada para personalizar uma mensagem.
 kt: 8032
 thumbnail: 334165.jpg
-feature: Personalization
+feature: Personalization, Events
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
 exl-id: 45cb2057-fc8d-4c66-9da8-0ce7ab3a4033
-source-git-commit: 42d8c164d11e20527cb499645b2303870f503f2e
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '40'
 ht-degree: 100%
 
 ---
@@ -21,8 +21,3 @@ ht-degree: 100%
 Saiba como usar informações de evento contextual de uma jornada para personalizar uma mensagem.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334165?quality=12)
-
-## Recursos adicionais
-
-* [Introdução à personalização no Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html?lang=pt-BR)
-* [Saiba como criar um evento em uma jornada](https://experienceleague.adobe.com/docs/journey-optimizer/using/get-started/configure-journeys/events-journeys/unitary-events/about-creating.html?lang=pt-BR)

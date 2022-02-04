@@ -3,9 +3,9 @@ user-guide-title: Tutorials de aprendizado do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são os tutorials de aprendizado do Journey Optimizer.
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 88%
 + Configuração de canal {#channel-configuration}
    + [Configurar canal de email](/help/set-up-email-channel/set-up-email-channel.md)
    + [Delegar subdomínios CName](/help/set-up-email-channel/delegate-cname-subdomains.md)
-+ Configuração do gerenciamento de decisões {#decision-management-configuration}
++ Configuração da gestão de decisões {#decision-management-configuration}
    + [Introdução ao  [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
    + [Demonstração do  [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
    + [Criar inserções](/help/set-up-decision-management/create-placements.md)
@@ -58,11 +58,11 @@ ht-degree: 88%
    + [Usar funções auxiliares para personalização](/help/personalize-content/use-helper-functions-for-personalization.md)
 + Criar jornadas {#create-journeys}
    + [Introdução à criação de uma jornada](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [Caso de uso - jornada transacional](/help/create-journeys/use-case-transactional-journey.md)
+   + [Caso de uso - Jornada transacional](/help/create-journeys/use-case-transactional-journey.md)
    + [Caso de uso - Ler segmento](/help/create-journeys/use-case-read-segment.md)
-   + [Caso de uso - Evento comercial](/help/create-journeys/use-case-business-event.md)
-   + [Caso de uso - Qualificação do segmento](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Caso de uso - Mensagem de interrupção](/help/create-journeys/use-case-burst-message.md)
+   + [Caso de uso — Evento comercial](/help/create-journeys/use-case-business-event.md)
+   + [Caso de uso - Qualificação de segmento](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [Caso de uso — Mensagem de interrupção](/help/create-journeys/use-case-burst-message.md)
    + [Criar um perfil de teste](/help/create-journeys/test-a-journey.md)
    + [Publicar uma jornada](/help/create-journeys/publish-a-journey.md)
 + Relatar e monitorar {#report-and-monitor}

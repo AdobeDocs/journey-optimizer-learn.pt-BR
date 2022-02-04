@@ -6,19 +6,19 @@ kt: 6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # Criar inserções
 
-Saiba como criar [disposições](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=pt-BR) em [!DNL Offer Decisioning]. Inserções são um dos componentes básicos das ofertas. Uma inserção é a combinação de tipo de conteúdo e canal, como por exemplo, uma imagem em um email ou o código HTML em um site.
+Saiba como criar [inserções](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=pt-BR) no [!DNL Offer Decisioning]. Inserções são um dos componentes básicos das ofertas. Uma inserção é a combinação de tipo de conteúdo e canal, como por exemplo, uma imagem em um email ou o código HTML em um site.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
 
-Para saber mais sobre como criar disposições com uma API, consulte o [guia do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html?lang=pt-BR)
+Para saber mais sobre como criar inserções com uma API, consulte o [guia do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html?lang=pt-BR)
 
 >[!INFO]
 >

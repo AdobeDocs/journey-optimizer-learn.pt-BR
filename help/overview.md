@@ -4,9 +4,9 @@ description: Este guia do usuário contém vídeos e tutoriais sobre os vários 
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '201'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 * **[Delegar subdomínios CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
-   *Saiba como criar um subdomínio usando CNAME para apontar para registros específicos do Adobe.*
+   *Saiba como criar um subdomínio usando CNAME para apontar para registros específicos da Adobe.*
 
 * **[Criar eventos](/help/set-up-journeys/create-events.md)**
 

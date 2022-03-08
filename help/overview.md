@@ -3,10 +3,10 @@ title: Vídeos e tutoriais do Journey Optimizer
 description: Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
+source-git-commit: 01781ab4fe33afb8e8c387b53c164428d7bcdff6
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '215'
+ht-degree: 86%
 
 ---
 
@@ -21,6 +21,10 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 ## Novidades
 
+* **[Usar e gerenciar expressões salvas na biblioteca de personalização](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+
+   *Saiba como usar os itens da biblioteca de personalização salvos em uma mensagem e como criar e gerenciar itens da biblioteca de personalização.*
+
 * **[Delegar subdomínios CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *Saiba como criar um subdomínio usando CNAME para apontar para registros específicos da Adobe.*
@@ -28,10 +32,6 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 * **[Criar eventos](/help/set-up-journeys/create-events.md)**
 
    *Saiba como configurar um evento, especificar o ponto de encerramento da transmissão e a carga útil de um evento.*
-
-* **[Configurar fontes de dados](/help/set-up-journeys/configure-data-sources.md)**
-
-   *Saiba mais sobre conectores de origem e como configurá-los no Journey Optimizer*
 
 
 ## Escolhas da equipe
@@ -65,7 +65,3 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
     <p>
   </td>
 </table>
-
-
-
-

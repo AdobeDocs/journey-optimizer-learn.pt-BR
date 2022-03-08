@@ -3,9 +3,9 @@ title: Vídeos e tutoriais do Journey Optimizer
 description: Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 01781ab4fe33afb8e8c387b53c164428d7bcdff6
+source-git-commit: 9af3eb252d38eb94cc81d4fd8723af8d44fd90da
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '214'
 ht-degree: 86%
 
 ---
@@ -23,7 +23,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 * **[Usar e gerenciar expressões salvas na biblioteca de personalização](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
-   *Saiba como usar os itens da biblioteca de personalização salvos em uma mensagem e como criar e gerenciar itens da biblioteca de personalização.*
+   *Saiba como usar itens de personalização salvos em uma mensagem e como criar e gerenciar itens da biblioteca de personalização.*
 
 * **[Delegar subdomínios CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 

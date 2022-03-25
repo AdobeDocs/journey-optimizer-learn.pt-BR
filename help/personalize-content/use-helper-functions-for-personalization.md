@@ -10,9 +10,9 @@ role: User
 level: Beginner
 exl-id: 20dfc3a7-aa09-4ca2-a02e-3134fd680e2b
 source-git-commit: c6692915380458452cd8956a932d83427bcb7bf1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Saiba como transformar valores de personalização usando funções de ajuda de 
 
 >[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12)
 
-Consulte o guia do produto para saber mais sobre [funções auxiliares](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/build-expressions/functions/helpers.html?lang=en).
+Consulte o guia do produto para saber mais sobre [funções auxiliares](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/build-expressions/functions/helpers.html?lang=pt-BR).

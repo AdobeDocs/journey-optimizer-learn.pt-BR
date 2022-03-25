@@ -5,8 +5,8 @@ recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 81%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 * **[Usar e gerenciar expressões salvas na biblioteca de personalização](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
-   *Saiba como usar os itens da biblioteca de personalização salvos em uma mensagem e como criar e gerenciar itens da biblioteca de personalização.*
+   *Saiba como usar os itens salvos na biblioteca de personalização em uma mensagem e como criar e gerenciar itens na biblioteca de personalização.*
 
 * **[Delegar subdomínios CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 

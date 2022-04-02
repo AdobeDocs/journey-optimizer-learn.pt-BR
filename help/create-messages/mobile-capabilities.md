@@ -1,14 +1,14 @@
 ---
 title: Recursos do Mobile para profissionais de marketing
-description: Entenda os recursos móveis do Adobe Journey Optimizer. (Entre 60 e 160 caracteres)
+description: Entenda quais recursos móveis o Adobe Journey Optimizer oferece aos profissionais de marketing.
 feature: SMS, In App, Push
 role: Leader, User
 level: Beginner
 kt: 10169
 thumbnail: 342102.jpeg
-source-git-commit: 84e9f93b3bc22a6ebbe2993df28a1efa9ff88b84
+source-git-commit: 479a87ca42fb7b6d68334ae1de0dd8ddd378ecbb
 workflow-type: tm+mt
-source-wordcount: '23'
+source-wordcount: '26'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Recursos do Mobile para profissionais de marketing
 
-Entenda os recursos móveis do Adobe Journey Optimizer.
+Entenda quais recursos móveis o Adobe Journey Optimizer oferece aos profissionais de marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342102?quality=12&learn=on)

@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de aprendizado do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são os tutorials de aprendizado do Journey Optimizer.
-source-git-commit: 479a87ca42fb7b6d68334ae1de0dd8ddd378ecbb
+source-git-commit: ca3c1cd1741e2e42a6067013f670e10eb7ae1a2e
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 92%
+source-wordcount: '236'
+ht-degree: 88%
 
 ---
 
@@ -46,7 +46,10 @@ ht-degree: 92%
    + [Configurar fontes de dados](/help/set-up-journeys/configure-data-sources.md)
    + [Criar eventos](/help/set-up-journeys/create-events.md)
    + [Criar ações](/help/set-up-journeys/create-actions.md)
-+ [Criar segmentos](/help/set-up-resources/create-segments.md)
++ Perfis, segmentos e assinaturas do cliente {profiles-segments-subscriptions}
+   + [Perfil e segmentação unificados - visão geral](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
+   + [Criar segmentos](/help/set-up-resources/create-segments.md)
+   + [Subscrições e páginas de aterrissagem](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Criar mensagens {#create-messages}
    + [Visão geral do designer de massagens](/help/create-messages/message-designer-overview.md)
@@ -61,7 +64,6 @@ ht-degree: 92%
    + [Usar informações de evento contextual para personalização](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Usar funções auxiliares para personalização](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Usar e gerenciar expressões salvas na biblioteca de personalização](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-+ [Subscrições e páginas de aterrissagem](/help/subscriptions-and-landing-pages.md)
 + Criar jornadas {#create-journeys}
    + [Visão geral sobre a tela de jornada](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introdução à criação de uma jornada](/help/create-journeys/introduction-to-building-a-journey.md)

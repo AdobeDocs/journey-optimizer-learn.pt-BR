@@ -4,9 +4,9 @@ description: Este guia do usuário contém vídeos e tutoriais sobre os vários 
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '210'
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 ## Novidades
 
-* **[Subscrições e páginas de aterrissagem](/help/subscriptions-and-landing-pages.md)**
+* **[Assinaturas e páginas de aterrissagem](/help/subscriptions-and-landing-pages.md)**
 
-   *Saiba como configurar assinaturas e criar landing pages.*
+   *Saiba como configurar assinaturas e criar páginas de aterrissagem.*
 
 * **[Usar e gerenciar expressões salvas na biblioteca de personalização](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 

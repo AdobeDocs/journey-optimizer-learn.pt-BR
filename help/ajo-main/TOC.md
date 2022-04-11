@@ -4,8 +4,8 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são os tutorials de aprendizado do Journey Optimizer.
 source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -52,12 +52,12 @@ ht-degree: 86%
    + [Subscrições e páginas de aterrissagem](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Criar mensagens {#create-messages}
-   + [Visão geral do designer de massagens](/help/create-messages/message-designer-overview.md)
+   + [Visão geral do designer de mensagens](/help/create-messages/message-designer-overview.md)
    + [Criar conteúdo de email com o editor de mensagens](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importar e criar conteúdo de email HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Pré-visualizar, testar e publicar](/help/create-messages/preview-proof-and-publish.md)
-   + [Recursos do Mobile para profissionais de marketing](/help/create-messages/mobile-capabilities.md)
-   + [Recursos do Mobile para designers](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [Recursos de publicações de conteúdo para dispositivos móveis para profissionais de marketing](/help/create-messages/mobile-capabilities.md)
+   + [Recursos de publicações de conteúdo para dispositivos móveis para designers](/help/create-messages/mobile-capabilities-for-developers.md)
 + Personalizar conteúdo {#personalize-content}
    + [Personalização baseada em associação de perfil e segmento](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Adicionar ofertas como personalização](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -65,7 +65,7 @@ ht-degree: 86%
    + [Usar funções auxiliares para personalização](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Usar e gerenciar expressões salvas na biblioteca de personalização](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + Criar jornadas {#create-journeys}
-   + [Visão geral sobre a tela de jornada](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [Visão geral sobre a Tela da Jornada](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introdução à criação de uma jornada](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso de uso - Jornada transacional](/help/create-journeys/use-case-transactional-journey.md)
    + [Caso de uso - Ler segmento](/help/create-journeys/use-case-read-segment.md)

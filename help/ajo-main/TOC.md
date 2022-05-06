@@ -3,9 +3,9 @@ user-guide-title: Tutorials de aprendizado do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são os tutorials de aprendizado do Journey Optimizer.
 source-git-commit: c9b0cea707ec96f4e89c0e0e38b1308f938c15fa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '239'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 95%
 + Configuração de canal {#channel-configuration}
    + [Configurar canal de email](/help/set-up-email-channel/set-up-email-channel.md)
    + [Delegar subdomínios CName](/help/set-up-email-channel/delegate-cname-subdomains.md)
-+ Gerenciamento de decisão {#decision-management}
++ Gestão de decisões {#decision-management}
    + [Introdução à gestão de decisões](/help/decision-management/introduction-to-decision-management.md)
-   + [Demonstração dos recursos de gerenciamento de decisões](/help/decision-management/demo-of-decision-management-capabilities.md)
+   + [Demonstração dos recursos de gestão de decisões](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [Criar inserções](/help/decision-management/create-placements.md)
    + [Criar regras](/help/decision-management/create-rules.md)
    + [Criar tags](/help/decision-management/create-tags.md)

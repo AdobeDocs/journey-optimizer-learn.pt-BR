@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Adobe Journey Optimizer
-description: Entenda o que é o Adobe Journey Optimizer, quais desafios comerciais esse aplicativo resolve e quais são os principais casos de uso.
+description: Entenda o que é o Adobe Journey Optimizer e como ele ajudou as marcas em todos os setores a aumentar o ROI e a superar desafios significativos de marketing.
 kt: 7517
 thumbnail: 333745.jpg
 feature: Overview
@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
-source-git-commit: cdf98075ebe732cadfbfc36b3c65683c64b15a02
-workflow-type: ht
-source-wordcount: '48'
-ht-degree: 100%
+source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
+workflow-type: tm+mt
+source-wordcount: '50'
+ht-degree: 58%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: Vídeos e tutoriais do Journey Optimizer
-description: Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Journey Optimizer.
+description: Temos uma variedade de tutoriais em vídeo para mostrar como aproveitar os benefícios do Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
-workflow-type: ht
-source-wordcount: '210'
-ht-degree: 100%
+source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
+workflow-type: tm+mt
+source-wordcount: '213'
+ht-degree: 91%
 
 ---
 

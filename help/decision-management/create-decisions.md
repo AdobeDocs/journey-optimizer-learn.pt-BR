@@ -5,10 +5,10 @@ feature: Offers
 kt: 6791
 thumbnail: 329606.jpg
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
-source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
-workflow-type: ht
-source-wordcount: '131'
-ht-degree: 100%
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,4 +22,4 @@ Para saber como criar decisões com uma API, consulte o [manual do produto](http
 
 >[!INFO]
 >
-> Este vídeo faz parte do curso de [Introdução ao Offer Decisioning para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponível gratuitamente na Experience League.
+> Este vídeo é parte de um curso. [Introdução ao gerenciamento de decisões para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponível gratuitamente no Experience League!

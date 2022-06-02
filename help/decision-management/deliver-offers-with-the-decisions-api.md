@@ -1,15 +1,15 @@
 ---
 title: Fornecer ofertas com a API do hub de decisões
-description: 'Saiba como fornecer ofertas do Offer Decisioning com a API de Decisões. '
+description: 'Saiba como fornecer ofertas de Gerenciamento de decisões com a API de decisões. '
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 9f8c88c0ccbefc5089d41b7389dac54371aaa521
-workflow-type: ht
-source-wordcount: '155'
-ht-degree: 100%
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ Saiba como fornecer ofertas com a [API do hub de decisões](https://experiencele
 
 >[!INFO]
 >
-> Este vídeo faz parte do curso de [Introdução ao Offer Decisioning para Profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponível gratuitamente no Experience League.
+> Este vídeo é parte de um curso. [Introdução ao gerenciamento de decisões para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponível gratuitamente no Experience League!
 
 ## Recursos adicionais
 

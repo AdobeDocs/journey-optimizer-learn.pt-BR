@@ -5,10 +5,10 @@ feature: Offers
 kt: 6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
-source-git-commit: a2e8cc18c29df09ccd6ae6d0a54c28a04fe8d7bb
-workflow-type: ht
-source-wordcount: '91'
-ht-degree: 100%
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,4 +20,4 @@ Saiba como as marcas podem usar os recursos de gestão de decisões para definir
 
 >[!INFO]
 >
-> Este vídeo faz parte do curso de [Introdução ao Offer Decisioning para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponível gratuitamente na Experience League.
+> Este vídeo é parte de um curso. [Introdução ao gerenciamento de decisões para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponível gratuitamente no Experience League!

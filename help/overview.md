@@ -3,10 +3,10 @@ title: Vídeos e tutoriais do Journey Optimizer
 description: Temos uma variedade de tutoriais em vídeo para mostrar como aproveitar os benefícios do Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 65d95deead594b27008efa2cf1751b6371f204e6
+source-git-commit: e5c8967245409984541e2e0ce9b489fd8d00f14e
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 74%
+source-wordcount: '406'
+ht-degree: 70%
 
 ---
 
@@ -23,6 +23,10 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 ### Tutoriais
 
+* **[Configurar regras de frequência de mensagem](help/administration/configure-frequency-rules.md)**
+
+   *Saiba como criar, ativar, testar e gerar relatórios sobre regras de frequência. Entenda como determinar quais regras de frequência serão herdadas para uma mensagem*
+
 * **[Assinaturas e páginas de aterrissagem](/help/subscriptions-and-landing-pages.md)**
 
    *Saiba como configurar assinaturas e criar páginas de aterrissagem.*
@@ -31,16 +35,11 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
    *Saiba como usar os itens salvos na biblioteca de personalização em uma mensagem e como criar e gerenciar itens na biblioteca de personalização.*
 
-* **[Delegar subdomínios CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
-
-   *Saiba como criar um subdomínio usando CNAME para apontar para registros específicos da Adobe.*
-
 ### Eventos ao vivo da Experience League
 
-* **[Notificações por push com o Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
+* **[Notificações por push com o Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=pt-BR)**
 
    *Neste episódio do Experience League Live, falamos sobre os casos de uso comuns para notificação por push com o Adobe Journey Optimizer e aprofundamos nos detalhes técnicos sobre como configurar um aplicativo para Push fornecido pela Adobe Experience Platform.*
-
 
 ## Escolhas da equipe
 

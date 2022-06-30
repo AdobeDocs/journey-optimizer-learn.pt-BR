@@ -3,10 +3,10 @@ title: Vídeos e tutoriais do Journey Optimizer
 description: Temos uma variedade de tutoriais em vídeo para mostrar como aproveitar os benefícios do Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 437188eb8980fe5d2dfc96926e49f929752f6b11
+source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 62%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,9 +27,9 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
    *Saiba como configurar, criar e incluir mensagens SMS nas jornadas do cliente.*
 
-* **[Suporte a palavra-chave de entrada para SMS](/help/create-messages/inbound-keyword-support-for-SMS.md)**
+* **[Suporte a palavra-chave de entrada para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
-   *Entenda como funciona o suporte nativo a palavras-chave de entrada (start, stop, unstop) para SMS.*
+   *Entenda como o suporte nativo a palavras-chave de entrada (iniciar, parar, parar) para SMS funciona.*
 
 * **[Configurar regras de frequência de mensagem](/help/administration/configure-frequency-rules.md)**
 

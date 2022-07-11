@@ -3,16 +3,16 @@ user-guide-title: Tutorials de aprendizado do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são os tutorials de aprendizado do Journey Optimizer.
 source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '256'
+ht-degree: 100%
 
 ---
 
 
 # Tutorials de aprendizado do Journey Optimizer {#tutorials}
 
-+ [Journey Optimizer Tutorials](/help/overview.md)
++ [Tutoriais do Journey Optimizer](/help/overview.md)
 + Introdução ao Journey Optimizer {#introduction-to-journey-optimizer}
    + [Introdução ao Journey Optimizer](/help/introduction/introduction.md)
    + [Visão geral do Journey Optimizer Parte 1](/help/introduction/journey-optimizer-overview-part-1.md)
@@ -60,9 +60,9 @@ ht-degree: 0%
    + [Recursos de publicações de conteúdo para dispositivos móveis para profissionais de marketing](/help/create-messages/mobile-capabilities.md)
    + [Recursos de publicações de conteúdo para dispositivos móveis para designers](/help/create-messages/mobile-capabilities-for-developers.md)
    + [Configurar, criar e entregar mensagens SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-   + [Suporte a palavra-chave de entrada para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
+   + [Compatibilidade com palavras-chave de entrada para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
 + Personalizar conteúdo {#personalize-content}
-   + [Personalização baseada em associação de perfil e segmento](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+   + [Personalização baseada em perfil e segmento de afiliação](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Adicionar ofertas como personalização](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Usar informações de evento contextual para personalização](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Usar funções auxiliares para personalização](/help/personalize-content/use-helper-functions-for-personalization.md)

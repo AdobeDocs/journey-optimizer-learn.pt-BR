@@ -4,9 +4,9 @@ description: Temos uma variedade de tutoriais em vídeo para mostrar como aprove
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '400'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -27,19 +27,19 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
    *Saiba como configurar, criar e incluir mensagens SMS nas jornadas do cliente.*
 
-* **[Suporte a palavra-chave de entrada para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
+* **[Compatibilidade com palavras-chave de entrada para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
-   *Entenda como o suporte nativo a palavras-chave de entrada (iniciar, parar, parar) para SMS funciona.*
+   *Entenda como a compatibilidade nativa com palavras-chave de entrada (iniciar, parar, reiniciar) para SMS funciona.*
 
 * **[Configurar regras de frequência de mensagem](/help/administration/configure-frequency-rules.md)**
 
-   *Saiba como criar, ativar, testar e relatar regras de frequência. Entenda como determinar quais regras de frequência serão herdadas para uma mensagem.*
+   *Saiba como criar, ativar, testar e relatar regras de frequência. Entenda como determinar quais regras de frequência serão herdadas por uma mensagem.*
 
 ### Eventos ao vivo da Experience League
 
 * **[Notificações por push com o Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=pt-BR)**
 
-   *Neste episódio do Experience League Live, falamos sobre os casos de uso comuns para notificação por push com o Adobe Journey Optimizer e aprofundamos nos detalhes técnicos sobre como configurar um aplicativo para Push fornecido pela Adobe Experience Platform.*
+   *Nesse episódio ao vivo da Experience League, falamos sobre os casos de uso comuns para notificações por push com o Adobe Journey Optimizer e nos aprofundamos nos detalhes técnicos sobre como configurar um aplicativo para push com a Adobe Experience Platform.*
 
 ## Escolhas da equipe
 
@@ -68,7 +68,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
     </a>
     </div>
     <p>
-    <em>Este vídeo mostra como as marcas podem usar os recursos de gerenciamento de decisões da Adobe Journey Optimizer, a qualificação de segmentos em tempo real e o gerenciamento de eventos empresariais para levar suas jornadas de consumidores a novos patamares.</em>
+    <em>Este vídeo mostra como as marcas podem usar os recursos de gestão de decisões, a qualificação de segmentos em tempo real e o gerenciamento de eventos comerciais do Adobe Journey Optimizer para elevar a jornada dos consumidores a novos patamares.</em>
     <p>
   </td>
   </td>
@@ -82,7 +82,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
     </a>
     </div>
     <p>
-    <em>O vídeo aborda os desafios comerciais que os recursos de gestão de decisões solucionam, seus principais recursos, a arquitetura básica e os principais casos de uso.
+    <em>O vídeo aborda os desafios comerciais que os recursos de gestão de decisões solucionam, as funcionalidades mais importantes, a arquitetura básica e os principais casos de uso.
 
 </em>
     <p>

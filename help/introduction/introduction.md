@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Adobe Journey Optimizer
-description: Entenda o que é o Adobe Journey Optimizer e como ele ajudou as marcas em todos os setores a aumentar o ROI e a superar desafios significativos de marketing.
+description: Entenda o que é o Adobe Journey Optimizer e como ele ajudou marcas de vários setores a aumentar o ROI e a superar grandes desafios de marketing.
 kt: 7517
 thumbnail: 333745.jpg
 feature: Overview
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 58%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

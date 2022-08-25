@@ -1,12 +1,12 @@
 ---
 title: Vídeos e tutoriais do Journey Optimizer
-description: Temos uma variedade de tutoriais em vídeo para mostrar como aproveitar os benefícios do Journey Optimizer.
+description: Temos vários tutoriais em vídeo para mostrar como aproveitar os benefícios do Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: ht
-source-wordcount: '400'
-ht-degree: 100%
+source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+workflow-type: tm+mt
+source-wordcount: '395'
+ht-degree: 83%
 
 ---
 
@@ -15,13 +15,18 @@ ht-degree: 100%
 
 ![](./assets/ajo-banner.png)
 
-O Journey Optimizer ajuda as empresas a fornecer experiências conectadas, contextuais e personalizadas aos clientes. A jornada do cliente envolve todo o processo de interação do cliente com a marca, desde os primeiros momentos de contato até o cliente sair do site.
+O Journey Optimizer ajuda as empresas a fornecer experiências conectadas, contextuais e personalizadas aos clientes. A jornada do cliente é todo o processo de interações do cliente com a marca, desde os primeiros momentos de contato até que o cliente saia do site.
 
 Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e capacidades do Adobe Journey Optimizer.
 
 ## Novidades
 
 ### Tutoriais
+
+* **[Criar uma campanha](/help/create-champaigns/create-a-campaign.md)**
+
+   *Saiba como fornecer conteúdo único a um segmento específico do usuário executando ações imediatamente ou em um agendamento especificado.*
+
 
 * **[Configurar, criar e entregar mensagens SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
@@ -30,10 +35,6 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 * **[Compatibilidade com palavras-chave de entrada para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
    *Entenda como a compatibilidade nativa com palavras-chave de entrada (iniciar, parar, reiniciar) para SMS funciona.*
-
-* **[Configurar regras de frequência de mensagem](/help/administration/configure-frequency-rules.md)**
-
-   *Saiba como criar, ativar, testar e relatar regras de frequência. Entenda como determinar quais regras de frequência serão herdadas por uma mensagem.*
 
 ### Eventos ao vivo da Experience League
 

@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de aprendizado do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são os tutorials de aprendizado do Journey Optimizer.
-source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
+source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 100%
+source-wordcount: '261'
+ht-degree: 98%
 
 ---
 
@@ -67,6 +67,8 @@ ht-degree: 100%
    + [Usar informações de evento contextual para personalização](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Usar funções auxiliares para personalização](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Usar e gerenciar expressões salvas na biblioteca de personalização](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
++ Criar campanhas {#create-campaigns}
+   + [Criar uma campanha](/help/create-champaigns/create-a-campaign.md)
 + Criar jornadas {#create-journeys}
    + [Visão geral sobre a Tela da Jornada](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introdução à criação de uma jornada](/help/create-journeys/introduction-to-building-a-journey.md)

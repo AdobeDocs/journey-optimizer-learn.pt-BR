@@ -1,12 +1,12 @@
 ---
 title: Vídeos e tutoriais do Journey Optimizer
-description: Temos vários tutoriais em vídeo para mostrar como aproveitar os benefícios do Journey Optimizer.
+description: Temos uma variedade de tutoriais em vídeo para mostrar como aproveitar os benefícios do Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '394'
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![](./assets/ajo-banner.png)
 
-O Journey Optimizer ajuda as empresas a fornecer experiências conectadas, contextuais e personalizadas aos clientes. A jornada do cliente é todo o processo de interações do cliente com a marca, desde os primeiros momentos de contato até que o cliente saia do site.
+O Journey Optimizer ajuda as empresas a fornecer experiências conectadas, contextuais e personalizadas aos clientes. A jornada do cliente envolve todo o processo de interação do cliente com a marca, desde os primeiros momentos de contato até o cliente sair do site.
 
 Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e capacidades do Adobe Journey Optimizer.
 
@@ -25,7 +25,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 * **[Criar uma campanha](/help/create-champaigns/create-a-campaign.md)**
 
-   *Saiba como fornecer conteúdo único a um público-alvo específico executando ações imediatamente ou em um agendamento especificado.*
+   *Saiba como fornecer conteúdo único a um público-alvo específico executando ações imediatamente ou em um cronograma especificado.*
 
 
 * **[Configurar, criar e entregar mensagens SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**

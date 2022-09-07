@@ -5,7 +5,7 @@ user-guide-description: Estes são os tutorials de aprendizado do Journey Optimi
 source-git-commit: 9390fa4f69307f326df5946000240bf397152690
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 

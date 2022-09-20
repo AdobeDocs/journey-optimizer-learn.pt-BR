@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de aprendizado do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são os tutorials de aprendizado do Journey Optimizer.
-source-git-commit: 9390fa4f69307f326df5946000240bf397152690
+source-git-commit: 4960b21053d6309cd64b5bb6a0a98e0d044d4afd
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 96%
+source-wordcount: '265'
+ht-degree: 92%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 96%
    + [Subscrições e páginas de aterrissagem](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Criar mensagens {#create-messages}
-   + [Visão geral do designer de mensagens](/help/create-messages/message-designer-overview.md)
+   + [Visão geral do Designer de mensagem](/help/create-messages/message-designer-overview.md)
    + [Criar conteúdo com o Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
    + [Importar e criar conteúdo de email HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Pré-visualizar, testar e publicar](/help/create-messages/preview-proof-and-publish.md)
@@ -81,3 +81,5 @@ ht-degree: 96%
    + [Publicar uma jornada](/help/create-journeys/publish-a-journey.md)
 + Relatar e monitorar {#report-and-monitor}
    + [Relatórios dinâmicos e globais](/help/report-and-monitor/live-and-global-reports.md)
++ Privacidade {#privacy}
+   + [Mascarar dados em mensagens](/help/privacy/mask-data-in-messages.md)

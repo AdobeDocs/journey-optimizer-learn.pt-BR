@@ -3,10 +3,10 @@ title: Journey Optimizer Tutorials - Visão geral
 description: Temos uma variedade de tutoriais em vídeo para mostrar como aproveitar os benefícios do Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+source-git-commit: 8e6534b96e8433b21e2846f7ddfeef73cf5400ea
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '396'
+ht-degree: 85%
 
 ---
 
@@ -23,18 +23,17 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 ### Tutoriais
 
+* **[Mascarar dados em mensagens](/help/privacy/mask-data-in-messages.md)**
+
+   *Entenda o que é mascaramento de dados e por que os dados de máscara. Saiba como mascarar dados em mensagens do Journey Optimizer.*
+
 * **[Criar uma campanha](/help/create-champaigns/create-a-campaign.md)**
 
    *Saiba como fornecer conteúdo único a um público-alvo específico executando ações imediatamente ou em um cronograma especificado.*
 
-
 * **[Configurar, criar e entregar mensagens SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *Saiba como configurar, criar e incluir mensagens SMS nas jornadas do cliente.*
-
-* **[Compatibilidade com palavras-chave de entrada para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
-
-   *Entenda como a compatibilidade nativa com palavras-chave de entrada (iniciar, parar, reiniciar) para SMS funciona.*
 
 ### Eventos ao vivo da Experience League
 
@@ -127,7 +126,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
     </a>
     </div>
     <p>
-    <em>Saiba mais sobre a diferença entre relatórios dinâmicos e globais, como acessar e analisar a jornada e os relatórios específicos de mensagem e como modificar os painéis do relatório.
+    <em>Saiba mais sobre a diferença entre relatórios ao vivo e globais, como acessar e analisar a jornada e relatórios específicos de mensagem e como modificar os painéis de relatório.
 
 </em>
     <p>

@@ -4,10 +4,10 @@ description: Temos uma variedade de tutoriais em vídeo para mostrar como aprove
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b04f8f49f9b1527aad4e223d7f7df782663a29be
+source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 85%
+source-wordcount: '417'
+ht-degree: 81%
 
 ---
 
@@ -23,6 +23,10 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 ## Novidades
 
 ### Tutoriais
+
+* **[Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)**
+
+   *Saiba como copiar uma jornada e seus objetos dependentes de uma sandbox para outra.*
 
 * **[Mascarar dados em mensagens](/help/privacy/mask-data-in-messages.md)**
 

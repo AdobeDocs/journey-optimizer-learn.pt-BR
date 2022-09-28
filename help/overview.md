@@ -4,10 +4,10 @@ description: Temos uma variedade de tutoriais em vídeo para mostrar como aprove
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
+source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 81%
+source-wordcount: '464'
+ht-degree: 66%
 
 ---
 
@@ -24,6 +24,10 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 ### Tutoriais
 
+* **[Usar alertas](/help/administration/alerts.md)**
+
+   *Saiba como assinar alertas predefinidos para comportamentos de jornada inesperados e ser notificado por email, no Journey Optimizer ou usando uma API.*
+
 * **[Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)**
 
    *Saiba como copiar uma jornada e seus objetos dependentes de uma sandbox para outra.*
@@ -32,15 +36,12 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
    *Entenda o que é mascaramento de dados e por que os dados de máscara. Saiba como mascarar dados em mensagens do Journey Optimizer.*
 
-* **[Criar uma campanha](/help/create-champaigns/create-a-campaign.md)**
-
-   *Saiba como fornecer conteúdo único a um público-alvo específico executando ações imediatamente ou em um cronograma especificado.*
-
-* **[Configurar, criar e entregar mensagens SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
-
-   *Saiba como configurar, criar e incluir mensagens SMS nas jornadas do cliente.*
 
 ### Eventos ao vivo da Experience League
+
+* **[Executar suas campanhas no Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=pt-BR)**
+
+   *Neste episódio do Experience League Live, originalmente realizado em 22 de setembro de 2022, veja Sandra Hausmann, anfitriã, e especialistas em produtos Bridgette Darling e Frederic Mary, enquanto discutem os casos de uso que este novo recurso aborda e demonstra como configurar e executar facilmente uma campanha no Journey Optimizer.*
 
 * **[Notificações por push com o Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=pt-BR)**
 

@@ -8,9 +8,9 @@ doc-type: feature video
 team: PM
 role: Admin
 last-update-author: 20220928
-source-git-commit: 41dba791d44a5c6be46e48fa1871b5d9c98b6c11
+source-git-commit: 89df3aa5588c106ce3acde7fb08b03f4c56899e8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Saiba como assinar alertas predefinidos para comportamentos de jornada inesperad
 >O vídeo mostra o recurso de alertas na interface do usuário do Adobe Experience Platform. O recurso pode ser acessado no Journey Optimizer a partir da navegação à esquerda ADMINISTRATION > Alerts.
 >
 >
->Ao acessar alertas do Journey Optimizer, por padrão, somente os alertas específicos para sua instância do Journey Optimizer são exibidos.
+>Ao acessar alertas do Journey Optimizer, por padrão, somente os alertas específicos às suas Jornadas ativas são exibidos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12)
+
+Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=en) para obter mais informações.

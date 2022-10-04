@@ -4,7 +4,7 @@ description: Temos uma variedade de tutoriais em vídeo para mostrar como aprove
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
 workflow-type: tm+mt
 source-wordcount: '492'
 ht-degree: 62%
@@ -19,6 +19,8 @@ ht-degree: 62%
 O Journey Optimizer ajuda as empresas a fornecer experiências conectadas, contextuais e personalizadas aos clientes. A jornada do cliente envolve todo o processo de interação do cliente com a marca, desde os primeiros momentos de contato até o cliente sair do site.
 
 Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e capacidades do Adobe Journey Optimizer.
+
+<div id="whats-new-section">
 
 ## Novidades
 
@@ -40,6 +42,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
    *Entenda o que é mascaramento de dados e por que os dados de máscara. Saiba como mascarar dados em mensagens do Journey Optimizer.*
 
+</div>
 
 ### Eventos ao vivo da Experience League
 
@@ -50,6 +53,8 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 * **[Notificações por push com o Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=pt-BR)**
 
    *Nesse episódio ao vivo da Experience League, falamos sobre os casos de uso comuns para notificações por push com o Adobe Journey Optimizer e nos aprofundamos nos detalhes técnicos sobre como configurar um aplicativo para push com a Adobe Experience Platform.*
+
+<div id="staff-picks-section">
 
 ## Escolhas da equipe
 
@@ -143,3 +148,5 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
   </td>
 </tr>
 </table>
+
+</div>

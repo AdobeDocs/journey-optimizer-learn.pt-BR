@@ -4,10 +4,10 @@ description: Temos uma variedade de tutoriais em vídeo para mostrar como aprove
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
+source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 66%
+source-wordcount: '492'
+ht-degree: 62%
 
 ---
 
@@ -23,6 +23,10 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 ## Novidades
 
 ### Tutoriais
+
+* **[Criar conteúdo dinâmico com o construtor de regras de condição](/help/personalize-content/create-dynamic-content.md)**
+
+   *Saiba como criar e salvar regras de condição e como aplicar essas regras de condição ao conteúdo em todos os canais.*
 
 * **[Usar alertas](/help/administration/alerts.md)**
 

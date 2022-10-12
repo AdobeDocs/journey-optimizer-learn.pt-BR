@@ -1,6 +1,6 @@
 ---
-title: Caso de uso — Mensagem de interrupção
-description: Entenda os casos de uso aplicáveis para mensagens de interrupção. Saiba como configurar uma jornada para mensagens de interrupção e quais práticas recomendadas aplicar.
+title: Caso de uso — Disparo de mensagem
+description: Entenda os casos de uso aplicáveis para disparo de mensagens. Saiba como configurar uma jornada para disparo de mensagens e quais práticas recomendadas aplicar.
 kt: 7703
 thumbnail: 334523.jpg
 feature: Journeys
@@ -16,8 +16,8 @@ ht-degree: 100%
 
 ---
 
-# Caso de uso — Mensagem de interrupção
+# Caso de uso — Disparo de mensagem
 
-Entenda os casos de uso aplicáveis para mensagens de interrupção. Saiba como configurar uma jornada para mensagens de interrupção e quais práticas recomendadas aplicar.
+Entenda os casos de uso aplicáveis para disparo de mensagens. Saiba como configurar uma jornada para disparo de mensagens e quais práticas recomendadas aplicar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334523?quality=12)

@@ -77,7 +77,7 @@ ht-degree: 87%
    + [Caso de uso - Ler segmento](/help/create-journeys/use-case-read-segment.md)
    + [Caso de uso — Evento comercial](/help/create-journeys/use-case-business-event.md)
    + [Caso de uso - Qualificação de segmento](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Caso de uso — Mensagem de interrupção](/help/create-journeys/use-case-burst-message.md)
+   + [Caso de uso — Disparo de mensagem](/help/create-journeys/use-case-burst-message.md)
    + [Criar um perfil de teste](/help/create-journeys/test-a-journey.md)
    + [Publicar uma jornada](/help/create-journeys/publish-a-journey.md)
    + [Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)

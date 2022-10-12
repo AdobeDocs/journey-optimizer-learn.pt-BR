@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de aprendizado do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são os tutorials de aprendizado do Journey Optimizer.
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 990ba063c251df6d0f191e5020937bfd6867634f
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 87%
+source-wordcount: '274'
+ht-degree: 90%
 
 ---
 
@@ -53,7 +53,6 @@ ht-degree: 87%
    + [Subscrições e páginas de aterrissagem](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Criar mensagens {#create-messages}
-   + [Visão geral do Designer de mensagem](/help/create-messages/message-designer-overview.md)
    + [Criar conteúdo com o Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
    + [Importar e criar conteúdo de email HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Pré-visualizar, testar e publicar](/help/create-messages/preview-proof-and-publish.md)
@@ -77,7 +76,6 @@ ht-degree: 87%
    + [Caso de uso - Ler segmento](/help/create-journeys/use-case-read-segment.md)
    + [Caso de uso — Evento comercial](/help/create-journeys/use-case-business-event.md)
    + [Caso de uso - Qualificação de segmento](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Caso de uso — Disparo de mensagem](/help/create-journeys/use-case-burst-message.md)
    + [Criar um perfil de teste](/help/create-journeys/test-a-journey.md)
    + [Publicar uma jornada](/help/create-journeys/publish-a-journey.md)
    + [Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)

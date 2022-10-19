@@ -4,15 +4,15 @@ description: Temos uma variedade de tutoriais em vídeo para mostrar como aprove
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
+source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 72%
+source-wordcount: '490'
+ht-degree: 71%
 
 ---
 
 
-# Journey Optimizer Tutorials - Visão geral
+# Tutoriais do Journey Optimizer
 
 ![](./assets/ajo-banner.png)
 
@@ -23,8 +23,6 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 <div id="whats-new-section">
 
 ## Novidades
-
-### Tutoriais
 
 * **[Criar conteúdo dinâmico com o construtor de regras de condição](/help/personalize-content/create-dynamic-content.md)**
 
@@ -47,7 +45,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 <div id="events-section">
 
-### Eventos ao vivo da Experience League
+## Eventos do Experience League Live
 
 * **[Executar suas campanhas no Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=pt-BR)**
 
@@ -68,7 +66,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 <div id="staff-picks-section">
 
-## Escolhas da equipe
+## Escolhas de pessoal
 
 <table>
 <tr>

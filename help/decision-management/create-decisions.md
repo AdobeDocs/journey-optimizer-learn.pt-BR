@@ -9,7 +9,7 @@ exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
 source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Para saber como criar decisões com uma API, consulte o [manual do produto](http
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso. [Introdução ao gerenciamento de decisões para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Introdução à Gestão de decisões para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), que está disponível gratuitamente na Experience League.

@@ -1,5 +1,5 @@
 ---
-title: Journey Optimizer Tutorials - Visão geral
+title: Tutoriais do Journey Optimizer - Visão geral
 description: Temos uma variedade de tutoriais em vídeo para mostrar como aproveitar os benefícios do Journey Optimizer.
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
@@ -7,7 +7,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 71%
+ht-degree: 98%
 
 ---
 
@@ -24,21 +24,21 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 ## Novidades
 
-* **[Criar conteúdo dinâmico com o construtor de regras de condição](/help/personalize-content/create-dynamic-content.md)**
+* **[Crie conteúdo dinâmico com o construtor de regras de condição](/help/personalize-content/create-dynamic-content.md)**
 
-   *Saiba como criar e salvar regras de condição e como aplicar essas regras de condição ao conteúdo em todos os canais.*
+   *Saiba como criar e salvar regras de condição e como aplicá-las ao conteúdo em todos os canais.*
 
 * **[Usar alertas](/help/administration/alerts.md)**
 
-   *Saiba como assinar alertas predefinidos para comportamentos de jornada inesperados e ser notificado por e-mail, no Journey Optimizer ou usando uma API.*
+   *Saiba como assinar alertas predefinidos para comportamentos de jornada inesperados e ser notificado por email, no Journey Optimizer ou por meio de uma API.*
 
 * **[Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)**
 
    *Saiba como copiar uma jornada e seus objetos dependentes de uma sandbox para outra.*
 
-* **[Mascarar dados em mensagens](/help/privacy/mask-data-in-messages.md)**
+* **[Mascaramento de dados em mensagens](/help/privacy/mask-data-in-messages.md)**
 
-   *Entenda o que é mascaramento de dados e por que os dados de máscara. Saiba como mascarar dados em mensagens do Journey Optimizer.*
+   *Entenda o que é o mascaramento de dados e por que utilizá-lo. Saiba como mascarar dados em mensagens do Journey Optimizer.*
 
 </div>
 
@@ -49,7 +49,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 * **[Executar suas campanhas no Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=pt-BR)**
 
-   *Neste episódio do Experience League Live, originalmente realizado em 22 de setembro de 2022, veja Sandra Hausmann, anfitriã, e especialistas em produtos Bridgette Darling e Frederic Mary, enquanto discutem os casos de uso que este novo recurso aborda e demonstra como configurar e executar facilmente uma campanha no Journey Optimizer.*
+   *Neste episódio do Experience League ao vivo, originalmente realizado em 22 de setembro de 2022, acompanhe a anfitriã Sandra Hausmann e os especialistas em produtos Bridgette Darling e Frederic Mary, enquanto discutem os casos de uso que este novo recurso aborda e uma demonstração de como configurar e executar facilmente uma campanha no Journey Optimizer.*
 
 * **[Notificações por push com o Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=pt-BR)**
 
@@ -151,7 +151,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
     </a>
     </div>
     <p>
-    <em>Saiba mais sobre a diferença entre relatórios ao vivo e globais, como acessar e analisar a jornada e relatórios específicos de mensagem e como modificar os painéis de relatório.
+    <em>Saiba mais sobre a diferença entre relatórios dinâmicos e globais, como acessar e analisar a jornada e os relatórios específicos de mensagem e como modificar os painéis do relatório.
 
 </em>
     <p>

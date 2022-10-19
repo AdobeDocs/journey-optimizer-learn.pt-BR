@@ -5,7 +5,7 @@ user-guide-description: Estes são os tutorials de aprendizado do Journey Optimi
 source-git-commit: 2874a7c5bc9ef8fd553a573069911453f5bc5f2b
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 88%
+ht-degree: 98%
 
 ---
 
@@ -50,10 +50,10 @@ ht-degree: 88%
 + Perfis, segmentos e assinaturas do cliente {#profiles-segments-subscriptions}
    + [Perfil e segmentação unificados - visão geral](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Criar segmentos](/help/set-up-resources/create-segments.md)
-   + [Subscrições e páginas de aterrissagem](/help/subscriptions-and-landing-pages.md)
+   + [Subscrições e páginas de destino](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Criar mensagens {#create-messages}
-   + [Criar conteúdo com o Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
+   + [Criar conteúdo com o Designer de email](/help/create-messages/create-content-with-the-email-designer.md)
    + [Importar e criar conteúdo de email HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Pré-visualizar, testar e publicar](/help/create-messages/preview-proof-and-publish.md)
    + [Recursos de publicações de conteúdo para dispositivos móveis para profissionais de marketing](/help/create-messages/mobile-capabilities.md)
@@ -85,4 +85,4 @@ ht-degree: 88%
    + [Relatórios dinâmicos e globais](/help/report-and-monitor/live-and-global-reports.md)
    + [Usar alertas](/help/administration/alerts.md)
 + Privacidade {#privacy}
-   + [Mascarar dados em mensagens](/help/privacy/mask-data-in-messages.md)
+   + [Mascaramento de dados em mensagens](/help/privacy/mask-data-in-messages.md)

@@ -8,7 +8,7 @@ exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ Obtenha uma visão geral sobre os recursos de gestão de decisões do Journey Op
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso. [Introdução ao gerenciamento de decisões para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Introdução à Gestão de decisões para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), que está disponível gratuitamente na Experience League.

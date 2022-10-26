@@ -1,6 +1,6 @@
 ---
 title: Mensagens no aplicativo para campanhas
-description: Entenda o que é uma mensagem no aplicativo. Saiba como criar, configurar e publicar mensagens no aplicativo em Campanhas.
+description: Entenda o que é uma mensagem no aplicativo. Saiba como criar, configurar e publicar mensagens no aplicativo em campanhas.
 feature: In App
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ last-update-author: 20221018
 hidefromtoc: true
 hide: true
 source-git-commit: 7273138957300b45b6075a0164634f456556a5f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,6 +22,6 @@ ht-degree: 0%
 > 
 > Observe que as mensagens no aplicativo estão na versão beta e ainda não estão disponíveis para todos os clientes.
 
-Entenda o que é uma mensagem no aplicativo. Saiba como criar, configurar e publicar mensagens no aplicativo em Campanhas.
+Entenda o que é uma mensagem no aplicativo. Saiba como criar, configurar e publicar mensagens no aplicativo em campanhas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on)

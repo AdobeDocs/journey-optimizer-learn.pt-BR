@@ -5,7 +5,7 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: dd2832c1e99ed9b8407a0aa9356335d3bce40622
+source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 7%
@@ -19,7 +19,7 @@ ht-degree: 7%
 
 Os desafios proporcionam um cenário e os requisitos necessários para praticar o que você aprendeu. Os desafios ajudam a avaliar seu nível de habilidade e identificar lacunas de conhecimento.
 
-Cada desafio desta seção aborda um caso de uso exclusivo que será implementado. O público-alvo (persona), bem como as habilidades necessárias, são listados no início de cada desafio.
+Cada desafio desta seção aborda um caso de uso exclusivo que será implementado. O público-alvo (persona) e as habilidades necessárias são listados no início de cada desafio.
 
 ## Pré-requisitos
 
@@ -67,8 +67,8 @@ A Luma pretende promover a coleta de roupas e equipamentos mais recentes e impul
       <em>Promova a nova coleção de verão do Luma. </em>
       <p>
       <b>Competências necessárias:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html"> Criar segmentos</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html">Importar e criar conteúdo de email HTML</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Criar segmentos</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">Importar e criar conteúdo de email HTML</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Caso de uso - Ler segmento</li>
   </td>
   </tr>
@@ -94,7 +94,7 @@ A Luma pretende promover a coleta de roupas e equipamentos mais recentes e impul
     <td>
     <div>
     <a href="product-replenishment-challenge.md">
-      <img alt="Site Luma." src="./assets/email-assets/luma-ProductReplenishment.jpg"/>
+      <img alt="Site Luma." src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>

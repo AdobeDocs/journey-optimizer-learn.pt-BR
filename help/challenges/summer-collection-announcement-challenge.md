@@ -6,7 +6,7 @@ role: User
 level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
-source-git-commit: d1b4aa69e323d9a6112d2273ea5770c42b044d13
+source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
 workflow-type: tm+mt
 source-wordcount: '1250'
 ht-degree: 2%
@@ -132,7 +132,7 @@ Crie uma jornada chamada `(your name) - Summer collection announcement` com base
 Visualize o email usando o Namespace de identidade: *Email* e o valor Identity : *Jenna_Palmer9530@emailsim.io*
 
 * A linha de assunto deve ler-se: Jenna, a nova coleção Luma está aqui!
-* O corpo do email deve corresponder ao que você viu na visualização: [Novo anúncio de coleta sazonal](/help/challenges/assets/SeasonalCollectionEmail.html)
+* O corpo do email deve corresponder ao que você viu na visualização: [Novo anúncio de coleta sazonal](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **Mensagem de email nº 2 - Coleção de homens Luma**

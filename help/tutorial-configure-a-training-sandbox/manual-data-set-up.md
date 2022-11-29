@@ -7,13 +7,13 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: d82a80675230db561bc2fcb6613159bd5a898f32
+exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
+source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 8%
 
 ---
-
 
 # Configurar dados manualmente
 
@@ -186,7 +186,7 @@ Agora você tem o namespace e a variável [!DNL Luma] Esquema de fidelidade conf
 
    2. Selecione o campo `crmId`.
 
-   3. No **[!UICONTROL Propriedades do campo]**, ativar a **[!UICONTROL Identidade]** caixa.
+   3. No **[!UICONTROL Propriedades do campo]**, ative o **[!UICONTROL Identidade]** caixa.
 
    4. Selecione o `Luma CRM Id` namespace de **[!UICONTROL Namespaces de identidade]** lista suspensa.
 

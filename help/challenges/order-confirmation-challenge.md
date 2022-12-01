@@ -7,12 +7,13 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: c6e28361e1aca183a4cc2906ac90825218141e13
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '683'
 ht-degree: 4%
 
 ---
+
 
 # Criar um email transacional de confirmação de pedido
 
@@ -26,21 +27,27 @@ ht-degree: 4%
 
 ## A História
 
-A Luma está lançando sua loja online e deseja garantir uma boa experiência do cliente, fornecendo um email de confirmação de pedido depois que o cliente fizer um pedido.
+A Luma está lançando sua loja online e deseja garantir uma boa experiência do cliente ao fornecer um email de confirmação de pedido depois que o cliente fizer um pedido.
 
-Crie e personalize uma mensagem de confirmação de pedido transacional.
 
-## Você tem tudo de que precisa?
 
 ## Seu desafio
 
-Crie um email de confirmação de pedido acionado quando um cliente Luma conclui um pedido online.
+Crie uma jornada que envia um email de confirmação de pedido quando um cliente Luma conclui um pedido online.
 
-### Criar o email de confirmação do pedido
+>[!BEGINTABS]
 
-Crie uma nova mensagem de email chamada &quot;(seu nome)_Luma - Confirmação do pedido&quot;. A linha de assunto deve ser personalizada com o nome dos recipients e deve incluir a frase &quot;obrigado pela sua compra&quot;
+>[!TAB Tarefa]
 
-De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte maneira:
+1. Crie uma jornada chamada &quot;sua confirmação de nome _pedido&quot;
+2. Use o evento : LumaOnlinePurchase como um acionador
+
+3. Crie o email de confirmação do pedido:
+
+* Transacional de categoria - selecione a superfície de email transacional
+* A linha de assunto deve ser personalizada com o nome dos recipients e deve incluir a frase &quot;obrigado pela sua compra&quot;
+
+De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte maneira - você pode usar o **Luma - Resumo do pedido** e modificá-lo:
 
 <table>
 <tr>
@@ -56,7 +63,6 @@ De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte
     <li>Tamanho 35%, fundo branco centralizado </li>
     <li>Ele deve ter um link para o site do luma: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
-    Dica: Você encontrará todas as imagens na pasta de ativos chamadas mensagens de imagens. <p>
     </td>
   </tr>
   <tr>
@@ -71,7 +77,7 @@ De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte
     <li>Margem: Superior, inferior (10)<div>
     <p>
     <strong>Texto</strong><p>
-    <em>Obrigado pela compra!</em><p>
+    <em>Ei {nome}</em><p>
     <li>Alinhamento: left  </li>
    <li>Cor do texto: rgb(101, 106, 119); tamanho da fonte:14px</li>
     <li>Preenchimento: esquerda (95), direita (95)</li><div>
@@ -82,10 +88,13 @@ De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte
     <li>Alinhamento: left  </li>
     <li>Cor do texto: rgb(101, 106, 119); tamanho da fonte:14px </li>
     <li>Preenchimento: esquerda (95), direita (95)</li><div>
-    </a>
-    <p>
-    <strong>Botão:</strong>
-   <p><em>Veja seu pedido</em></p>
+    </a><p>
+    <em>Enviar para:<p>
+    <p>Sobrenome do nome</p>
+    Rua<p>
+    Cidade, Estado, Código Postal</p></em>
+    <strong>Botão:</strong></p>
+   <p><em>Exibir pedido</em></p>
       <li>Cor do plano de fundo: rgb(25, 121, 195)</li>
       <li>Cor do texto: Branco</li>
       <li>Sem borda</li>
@@ -99,9 +108,10 @@ De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte
      <strong>Seção Detalhes do Pedido</strong>
       </div>
       <p>Dicas:
-      <li>Essas são informações de evento contextual. Você só poderá adicionar a mensagem no contexto depois de adicioná-la à jornada (consulte a etapa 2). Não publique seu email antes de adicioná-lo à Jornada e modificá-lo com as informações do evento contextual!</li>
+      <li>Essas são informações de evento contextual.</li>
       <li>Use a função auxiliar: Cada</li>
-      <li>Use o editor de HTML para formatar os dados contextuais.Coloque as informações em contêineres usando tags DIV.</li>
+      <li>Alterne para o formato do editor de códigos para adicionar os dados contextuais. <li>
+      <li>Coloque as informações em contêineres usando tags DIV.</li>
   </td>
   <td>
     <strong>Header</strong>
@@ -141,19 +151,13 @@ De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte
   </tr>
 </table>
 
-### Crie a jornada
-
-1. Chame a jornada &quot;seu nome _Luma-Order Confirmation&quot;
-1. Use o evento : LumaOnlinePurchase
-1. Ação: Adicione a mensagem que você criou na etapa 1
-1. Volte para a mensagem e adicione os atributos contextuais
-1. Publicar o email
 
 >[!TIP]
 >
 >Para permitir que você solucione problemas em suas jornadas, a prática recomendada é adicionar um caminho alternativo a todas as ações de mensagem em caso de tempo limite ou erro.
 
-+++Critérios de sucesso
+
+>[!TAB Verificar o seu trabalho]
 
 Acione a Jornada criada no modo de teste e envie o email para você mesmo:
 
@@ -181,17 +185,20 @@ Você deve receber o email de confirmação de compra personalizado, com o produ
 
    43913 Thierer Terrace, Washington DC 2009
 
-+++
 
-+++Verifique seu trabalho
+>[!TAB Critérios de sucesso]
+
+** Jornada
+
+![Jornada](/help/challenges/assets/c2-journey.png)
+
+
+** Email
 
 **Linha de assunto:**
 
 {{ profile.person.name.firstName }}, obrigado pela sua compra!
 
-**Seção Cabeçalho e confirmação:**
-
-![Confirmação de cabeçalho e pedido](/help/challenges/assets/c2-header.png)
 
 **Seção de detalhes da ordem:**
 
@@ -230,11 +237,4 @@ A personalização deve ter esta aparência:
 {{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
 ```
 
-**Rodapé:**
-![rodapé](/help/challenges/assets/c2-footer.png)
-
-**Jornada**
-
-![Jornada](/help/challenges/assets/c2-journey.png)
-
-+++
+>[!ENDTABS]

@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 30d2e0b2cad59385c8b9bc98f7db671027f7906a
+source-git-commit: bcd4e8f01ebb83444934d641d3ee3aafe420bd6b
 workflow-type: tm+mt
 source-wordcount: '457'
 ht-degree: 7%
@@ -55,8 +55,7 @@ Envie um e-mail quando um cliente de fidelidade mudar para um nível do Diamond 
    1. Criar uma mensagem de email transacional com o título `(your name)_Luma – New Status – Diamond – Transactional email message`.
    1. Enviar email para uma linha de assunto `Welcome to Diamond Status, (recipient's first name)!`.
    1. Use o arquivo HTML fornecido **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** para o corpo do email.
-
-1. Depois de concluir, coloque a jornada no modo de teste e acione a jornada para enviar a si mesmo  
+4. Depois de concluir, coloque a jornada no modo de teste e acione a jornada para enviar a si mesmo  
 
 ### Criar Luma - Novo status - Diamante - Mensagem de email transacional
 

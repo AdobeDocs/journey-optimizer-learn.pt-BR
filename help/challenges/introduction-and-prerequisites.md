@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 8%
+source-wordcount: '449'
+ht-degree: 12%
 
 ---
 
@@ -61,11 +61,10 @@ A Luma pretende promover a coleta de roupas e equipamentos mais recentes e impul
       </div>
   </td>
   <td>
-   <a href="summer-collection-announcement-challenge.md">
-    <strong>Criar um anúncio de coleção de verão </strong>
+   <strong><a href="summer-collection-announcement-challenge.md">Criar um anúncio de coleção de verão </strong>
     </a>
       <p>
-      <em>Promova a nova coleção de verão do Luma. </em>
+      <em>Crie uma jornada que envia um email de anúncio da coleção de verão para um segmento de clientes existentes. </em>
       <p>
       <b>Competências necessárias:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Criar segmentos</li>
@@ -82,26 +81,29 @@ A Luma pretende promover a coleta de roupas e equipamentos mais recentes e impul
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong>Criar uma confirmação de pedido</strong>
+    <strong><a href="order-confirmation-challenge.md">Criar uma confirmação de pedido</strong>
     </a>
     <div>
     <p>
-    <em>Enviar um email de confirmação de pedido quando alguém concluir uma compra online
+    <em>Testar seu conhecimento sobre como criar e personalizar mensagens transacionais
     </em>
     <p>
+    <b>Competências necessárias:</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> Criar conteúdo de email com o editor de mensagens</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Usar informações de evento contextual para personalização</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Usar funções auxiliares para personalização</li>
   </td>
   </tr>
   <tr>
     <td>
     <div>
-    <a href="product-replenishment-challenge.md">
-      <img alt="Site Luma." src="./assets/email-assets/luma-ProductReplenishment.png"/>
+    <a>
+      <img alt="Reposição de produtos Luma" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="product-replenishment-challenge.md">
-    <strong>Criar uma notificação de reposição de produto </strong>
+      <strong>Criar uma notificação de reposição de produto (em breve)</strong>
     </a>
     </div>
     <p>
@@ -112,14 +114,14 @@ A Luma pretende promover a coleta de roupas e equipamentos mais recentes e impul
   <tr>
     <td>
     <div>
-    <a href="loyalty-status-welcome-email-challenge.md">
+    <a>
       <img alt="Bem-vindo" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="loyalty-status-welcome-email-challenge.md">
-    <strong>Criar um email de boas-vindas do status de fidelidade </strong>
+      <a>
+    <strong>Criar um email de boas-vindas com o status de fidelidade (em breve) </strong>
     </a>
     </div>
     <p>

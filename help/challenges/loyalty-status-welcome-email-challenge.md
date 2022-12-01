@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 52fb90247fa30d5b5c86d5a464d994e8e7075049
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 8%
@@ -46,18 +46,17 @@ Você foi incumbido de configurar uma jornada que envia automaticamente um email
 Envie um e-mail quando um cliente de fidelidade mudar para um nível do Diamond para parabenizá-lo e informá-lo sobre seus novos benefícios. As seleções de menu
 
 1. Crie um segmento no Journey Optimizer chamado **seu nome - Luma - Diamond Status**
-2. Crie uma jornada acionada quando um cliente passa para o novo nível de fidelidade Diamond (especificamente quando o cliente entra no segmento definido para um novo membro do nível Diamond) para enviar o email &quot;Luma - New Status - Diamond - Transactional&quot;
-1. Criar uma mensagem de email transacional com o título `(your name)_Luma – New Status – Diamond – Transactional email message`.
-2. Enviar email para uma linha de assunto `Welcome to Diamond Status, (recipient's first name)!`.
-3. Use o arquivo HTML fornecido **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** para o corpo do email.
-3. Depois de concluir, coloque a jornada no modo de teste e acione a jornada para enviar a si mesmo  
+1. Crie uma jornada acionada quando um cliente passa para o novo nível de fidelidade Diamond (especificamente quando o cliente entra no segmento definido para um novo membro do nível Diamond) para enviar o email &quot;Luma - New Status - Diamond - Transactional&quot;
 
+   1. Criar uma mensagem de email transacional com o título `(your name)_Luma – New Status – Diamond – Transactional email message`.
+   1. Enviar email para uma linha de assunto `Welcome to Diamond Status, (recipient's first name)!`.
+   1. Use o arquivo HTML fornecido **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** para o corpo do email.
+
+1. Depois de concluir, coloque a jornada no modo de teste e acione a jornada para enviar a si mesmo  
 
 ### Criar Luma - Novo status - Diamante - Mensagem de email transacional
 
 Criar uma mensagem de email de boas-vindas
-
-1. 
 
 ### **Jornada nº 3 - E-mail de boas-vindas para atualização do status do Diamond**
 
@@ -67,10 +66,10 @@ Criar uma mensagem de email de boas-vindas
 Teste a jornada:
 
 1. Certifique-se de que o evento de qualificação de segmento tenha o Namespace = Email
-2. Substitua os parâmetros de email padrão e os defina como seu próprio endereço de email
-3. Defina a jornada para o modo de teste
-4. Acionar um evento
-5. Adicione o seguinte endereço de email ao campo Identificador de perfil: Jenna_Palmer9530@emailsim.io
+1. Substitua os parâmetros de email padrão e os defina como seu próprio endereço de email
+1. Defina a jornada para o modo de teste
+1. Acionar um evento
+1. Adicione o seguinte endereço de email ao campo Identificador de perfil: Jenna_Palmer9530@emailsim.io
 
 Você deve receber o email personalizado &quot;Luma - New Status - Diamond-Transactional&quot;.
 

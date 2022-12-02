@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 697f4e6b11e7c40be726471ab368781f32dad165
+source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
 workflow-type: tm+mt
-source-wordcount: '1138'
+source-wordcount: '1118'
 ht-degree: 2%
 
 ---
@@ -30,8 +30,10 @@ A Luma, uma empresa ficcional de vestuário atlético, pretende promover a últi
 
 ## Seu desafio
 
-A equipe de marketing do Luma solicita que você implemente uma campanha de marketing de coleção de verão no Journey Optimizer. Seu desafio é criar uma jornada no Journey Optimizer. Especificamente, você deve criar o segmento necessário, criar quatro mensagens e criar a jornada.
+A equipe de marketing do Luma solicita que você implemente uma campanha de marketing de coleção de verão no Journey Optimizer. Seu desafio é:
 
+* Crie um segmento definindo quais perfis se qualificam para receber a promoção.
+* Criar a jornada
 
 ### Etapa 1: Definir o segmento - Clientes ativos
 
@@ -39,15 +41,16 @@ A equipe de marketing do Luma solicita que você implemente uma campanha de mark
 
 >[!TAB Tarefa]
 
-Crie um segmento no Journey Optimizer chamado **Clientes ativos**.
+#### Criar um segmento no Journey Optimizer
 
+* Crie um segmento no Journey Optimizer chamado `Active Customers`.
 * O segmento deve incluir somente clientes Luma ativos.
 * Os clientes ativos são definidos como clientes que têm um nível no programa de fidelidade do Luma (prata, ouro, platina ou diamante).
 
 
 >[!TAB Critérios de sucesso]
 
-No construtor de segmentos, é possível ver o número estimado de perfis qualificados.
+No construtor de segmentos, é possível ver o número estimado de perfis qualificados. Se estiver trabalhando com os dados da sandbox de treinamento, você terá cerca de 753 perfis qualificados de 1,29 K.
 
 >[!NOTE]
 >Pode levar até 24 horas para que a associação de segmentos apareça para perfis existentes, pois os perfis existentes precisam ser preenchidos retroativamente.
@@ -87,31 +90,38 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 >[!TAB Tarefa]
 
-Envie um anúncio da coleção de verão a um segmento de email dos clientes existentes que promove a nova coleção de verão do Luma.&#39;
+#### Enviar um anúncio de coleção de verão
 
-Uma agência forneceu quatro arquivos HTML com o design dos emails: [Baixe os arquivos de email da coleção sazonal](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)
+Uma agência forneceu quatro arquivos HTML com o design dos emails:
 
-Crie uma jornada chamada `(your name) - Summer collection announcement` com base nas seguintes orientações:
+* SeasonalCollectionEmail.html
+* Email da coleção do Luma Men
+* Email da coleção de mulheres Luma
+* Luma - 20 % de email de coleta
 
-1. Enviar Luma - Novo email de anúncio de coleção sazonal para o segmento Clientes ativos Luma, mantendo 10% do público como um grupo de controle
-   * Título da mensagem `(your name)_Luma New Seasonal Collection Announcement`.
-   * Linha de assunto `(recipient's first name), the new Luma collection is here!`.
-   * Use o arquivo HTML fornecido *SeasonalCollectionEmail.html* para o corpo do email.
-2. Aguarde dois dias e envie uma mensagem de email de acompanhamento com conteúdo mais direcionado:
-   * Os clientes do sexo masculino devem receber o **Email da coleção do Luma Men**
-      * Título da mensagem: **(seu nome)_Coleção masculina Luma**
-      * Linha de assunto: **(nome do recipient), explore as artes atléticas masculinas!**
-      * Corpo do email: *MensCollectionEmail.html* para o corpo do email.
-   * As mulheres devem receber o **Email da coleção de mulheres Luma**
-      * Título da mensagem: **(seu nome)_Coleção de mulheres Luma**
-      * Linha de assunto: **(nome do recipient), explore a coleção de mulheres da Luma!**
-      * Corpo do email: *WomensCollectionEmail.html*
-   * Outros clientes devem receber o **Luma - 20 % de email de coleta**
-      * Título da mensagem: **(seu nome)_Luma - 20 % da coleção**
-      * Linha de assunto:**(nome do recipient), aproveite 20% das vendas!**
-      * Corpo do email: *20ffCollectionEmail.html*
-3. Depois de enviar os emails direcionados acima, aguarde dois dias para que o email seja aberto
-4. Se o email direcionado não for aberto em 2 dias, envie a variável **Luma - 20 %do email de coleta** como uma tentativa final de redirecionamento
+1. [Baixe os arquivos de email da coleção sazonal](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
+
+2. Crie uma jornada chamada `Luma - Summer collection announcement` com base nas seguintes orientações:
+
+   1. Enviar *Luma - Novo anúncio de coleta sazonal* e-mail para a *Clientes ativos* segmento, mantendo 10% do público-alvo como um grupo de controle
+      * Título da mensagem `Luma New Seasonal Collection Announcement`.
+      * Linha de assunto `(recipient's first name), the new Luma collection is here!`.
+      * Use o arquivo HTML fornecido *SeasonalCollectionEmail.html* para o corpo do email.
+   2. Aguarde dois dias e envie uma mensagem de email de acompanhamento com conteúdo mais direcionado:
+      * Os clientes do sexo masculino devem receber o **Email da coleção do Luma Men**
+         * Título da mensagem: `Luma Men's Collection`
+         * Linha de assunto: `(recipient's first name), explore Men's New athletic gear!`
+         * Corpo do email: *MensCollectionEmail.html* para o corpo do email.
+      * As mulheres devem receber o **Email da coleção de mulheres Luma**
+         * Título da mensagem: `Luma Women's Collection`
+         * Linha de assunto: `(recipient's first name), explore Luma's Women Collection!`
+         * Corpo do email: *WomensCollectionEmail.html*
+      * Outros clientes devem receber o **Luma - 20 % de email de coleta**
+         * Título da mensagem: `Luma - 20 % off Collection`
+         * Linha de assunto: `(recipient's first name), enjoy 20% off sales!`
+         * Corpo do email: *20ffCollectionEmail.html*
+   3. Depois de enviar os emails direcionados acima, aguarde dois dias para que o email seja aberto
+   4. Se o email direcionado não for aberto em 2 dias, envie a variável **Luma - 20 %do email de coleta** como uma tentativa final de redirecionamento
 
 
 >[!TAB Critérios de sucesso]

@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
+source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
 workflow-type: tm+mt
 source-wordcount: '1161'
 ht-degree: 3%
@@ -147,9 +147,9 @@ Envie uma prova para você mesmo:
 
 1. Adicione um perfil de teste: Stanleigh Stooke:
    1. Namespace de identidade: *ID do CRM Luma*
-   2. Valor de identidade: `4f34057d9d9e792c28ba18ecae378e98`
+   1. Valor de identidade: `4f34057d9d9e792c28ba18ecae378e98`
 1. Selecione o perfil de teste: Stanleigh Stooke
-2. Enviar uma prova para si mesmo
+1. Enviar uma prova para si mesmo
 
 Resultado:\
 Você deve receber um email. A linha de assunto deve ler-se &quot;Stanleigh, explore as artes atléticas masculinas!&quot; e o corpo do email deve corresponder ao que você viu na visualização: [Coleção de Luma Men](/help/challenges/assets/email-assets/MensCollectionEmail.html)

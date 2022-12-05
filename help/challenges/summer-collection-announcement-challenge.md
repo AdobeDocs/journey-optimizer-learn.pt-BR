@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
+source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
 workflow-type: tm+mt
-source-wordcount: '1161'
+source-wordcount: '1149'
 ht-degree: 3%
 
 ---
@@ -172,7 +172,6 @@ Visualize o email com o perfil de teste &quot;Louise Petti&quot;.
 * A linha de assunto deve ler-se: *Louise, aproveite 20% das vendas!*
 * O corpo do email deve corresponder ao que você viu na visualização: [Luma 20 % da recolha](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
-**Não se esqueça de publicar seus emails!**
 
 #### Teste a jornada
 
@@ -200,10 +199,10 @@ Teste a jornada e envie os emails para sua própria conta:
 2. Selecionar perfil único de cada vez
 3. Tempo de espera: Defina o cronômetro como 120 segundos (digite-o no campo ).
 4. Acionar entrada do perfil
-5. Você pode testar cada ramificação usando um dos seguintes endereços de email como identificadores de perfil:
-   * Feminino: Louise Petti, Valor de identidade: *d1f132f9f9502bba047a6ec86c4b61f9*
+5. Você pode testar cada ramificação usando uma das seguintes opções *Ids do CRM Luma* como identificadores de perfil:
+   * Feminino: Leora Dietsche, Valor de identidade:`a8f14eab3b483c2b96171b575ecd90b1`
    * Masculino: Stanleigh Stooke, Valor de identidade: `4f34057d9d9e792c28ba18ecae378e98`
-   * Gênero não especificado: Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
+   * Gênero não especificado: Louise Petti, Valor de identidade: `d1f132f9f9502bba047a6ec86c4b61f9&#39;
 
 6. Depois de acionar a entrada do perfil, você deve receber o primeiro email, o cabeçalho deve ser personalizado de acordo com o perfil escolhido.
 7. A jornada deve continuar no respectivo ramo e você deve receber o email relacionado (por exemplo, se você escolher Jenna, você deve receber o email &quot;Coleção de mulheres Luma&quot;).
@@ -216,9 +215,9 @@ Você deve receber os seguintes emails:
 
 * Luma - Novo anúncio de coleta sazonal
 * Dependendo do perfil de teste usado, você deve receber um dos seguintes emails:
-   * Jenna: Coleção de Mulheres Luma
-   * Chris: Coleção de Luma Men
-   * Benny: Luma - 20% Desligado Da Coleta
+   * Leora: Coleção de Mulheres Luma
+   * Ressalto: Coleção de Luma Men
+   * Louise: Luma - 20% Desligado Da Coleta
 * Caso não tenha aberto o segundo email: O Luma - 20% de desconto na coleta
 
 >[!TAB Verificar o seu trabalho]

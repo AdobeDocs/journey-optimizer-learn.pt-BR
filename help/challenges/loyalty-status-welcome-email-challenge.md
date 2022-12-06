@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
+source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '437'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 4%
 |---|---|
 | Perfil | Gerenciador de jornadas |
 | Competências necessárias | <ul><li>[Criar segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Qualificação do segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[Importar conteúdo de HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul> |
-| Ativos para baixar | [platinumStatusEmail.zip](/help/challenges/assets/email-assets/platinumStatusEmail.zip) |
+| Ativos para baixar | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 ## A História
 
@@ -56,21 +56,18 @@ Teste a jornada:
 
 1. Certifique-se de que a variável [!UICONTROL Ler atividade do segmento] tem [!UICONTROL namespace] defina como **[!DNL Luma CRM id(lumaCrmId)]**
 2. Substituir o padrão [!UICONTROL parâmetros de email] e defini-lo como seu próprio endereço de email
+   * Mostre os valores ocultos clicando no símbolo dos olhos.
+   * No [!UICONTROL Parâmetros de email], clique no símbolo T (ativar substituição de parâmetro)
 
-+++Clique aqui para obter mais informações sobre como substituir o [!Parâmetros de email UICONTROL].
+       ![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
+   
+   * Clique no botão [!UICONTROL Campo Endereço]
+   * Na próxima tela, adicione o endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em ok.
 
-* Mostre os valores ocultos clicando no símbolo dos olhos.
-* No [!UICONTROL Parâmetros de email], clique no símbolo T (ativar substituição de parâmetro)
 
-![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
-
-* Clique no botão [!UICONTROL Campo Endereço]
-* Na próxima tela, adicione o endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em ok.
-+++
-
-1. Defina a jornada para o modo de teste
-2. Acionar um evento
-3. Adicione o seguinte [!DNL CRM ID] para [!DNL Stanleigh Stooke] na [!UICONTROL Identificador de perfil] campo : `4f34057d9d9e792c28ba18ecae378e98`
+3. Defina a jornada para o modo de teste
+4. Acionar um evento
+5. Adicione o seguinte [!DNL CRM ID] para [!DNL Stanleigh Stooke] na [!UICONTROL Identificador de perfil] campo : `4f34057d9d9e792c28ba18ecae378e98`
 
 Você deve receber o *Luma - Status platinum - Bem-vindo* email.
 

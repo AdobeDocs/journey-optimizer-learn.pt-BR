@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
+source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '451'
 ht-degree: 4%
 
 ---
@@ -58,15 +58,15 @@ Teste a jornada:
 2. Substituir o padrão [!UICONTROL parâmetros de email] e defini-lo como seu próprio endereço de email
 
 +++ Clique aqui para obter mais informações sobre como substituir o [!Parâmetros de email UICONTROL].
-   * Mostre os valores ocultos clicando no símbolo dos olhos.
-   * No [!UICONTROL Parâmetros de email], clique no símbolo T (ativar substituição de parâmetro)
 
-   ![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
-
-   * Clique no botão [!UICONTROL Campo Endereço]
-   * Na próxima tela, adicione o endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em ok.
+    * Mostre os valores ocultos clicando no símbolo dos olhos.
+    * Na [!UICONTROL Parâmetros de email], clique no símbolo T (ativar substituição de parâmetro)
+    
+    ![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
+    
+    * Clique no botão [!UICONTROL Campo Endereço]
+    * Na próxima tela, adicione o endereço de email entre parênteses: `&quot;yourname@yourdomain&quot;` no editor de expressão e clique em ok.
 +++
-
 
 3. Defina a jornada para o modo de teste
 4. Acionar um evento

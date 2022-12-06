@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
+source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '445'
 ht-degree: 4%
 
 ---
@@ -59,18 +59,18 @@ Teste a jornada:
 
 +++ Clique aqui para obter mais informações sobre como substituir o [!Parâmetros de email UICONTROL].
 
-    * Mostre os valores ocultos clicando no símbolo dos olhos.
-    * Na [!UICONTROL Parâmetros de email], clique no símbolo T (ativar substituição de parâmetro)
-    
-    ![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
-    
-    * Clique no botão [!UICONTROL Campo Endereço]
-    * Na próxima tela, adicione o endereço de email entre parênteses: `&quot;yourname@yourdomain&quot;` no editor de expressão e clique em ok.
+* Mostre os valores ocultos clicando no símbolo dos olhos.
+* No [!UICONTROL Parâmetros de email], clique no símbolo T (ativar substituição de parâmetro)
+
+![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
+
+* Clique no botão [!UICONTROL Campo Endereço]
+* Na próxima tela, adicione o endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em ok.
 +++
 
-3. Defina a jornada para o modo de teste
-4. Acionar um evento
-5. Adicione o seguinte [!DNL CRM ID] para [!DNL Stanleigh Stooke] na [!UICONTROL Identificador de perfil] campo : `4f34057d9d9e792c28ba18ecae378e98`
+1. Defina a jornada para o modo de teste
+2. Acionar um evento
+3. Adicione o seguinte [!DNL CRM ID] para [!DNL Stanleigh Stooke] na [!UICONTROL Identificador de perfil] campo : `4f34057d9d9e792c28ba18ecae378e98`
 
 Você deve receber o *Luma - Status platinum - Bem-vindo* email.
 

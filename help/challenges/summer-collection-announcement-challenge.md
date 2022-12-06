@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
 source-wordcount: '1138'
 ht-degree: 3%
@@ -45,7 +45,7 @@ A equipe de marketing do Luma solicita que você implemente uma campanha de mark
 
 * Crie um segmento no Journey Optimizer chamado `Active Customers`.
 * O segmento deve incluir somente clientes Luma ativos.
-* Os clientes ativos são definidos como clientes que têm um nível no programa de fidelidade do Luma (prata, ouro, platina ou diamante).
+* Os clientes ativos são definidos como clientes que têm uma camada no programa de fidelidade do Luma (bronze, prata, ouro ou platina).
 
 
 >[!TAB Critérios de sucesso]

@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
+source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 4%
@@ -57,7 +57,7 @@ Teste a jornada:
 1. Certifique-se de que a variável [!UICONTROL Ler atividade do segmento] tem [!UICONTROL namespace] defina como **[!DNL Luma CRM id(lumaCrmId)]**
 2. Substituir o padrão [!UICONTROL parâmetros de email] e defini-lo como seu próprio endereço de email
 
-+++ Clique aqui para obter mais informações sobre como substituir o [!Parâmetros de email UICONTROL].
++++Clique aqui para obter mais informações sobre como substituir o [!Parâmetros de email UICONTROL].
 
 * Mostre os valores ocultos clicando no símbolo dos olhos.
 * No [!UICONTROL Parâmetros de email], clique no símbolo T (ativar substituição de parâmetro)

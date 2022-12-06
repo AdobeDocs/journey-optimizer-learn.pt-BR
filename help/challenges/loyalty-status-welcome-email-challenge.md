@@ -7,16 +7,16 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
+source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '445'
 ht-degree: 4%
 
 ---
 
 # Crie um email de boas-vindas com o status de fidelidade - Desafio
 
-![Status de fidelidade do AJO e-mail de boas-vindas - Banner de desafios](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
+![Status de fidelidade email de boas-vindas - Banner de desafio](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
 
 | Desafio | Criar um email de boas-vindas do status de fidelidade |
 |---|---|
@@ -40,37 +40,37 @@ Você foi solicitado a configurar uma jornada que envia automaticamente um email
 
 Quando um cliente de fidelidade se qualifica para o nível platinum, ele deve receber um e-mail para parabenizá-lo e informá-lo sobre seus novos benefícios. A equipe criativa forneceu um arquivo HTML **[Luma - atualização de status - e-mail de boas-vindas](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** com o corpo do email.
 
-1. Crie um segmento no Journey Optimizer chamado `Luma – status upgrade`.
-2. Crie uma jornada chamada &#39;Luma - New Status - platinum&#39;.
+1. Crie um [!UICONTROL segmento] no Journey Optimizer chamado `Luma – status upgrade`.
+2. Crie uma jornada chamada `Luma – New Status – platinum`.
    1. Um cliente se move para a jornada, quando se qualifica para o nível de fidelidade platinum.
-   2. O cliente deve receber uma mensagem de email rotulada `Luma – Platinum Status - Welcome`, com a linha de assunto `Welcome to Platinum Status, (recipient's first name)!` com o corpo fornecido pela equipe criativa.
-   3. Ao fazer upload do arquivo HTML, você percebe que o email se refere ao status de &quot;diamante&quot;, em vez de &quot;platina&quot;. Em vez de solicitar um novo arquivo da equipe criativa, atualize o email no designer de email.
+   2. O cliente deve receber uma mensagem de email rotulada `Luma – Platinum Status - Welcome`, com a linha de assunto `Welcome to Platinum Status, (recipient's first name)!` com o corpo do email fornecido pela equipe criativa.
+   3. Ao fazer upload do arquivo HTML, você percebe que o email se refere ao status de &quot;diamante&quot;, em vez de &quot;platina&quot;. Em vez de solicitar um novo arquivo da equipe criativa, atualize o email no Designer de email.
 
 >[DICA!]
-> Certifique-se de que o Luma - Status Platinum - Email de boas-vindas é transacional.
+> Certifique-se de que o Luma - Status Platinum - Email de boas-vindas é[!UICONTROL transacional].
 
 
 >[!TAB Critérios de sucesso]
 
 Teste a jornada:
 
-1. Certifique-se de que a Atividade de leitura de segmento tenha o namespace definido como **ID do CRM Luma (lumaCrmId)**
-2. Substitua os parâmetros de email padrão e os defina como seu próprio endereço de email
+1. Certifique-se de que a variável [!UICONTROL Ler atividade do segmento] tem [!UICONTROL namespace] defina como **[!DNL Luma CRM id(lumaCrmId)]**
+2. Substituir o padrão [!UICONTROL parâmetros de email] e defini-lo como seu próprio endereço de email
 
-+++ Clique aqui para obter mais informações sobre como substituir
++++ Clique aqui para obter mais informações sobre como substituir o [!Parâmetros de email UICONTROL].
    * Mostre os valores ocultos clicando no símbolo dos olhos.
-   * Nos parâmetros de Email , clique no símbolo T (ativar substituição de parâmetro)
+   * No [!UICONTROL Parâmetros de email], clique no símbolo T (ativar substituição de parâmetro)
 
    ![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
 
-   * Clique no campo Endereço
+   * Clique no botão [!UICONTROL Campo Endereço]
    * Na próxima tela, adicione o endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em ok.
 +++
 
 
 3. Defina a jornada para o modo de teste
 4. Acionar um evento
-5. Adicione a seguinte ID do CRM para Stanleigh Stooke no campo Identificador de perfil: `4f34057d9d9e792c28ba18ecae378e98`
+5. Adicione o seguinte [!DNL CRM ID] para [!DNL Stanleigh Stooke] na [!UICONTROL Identificador de perfil] campo : `4f34057d9d9e792c28ba18ecae378e98`
 
 Você deve receber o *Luma - Status platinum - Bem-vindo* email.
 

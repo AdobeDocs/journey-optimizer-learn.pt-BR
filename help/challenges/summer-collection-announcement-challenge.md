@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: cfd438e198fdf62859569eed0c6ac22087ddbc75
+source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1175'
 ht-degree: 2%
 
 ---
@@ -196,7 +196,7 @@ Visualizar o email com o perfil de teste *Louise Petti.*
 Teste a jornada e envie os emails para sua própria conta:
 
 1. Coloque a jornada no modo de teste.
-1. Selecione um único perfil de cada vez.
+1. Selecionar **[!UICONTROL Perfil único por vez]**.
 1. Tempo de espera: Defina o cronômetro como 120 segundos (digite-o no campo ).
 1. Acionar entrada do perfil
 1. Você pode testar cada ramificação usando uma das seguintes opções *Ids do CRM Luma* como identificadores de perfil:

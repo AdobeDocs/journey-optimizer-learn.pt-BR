@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
+source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '432'
 ht-degree: 4%
 
 ---
@@ -43,12 +43,8 @@ Quando um cliente de fidelidade se qualifica para o nível platinum, ele deve re
 1. Crie um [!UICONTROL segmento] no Journey Optimizer chamado `Luma – status upgrade`.
 2. Crie uma jornada chamada `Luma – New Status – platinum`.
    1. Um cliente se move para a jornada, quando se qualifica para o nível de fidelidade platinum.
-   2. O cliente deve receber uma mensagem de email rotulada `Luma – Platinum Status - Welcome`, com a linha de assunto `Welcome to Platinum Status, (recipient's first name)!` com o corpo do email fornecido pela equipe criativa.
+   2. O cliente deve receber uma mensagem de email rotulada `Luma – Platinum Status - Welcome`, com a linha de assunto `Welcome to Platinum Status, (recipient's first name)!` com o corpo do email fornecido pela equipe criativa. Isso é uma [!UICONTROL transacional] Correio eletrônico.
    3. Ao fazer upload do arquivo HTML, você percebe que o email se refere ao status de &quot;diamante&quot;, em vez de &quot;platina&quot;. Em vez de solicitar um novo arquivo da equipe criativa, atualize o email no Designer de email.
-
->[DICA!]
-> Certifique-se de que o Luma - Status Platinum - Email de boas-vindas é[!UICONTROL transacional].
-
 
 >[!TAB Critérios de sucesso]
 
@@ -69,7 +65,7 @@ Teste a jornada:
 4. Acionar um evento
 5. Adicione o seguinte [!DNL CRM ID] para [!DNL Stanleigh Stooke] na [!UICONTROL Identificador de perfil] campo : `4f34057d9d9e792c28ba18ecae378e98`
 
-Você deve receber o *Luma - Status platinum - Bem-vindo* email.
+**Resultado:** Você deve receber o *Luma - Status platinum - Bem-vindo* email.
 
 >[!TAB Verificar o seu trabalho]
 

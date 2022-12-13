@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 9%
+source-wordcount: '224'
+ht-degree: 8%
 
 ---
 
@@ -37,7 +37,7 @@ Assista ao vídeo [Criar eventos](/help/set-up-journeys/create-events.md) para o
    | [!UICONTROL TIPO] | [!UICONTROL Unitário] |
    | [!UICONTROL Tipo de ID do evento] | [!UICONTROL Baseado em regras] |
    | [!UICONTROL Esquema] | Interações do produto Luma |
-   | [!UICONTROL Campos] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>Em Itens da lista de produtos > Produtos Luma > _*[!DNL yourOrganizationID]* > Produto:</b> <br> Nome<br>Preço<br>ProductImageURL<br>ProductURL |
+   | [!UICONTROL Campos] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>Em Itens da Lista de Produtos > Esquema do Catálogo de Produtos Luma > _*[!DNL yourOrganizationID]* > Produto:</b> <br> Nome<br>Preço<br>ProductImageURL<br>ProductURL |
 
 1. Adicione o [!UICONTROL Condição de ID de evento]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
 
@@ -49,9 +49,9 @@ Assista ao vídeo [Criar eventos](/help/set-up-journeys/create-events.md) para o
 
 ![Adicionar condição de evento](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
-1. Selecionar [!UICONTROL NAMESPACE]: `Email(Email)`
+1. Selecionar [!UICONTROL NAMESPACE]: `Luma CRM ID (lumaCrmId)`
 
-1. Selecione **[!UICONTROL Salvar]**.
+2. Selecione **[!UICONTROL Salvar]**.
 
 ## Criar *[!DNL Luma Wishlist Add]* Evento
 

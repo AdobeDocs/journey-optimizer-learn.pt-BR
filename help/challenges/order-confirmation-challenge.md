@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '706'
 ht-degree: 4%
 
 ---
@@ -39,16 +39,15 @@ Crie uma jornada que envia um email de confirmação de pedido quando um cliente
 
 >[!TAB Tarefa]
 
-1. Crie uma jornada chamada &quot;sua confirmação de nome _pedido&quot;
-2. Use o evento : [!DNL LumaOnlinePurchase] como um acionador
-
-3. Crie o email de confirmação do pedido:
+1. Crie uma jornada chamada `Luma - Order Confirmation`
+1. Use o evento : [!DNL LumaOnlinePurchase] como um acionador
+1. Crie o email de confirmação do pedido chamado `Luma - Order Confirmation`
 
 * Transacional de categoria - selecione a superfície de email transacional
 * A linha de assunto deve ser personalizada com o nome dos recipients e deve incluir a frase &quot;obrigado pela sua compra&quot;
+* Use o **Luma - Resumo do pedido** e modificá-lo:
 
-De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte maneira - você pode usar o **Luma - Resumo do pedido** e modificá-lo:
-
+De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte maneira:
 <table>
 <tr>
 <td>
@@ -79,22 +78,30 @@ De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte
     <strong>Texto</strong><p>
     <em>Ei {nome}</em><p>
     <li>Alinhamento: left  </li>
-   <li>Cor do texto: rgb(101, 106, 119); tamanho da fonte:14px</li>
-    <li>Preenchimento: esquerda (95), direita (95)</li><div>
+   <li>Cor do texto: rgb(69, 97, 162) #4461a2; 
+   <li>tamanho da fonte: 20px</li>
+   <div>
     <p>
      <em>Seu pedido foi feito.
     <p>Quando o pacote for enviado, enviaremos um email com um número de rastreamento para que você possa rastrear seu pedido.</p></em>
-    </strong><p>
-    <li>Alinhamento: left  </li>
-    <li>Cor do texto: rgb(101, 106, 119); tamanho da fonte:14px </li>
-    <li>Preenchimento: esquerda (95), direita (95)</li><div>
-    </a><p>
-    <em>Enviar para:<p>
-    <p>Sobrenome do nome</p>
-    Rua<p>
-    Cidade, Estado, Código Postal</p></em>
-    <strong>Botão:</strong></p>
-   <p><em>Exibir pedido</em></p>
+    </strong>
+    </tr>
+  </td>
+ <td>
+  <div>
+     <strong> Seção Entregar para</strong>
+      </div>
+      <p><li>Substitua o endereço codificado no modelo pela carga de endereço do perfil
+      <li> Remover o Desconto, Total, Chegando</p>
+  </td>
+  <td>
+  <p> Enviar para:</p>
+      <em>Sobrenome do nome<br>
+      Rua<br>
+      Cidade, Estado, Código Postal</em></p>
+
+    &lt;strong>Botão:&lt;/strong>&lt;/p>
+<p><em>Exibir pedido</em></p>
       <li>Cor do plano de fundo: rgb(25, 121, 195)</li>
       <li>Cor do texto: Branco</li>
       <li>Sem borda</li>
@@ -107,11 +114,13 @@ De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte
   <div>
      <strong>Seção Detalhes do Pedido</strong>
       </div>
-      <p>Dicas:
-      <li>Essas são informações de evento contextual.</li>
-      <li>Use a função auxiliar: Cada</li>
-      <li>Alterne para o formato do editor de códigos para adicionar os dados contextuais. <li>
-      <li>Coloque as informações em contêineres usando tags DIV.</li>
+       <p><li>Adicione esta seção entre as <b>Entregar para</b> e a <b>Exibir pedido</b> botão
+      </p><br>
+      <p><b>Dicas:</b>
+      <li>Essas são informações de evento contextual.
+      <li>Use a função auxiliar !UICONTROL]: [!UICONTROL Cada]
+      <li>Alterne para o formato do editor de códigos para adicionar os dados contextuais.
+      <li>Coloque as informações em contêineres usando tags DIV.
   </td>
   <td>
     <strong>Header</strong>
@@ -156,8 +165,7 @@ De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte
 >
 >Para permitir que você solucione problemas em suas jornadas, a prática recomendada é adicionar um caminho alternativo a todas as ações de mensagem em caso de tempo limite ou erro.
 
-
->[!TAB Verificar o seu trabalho]
+>[!TAB Critérios de sucesso]
 
 Acione a Jornada criada no modo de teste e envie o email para você mesmo:
 
@@ -186,7 +194,8 @@ Você deve receber o email de confirmação de compra personalizado, com o produ
    43913 Thierer Terrace, Washington DC 2009
 
 
->[!TAB Critérios de sucesso]
+
+>[!TAB Verificar o seu trabalho]
 
 ** Jornada
 

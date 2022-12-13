@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '701'
 ht-degree: 4%
 
 ---
@@ -41,13 +41,13 @@ Crie uma jornada que envia um email de confirmação de pedido quando um cliente
 
 1. Crie uma jornada chamada `Luma - Order Confirmation`
 1. Use o evento : [!DNL LumaOnlinePurchase] como um acionador
-1. Crie o email de confirmação do pedido chamado `Luma - Order Confirmation`
+1. Crie o email de confirmação do pedido chamado `Luma - Order Confirmation`:
 
 * Transacional de categoria - selecione a superfície de email transacional
 * A linha de assunto deve ser personalizada com o nome dos recipients e deve incluir a frase &quot;obrigado pela sua compra&quot;
 * Use o **Luma - Resumo do pedido** e modificá-lo:
 
-De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte maneira:
+O email deve ser estruturado da seguinte maneira:
 <table>
 <tr>
 <td>
@@ -118,7 +118,7 @@ De acordo com a diretriz da marca Luma, o email deve ser estruturado da seguinte
       </p><br>
       <p><b>Dicas:</b>
       <li>Essas são informações de evento contextual.
-      <li>Use a função auxiliar !UICONTROL]: [!UICONTROL Cada]
+      <li>Use a função auxiliar [!UICONTROL]: [!UICONTROL Cada]
       <li>Alterne para o formato do editor de códigos para adicionar os dados contextuais.
       <li>Coloque as informações em contêineres usando tags DIV.
   </td>

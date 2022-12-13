@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '430'
 ht-degree: 4%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 4%
 
 ## A História
 
-O Luma oferece um programa de fidelidade como uma maneira de atrair e manter seus clientes. O programa oferece quatro níveis diferentes: Bronze, prata, ouro e platina. Cada nível de fidelidade recebe diferentes níveis ou recompensas, descontos e outros incentivos especiais como recompensa para seus negócios repetidos.
+O Luma oferece um programa de fidelidade como uma maneira de atrair e manter seus clientes. O programa oferece quatro níveis diferentes: Bronze, prata, ouro e platina. Cada nível de fidelidade recebe diferentes recompensas, descontos e outros incentivos especiais como recompensa para seus negócios repetidos.
 
 Sublinhar o status de platina especial. O Luma deseja enviar um email de boas-vindas para os clientes, quando eles atingirem a camada de platina.
 

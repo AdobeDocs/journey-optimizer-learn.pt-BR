@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '671'
 ht-degree: 4%
 
 ---
@@ -33,19 +33,19 @@ A Luma está lançando sua loja online e deseja garantir uma boa experiência do
 
 ## Seu desafio
 
-Crie uma jornada que envia um email de confirmação de pedido quando um cliente Luma conclui um pedido online.
+Crie uma jornada que envia um email de confirmação de pedido quando um cliente Luma conclui um pedido online. O Luma
 
 >[!BEGINTABS]
 
 >[!TAB Tarefa]
 
 1. Crie uma jornada chamada `Luma - Order Confirmation`
-1. Use o evento : [!DNL LumaOnlinePurchase] como um acionador
-1. Crie o email de confirmação do pedido chamado `Luma - Order Confirmation`:
+2. Use o evento : `LumaOnlinePurchase` como um acionador
+3. Crie o email de confirmação do pedido chamado `Luma - Order Confirmation`:
 
 * Transacional de categoria - selecione a superfície de email transacional
 * A linha de assunto deve ser personalizada com o nome dos recipients e deve incluir a frase &quot;obrigado pela sua compra&quot;
-* Use o **Luma - Resumo do pedido** e modificá-lo:
+* Use o `Luma - Order summary` e modificá-lo:
 
 O email deve ser estruturado da seguinte maneira:
 <table>
@@ -59,7 +59,6 @@ O email deve ser estruturado da seguinte maneira:
     <strong>Logotipo Luma</strong>
       <p>
      <li>luma_logo.png</li>
-    <li>Tamanho 35%, fundo branco centralizado </li>
     <li>Ele deve ter um link para o site do luma: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
     </td>
@@ -71,9 +70,6 @@ O email deve ser estruturado da seguinte maneira:
     </strong>
   </td>
   <td>
-    <strong>Imagem</strong><p>
-    <li>luma-transactional-order-confirmation-2.jpg </li>
-    <li>Margem: Superior, inferior (10)<div>
     <p>
     <strong>Texto</strong><p>
     <em>Ei {nome}</em><p>
@@ -91,23 +87,15 @@ O email deve ser estruturado da seguinte maneira:
   <div>
      <strong> Seção Entregar para</strong>
       </div>
-      <p><li>Substitua o endereço codificado no modelo pela carga de endereço do perfil
+      <p><li>Substitua o endereço codificado no modelo pelo endereço de envio 
+      <li>Os detalhes são atributos contextuais do evento (rua, cidade, código postal, estado)
+      <li>O nome e o sobrenome são do perfil
       <li> Remover o Desconto, Total, Chegando</p>
   </td>
   <td>
   <p> Enviar para:</p>
       <em>Sobrenome do nome<br>
-      Rua<br>
-      Cidade, Estado, Código Postal</em></p>
-
-    &lt;strong>Botão:&lt;/strong>&lt;/p>
-<p><em>Exibir pedido</em></p>
-      <li>Cor do plano de fundo: rgb(25, 121, 195)</li>
-      <li>Cor do texto: Branco</li>
-      <li>Sem borda</li>
-      <li>Altura: 40º</li>
-      <li>Adicionar um link a um site de sua escolha </li>
-      <li>Alinha à esquerda com o texto acima (dica: usar a margem do contêiner)</li>
+      Endereço<br></em></p>
   </td>
  <tr>
 <td>

@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 8%
+source-wordcount: '204'
+ht-degree: 9%
 
 ---
 
@@ -36,10 +36,10 @@ Assista ao vídeo [Criar eventos](/help/set-up-journeys/create-events.md) para o
    | [!UICONTROL NOME] | `LumaOnlinePurchase` |
    | [!UICONTROL TIPO] | [!UICONTROL Unitário] |
    | [!UICONTROL Tipo de ID do evento] | [!UICONTROL Baseado em regras] |
-   | [!UICONTROL Esquema] | Interações do produto Luma |
-   | [!UICONTROL Campos] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>Em Itens da Lista de Produtos > Esquema do Catálogo de Produtos Luma > _*[!DNL yourOrganizationID]* > Produto:</b> <br> Nome<br>Preço<br>ProductImageURL<br>ProductURL |
+   | [!UICONTROL Esquema] | `Luma Web Events Schema` |
+   | [!UICONTROL Campos] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. Adicione o [!UICONTROL Condição de ID de evento]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
+2. Adicione o [!UICONTROL Condição de ID de evento]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. Selecione o ícone de lápis para editar o campo
    2. No [!UICONTROL Adicionar uma condição de ID de evento] modal, arraste e solte a variável `eventType` sobre a tela

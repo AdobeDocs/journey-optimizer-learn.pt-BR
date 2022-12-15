@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '692'
 ht-degree: 4%
 
 ---
@@ -113,7 +113,7 @@ O email deve ser estruturado da seguinte maneira:
   <td>
     <strong>Header</strong>
     <p>
-    <em>Pedido {Número do Pedido de Compra}</em>
+    <em>Pedido: "purchaseOrderNumber"</em>
     </p>
     <strong>Lista de produtos encomendados:
   </strong>
@@ -164,7 +164,7 @@ Acione a Jornada criada no modo de teste e envie o email para você mesmo:
    3. Na próxima tela, adicione o endereço de email entre parênteses: *yourname@yourdomain* no editor de expressão e clique em ok.
 2. Coloque a jornada no modo de teste
 3. Acione o evento com os seguintes parâmetros:
-   * Defina o identificador do perfil para: Jenna_Palmer9530@emailsim.io
+   * Defina o identificador do perfil para: Valor de identidade:`a8f14eab3b483c2b96171b575ecd90b1`
    * Tipo de evento: commerce.purches
    * Nome: Sprite Yoga Companion Kit
    * Quantidade: 1
@@ -172,12 +172,13 @@ Acione a Jornada criada no modo de teste e envie o email para você mesmo:
    * Número do pedido: 6253728
    * SKU: 24-WG080
    * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+   * 
 
 Você deve receber o email de confirmação de compra personalizado, com o produto especificado.
 
-* A linha de assunto deve começar com o nome do seu perfil de teste: Jenna
+* A linha de assunto deve ter o nome do perfil de teste: Leora
 * A seção de detalhes do pedido deve ser preenchida com os detalhes do pedido inseridos durante o teste
-* As informações do cliente devem ter a cidade e o código postal do perfil de teste:
+* O *Entregar para* deve ter a cidade e o código postal do perfil de teste:
 
    43913 Thierer Terrace, Washington DC 2009
 
@@ -185,17 +186,30 @@ Você deve receber o email de confirmação de compra personalizado, com o produ
 
 >[!TAB Verificar o seu trabalho]
 
-** Jornada
+**Jornada**
 
 ![Jornada](/help/challenges/assets/c2-journey.png)
 
 
-** Email
+**Email**
 
 **Linha de assunto:**
 
 {{ profile.person.name.firstName }}, obrigado pela sua compra!
 
+**Seção Enviar para:**
+
+Esta é a aparência do código:
+
+```javascript
+{{ profile.person.name.firstName }} {{ profile.person.name.lastName }}
+{{context.journey.events.454181416.commerce.shipping.address.street1}}
+{{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
+```
+
+*event.45481416* será um número diferente para você.
+
+DICA: Personalizar cada linha separadamente
 
 **Seção de detalhes da ordem:**
 

@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 4%
@@ -63,7 +63,7 @@ Teste a jornada:
 
 3. Defina a jornada para o modo de teste
 4. Acionar um evento
-5. Adicione o seguinte [!DNL CRM ID] para [!DNL Stanleigh Stooke] na [!UICONTROL Identificador de perfil] campo : `4f34057d9d9e792c28ba18ecae378e98`
+5. Adicione o seguinte [!DNL CRM ID] para `Stanleigh Stooke` na [!UICONTROL Identificador de perfil] campo : `4f34057d9d9e792c28ba18ecae378e98`
 
 **Resultado:** Você deve receber o *Luma - Status platinum - Bem-vindo* email.
 

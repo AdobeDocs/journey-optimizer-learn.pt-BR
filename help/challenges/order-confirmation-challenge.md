@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
+source-git-commit: 2bf17de2d6911fd288e257a42000bb5505e04c08
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 4%
+source-wordcount: '698'
+ht-degree: 5%
 
 ---
 
@@ -88,21 +88,21 @@ O email deve ser estruturado da seguinte maneira:
      <strong> Seção Entregar para</strong>
       </div>
       <p><li>Substitua o endereço codificado no modelo pelo endereço de envio 
-      <li>Os detalhes são atributos contextuais do evento (rua, cidade, código postal, estado)
+      <li>Os detalhes do endereço são atributos contextuais do evento (rua, cidade, código postal, estado)
       <li>O nome e o sobrenome são do perfil
       <li> Remover o Desconto, Total, Chegando</p>
   </td>
   <td>
   <p> Enviar para:</p>
       <em>Sobrenome do nome<br>
-      Endereço<br></em></p>
+     Endereço</em></p>
   </td>
  <tr>
 <td>
   <div>
      <strong>Seção Detalhes do Pedido</strong>
       </div>
-       <p><li>Adicione esta seção entre as <b>Entregar para</b> e a <b>Exibir pedido</b> botão
+       <p><li>Adicione esta seção após a <b>Entregar para</b> e a <b>Exibir pedido</b> botão.
       </p><br>
       <p><b>Dicas:</b>
       <li>Essas são informações de evento contextual.
@@ -168,11 +168,14 @@ Acione a Jornada criada no modo de teste e envie o email para você mesmo:
    * Tipo de evento: commerce.purches
    * Nome: Sprite Yoga Companion Kit
    * Quantidade: 1
-   * Preço total: 61º
-   * Número do pedido: 6253728
-   * SKU: 24-WG080
-   * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
-   * 
+   * `Price Total:` 61º
+   * `Purchase Order Number:` 6253728
+   * `SKU:` 24-WG080
+   * `productImageURL:` <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+   * `City:` San Jose
+   * `Postal Code:` 95110
+   * `State`: CA
+   * `Street:` 345 Park Ave
 
 Você deve receber o email de confirmação de compra personalizado, com o produto especificado.
 
@@ -223,19 +226,21 @@ Header:
 Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 ```
 
-Lista de produtos:
+**Lista de produtos:**
 
 Use a função auxiliar &quot;each&quot; para criar a lista de produtos. Esta é a aparência do código:
 
 ```javascript
-{{#each context.journey.events.1911672547.productListItems as|product|}}
-<div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product._wwfovlab065.productImageURL}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-<h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.priceTotal}}.00</h5>
-<div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.name}}</div><div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div></div><div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
+{{#each context.journey.events.454181416.productListItems as |product|}}
+<div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.productImageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
+<h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}.00</h5>
+<div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div><div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div></div><div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
 {{/each}}
-
-Total: ${{context.journey.events.1627840522.commerce.order.priceTotal}} 
 ```
+
+**Preço total:**
+
+Total:`${{context.journey.events.1627840522.commerce.order.priceTotal}}`
 
 **Seção de informações do cliente**
 

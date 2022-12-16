@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 2bf17de2d6911fd288e257a42000bb5505e04c08
+source-git-commit: 4268144ade6588e48fc38cae7e542c227af96827
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '686'
 ht-degree: 5%
 
 ---
@@ -168,7 +168,7 @@ Acione a Jornada criada no modo de teste e envie o email para você mesmo:
    * Tipo de evento: commerce.purches
    * Nome: Sprite Yoga Companion Kit
    * Quantidade: 1
-   * `Price Total:` 61º
+   * `Price Total:` 61
    * `Purchase Order Number:` 6253728
    * `SKU:` 24-WG080
    * `productImageURL:` <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
@@ -181,11 +181,6 @@ Você deve receber o email de confirmação de compra personalizado, com o produ
 
 * A linha de assunto deve ter o nome do perfil de teste: Leora
 * A seção de detalhes do pedido deve ser preenchida com os detalhes do pedido inseridos durante o teste
-* O *Entregar para* deve ter a cidade e o código postal do perfil de teste:
-
-   43913 Thierer Terrace, Washington DC 2009
-
-
 
 >[!TAB Verificar o seu trabalho]
 
@@ -228,14 +223,21 @@ Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 
 **Lista de produtos:**
 
-Use a função auxiliar &quot;each&quot; para criar a lista de produtos. Esta é a aparência do código:
+Use a função auxiliar &quot;each&quot; para criar a lista de produtos. Exiba-as em uma tabela. Esta é a aparência do código:
 
 ```javascript
-{{#each context.journey.events.454181416.productListItems as |product|}}
-<div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.productImageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-<h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}.00</h5>
-<div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div><div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div></div><div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
-{{/each}}
+<div class="text-container" contenteditable="true">
+  <p><span class="acr-expression-field" contenteditable="false">{{#each context.journey.events.454181416.productListItems as |product|}}
+    </span></p>
+  <div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
+    <h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</h5>
+    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div>
+    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div>
+  </div>
+  <div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
+  {{/each}}<p></p>
+  <p></p>
+</div>
 ```
 
 **Preço total:**

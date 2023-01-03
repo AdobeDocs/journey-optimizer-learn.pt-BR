@@ -8,7 +8,7 @@ exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -20,4 +20,4 @@ Saiba como as marcas podem usar os recursos de gestão de decisões para definir
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso. [Introdução ao gerenciamento de decisões para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Introdução à Gestão de decisões para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), que está disponível gratuitamente na Experience League.

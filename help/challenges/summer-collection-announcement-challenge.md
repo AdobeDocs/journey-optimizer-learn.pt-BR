@@ -8,7 +8,7 @@ last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1175'
 ht-degree: 100%
 
@@ -181,13 +181,15 @@ Visualizar o email com o perfil de teste *Louise Petti.*
 >
 >1. Certifique-se de que a [!UICONTROL Atividade Ler segmento] tem o namespace definido como **ID do CRM da Luma (lumaCrmId)**
 >1. Para cada email, substitua os parâmetros de email padrão nos emails de modo que eles sejam enviados para seu endereço de email:
->    * Exiba os valores ocultos clicando no ícone de olho.
->    * Nos parâmetros de email, clique no ícone de T (habilitar a substituição de parâmetro).
->
->      ![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Clique no campo [!UICONTROL Endereço]
->    * Na próxima tela, adicione seu endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em OK.
+   >    * Exiba os valores ocultos clicando no ícone de olho.
+   >    * Nos parâmetros de email, clique no ícone de T (habilitar a substituição de parâmetro).
+
+      >
+      >      ![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Clique no campo [!UICONTROL Endereço]
+   >    * Na próxima tela, adicione seu endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em OK.
+
 >
 
 

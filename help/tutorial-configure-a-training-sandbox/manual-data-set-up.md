@@ -52,7 +52,7 @@ Comece criando um [!UICONTROL namespace] para [!DNL Luma Loyalty ID] schema:
 
 ## Etapa 2: Criar esquemas
 
-Nesta etapa, é possível definir a estrutura dos dados de amostra criando seis [[!UICONTROL esquemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
+Nesta etapa, é possível definir a estrutura dos dados de amostra criando seis [[!UICONTROL esquemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=pt-BR):
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 
@@ -169,7 +169,7 @@ Agora você tem o [!UICONTROL namespace] e [!DNL Luma Loyalty schema] configurad
 
    2. Selecione o campo **[!DNL loyaltyId]**.
 
-   3. No **[!UICONTROL Propriedades do campo]**, ative o **[!UICONTROL Identidade]** caixa.
+   3. No **[!UICONTROL Propriedades do campo]**, ativar a **[!UICONTROL Identidade]** caixa.
 
    4. Ative o **[!UICONTROL Identidade principal]** caixa.
 
@@ -187,7 +187,7 @@ Agora você tem o [!UICONTROL namespace] e [!DNL Luma Loyalty schema] configurad
 
    2. Selecione o campo `crmId`.
 
-   3. No **[!UICONTROL Propriedades do campo]**, ative o **[!UICONTROL Identidade]** caixa.
+   3. No **[!UICONTROL Propriedades do campo]**, ativar a **[!UICONTROL Identidade]** caixa.
 
    4. Selecione o `Luma CRM Id` namespace de **[!UICONTROL Namespaces de identidade]** lista suspensa.
 

@@ -9,7 +9,7 @@ exl-id: 03428751-340f-4400-9162-b0f3021f1af1
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Para saber mais sobre como criar atividades de ofertas personalizadas com uma AP
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso. [Introdução ao gerenciamento de decisões para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Introdução à Gestão de decisões para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), que está disponível gratuitamente na Experience League.

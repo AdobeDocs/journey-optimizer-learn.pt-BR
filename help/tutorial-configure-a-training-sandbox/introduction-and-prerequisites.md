@@ -10,7 +10,7 @@ exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
 source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '349'
-ht-degree: 6%
+ht-degree: 10%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 Este tutorial foi projetado para administradores e engenheiros de dados que têm a tarefa de fornecer um ambiente de treinamento da Adobe Journey Optimizer. Saiba mais sobre as etapas necessárias para configurar os esquemas, assimilar dados de amostra e criar eventos. Você também criará três perfis de teste que permitem aos alunos verificar seu trabalho.
 
-Os dados de amostra fornecidos são baseados em uma empresa ficcional de vestuário atlético chamada _[!DNL Luma]_. [!DNL Luma] O tem lojas em vários países, uma presença online com um site e aplicativos móveis. [!DNL Luma] O usa o Adobe Journey Optimizer para fornecer experiências conectadas, contextuais e personalizadas aos clientes.
+Os dados de amostra fornecidos são baseados em uma empresa ficcional de vestuário atlético chamada _[!DNL Luma]_. [!DNL Luma] O tem lojas em vários países, uma presença online com um site e aplicativos móveis. [!DNL Luma]A usa o Adobe Journey Optimizer para fornecer experiências conectadas, contextuais e personalizadas aos seus clientes.
 
 No final deste tutorial, você terá uma sandbox compatível com o [!DNL Luma] casos de utilização abrangidos pelos exercícios práticos no [Desafios da Journey Optimizer](/help/challenges/introduction-and-prerequisites.md) seção.
 
@@ -43,7 +43,7 @@ Antes de começar a configurar a sandbox de treinamento, verifique se você tem:
 
       Esses arquivos contêm os dados de amostra que você assimila na sandbox.
 
-   1. Abra cada arquivo e localize **`yourOrganizationID`** e substitua-o pelo [ID da organização](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
+   1. Abra cada arquivo e localize **`yourOrganizationID`** e substitua-o pelo [ID da organização](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=pt-BR).
 
    1. Salve os arquivos.
 

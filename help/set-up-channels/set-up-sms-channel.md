@@ -8,15 +8,13 @@ doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
-exl-id: 8b96e3b0-84f4-4aa8-b2f5-1bf30e3e4106
-hide: true
-hidefromtoc: true
-source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
+source-git-commit: 40efb3a43e45e865552d5de7fe069df9b8f549b0
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
+
 
 # Configurar credenciais da API de SMS e superfícies de canal
 

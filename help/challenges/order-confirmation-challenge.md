@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
+source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 61%
+source-wordcount: '653'
+ht-degree: 50%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 61%
 | Desafio | Criar um email transacional de confirmação de pedido |
 |---|---|
 | Perfil | Gerenciador de Jornadas |
-| Competências necessárias | <ul><li>[Criar conteúdo de email com o editor de mensagens](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=pt-BR)</li> <li>[Usar informações de evento contextual para personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=pt-BR)</li><li>[Usar funções auxiliares para personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=pt-br)</li></ul> |
+| Competências necessárias | <ul><li>[Criar conteúdo de email com o editor de mensagens](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Usar informações de evento contextual para personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=pt-BR)</li><li>[Usar funções auxiliares para personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=pt-br)</li></ul> |
 | Ativos para baixar | [Ativos de confirmação de pedido](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 ## A História
@@ -129,7 +129,7 @@ O objeto deve ser estruturado da seguinte maneira:
 
 >[!TIP]
 >
->Para permitir que você solucione problemas em suas jornadas, a prática recomendada é adicionar um caminho alternativo a todas as ações de mensagem em caso de esgotar o tempo ou um erro.
+>Para permitir que você solucione problemas em suas jornadas, a prática recomendada é adicionar um caminho alternativo a todas as ações de mensagem, se houver um tempo limite ou erro.
 
 >[!TAB Critérios de sucesso]
 
@@ -137,7 +137,7 @@ Acione a Jornada criada no modo de teste e envie o email para você mesmo:
 
 1. Antes de alternar para o modo de teste, substitua os parâmetros de email para enviar ao email de teste para seu endereço de email:
    1. Abra a visualização de detalhes do email.
-   2. Nos Parâmetros de email, clique no ícone de T (habilitar a substituição de parâmetro)
+   2. Na seção Parâmetros de email , clique no símbolo T (ativar substituição de parâmetro)
    3. Clique no campo Endereço
    4. Na próxima tela, adicione o endereço de email entre parênteses: *&quot;yourname@yourdomain&quot;* no editor de expressão e clique em ok.
 2. Coloque a jornada no modo de teste
@@ -159,7 +159,7 @@ Você deve receber o email de confirmação de compra personalizado.
 
 * Este é o aspecto do corpo do email:
 
-![Email](//help/challenges/assets/c2-email.png)
+![Email](/help/challenges/assets/c2-email.png)
 
 >[!TAB Verifique o seu trabalho]
 
@@ -184,7 +184,7 @@ Obrigado pela sua compra, {{ profile.person.name.firstName }}!
 {{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
 ```
 
-*event.45481416* será um número diferente para você.
+*event.45481416* é um número diferente para você.
 
 DICA: Personalize cada linha separadamente
 
@@ -200,7 +200,7 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 
 **Lista de produtos:**
 
-Use a função auxiliar “cada” para criar a lista de produtos. Mostre-lhes em uma tabela. É com isso que o código deve ficar (com variáveis específicas, como a ID do evento - em vez de `454181416` e a sua organização I em vez de `techmarketingdemos` ):
+Use a função auxiliar “cada” para criar a lista de produtos. Mostre-lhes em uma tabela. É com isso que o código deve ficar (com variáveis específicas, como a ID do evento - em vez de `454181416` e sua organização I em vez de `techmarketingdemos` ):
 
 ```javascript
 {{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}

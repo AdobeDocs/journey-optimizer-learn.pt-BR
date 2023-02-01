@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
+source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 82%
+source-wordcount: '654'
+ht-degree: 61%
 
 ---
 
@@ -41,10 +41,9 @@ Crie uma jornada que envia um email de confirmação de pedido quando um cliente
 
 1. Crie uma jornada chamada `Luma - Order Confirmation`
 2. Use o evento : `LumaOnlinePurchase`
-3. Crie o email de confirmação do pedido chamado `Luma - Order Confirmation`:
+3. Crie um **transacional**  email chamado `Luma - Order Confirmation`
 
-* Categoria transacional - certifique-se de selecionar a superfície de email transacional
-* A linha de assunto deve ser personalizada com o nome do destinatário e deve incluir a frase &quot;obrigado pela sua compra&quot;
+* A linha de assunto &quot;Obrigado pela sua compra, `FirstName`&quot;
 * Use o modelo `Luma - Order summary` e modifique-o:
    * Remova o `You may also like` seções
    * Adicione o link de cancelamento de subscrição na parte inferior do email
@@ -60,7 +59,7 @@ O objeto deve ser estruturado da seguinte maneira:
   <td>
       <p>
      <li>luma_logo.png</li>
-    <li>Ele deve ter um link para o site da Luma: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
+    <li>O link para o site do luma deve ser enviado: https://luma.enablementadobe.com/content/luma/us/en.html</li>
     <p>
     </td>
   </tr>
@@ -73,7 +72,7 @@ O objeto deve ser estruturado da seguinte maneira:
   <td>
     <p>
     <strong>Texto</strong><p>
-    <em>Olá {firstName}</em><p>
+    <em>Ei {firstName},</em><p>
    <div>
     <p>
      <em>Seu pedido foi feito.
@@ -89,7 +88,7 @@ O objeto deve ser estruturado da seguinte maneira:
       <li>O nome e o sobrenome são do perfil
       <li>Substitua o endereço codificado no modelo pelo <b>endereço de entrega</b>
       <li>Os detalhes do endereço são atributos contextuais do evento (rua 1, cidade, código postal, estado)
-      <li> Remova o Desconto, Total, Chegando</p>
+      <li> Remover <i>Desconto, Total, Chegando</i></p>
   </td>
   <td>
   <p> Enviar para:</p>
@@ -105,7 +104,7 @@ O objeto deve ser estruturado da seguinte maneira:
        <p><li>Adicione esta seção abaixo do <b>Entregar para</b> seção.
       </p><br>
       <p><b>Dicas:</b>
-      <li>Use o componente de estrutura "1:2 coluna esquerda" para esta seção
+      <li>Usar o componente de estrutura <b>Coluna 1:2 esquerda</b> para esta seção
       <li>Essas são informações de evento contextual.
       <li>Use a [!UICONTROL helper function]: [!UICONTROL Each]
       <li>Alterne para o formato do editor de códigos para adicionar os dados contextuais.
@@ -113,13 +112,16 @@ O objeto deve ser estruturado da seguinte maneira:
   <td>
     <strong>Cabeçalho</strong>
     <p>
-    <em>Pedido: `purchaseOrderNumber`</em>
+  Pedido: <em>{purchaseOrderNumber}</em>
     </p>
     <strong>Lista de produtos encomendados:
  </strong>
-  <p>Cada um dos itens deve ser formatado desta forma:
- <img alt="pedido" src="./assets/c2-order.png"> 
-</p>
+  <p>Liste cada produto na ordem com uma imagem, o preço e o nome.
+  <p>O layout de cada item deve ser semelhante a:
+   <img alt="pedido" src="./assets/c2-order.png"> 
+<p><b>Adicionar o link ao carrinho</b>
+<p>Substitua a ID do pedido no URL pelo número do pedido de compra:
+   <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
 </table>
@@ -133,28 +135,31 @@ O objeto deve ser estruturado da seguinte maneira:
 
 Acione a Jornada criada no modo de teste e envie o email para você mesmo:
 
-1. Mostre os valores ocultos clicando no ícone do olho:
-   1. Nos Parâmetros de email, clique no ícone de T (habilitar a substituição de parâmetro)
-      ![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
-   2. Clique no campo Endereço
-   3. Na próxima tela, adicione o seu endereço de email entre parênteses: *seunome@seudominio* no editor de expressão e clique em OK.
+1. Antes de alternar para o modo de teste, substitua os parâmetros de email para enviar ao email de teste para seu endereço de email:
+   1. Abra a visualização de detalhes do email.
+   2. Nos Parâmetros de email, clique no ícone de T (habilitar a substituição de parâmetro)
+   3. Clique no campo Endereço
+   4. Na próxima tela, adicione o endereço de email entre parênteses: *&quot;yourname@yourdomain&quot;* no editor de expressão e clique em ok.
 2. Coloque a jornada no modo de teste
 3. Acione o evento com os seguintes parâmetros:
    * Defina o identificador do perfil para: Valor de identidade:`a8f14eab3b483c2b96171b575ecd90b1`
    * Tipo de evento: Compras de comércio
    * `Quantity`: 1
    * `Price Total:` 69
-   * `Purchase Order Number:` 6253728
+   * `Purchase Order Number:` 90845952-c2ea-4872-8466-5289183e4607
    * `SKU:` LLMH09
-   * `City:` Washington
-   * `Postal Code:` 20099
-   * `State`: DC
-   * `Street:` Thierer Terrace
+   * `City:`San Jose
+   * `Postal Code:` 95119
+   * `State`: CA
+   * `Street:` 245 Park Avenue
 
-Você deve receber o email de confirmação de compra personalizado, com o produto especificado.
+Você deve receber o email de confirmação de compra personalizado.
 
 * A linha de assunto deve ter o nome do perfil de teste: Leora
-* A seção de detalhes do pedido deve ser preenchida com os detalhes do pedido inseridos durante o teste
+
+* Este é o aspecto do corpo do email:
+
+![Email](//help/challenges/assets/c2-email.png)
 
 >[!TAB Verifique o seu trabalho]
 
@@ -168,10 +173,6 @@ Você deve receber o email de confirmação de compra personalizado, com o produ
 **Linha de assunto:**
 
 Obrigado pela sua compra, {{ profile.person.name.firstName }}!
-
-Este é o aspecto do corpo do email:
-
-![Email](//help/challenges/assets/c2-email.png)
 
 **Seção Enviar para:**
 
@@ -202,8 +203,12 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 Use a função auxiliar “cada” para criar a lista de produtos. Mostre-lhes em uma tabela. É com isso que o código deve ficar (com variáveis específicas, como a ID do evento - em vez de `454181416` e a sua organização I em vez de `techmarketingdemos` ):
 
 ```javascript
-{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p><p>Quantity: {{context.journey.events.454181416.productListItems.quantity}}</p></div></div></th></tr> {{/each}}
+{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
 ```
+
+**Botão Exibir pedido:**
+
+`https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId={{context.journey.events.454181416.commerce.order.purchaseOrderNumber}}`
 
 **Preço total:**
 

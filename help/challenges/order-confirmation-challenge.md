@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 4268144ade6588e48fc38cae7e542c227af96827
+source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 100%
+source-wordcount: '635'
+ht-degree: 82%
 
 ---
 
@@ -33,19 +33,21 @@ A Luma está lançando sua loja online e deseja garantir uma boa experiência do
 
 ## Seu desafio
 
-Crie uma jornada que envia um email de confirmação de pedido quando um cliente da Luma conclui um pedido online. A Luma
+Crie uma jornada que envia um email de confirmação de pedido quando um cliente da Luma conclui um pedido online.
 
 >[!BEGINTABS]
 
 >[!TAB Tarefa]
 
 1. Crie uma jornada chamada `Luma - Order Confirmation`
-2. Use o evento: `LumaOnlinePurchase` como um acionador
+2. Use o evento : `LumaOnlinePurchase`
 3. Crie o email de confirmação do pedido chamado `Luma - Order Confirmation`:
 
 * Categoria transacional - certifique-se de selecionar a superfície de email transacional
 * A linha de assunto deve ser personalizada com o nome do destinatário e deve incluir a frase &quot;obrigado pela sua compra&quot;
 * Use o modelo `Luma - Order summary` e modifique-o:
+   * Remova o `You may also like` seções
+   * Adicione o link de cancelamento de subscrição na parte inferior do email
 
 O objeto deve ser estruturado da seguinte maneira:
 <table>
@@ -56,7 +58,6 @@ O objeto deve ser estruturado da seguinte maneira:
       </div>
   </td>
   <td>
-    <strong>Logotipo da Luma</strong>
       <p>
      <li>luma_logo.png</li>
     <li>Ele deve ter um link para o site da Luma: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
@@ -72,10 +73,7 @@ O objeto deve ser estruturado da seguinte maneira:
   <td>
     <p>
     <strong>Texto</strong><p>
-    <em>Ei, {nome}</em><p>
-    <li>Alignment: left  </li>
-   <li>Text color: rgb(69, 97, 162) #4461a2; 
-   <li>font-size: 20px</li>
+    <em>Olá {firstName}</em><p>
    <div>
     <p>
      <em>Seu pedido foi feito.
@@ -87,28 +85,30 @@ O objeto deve ser estruturado da seguinte maneira:
   <div>
      <strong> Seção Enviar para</strong>
       </div>
-      <p><li>Substitua o endereço de codificação rígida no modelo pelo endereço de entrega 
-      <li>Os detalhes do endereço são atributos contextuais do evento (rua, cidade, estado, CEP)
+      <p>
       <li>O nome e o sobrenome são do perfil
+      <li>Substitua o endereço codificado no modelo pelo <b>endereço de entrega</b>
+      <li>Os detalhes do endereço são atributos contextuais do evento (rua 1, cidade, código postal, estado)
       <li> Remova o Desconto, Total, Chegando</p>
   </td>
   <td>
   <p> Enviar para:</p>
-      <em>Nome Sobrenome<br>
-Endereço</em></p>
+      <em>{firstName} {lastName}<br>
+     {Rua 1}<br>
+     {City}, {State} {postalCode}<br></em></p>
   </td>
  <tr>
 <td>
   <div>
      <strong>Seção Detalhes do pedido</strong>
       </div>
-       <p><li>Adicione esta seção após a seção <b>Enviar para</b> e o botão <b>Visualizar pedido</b>.
+       <p><li>Adicione esta seção abaixo do <b>Entregar para</b> seção.
       </p><br>
       <p><b>Dicas:</b>
+      <li>Use o componente de estrutura "1:2 coluna esquerda" para esta seção
       <li>Essas são informações de evento contextual.
       <li>Use a [!UICONTROL helper function]: [!UICONTROL Each]
       <li>Alterne para o formato do editor de códigos para adicionar os dados contextuais.
-      <li>Coloque as informações em containers usando tags DIV.
   </td>
   <td>
     <strong>Cabeçalho</strong>
@@ -120,30 +120,6 @@ Endereço</em></p>
   <p>Cada um dos itens deve ser formatado desta forma:
  <img alt="pedido" src="./assets/c2-order.png"> 
 </p>
-<strong>Imagem do produto:</strong>
-<li>class: cart-item-chair
-<li>style: border-box: min-height:40px</li>
-<li>preenchimento superior e inferior: 20px</li>
-<li>preenchimento à esquerda: 80px</li>
-<li>raio da borda: 0px</li>
-<li>Usar como imagem de plano de fundo para o container</li>
-<li>background-position: 0% 50%</li>
-<li>background-size: 60px</li>
-<li>background-repeat: no-repeat</li>
-<p>
-<strong>Preço:</strong>
-<li>Formato = H5</li>
-<li>estilo = dimensionamento de caixa: caixa de borda</li>
-<li>margem inferior: 5px</li>
-<li>margem superior: 0px;</li>
-<p>
-<strong>Nome e quantidade:</strong>
-<li>class=texto-pequeno</li>
-<li>style=box-sizing: border-box</li>
-<li>padding-top: 5px</li>
-<li>color: rgb(101, 106, 119)</li>
-<li>font-size:14px</li>
-<p>
 </td>
   </tr>
 </table>
@@ -166,16 +142,14 @@ Acione a Jornada criada no modo de teste e envie o email para você mesmo:
 3. Acione o evento com os seguintes parâmetros:
    * Defina o identificador do perfil para: Valor de identidade:`a8f14eab3b483c2b96171b575ecd90b1`
    * Tipo de evento: Compras de comércio
-   * Nome: Kit complementar de ioga Sprite
-   * Quantidade: 1
-   * `Price Total:` 61
+   * `Quantity`: 1
+   * `Price Total:` 69
    * `Purchase Order Number:` 6253728
-   * `SKU:` 24-WG080
-   * `productImageURL:` <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
-   * `City:` San Jose
-   * `Postal Code:` 95110
-   * `State`: CA
-   * `Street:` Avenida Park, 345
+   * `SKU:` LLMH09
+   * `City:` Washington
+   * `Postal Code:` 20099
+   * `State`: DC
+   * `Street:` Thierer Terrace
 
 Você deve receber o email de confirmação de compra personalizado, com o produto especificado.
 
@@ -193,7 +167,11 @@ Você deve receber o email de confirmação de compra personalizado, com o produ
 
 **Linha de assunto:**
 
-{{ profile.person.name.firstName }}, obrigado pela sua compra!
+Obrigado pela sua compra, {{ profile.person.name.firstName }}!
+
+Este é o aspecto do corpo do email:
+
+![Email](//help/challenges/assets/c2-email.png)
 
 **Seção Enviar para:**
 
@@ -211,48 +189,25 @@ DICA: Personalize cada linha separadamente
 
 **Seção Detalhes do pedido:**
 
-![Seção Detalhes do pedido](/help/challenges/assets/c2-order-detail-section.png)
-
 É assim que o código deveria parecer:
 
 Cabeçalho:
 
 ```javascript
-Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
+Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 ```
 
 **Lista de produtos:**
 
-Use a função auxiliar “cada” para criar a lista de produtos. Mostre-lhes em uma tabela. É assim que o código deveria parecer:
+Use a função auxiliar “cada” para criar a lista de produtos. Mostre-lhes em uma tabela. É com isso que o código deve ficar (com variáveis específicas, como a ID do evento - em vez de `454181416` e a sua organização I em vez de `techmarketingdemos` ):
 
 ```javascript
-<div class="text-container" contenteditable="true">
-  <p><span class="acr-expression-field" contenteditable="false">{{#each context.journey.events.454181416.productListItems as |product|}}
-    </span></p>
-  <div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-    <h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</h5>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div>
-  </div>
-  <div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
-  {{/each}}<p></p>
-  <p></p>
-</div>
+{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p><p>Quantity: {{context.journey.events.454181416.productListItems.quantity}}</p></div></div></th></tr> {{/each}}
 ```
 
 **Preço total:**
 
-Total:`${{context.journey.events.1627840522.commerce.order.priceTotal}}`
+Total:`${{context.journey.events.1627840522.commerce.order.priceTotal}}.00`
 
-**Seção Informações do cliente**
-
-![Endereço do cliente](assets/c2-customer-information.png)
-
-A personalização deve ficar assim:
-
-```javascript
-{{profile.homeAddress.street1}}
-{{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
-```
 
 >[!ENDTABS]

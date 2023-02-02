@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
+source-git-commit: a4fafe243435a9a52c6aa555c745f917a4e8663d
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 86%
 
 ---
 
@@ -38,13 +38,13 @@ Você foi solicitado a configurar uma jornada que envia automaticamente um email
 
 >[!TAB Tarefa]
 
-Quando um cliente fiel se qualifica para o nível platina, ele deve receber um email para parabenizá-lo e informá-lo sobre seus novos benefícios. A equipe criativa forneceu um arquivo HTML **[Luma - atualização de status - email de boas-vindas](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** com o corpo do email.
+Quando um cliente de fidelidade se qualifica para o nível platinum, ele deve receber um e-mail para parabenizá-lo e informá-lo sobre seus novos benefícios. A equipe criativa forneceu um arquivo HTML **[Luma - atualização de status - email de boas-vindas](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** com o corpo do email.
 
-1. Crie um [!UICONTROL segmento] no Journey Optimizer chamado `Luma – status upgrade`.
+1. Crie um [!UICONTROL segmento] no Journey Optimizer chamado `Luma – platinum status`.
 2. Criar uma jornada chamada `Luma – New Status – platinum`.
    1. Um cliente entra na jornada quando se qualifica para o nível de fidelidade platina.
-   2. O cliente deve receber uma mensagem de email rotulada `Luma – Platinum Status - Welcome`, com a linha de assunto `Welcome to Platinum Status, (recipient's first name)!`, com o corpo do email fornecido pela equipe criativa. Este é um email [!UICONTROL transacional].
-   3. Ao fazer upload do arquivo HTML, você percebe que o email se refere ao status de &quot;diamante&quot;, em vez de &quot;platina&quot;. Em vez de solicitar um novo arquivo da equipe criativa, atualize o email no Designer de email.
+   2. O cliente deve receber uma mensagem de email rotulada `Luma – Platinum Status - Welcome`, com a linha de assunto `Welcome to Platinum Status, {firstName}!`, com o corpo do email fornecido pela equipe criativa. Este é um email [!UICONTROL transacional].
+   3. Ao fazer upload do arquivo HTML, você percebe que o email se refere ao status de &quot;diamante&quot;, em vez de &quot;platina&quot;. Em vez de solicitar um novo arquivo da equipe criativa, atualize o email no [!UICONTROL designer de email].
 
 >[!TAB Critérios de sucesso]
 
@@ -52,30 +52,27 @@ Teste a jornada:
 
 1. Certifique-se de que a [!UICONTROL Atividade Ler segmento] tem o [!UICONTROL namespace] definido como **[!DNL Luma CRM id(lumaCrmId)]**
 2. Substitua os [!UICONTROL parâmetros de email] padrão e defina-os como seu próprio endereço de email
-   * Exiba os valores ocultos clicando no ícone de olho.
    * Nos [!UICONTROL Parâmetros de email], clique no ícone T (habilitar a substituição de parâmetro)
-
-       ![Override email parameters](/help/challenges/assets/c3-override-email-paramters.jpg)
-   
    * Clique no [!UICONTROL campo Endereço]
-   * Na próxima tela, adicione o seu endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em OK.
-
-
+   * Na próxima tela, adicione seu endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em OK.
 3. Defina a jornada para o modo de teste
-4. Acionar um evento
+4. Selecionar **Acionar um evento**
 5. Adicione o seguinte [!DNL CRM ID] para `Stanleigh Stooke` no campo [!UICONTROL Identificador de perfil]: `4f34057d9d9e792c28ba18ecae378e98`
 
 **Resultado:** você deve receber o email personalizado *Luma - Status platina - Bem-vindo*.
 
+É assim que o email deveria parecer:
+
+![Luma – status upgrade - welcome eMail](/help/challenges/assets/status-upgrade-welcome-email.png)
+
 >[!TAB Verifique o seu trabalho]
+
+Esta é a aparência do segmento:
+
+![Luma - status platinum - segmento](/help/challenges/assets/c3-segment.png)
 
 Esta deve ser a aparência da sua jornada:
 
 ![platinum-status-upgrade-jornada](/help/challenges/assets/journey-luma-status-upgrade.png)
-
-
-É assim que o email deveria parecer:
-
-![Luma – status upgrade - welcome eMail](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!ENDTABS]

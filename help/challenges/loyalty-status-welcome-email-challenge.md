@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: a4fafe243435a9a52c6aa555c745f917a4e8663d
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 86%
@@ -69,7 +69,7 @@ Teste a jornada:
 
 Esta é a aparência do segmento:
 
-![Luma - status platinum - segmento](/help/challenges/assets/c3-segment.png)
+![Luma - status platinum - segmento](/)
 
 Esta deve ser a aparência da sua jornada:
 

@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '195'
 ht-degree: 10%
 
 ---
@@ -68,7 +68,7 @@ Ao usar esse evento, o Journey Optimizer recebe informações quando uma pessoa 
 | [!UICONTROL NOME] | `LumaProductRestock` |
 | [!UICONTROL TIPO] | [!UICONTROL Business] |
 | [!UICONTROL Esquema] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL Campos] | productID <br> stockEventType<br><b>Em Produto > Produtos Luma > *[!DNL yourOrganizationID]* > Produto:</b> <br>Nome<br>Preço<br> ProductImageURL<br>Descrição |
+| [!UICONTROL Campos] | SKU <br> stockEventType<br><b> yourOrganizationID > produto:</b> <br>name<br>preço<br> ImageURL<br>descrição |
 | [!UICONTROL Condição] | LumaProductRautomaticamente._`your organization's ID`.inventoryEvent.stockEventType é restock |
 
 ## Parabéns

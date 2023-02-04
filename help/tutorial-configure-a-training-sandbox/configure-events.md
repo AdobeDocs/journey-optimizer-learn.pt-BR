@@ -7,10 +7,11 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
+hide: true
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '191'
 ht-degree: 10%
 
 ---
@@ -19,7 +20,9 @@ ht-degree: 10%
 
 Nesta seção, você configura os três eventos necessários para os exercícios práticos no [Desafios da Journey Optimizer](/help/challenges/introduction-and-prerequisites.md).
 
-Assista ao vídeo [Criar eventos](/help/set-up-journeys/create-events.md) para obter orientação sobre como criar eventos.
+O vídeo a seguir explica como criar eventos:
+
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)
 
 ## Crie o evento de compra online Luma
 
@@ -61,7 +64,7 @@ Ao usar esse evento, o Journey Optimizer recebe informações quando uma pessoa 
 | [!UICONTROL Condição] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
 | [!UICONTROL Namespace] | Email(Email) |
 
-## Criar *[!DNL Luma Product Restock] Evento
+## Criar *[!DNL Luma Product Restock]* Evento
 
 | [!UICONTROL Parâmetro] | [!UICONTROL Valor] |
 |-------------|-----------|

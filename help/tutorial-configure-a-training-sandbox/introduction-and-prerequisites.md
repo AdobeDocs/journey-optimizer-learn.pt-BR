@@ -6,10 +6,11 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
+hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '341'
 ht-degree: 10%
 
 ---
@@ -35,17 +36,15 @@ Antes de começar a configurar a sandbox de treinamento, verifique se você tem:
 
 1. Os arquivos JSON com os dados de amostra, configurados para a instância do Journey Optimizer:
 
-   1. Baixe o `luma-data.zip` arquivo [here](/help/tutorial-configure-a-training-sandbox/assets/luma-data.zip), que contém todos os arquivos JSON necessários para este tutorial.
+   1. Baixe o `luma-sample-data.zip` arquivo [here](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip), que contém todos os arquivos JSON necessários para este tutorial.
 
    1. Na pasta de downloads, mova a `luma-data.zip` para o local desejado em seu computador e descompacte-o.
 
-      Deve haver três arquivos JSON: `luma-crm.json`, `luma-loyalty.json`, `luma-products.json`.
+      Esses arquivos contêm os dados de amostra da sandbox de treinamento.
 
-      Esses arquivos contêm os dados de amostra que você assimila na sandbox.
+   2. Abra cada arquivo e localize **`yourOrganizationID`** e substitua-o pelo [ID da organização](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=pt-BR).
 
-   1. Abra cada arquivo e localize **`yourOrganizationID`** e substitua-o pelo [ID da organização](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=pt-BR).
-
-   1. Salve os arquivos.
+   3. Salve os arquivos.
 
 ## Vamos começar
 

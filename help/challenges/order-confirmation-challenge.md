@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 50%
@@ -42,7 +42,6 @@ Crie uma jornada que envia um email de confirmação de pedido quando um cliente
 1. Crie uma jornada chamada `Luma - Order Confirmation`
 2. Use o evento : `LumaOnlinePurchase`
 3. Crie um **transacional**  email chamado `Luma - Order Confirmation`
-
 * A linha de assunto &quot;Obrigado pela sua compra, `FirstName`&quot;
 * Use o modelo `Luma - Order summary` e modifique-o:
    * Remova o `You may also like` seções

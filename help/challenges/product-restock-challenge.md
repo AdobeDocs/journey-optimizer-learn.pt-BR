@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 2f7074e5d9109cdbc1db69f6f5c48667b2276da7
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 86%
+source-wordcount: '580'
+ht-degree: 72%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 86%
 | Desafio | Reposição de produto |
 |---|---|
 | Perfil | Gerenciador de Jornadas |
-| Competências necessárias | <ul><li>[Criar segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=pt-BR)</li><li> [Importar e criar conteúdo de email HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=pt-BR)</li><li>[Caso de uso - Ler segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=br-PT)</li> |
+| Competências necessárias | <ul><li>[Criar segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=br-PT)</li><li> [Importar e criar conteúdo de email HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[Caso de uso - Ler segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=br-PT)</li> |
 | Ativos para baixar | [Arquivo de email de rebloqueio do produto](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## A história
 
-Ao navegar pelo site da Luma, os clientes podem adicionar produtos de interesse a uma lista de desejos. O que permite que a Luma envie a eles mensagens de marketing direcionadas e informações sobre os produtos.
+Ao navegar pelo site Luma, os clientes podem adicionar produtos que estão interessados em uma lista de desejos, o que permite que o Luma envie aos clientes mensagens de marketing direcionadas e informações sobre os produtos.
 
 ## Seu desafio
 
@@ -39,7 +39,7 @@ A Luma solicita que você implemente uma jornada no Journey Optimizer que notifi
 Para direcionar clientes interessados em potencial quando os produtos forem reabastecidos, crie um segmento que consista de clientes:
 
 * Que adicionaram pelo menos um item à lista de desejos (Use o tipo de evento: [!UICONTROL Comércio Salvar para mais tarde])
-* que estava esgotado nos últimos 3 meses (use quantidade em estoque = 0)
+* Que estava esgotado nos últimos três meses (use quantidade de estoque = 0)
 * e que não compraram o item desde então.
 
 >[!TIP]
@@ -54,7 +54,7 @@ Quando um item anteriormente indisponível voltar ao estoque, notifique os clien
 
 1. Chame a jornada: `Product Restock`
 2. A jornada deve ser acionada quando um produto retornar ao estoque
-3. Envie o *Email de reposição do produto* enviar email para
+3. Envie o *Email de reposição do produto* para
 4. usuários que adicionaram esse item à lista de desejos enquanto ele estava indisponível
 
 >[!TAB Critérios de sucesso]
@@ -116,7 +116,7 @@ Notifique os clientes que adicionaram um item indisponível com uma chamada para
 
 >[!TIP]
 >
-> Use o evento comercial existente. É necessário adicionar uma condição que verifique se o SKU de reabastecimento está incluído em (algum) tipo de evento salvar para mais tarde.
+> Use o evento comercial existente. Adicione uma condição que verifique se o SKU de rebloqueio está incluído no tipo de evento (qualquer), exceto para mais tarde.
 
 
 

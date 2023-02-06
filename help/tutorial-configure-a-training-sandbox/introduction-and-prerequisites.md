@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: 8538fbc0a4e33991ce1f65aeb92d29cc4ac51a56
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 10%
@@ -19,23 +19,23 @@ ht-degree: 10%
 
 ![Tutorial de banner - Configurar uma sandbox de treinamento](./assets/ajo-banner-configure-training-sandbox.png)
 
-Este tutorial foi projetado para administradores e engenheiros de dados que têm a tarefa de fornecer um ambiente de treinamento da Adobe Journey Optimizer. Saiba mais sobre as etapas necessárias para configurar os esquemas, assimilar dados de amostra e criar eventos. Você também criará três perfis de teste que permitem aos alunos verificar seu trabalho.
+Este tutorial foi projetado para administradores e engenheiros de dados que têm a tarefa de fornecer um ambiente de treinamento da Adobe Journey Optimizer. Saiba mais sobre as etapas necessárias para configurar os esquemas, assimilar dados de amostra e criar eventos. Você também cria três perfis de teste que permitem que os alunos verifiquem seu trabalho.
 
 Os dados de amostra fornecidos são baseados em uma empresa ficcional de vestuário atlético chamada _[!DNL Luma]_. [!DNL Luma] O tem lojas em vários países, uma presença online com um site e aplicativos móveis. [!DNL Luma]A usa o Adobe Journey Optimizer para fornecer experiências conectadas, contextuais e personalizadas aos seus clientes.
 
-No final deste tutorial, você terá uma sandbox compatível com o [!DNL Luma] casos de utilização abrangidos pelos exercícios práticos no [Desafios da Journey Optimizer](/help/challenges/introduction-and-prerequisites.md) seção.
+No final deste tutorial, você tem uma sandbox compatível com o [!DNL Luma] casos de utilização abrangidos pelos exercícios práticos no [Desafios da Journey Optimizer](/help/challenges/introduction-and-prerequisites.md) seção.
 
 ## Pré-requisitos
 
 Antes de começar a configurar a sandbox de treinamento, verifique se você tem:
 
 1. Um desenvolvimento dedicado [sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=en).
-1. [Predefinições de mensagem de email](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/set-up-email-channel.html?lang=en) configurado para marketing e mensagens transacionais.
+1. [Predefinições de mensagem de email](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel.html?lang=en) configurado para marketing e mensagens transacionais.
 1. **[!UICONTROL Administrador do Jornada]** e **[!UICONTROL Gerenciador de dados]** direitos para a sandbox de treinamento.
 1. Seu [ID da organização](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=pt-BR).
 1. Os arquivos JSON com os dados de amostra, configurados para a instância do Journey Optimizer:
    1. Baixe o `luma-sample-data.zip` arquivo [here](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip), que contém todos os arquivos JSON necessários para este tutorial.
-   1. Na pasta de downloads, mova a `luma-data.zip` para o local desejado em seu computador e descompacte-o.Esses arquivos contêm os dados de amostra para sua sandbox de treinamento.
+   1. Na pasta de downloads, mova a `luma-data.zip` para o local desejado em seu computador e descompacte-o. Esses arquivos contêm os dados de amostra da sandbox de treinamento.
    1. Abra cada arquivo e localize **`yourOrganizationID`** e substitua-o pelo [ID da organização](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=pt-BR).
    1. Salve os arquivos.
 

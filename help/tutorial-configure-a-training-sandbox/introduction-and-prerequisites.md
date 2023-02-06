@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
+source-git-commit: 8538fbc0a4e33991ce1f65aeb92d29cc4ac51a56
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 10%
@@ -41,4 +41,6 @@ Antes de começar a configurar a sandbox de treinamento, verifique se você tem:
 
 ## Vamos começar
 
-Comece com o [Configuração manual de dados](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md). Nesta etapa, você define a estrutura de dados necessária. Após concluir a configuração dos dados, você pode assimilar dados na sandbox e, em seguida, configurar eventos.
+Comece com o [Configuração manual de dados](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md).
+
+Nesta etapa, você define a estrutura de dados necessária. Após concluir a configuração dos dados, você pode assimilar dados na sandbox e, em seguida, configurar eventos.

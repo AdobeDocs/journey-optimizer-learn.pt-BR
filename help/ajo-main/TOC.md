@@ -1,11 +1,11 @@
 ---
 user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Estes são os tutoriais do Journey Optimizer.
+user-guide-description: Estes são tutoriais do Journey Optimizer.
 source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -38,11 +38,11 @@ ht-degree: 94%
    + [Importar e criar conteúdo de email HTML](/help/channels/import-and-author-html-email-content.md)
    + [Pré-visualizar, testar e publicar](/help/channels/preview-proof-and-publish.md)
    + [Modelos de conteúdo](/help/channels/content-templates.md)
-+ No canal do aplicativo{#in-app-channel}
++ Canal no aplicativo{#in-app-channel}
    + [Mensagens no aplicativo para campanhas](/help/channels/in-app-messaging-for-campaigns.md)
    + [Criar uma mensagem no aplicativo](/help/channels/author-in-app-messages.md)
 + Canal SMS{#sms-channel}
-   + [Autor e delivery de mensagens SMS](/help/channels/author-and-deliver-sms-messages.md)
+   + [Criar e entregar mensagens SMS](/help/channels/author-and-deliver-sms-messages.md)
    + [Compatibilidade com palavras-chave de entrada para SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Perfis, segmentos e assinaturas do cliente {#profiles-segments-subscriptions}
    + [Perfil e segmentação unificados - visão geral](/help/set-up-resources/unified-profile-and-segmentation-overview.md)

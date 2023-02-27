@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
+source-git-commit: 16031e0e4ef29f5243a7a2e933aa83d7b1fbd7ac
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 6%
+source-wordcount: '188'
+ht-degree: 5%
 
 ---
 
@@ -38,12 +38,12 @@ Esta página tem texto e links que estão sendo usados no Laboratório de Cúpul
 
 ## Lição 3 Criar uma Jornada Omni-Channel
 
-| Mensagem | Texto | Links | Imagem |
-|----|----|----|
+| Mensagem | Texto | Deep link | Mídia |
+|----|----|----|----|
+| Push | Bem-vindo a Vegas. Ignorar a linha e o check-in com o aplicativo móvel | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
 | SMS | Bem-vindo a Vegas. Ignore a linha e o check-in com o aplicativo móvel: lab://checkin |  |
-| Push | Bem-vindo a Vegas. Ignorar a linha e o check-in com o aplicativo móvel | lab://checkin |  |
 
 
 Esta é a imagem que estamos usando para o SMS e a notificação por push:
 
-![Check-in Online](/help/assets/vegas_online_check_in.jpeg)
+![Check-in Online](/help/assets/vegas_online_check_in.jpg)

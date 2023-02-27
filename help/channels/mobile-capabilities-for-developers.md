@@ -1,5 +1,5 @@
 ---
-title: Recursos de aplicativos para dispositivos móveis para desenvolvedores
+title: Recursos móveis para desenvolvedores
 description: Entenda quais recursos de publicações de conteúdo para dispositivos móveis o Adobe Journey Optimizer oferece aos desenvolvedores.
 feature: SMS, In App, Push
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ---
 
-# Recursos de aplicativos para dispositivos móveis para desenvolvedores
+# Recursos móveis para desenvolvedores
 
 Entenda quais recursos de publicações de conteúdo para dispositivos móveis o Adobe Journey Optimizer oferece aos desenvolvedores.
 

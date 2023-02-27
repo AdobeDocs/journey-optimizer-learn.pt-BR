@@ -8,9 +8,9 @@ level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 source-git-commit: a4f2d3e7f5cd4255d029315ffb21dd44609ebf38
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '425'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 85%
 | Desafio | Crie um email de boas-vindas com o status de fidelidade |
 |---|---|
 | Perfil | Gerenciador de Jornadas |
-| Competências necessárias | <ul><li>[Criar segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=pt-BR)</li> <li>[Qualificação do segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=pt-BR)</li><li>[Importar conteúdo HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul> |
+| Competências necessárias | <ul><li>[Criar segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=pt-BR)</li> <li>[Qualificação do segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=pt-BR)</li><li>[Importar conteúdo HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=pt-BR)</li></ul> |
 | Ativos para baixar | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 ## A História
@@ -38,13 +38,13 @@ Você foi solicitado a configurar uma jornada que envia automaticamente um email
 
 >[!TAB Tarefa]
 
-Quando um cliente de fidelidade se qualifica para o nível platinum, ele deve receber um e-mail para parabenizá-lo e informá-lo sobre seus novos benefícios. A equipe criativa forneceu um arquivo HTML **[Luma - atualização de status - email de boas-vindas](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** com o corpo do email.
+Quando um cliente do programa de fidelidade se qualifica para o nível platina, ele deve receber um email para parabenizá-lo e informá-lo sobre seus novos benefícios. A equipe criativa forneceu um arquivo HTML **[Luma - atualização de status - email de boas-vindas](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** com o corpo do email.
 
 1. Crie um [!UICONTROL segmento] no Journey Optimizer chamado `Luma – platinum status`.
 2. Criar uma jornada chamada `Luma – New Status – platinum`.
    1. Um cliente entra na jornada quando se qualifica para o nível de fidelidade platina.
    2. O cliente deve receber uma mensagem de email rotulada `Luma – Platinum Status - Welcome`, com a linha de assunto `Welcome to Platinum Status, {firstName}!`, com o corpo do email fornecido pela equipe criativa. Este é um email [!UICONTROL transacional].
-   3. Ao fazer upload do arquivo HTML, você percebe que o email se refere ao status de &quot;diamante&quot;, em vez de &quot;platina&quot;. Em vez de solicitar um novo arquivo da equipe criativa, atualize o email no [!UICONTROL Email Designer].
+   3. Ao fazer upload do arquivo HTML, você percebe que o email se refere ao status de &quot;diamante&quot;, em vez de &quot;platina&quot;. Em vez de solicitar um novo arquivo da equipe criativa, atualize o email no [!UICONTROL Designer de email].
 
 >[!TAB Critérios de sucesso]
 
@@ -56,7 +56,7 @@ Teste a jornada:
    * Clique no [!UICONTROL campo Endereço]
    * Na próxima tela, adicione seu endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em OK.
 3. Defina a jornada para o modo de teste
-4. Selecionar **Acionar um evento**
+4. Selecione **Acionar um evento**
 5. Adicione o seguinte [!DNL CRM ID] para `Stanleigh Stooke` no campo [!UICONTROL Identificador de perfil]: `4f34057d9d9e792c28ba18ecae378e98`
 
 **Resultado:** você deve receber o email personalizado *Luma - Status platina - Bem-vindo*.
@@ -67,7 +67,7 @@ Teste a jornada:
 
 >[!TAB Verifique o seu trabalho]
 
-Esta é a aparência do segmento:
+O segmento deve ter essa aparência:
 
 ![Luma - status platinum - segmento](/help/challenges/assets/segment-luma-platinum-status.png)
 

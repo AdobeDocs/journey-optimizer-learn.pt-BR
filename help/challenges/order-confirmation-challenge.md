@@ -8,9 +8,9 @@ level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '653'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 50%
 | Desafio | Criar um email transacional de confirmação de pedido |
 |---|---|
 | Perfil | Gerenciador de Jornadas |
-| Competências necessárias | <ul><li>[Criar conteúdo de email com o editor de mensagens](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Usar informações de evento contextual para personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=pt-BR)</li><li>[Usar funções auxiliares para personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=pt-br)</li></ul> |
+| Competências necessárias | <ul><li>[Criar conteúdo de email com o editor de mensagens](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=pt-BR)</li> <li>[Usar informações de evento contextual para personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=pt-BR)</li><li>[Usar funções auxiliares para personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=pt-BR)</li></ul> |
 | Ativos para baixar | [Ativos de confirmação de pedido](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 ## A História
@@ -40,12 +40,12 @@ Crie uma jornada que envia um email de confirmação de pedido quando um cliente
 >[!TAB Tarefa]
 
 1. Crie uma jornada chamada `Luma - Order Confirmation`
-2. Use o evento : `LumaOnlinePurchase`
-3. Crie um **transacional**  email chamado `Luma - Order Confirmation`
-* A linha de assunto &quot;Obrigado pela sua compra, `FirstName`&quot;
+2. Use o evento: `LumaOnlinePurchase`
+3. Crie um email **transacional** chamado `Luma - Order Confirmation`
+* Com a linha de assunto “Obrigado por sua compra, `FirstName`”
 * Use o modelo `Luma - Order summary` e modifique-o:
-   * Remova o `You may also like` seções
-   * Adicione o link de cancelamento de subscrição na parte inferior do email
+   * Remova as seções `You may also like`
+   * Adicione o link de cancelamento de inscrição na parte inferior do email
 
 O objeto deve ser estruturado da seguinte maneira:
 <table>
@@ -58,7 +58,7 @@ O objeto deve ser estruturado da seguinte maneira:
   <td>
       <p>
      <li>luma_logo.png</li>
-    <li>O link para o site do luma deve ser enviado: https://luma.enablementadobe.com/content/luma/us/en.html</li>
+    <li>Ele deve levar ao site do Luma: https://luma.enablementadobe.com/content/luma/us/en.html</li>
     <p>
     </td>
   </tr>
@@ -71,7 +71,7 @@ O objeto deve ser estruturado da seguinte maneira:
   <td>
     <p>
     <strong>Texto</strong><p>
-    <em>Ei {firstName},</em><p>
+    <em>Olá, {firstName},</em><p>
    <div>
     <p>
      <em>Seu pedido foi feito.
@@ -85,14 +85,14 @@ O objeto deve ser estruturado da seguinte maneira:
       </div>
       <p>
       <li>O nome e o sobrenome são do perfil
-      <li>Substitua o endereço codificado no modelo pelo <b>endereço de entrega</b>
-      <li>Os detalhes do endereço são atributos contextuais do evento (rua 1, cidade, código postal, estado)
-      <li> Remover <i>Desconto, Total, Chegando</i></p>
+      <li>Substitua o endereço fixo no modelo pelo <b>endereço de entrega</b>
+      <li>Os detalhes do endereço são atributos contextuais do evento (rua 1, cidade, CEP, estado)
+      <li> Remova <i>Desconto, Total, Chegando</i></p>
   </td>
   <td>
   <p> Enviar para:</p>
       <em>{firstName} {lastName}<br>
-     {Rua 1}<br>
+     {Street 1}<br>
      {City}, {State} {postalCode}<br></em></p>
   </td>
  <tr>
@@ -100,10 +100,10 @@ O objeto deve ser estruturado da seguinte maneira:
   <div>
      <strong>Seção Detalhes do pedido</strong>
       </div>
-       <p><li>Adicione esta seção abaixo do <b>Entregar para</b> seção.
+       <p><li>Adicione esta seção abaixo da seção <b>Enviar para</b>.
       </p><br>
       <p><b>Dicas:</b>
-      <li>Usar o componente de estrutura <b>Coluna 1:2 esquerda</b> para esta seção
+      <li>Usar o componente de estrutura <b>Coluna 1:2 à esquerda</b> para esta seção
       <li>Essas são informações de evento contextual.
       <li>Use a [!UICONTROL helper function]: [!UICONTROL Each]
       <li>Alterne para o formato do editor de códigos para adicionar os dados contextuais.
@@ -115,12 +115,12 @@ O objeto deve ser estruturado da seguinte maneira:
     </p>
     <strong>Lista de produtos encomendados:
  </strong>
-  <p>Liste cada produto na ordem com uma imagem, o preço e o nome.
-  <p>O layout de cada item deve ser semelhante a:
-   <img alt="pedido" src="./assets/c2-order.png"> 
-<p><b>Adicionar o link ao carrinho</b>
+  <p>Liste cada produto do pedido com uma imagem, o preço e o nome.
+  <p>O layout de cada item deve ter esta aparência:
+ <img alt="pedido" src="./assets/c2-order.png"> 
+<p><b>Adicione o link para o carrinho</b>
 <p>Substitua a ID do pedido no URL pelo número do pedido de compra:
-   <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
+ <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
 </table>
@@ -128,17 +128,17 @@ O objeto deve ser estruturado da seguinte maneira:
 
 >[!TIP]
 >
->Para permitir que você solucione problemas em suas jornadas, a prática recomendada é adicionar um caminho alternativo a todas as ações de mensagem, se houver um tempo limite ou erro.
+>Para permitir solucionar problemas em suas jornadas, a prática recomendada é adicionar um caminho alternativo a todas as ações de mensagem se houver um tempo limite ou ocorrer um erro.
 
 >[!TAB Critérios de sucesso]
 
-Acione a Jornada criada no modo de teste e envie o email para você mesmo:
+Acione a jornada criada no modo de teste e envie o email para você mesmo:
 
-1. Antes de alternar para o modo de teste, substitua os parâmetros de email para enviar ao email de teste para seu endereço de email:
+1. Antes de alternar para o modo de teste, substitua os parâmetros de email para enviar o email de teste para seu endereço de email:
    1. Abra a visualização de detalhes do email.
-   2. Na seção Parâmetros de email , clique no símbolo T (ativar substituição de parâmetro)
+   2. Na seção Parâmetros de email, clique no ícone T (habilitar a substituição de parâmetros
    3. Clique no campo Endereço
-   4. Na próxima tela, adicione o endereço de email entre parênteses: *&quot;yourname@yourdomain&quot;* no editor de expressão e clique em ok.
+   4. Na próxima tela, adicione o seu endereço de email entre parênteses: *&quot;seunome@seudominio&quot;* no editor de expressão e clique em OK.
 2. Coloque a jornada no modo de teste
 3. Acione o evento com os seguintes parâmetros:
    * Defina o identificador do perfil para: Valor de identidade:`a8f14eab3b483c2b96171b575ecd90b1`
@@ -150,13 +150,13 @@ Acione a Jornada criada no modo de teste e envie o email para você mesmo:
    * `City:`San Jose
    * `Postal Code:` 95119
    * `State`: CA
-   * `Street:` 245 Park Avenue
+   * `Street:` Park Avenue, 245
 
 Você deve receber o email de confirmação de compra personalizado.
 
 * A linha de assunto deve ter o nome do perfil de teste: Leora
 
-* Este é o aspecto do corpo do email:
+* O corpo do email deve ter essa aparência:
 
 ![Email](/help/challenges/assets/c2-email.png)
 
@@ -171,7 +171,7 @@ Você deve receber o email de confirmação de compra personalizado.
 
 **Linha de assunto:**
 
-Obrigado pela sua compra, {{ profile.person.name.firstName }}!
+Obrigado por sua compra, {{ profile.person.name.firstName }}.
 
 **Seção Enviar para:**
 
@@ -183,7 +183,7 @@ Obrigado pela sua compra, {{ profile.person.name.firstName }}!
 {{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
 ```
 
-*event.45481416* é um número diferente para você.
+*event.45481416* será um número diferente para você.
 
 DICA: Personalize cada linha separadamente
 
@@ -199,7 +199,7 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 
 **Lista de produtos:**
 
-Use a função auxiliar “cada” para criar a lista de produtos. Mostre-lhes em uma tabela. É com isso que o código deve ficar (com variáveis específicas, como a ID do evento - em vez de `454181416` e sua organização I em vez de `techmarketingdemos` ):
+Use a função auxiliar “cada” para criar a lista de produtos. Mostre-lhes em uma tabela. O seu código deve ter esta aparência (com suas variáveis específicas, como a ID do evento em vez de `454181416` e sua organização em vez de `techmarketingdemos`):
 
 ```javascript
 {{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}

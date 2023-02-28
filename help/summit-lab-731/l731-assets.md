@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 16031e0e4ef29f5243a7a2e933aa83d7b1fbd7ac
+source-git-commit: 01216aba7c23af67ad131aa24f017f95e6fa9025
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '214'
 ht-degree: 5%
 
 ---
@@ -20,13 +20,21 @@ ht-degree: 5%
 
 Esta página tem texto e links que estão sendo usados no Laboratório de Cúpula L731. Ele permite copiar e colar o conteúdo nas mensagens do Journey Optimizer.
 
-## Lição 1 - Baixar e instalar o aplicativo
+## Exercício 1.1 - Baixar e instalar o aplicativo
 
-[http://ajolab.s3-website-us-east-1.amazonaws.com/index.html](http://ajolab.s3-website-us-east-1.amazonaws.com/index.html)
+[Clique aqui para instalar o aplicativo](https://testflight.apple.com/join/H0N5iWvW)
 
-## Lição 2 - Criar campanhas móveis
+## Exercício 1.3: Faça logon no Adobe Journey Optimizer
 
-### Exercício 2.1 Criar uma campanha no aplicativo
+[Clique aqui para fazer logon no Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+
+**Detalhes de logon:**
+
+* Nome de usuário: `L731+<your seat number>@summitlab.us`
+* Senha: Adobe2023!
+
+
+## Exercício 2.1 Criar uma campanha no aplicativo
 
 | Campo | Texto | Links |
 |----|----|----|
@@ -34,6 +42,7 @@ Esta página tem texto e links que estão sendo usados no Laboratório de Cúpul
 | Title | Está acontecendo e está ao vivo! |  |
 | Corpo | Adobe Summit volta para Las Vegas de 21 a 23 de março de 2023. Prepare-se para inspirar alto-falantes, sessões de expansão de habilidades e novas conexões. |  |
 | Botão | Livro de hotel agora e economize 10% | lab://booking?suite=presidential&amp;discount=10 |
+
 
 
 ## Lição 3 Criar uma Jornada Omni-Channel

@@ -1,16 +1,16 @@
 ---
 title: Criar email de confirmação de pedido
-description: Teste o seu conhecimento sobre como criar e personalizar mensagens transacionais
+description: Teste o seu conhecimento sobre como criar e personalizar mensagens transacionais.
 kt: 7531
 feature: Journeys
 role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
-workflow-type: ht
-source-wordcount: '653'
-ht-degree: 100%
+source-git-commit: 6737f81f9cd9fc34740ce60e10c8036e29f97f68
+workflow-type: tm+mt
+source-wordcount: '657'
+ht-degree: 94%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 | Competências necessárias | <ul><li>[Criar conteúdo de email com o editor de mensagens](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=pt-BR)</li> <li>[Usar informações de evento contextual para personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=pt-BR)</li><li>[Usar funções auxiliares para personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=pt-BR)</li></ul> |
 | Ativos para baixar | [Ativos de confirmação de pedido](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
-## A História
+{style=&quot;table-layout:auto&quot;}
 
-A Luma está lançando sua loja online e deseja garantir uma boa experiência do cliente ao enviar um email de confirmação de pedido assim que um pedido for feito.
+## A história
 
-
+A Luma está lançando sua loja online e deseja garantir uma boa experiência do cliente. Eles enviam um email de confirmação do pedido assim que o cliente faz o pedido.
 
 ## Seu desafio
 
@@ -39,20 +39,26 @@ Crie uma jornada que envia um email de confirmação de pedido quando um cliente
 
 >[!TAB Tarefa]
 
-1. Crie uma jornada chamada `Luma - Order Confirmation`
-2. Use o evento: `LumaOnlinePurchase`
-3. Crie um email **transacional** chamado `Luma - Order Confirmation`
-* Com a linha de assunto “Obrigado por sua compra, `FirstName`”
-* Use o modelo `Luma - Order summary` e modifique-o:
-   * Remova as seções `You may also like`
-   * Adicione o link de cancelamento de inscrição na parte inferior do email
+1. Criar uma jornada chamada `Luma - Order Confirmation`.
+
+1. Use o evento: `LumaOnlinePurchase`.
+
+1. Crie um email **transacional** chamado `Luma - Order Confirmation`.
+
+   * Com a linha de assunto “Obrigado por sua compra, `FirstName`”
+
+   * Use o modelo `Luma - Order summary` e modifique-o:
+
+      * Remova as seções `You may also like`
+
+      * Adicione o link de cancelamento de inscrição na parte inferior do email
 
 O objeto deve ser estruturado da seguinte maneira:
 <table>
 <tr>
 <td>
   <div>
-     <strong> Seção cabeçalho</strong>
+     <strong> Cabeçalho seção</strong>
       </div>
   </td>
   <td>
@@ -65,8 +71,8 @@ O objeto deve ser estruturado da seguinte maneira:
   <tr>
   <td>
   <div>
-    <strong>Seção Confirmação de pedido
- </strong>
+    <strong>Seção de confirmação de pedido
+    </strong>
   </td>
   <td>
     <p>
@@ -125,7 +131,6 @@ O objeto deve ser estruturado da seguinte maneira:
   </tr>
 </table>
 
-
 >[!TIP]
 >
 >Para permitir solucionar problemas em suas jornadas, a prática recomendada é adicionar um caminho alternativo a todas as ações de mensagem se houver um tempo limite ou ocorrer um erro.
@@ -136,11 +141,11 @@ Acione a jornada criada no modo de teste e envie o email para você mesmo:
 
 1. Antes de alternar para o modo de teste, substitua os parâmetros de email para enviar o email de teste para seu endereço de email:
    1. Abra a visualização de detalhes do email.
-   2. Na seção Parâmetros de email, clique no ícone T (habilitar a substituição de parâmetros
-   3. Clique no campo Endereço
-   4. Na próxima tela, adicione o seu endereço de email entre parênteses: *&quot;seunome@seudominio&quot;* no editor de expressão e clique em OK.
-2. Coloque a jornada no modo de teste
-3. Acione o evento com os seguintes parâmetros:
+   1. Na seção Parâmetros de email, clique no ícone T (habilitar a substituição de parâmetros
+   1. Clique no campo Endereço
+   1. Na próxima tela, adicione o seu endereço de email entre parênteses: *&quot;seunome@seudominio&quot;* no editor de expressão e clique em OK.
+1. Coloque a jornada no modo de teste
+1. Acione o evento com os seguintes parâmetros:
    * Defina o identificador do perfil para: Valor de identidade:`a8f14eab3b483c2b96171b575ecd90b1`
    * Tipo de evento: Compras de comércio
    * `Quantity`: 1

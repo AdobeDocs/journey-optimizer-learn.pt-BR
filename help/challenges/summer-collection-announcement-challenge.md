@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
+source-git-commit: fc439f6e3875e859f5c4b9a6012c98b8d5d4be32
 workflow-type: tm+mt
-source-wordcount: '1175'
+source-wordcount: '1178'
 ht-degree: 100%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 100%
 | Perfil | Gerenciador de Jornadas |
 | Competências necessárias | <ul><li>[Criar segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=br-PT)</li><li> [Importar e criar conteúdo de email HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=br-PT)</li><li>[Caso de uso - Ler segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=br-PT)</li> |
 | Ativos para baixar | [Arquivos de email de Coleções sazonais](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## A história
 
@@ -69,7 +71,7 @@ Você também pode verificar a guia [!UICONTROL Segmento de afiliação]: seu se
 
 >[!TAB Verificar o seu trabalho]
 
-Campos de segmentos: [!UICONTROL Atributos] > [!UICONTROL Perfil individual XDM] > [!UICONTROL Fidelidade] > [!UICONTROL Nível]
+Campos de segmentos: **[!UICONTROL Atributos]** > **[!UICONTROL Perfil individual XDM]** > **[!UICONTROL Fidelidade]** > **[!UICONTROL Nível]**
 
 Esta é a aparência do seu segmento:
 
@@ -101,13 +103,13 @@ Uma agência forneceu quatro arquivos HTML com o design para os emails:
 
 1. [Baixe os arquivos de email da coleção da estação](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
 
-2. Crie uma jornada chamada *Luma - Anúncio da Coleção de Verão* com base nas seguintes orientações:
+1. Crie uma jornada chamada *Luma - Anúncio da Coleção de Verão* com base nas seguintes orientações:
 
    1. Envie o email *Luma - Novo anúncio da Coleção de Verão* para o segmento *Clientes ativos*, mantendo 10% do público como um grupo de controle
       * Título da mensagem *Luma - Anúncio da Coleção de Verão*
       * Linha de assunto *(nome do receipient), chegou a nova coleção de verão da Luma!*
       * Use o arquivo HTML fornecido `SeasonalCollectionEmail.html` no corpo do email.
-   2. Aguarde dois dias e envie uma mensagem de email de acompanhamento com conteúdo mais direcionado:
+   1. Aguarde dois dias e envie uma mensagem de email de acompanhamento com conteúdo mais direcionado:
       * Os clientes do sexo masculino devem receber o email **Coleção masculina da Luma**.
          * Título da mensagem: *Coleção masculina da Luma*
          * Linha de assunto: *(nome do recipient), descubra os novos equipamentos atléticos masculinos!*
@@ -117,11 +119,11 @@ Uma agência forneceu quatro arquivos HTML com o design para os emails:
          * Linha de assunto: *(nome do recipient), descubra coleção feminina da Luma!*
          * Corpo do email: `WomensCollectionEmail.html`
       * Outros clientes devem receber o email **Luma - Coleção com 20% de desconto**.
-         * Título da mensagem: *Luma - Coleção com 20% de desconto*
-         * Linha de assunto: *(nome do recipient), aproveite a liquidação com 20% de desconto!*
-         * Corpo do email: `20OOffCollectionEmail.html`
-   3. Depois de enviar os emails direcionados acima, aguarde mais dois dias para que eles sejam abertos
-   4. Se o email direcionado não for aberto em 2 dias, envie o email **Luma - Coleção com 20% de desconto** como uma tentativa final de redirecionamento
+      * Título da mensagem: *Luma - Coleção com 20% de desconto*
+      * Linha de assunto: *(nome do recipient), aproveite a liquidação com 20% de desconto!*
+      * Corpo do email: `20OOffCollectionEmail.html`
+   1. Depois de enviar os emails direcionados acima, aguarde mais dois dias para que eles sejam abertos
+   1. Se o email direcionado não for aberto em 2 dias, envie o email **Luma - Coleção com 20% de desconto** como uma tentativa final de redirecionamento
 
 
 >[!TAB Critérios de sucesso]
@@ -133,21 +135,21 @@ Uma agência forneceu quatro arquivos HTML com o design para os emails:
 Pré-visualizar o email:
 
 1. Adicione um perfil de teste: Louise Petti:
-   1. Namespace de identidade: *A ID no CRM da Luma*
-   2. Valor de identidade: *d1f132f9f9502bba047a6ec86c4b61f9*
+   * Namespace de identidade: *A ID no CRM da Luma*
+   * Valor de identidade: *d1f132f9f9502bba047a6ec86c4b61f9*
 
 Resultado:
+
 * A linha de assunto deve ficar: Louise, chegou a nova coleção da Luma!
 * O corpo do email deve corresponder ao que você viu na visualização: [Anúncio da nova coleção da estação](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
-
 
 **Mensagem de email nº 2 - Coleção masculina da Luma**
 
 Envie uma prova para si mesmo:
 
 1. Adicione um perfil de teste: Stanleigh Stooke:
-   1. Namespace de identidade: *A ID no CRM da Luma*
-   1. Valor de identidade: `4f34057d9d9e792c28ba18ecae378e98`
+   * Namespace de identidade: *A ID no CRM da Luma*
+   * Valor de identidade: `4f34057d9d9e792c28ba18ecae378e98`
 1. Selecione o perfil de teste: Stanleigh Stooke.
 1. Envie uma prova para si mesmo.
 
@@ -164,14 +166,12 @@ Pré-visualize o email com o perfil de teste *Louise Petti.*
 * A linha de assunto deve ficar: *Louise, descubra coleção feminina da Luma!*
 * O corpo do email deve corresponder ao que você viu na visualização: [Coleção feminina da Luma](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
-
 **Mensagem de email nº 4 - Luma - Coleção com 20% de desconto**
 
 Visualizar o email com o perfil de teste *Louise Petti.*
 
 * A linha de assunto deve ser: *Louise, aproveite a liquidação com 20% de desconto!*
 * O corpo do email deve corresponder ao que você viu na visualização: [Coleção Luma com 20% de desconto](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
-
 
 #### Teste a jornada
 
@@ -181,13 +181,15 @@ Visualizar o email com o perfil de teste *Louise Petti.*
 >
 >1. Certifique-se de que a [!UICONTROL Atividade Ler segmento] tem o namespace definido como **ID do CRM da Luma (lumaCrmId)**
 >1. Para cada email, substitua os parâmetros de email padrão nos emails de modo que eles sejam enviados para seu endereço de email:
->    * Exiba os valores ocultos clicando no ícone de olho.
->    * Nos parâmetros de email, clique no ícone de T (habilitar a substituição de parâmetro).
->
->      ![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Clique no campo [!UICONTROL Endereço]
->    * Na próxima tela, adicione seu endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em OK.
+   >    * Exiba os valores ocultos clicando no ícone de olho.
+   >    * Nos parâmetros de email, clique no ícone de T (habilitar a substituição de parâmetro).
+
+      >
+      >      ![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Clique no campo [!UICONTROL Endereço]
+   >    * Na próxima tela, adicione seu endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em OK.
+
 >
 
 

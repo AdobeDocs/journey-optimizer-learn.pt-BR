@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
-workflow-type: ht
-source-wordcount: '456'
-ht-degree: 100%
+source-git-commit: dfa4c8a0fd984bdd1a99e4b0a819dbb9cbd4c321
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 83%
 
 ---
 
@@ -23,15 +23,18 @@ Cada desafio desta seção aborda um caso de uso exclusivo que você implementa.
 
 ## Pré-requisitos
 
+Verifique se os pré-requisitos a seguir foram atendidos.
+
 ### Requisitos do sistema
 
-* Acesso a uma sandbox do Journey Optimizer - recomendamos concluir o desafio em uma sandbox de treinamento dedicada.
-* O AEM Assets Essentials deve ser provisionado para sua instância
-* Os canais de email devem ser configurados para mensagens transacionais e de marketing
+* Acesso a uma sandbox da Journey Optimizer - é recomendável concluir o desafio em uma sandbox de treinamento dedicada.
+* O AEM Assets Essentials deve ser provisionado para sua instância.
+* Os canais de email devem ser configurados para mensagens transacionais e de marketing.
 
 ### Direitos de acesso
 
 Você precisa dos seguintes direitos de acesso:
+
 * *Gerenciador de Jornada* ou *Administrador de Jornada*
 * Exibir perfis de teste e seus atributos
 
@@ -40,10 +43,9 @@ Você precisa dos seguintes direitos de acesso:
 
 ### Ações necessárias
 
-* Se você é novo no Adobe Journey Optimizer, conplete o curso [Introdução ao Journey Optimizer para Administradores e Gerentes de Jornada](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=pt-BR).
+* Se você é novo no Adobe Journey Optimizer, conclua o curso [Introdução ao Journey Optimizer para gerentes e administradores de Jornadas](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=pt-BR).
 
-
-## A História
+## A história
 
 Luma é uma empresa ficcional de vestuário esportivo, com lojas em vários países, tem presença online com um site e aplicativos para dispositivos móveis. A Luma usa o Adobe Journey Optimizer para fornecer experiências conectadas, contextuais e personalizadas aos seus clientes.
 

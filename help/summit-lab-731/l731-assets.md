@@ -1,6 +1,6 @@
 ---
 title: Ativos L731
-description: Esta página contém textos e links que estão sendo usados no L731 Summit Lab.
+description: Esta página contem texto e links que estão sendo usados no Summit Lab L731.
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -11,14 +11,14 @@ hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '219'
+ht-degree: 78%
 
 ---
 
 # Summit Lab L731
 
-Esta página contém textos e links que estão sendo usados no L731 Summit Lab. Ele permite copiar e colar o conteúdo em suas mensagens do Journey Optimizer.
+Esta página contem texto e links que estão sendo usados no Summit Lab L731. Ele permite copiar e colar o conteúdo nas suas mensagens do Journey Optimizer.
 
 ## Exercício 1.1 - Baixar e instalar o aplicativo
 
@@ -34,27 +34,27 @@ Esta página contém textos e links que estão sendo usados no L731 Summit Lab. 
 * Senha: Adobe2023!
 
 
-## Exercício 2.1 Criar uma campanha no aplicativo
+## Exercício 2.1 - Criar uma campanha no aplicativo
 
 | Campo | Texto | Links |
 |----|----|----|
 | Nome da campanha | `<your seat number> March Vegas Campaign` |  |
 | Opção de URL de mídia |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Title | Está acontecendo e está ao vivo! |  |
-| Corpo | Adobe Summit retorna a Las Vegas de 21 a 23 de março de 2023. Prepare-se para inspirar alto-falantes, sessões de expansão de habilidades e novas conexões. |  |
-| Botão | Reserve hotel agora e economize 10% | lab://booking?suite=presidential&amp;discount=10 |
+| Título | Está rolando e está ao vivo! |  |
+| Corpo | O Adobe Summit voltará a Las Vegas de 21 a 23 de março de 2023. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. |  |
+| Botão | Reserve o hotel agora e economize 10% | lab://booking?suite=presidential&amp;discount=10 |
 | URL básica |  | lab:// |
 
 
 
-## Lição 3 Criar uma Jornada omnicanal
+## Lição 3 - Criar uma jornada omnicanal
 
 | Mensagem | Texto | Deep link | Mídia |
 |----|----|----|----|
-| Push | Bem-vindo à Vegas Stay. Ignorar a linha e fazer check-in com o aplicativo móvel | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
-| SMS | Bem-vindo à Vegas Stay. Ignorar a linha e fazer check-in com o aplicativo móvel: lab://checkin |  |
+| Push | Bem-vindo a sua estadia em Vegas. Faça o check-in no aplicativo móvel e evite filas | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
+| SMS | Bem-vindo a sua estadia em Vegas. Faça o check-in no aplicativo móvel e evite filas: lab://checkin |  |
 
 
-Esta é a imagem que estamos usando para o SMS e a Notificação por push:
+Esta é a imagem que estamos usando para o SMS e a notificação por push:
 
-![Check-in Online](/help/assets/vegas_online_check_in.jpg)
+![Check-in online](/help/assets/vegas_online_check_in.jpg)

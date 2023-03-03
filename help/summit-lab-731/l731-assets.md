@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
+source-git-commit: c7cd250f01610e7a882b2a58676a931e7991e51a
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 76%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,10 @@ Esta página contem texto e links que estão sendo usados no Summit Lab L731. El
 
 ## Exercício 1.1 - Baixar e instalar o aplicativo
 
-[Clique aqui para instalar o aplicativo](https://testflight.apple.com/join/H0N5iWvW)
+### iOS
+
+![Código QR para o iOS](/help/assets/lab731-ios-qr-code.png)
+
 
 ## Exercício 1.3: Fazer logon no Adobe Journey Optimizer
 

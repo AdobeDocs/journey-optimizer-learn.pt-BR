@@ -1,15 +1,15 @@
 ---
 title: Desafios do Journey Optimizer - Introdução e pré-requisitos
-description: Entenda as noções básicas para a criação de uma jornada na tela de jornada.
+description: Os desafios proporcionam um cenário e os requisitos necessários para praticar o que você aprendeu. Cada desafio aborda um caso de uso exclusivo que você implementa.
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: f56ada2b4adeced3a77f2313a1a211f71260d0b7
+source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '475'
+ht-degree: 79%
 
 ---
 

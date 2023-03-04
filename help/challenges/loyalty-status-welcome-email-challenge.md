@@ -1,16 +1,16 @@
 ---
 title: Crie um email de boas-vindas com o status de fidelidade - Desafio
-description: Entenda as noções básicas para a criação de uma jornada na tela de jornada.
+description: Crie uma jornada que envia automaticamente um email de boas-vindas para os clientes quando eles atingem o nível de fidelidade.
 kt: 8109
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 65%
+source-wordcount: '430'
+ht-degree: 61%
 
 ---
 

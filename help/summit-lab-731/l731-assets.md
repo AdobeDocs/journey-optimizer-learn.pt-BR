@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 28da398f6813b1926c79b5cd45f415e2cfa9f40f
+source-git-commit: e2312c022f589ebf1218e1767bbc129b57fa1e2a
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 67%
+source-wordcount: '239'
+ht-degree: 64%
 
 ---
 
@@ -26,6 +26,10 @@ Esta página contem texto e links que estão sendo usados no Summit Lab L731. El
 
 ![Código QR para o iOS](/help/assets/lab731-ios-qr-code.png)
 
+### Android - Espaço reservado
+
+![Código QR para Android](/help/assets/lab731-ios-qr-code.png)
+
 
 ## Exercício 1.3: Fazer logon no Adobe Journey Optimizer
 
@@ -33,8 +37,8 @@ Esta página contem texto e links que estão sendo usados no Summit Lab L731. El
 
 **Detalhes de logon:**
 
-* Nome de usuário: `L731+<your seat number>@summitlab.us` (exemplo: L731+001@summitlab.us)
-* Senha: Adobe2023!
+* **Nome de usuário:** `L731+<your seat number>@summitlab.us` (exemplo: L731+001@summitlab.us)
+* **Senha:** Adobe2023!
 
 
 ## Exercício 2.1 - Criar uma campanha no aplicativo
@@ -50,7 +54,7 @@ Esta página contem texto e links que estão sendo usados no Summit Lab L731. El
 | Corpo | O Adobe Summit voltará a Las Vegas de 21 a 23 de março de 2023. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. |  |
 | Botão | Reserve o hotel agora e economize 10% | lab://booking?suite=presidential&amp;discount=10 |
 | Botão: Evento interativo | CTA no aplicativo |  |
-| URL básica |  | lab:// |
+| URL básica |  | iOS: lab:// <br>Android: https://lab |
 
 
 

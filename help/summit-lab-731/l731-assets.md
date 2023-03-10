@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e2312c022f589ebf1218e1767bbc129b57fa1e2a
+source-git-commit: 16a2a4ab090b96f52555b543cd9d1924dc9f09cb
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 64%
+source-wordcount: '271'
+ht-degree: 49%
 
 ---
 
@@ -22,14 +22,19 @@ Esta página contem texto e links que estão sendo usados no Summit Lab L731. El
 
 ## Exercício 1.1 - Baixar e instalar o aplicativo
 
-### iOS
+Digitalize o código QR para baixar o aplicativo
+
+>[!BEGINTABS]
+
+>[!TAB iOS]
 
 ![Código QR para o iOS](/help/assets/lab731-ios-qr-code.png)
 
-### Android - Espaço reservado
+>[!TAB Android]
 
 ![Código QR para Android](/help/assets/lab731-ios-qr-code.png)
 
+>[!ENDTABS]
 
 ## Exercício 1.3: Fazer logon no Adobe Journey Optimizer
 
@@ -43,8 +48,6 @@ Esta página contem texto e links que estão sendo usados no Summit Lab L731. El
 
 ## Exercício 2.1 - Criar uma campanha no aplicativo
 
-
-
 | Campo | Texto | Links |
 |----|----|----|
 | Nome da campanha | `<your seat number> March Vegas Campaign` |  |
@@ -57,16 +60,39 @@ Esta página contem texto e links que estão sendo usados no Summit Lab L731. El
 | URL básica |  | iOS: lab:// <br>Android: https://lab |
 
 
-
 ## Lição 3 - Criar uma jornada omnicanal
 
-| Mensagem | Linha de título/assunto | Texto | Link |
-|----|----|----|----|----|
-| Push | Bem-vindo a Vegas Stay! | Faça o check-in no aplicativo móvel e evite filas | lab://checkin |  |
-| SMS |  | Bem-vindo a sua estadia em Vegas. Faça o check-in no aplicativo móvel e evite filas: lab://checkin |  |
-| email | {{profile.person.name.firstName}}Você está em check-in, agora confira nossas ofertas para sua estadia! |  |  |
+>[!BEGINTABS]
+
+>[!TAB Mensagem por push]
+
+**Title:**\
+Bem-vindo a Vegas Stay!
+
+**Corpo:**\
+Faça o check-in no aplicativo móvel e evite filas
+
+**Deeplink:** lab://checkin
+
+**Mídia:**
+
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-Esta é a imagem que estamos usando para o SMS e a notificação por push:
+Esta é a imagem que estamos usando para a Notificação por push:
 
 ![Check-in online](/help/assets/vegas_online_check_in.jpg)
+
+|SMS| || |email|{{profile.person.name.firstName}}, você está em check-in, agora confira nossas ofertas para sua estadia!||
+
+>[!TAB Mensagem SMS]
+
+**Mensagem:**
+Bem-vindo à Vegas Stay. Faça o check-in no aplicativo móvel e evite filas: lab://checkin
+
+>[!TAB Mensagem de email]
+
+**Linha de assunto:**
+{{profile.person.name.firstName}}Você está em check-in, agora confira nossas ofertas para sua estadia!
+
+>[!ENDTABS]

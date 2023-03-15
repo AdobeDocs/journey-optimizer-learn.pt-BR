@@ -1,5 +1,5 @@
 ---
-title: Desafios do Journey Optimizer - Introdução e pré-requisitos
+title: Desafios da Journey Optimizer - Introdução e pré-requisitos
 description: Os desafios proporcionam um cenário e os requisitos necessários para praticar o que você aprendeu. Cada desafio aborda um caso de uso exclusivo que você implementa.
 feature: Journeys
 role: Admin
@@ -8,12 +8,12 @@ last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 79%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Desafios do Journey Optimizer - Introdução e pré-requisitos
+# Desafios da Journey Optimizer - Introdução e pré-requisitos
 
 ![Banner Desafio AJO](./assets/ajo-banner-challenges.png)
 
@@ -27,7 +27,7 @@ Verifique se os pré-requisitos a seguir foram atendidos.
 
 ### Requisitos do sistema
 
-* Acesso a uma sandbox da Journey Optimizer - é recomendável concluir o desafio em uma sandbox de treinamento dedicada.
+* Acesso a uma sandbox Journey Optimizer - é recomendável concluir o desafio em uma sandbox de treinamento dedicada.
 * O AEM Assets Essentials deve ser provisionado para sua instância.
 * Os canais de email devem ser configurados para mensagens transacionais e de marketing.
 
@@ -43,7 +43,7 @@ Você precisa dos seguintes direitos de acesso:
 
 ### Ações necessárias
 
-* Se você é novo no Adobe Journey Optimizer, conclua o curso [Introdução ao Journey Optimizer para gerentes e administradores de Jornadas](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=pt-BR).
+* Se você é novo no Adobe Journey Optimizer, conclua o curso [Introdução ao Journey Optimizer para administradores e gerentes do Jornada](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=pt-BR).
 
 ## A história
 
@@ -88,7 +88,7 @@ A Luma pretende promover sua coleção de roupas e equipamentos mais recentes e 
  </a>
     </div>
     <p>
-    <em>Envie um email quando um cliente de fidelidade mudar para um novo nível para parabenizá-lo e informar a ele sobre seus novos benefícios.</em>
+    <em>Envie um email quando um cliente de fidelidade mudar para um novo nível para parabenizá-lo e informá-lo sobre seus novos benefícios.</em>
     <p>
     <b>Competências necessárias:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=pt-BR"> Criar segmentos</li>

@@ -1,5 +1,5 @@
 ---
-title: Folha de características L731
+title: Folha de dicas L731
 description: Esta página contem texto e links que estão sendo usados no Summit Lab L731.
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -12,15 +12,15 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 39%
+ht-degree: 55%
 
 ---
 
-# Summit Lab L731 - Folha de características
+# Summit Lab L731 - Folha de dicas
 
 Esta página contem texto e links que estão sendo usados no Summit Lab L731. Ele permite copiar e colar o conteúdo nas suas mensagens do Journey Optimizer.
 
-## Exercício 1.1 - Baixar e instalar o aplicativo
+## Exercício 1.1: baixar e instalar o aplicativo
 
 Digitalize o código QR para baixar o aplicativo
 
@@ -48,7 +48,7 @@ Clique em **Instalar mesmo assim**
 
 >[!ENDTABS]
 
-## Exercício 1.3: Faça logon no Adobe Journey Optimizer
+## Exercício 1.3: fazer logon no Adobe Journey Optimizer
 
 [Clique aqui para fazer logon no Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
@@ -63,12 +63,12 @@ Clique em **Instalar mesmo assim**
 | Campo | Texto | Links |
 |----|----|----|
 | Nome da campanha | `<your seat number> March Vegas Campaign` |  |
-| Correspondente | cabeceira |  |
+| Correspondência | booknow |  |
 | Opção de URL de mídia |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
 | Título | Está acontecendo e está ao vivo! |  |
 | Corpo | O Adobe Summit voltará a Las Vegas de 21 a 23 de março de 2023. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. |  |
 | Botão | Reserve o hotel agora e economize 10% | lab://booking?suite=presidential&amp;discount=10 |
-| Botão: Evento interativo | CTA no aplicativo |  |
+| Botão: evento interativo | CTA no aplicativo |  |
 | URL básica |  | iOS: lab:// <br>Android™: https://lab |
 
 
@@ -79,7 +79,7 @@ Clique em **Instalar mesmo assim**
 >[!TAB Mensagem por push]
 
 **Title:**\
-Bem-vindo a Vegas...
+Bem-vindo a sua estadia em Vegas.
 
 **Corpo:**\
 Faça o check-in no aplicativo móvel e evite filas

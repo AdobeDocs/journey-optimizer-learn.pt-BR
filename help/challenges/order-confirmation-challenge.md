@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '654'
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 94%
 | Competências necessárias | <ul><li>[Criar conteúdo de email com o editor de mensagens](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=pt-BR)</li> <li>[Usar informações de evento contextual para personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=pt-BR)</li><li>[Usar funções auxiliares para personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=pt-BR)</li></ul> |
 | Ativos para baixar | [Ativos de confirmação de pedido](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## A história
 
-A Luma está lançando sua loja online e deseja garantir uma boa experiência do cliente. Eles enviam um email de confirmação do pedido assim que o cliente faz o pedido.
+A Luma está lançando sua loja online e deseja garantir uma boa experiência ao cliente. Eles enviam um email de confirmação do pedido assim que o cliente realiza a compra.
 
 ## Seu desafio
 
@@ -53,12 +53,12 @@ Crie uma jornada que envia um email de confirmação de pedido quando um cliente
 
       * Adicione o link de cancelamento de inscrição na parte inferior do email
 
-O objeto deve ser estruturado da seguinte maneira:
+O email deve ser estruturado da seguinte maneira:
 <table>
 <tr>
 <td>
   <div>
-     <strong> Cabeçalho seção</strong>
+     <strong>Seção do cabeçalho</strong>
       </div>
   </td>
   <td>
@@ -72,7 +72,7 @@ O objeto deve ser estruturado da seguinte maneira:
   <td>
   <div>
     <strong>Seção de confirmação de pedido
-    </strong>
+ </strong>
   </td>
   <td>
     <p>
@@ -104,7 +104,7 @@ O objeto deve ser estruturado da seguinte maneira:
  <tr>
 <td>
   <div>
-     <strong>Seção Detalhes do pedido</strong>
+     <strong>Seção de detalhes do pedido</strong>
       </div>
        <p><li>Adicione esta seção abaixo da seção <b>Enviar para</b>.
       </p><br>

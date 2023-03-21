@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
+source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 53%
@@ -120,7 +120,7 @@ Você será solicitado a instalar o Testflight (etapas 1 a 4). Depois de instala
   </td>
   </tr>
 </table>
-&gt;[!TAB Android™]
+&gt; [!TAB Android]
 
 ![Código QR para Android](/help/assets/lab731-android-qr-code.png)
 
@@ -155,13 +155,13 @@ Clique em **Instalar mesmo assim**
 | Corpo | O Adobe Summit voltará a Las Vegas de 21 a 23 de março de 2023. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. |  |
 | Botão | Reserve o hotel agora e economize 10% | lab://booking?suite=presidential&amp;discount=10 |
 | Botão: evento interativo | CTA no aplicativo |  |
-| URL básica |  | iOS: lab:// <br>Android™: https://lab |
+| URL básica |  | iOS: lab:// <br>Android&amp;: https://lab |
 
 
 ## Lição 3 - Criar uma jornada omnicanal
 
 **Rótulo de Jornada:**
-<your seat number> - Jornada de boas-vindas
+`<your seat number>` - Jornada de boas-vindas
 
 >[!BEGINTABS]
 

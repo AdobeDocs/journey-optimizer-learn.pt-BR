@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e3ea884c9a004ca3eba243436ecfc6edf46cfb34
+source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '357'
+ht-degree: 52%
 
 ---
 
@@ -177,7 +177,7 @@ Bem-vindo a sua estadia em Vegas.
 **Corpo:**\
 Faça o check-in no aplicativo móvel e evite filas
 
-**Deeplink:** lab://checkin
+**Deeplink:** iOS: lab://, Android e: https://lab
 
 **Mídia:**
 

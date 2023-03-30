@@ -51,7 +51,7 @@ Crie uma jornada que envia um email de confirmação de pedido quando um cliente
 
       * Remova as seções `You may also like`
 
-      * Adicione o link de cancelamento de inscrição na parte inferior do email
+      * Adicione o link para cancelar inscrição na parte inferior do email
 
 O email deve ser estruturado da seguinte maneira:
 <table>

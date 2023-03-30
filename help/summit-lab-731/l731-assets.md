@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ Digitalize o código QR para baixar o aplicativo
 
 ![Código QR para iOS](/help/assets/lab731-ios-qr-code.png)
 
-Você será solicitado a instalar o Testflight, etapas 1 a 4. Depois de instalar o Testflight, siga as etapas 5 a 8 para instalar o aplicativo Vegas stay:
+Você será solicitado a instalar o Testflight, etapas 1 a 4. Depois de instalar o Testflight, siga as etapas 5 a 8 para instalar o aplicativo Vegas Stay:
 
 <table>
 <tr>
@@ -125,7 +125,7 @@ Você será solicitado a instalar o Testflight, etapas 1 a 4. Depois de instalar
 
 ![Código QR para Android](/help/assets/lab731-android-qr-code.png)
 
-Se estiver usando o simulador do Android, use este link: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+Se estiver usando o simulador para Android, use este link: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
 
 Como o aplicativo não está registrado na Google Play Store, você receberá uma mensagem de aviso:
 
@@ -152,7 +152,7 @@ Clique em **Instalar mesmo assim**
 | Nome da campanha | `<your seat number> March Vegas Campaign` |  |
 | Correspondência | booknow |  |
 | Opção de URL de mídia |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Título | Está acontecendo e está ao vivo! |  |
+| Título | É agora e está ao vivo! |  |
 | Corpo | O Adobe Summit voltará a Las Vegas de 21 a 23 de março de 2023. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. |  |
 | Botão | Reserve o hotel agora e economize 10% | lab://booking?suite=presidential&amp;discount=10 |
 | Botão: evento interativo | CTA no aplicativo |  |
@@ -161,7 +161,7 @@ Clique em **Instalar mesmo assim**
 
 ## Lição 3 - Criar uma jornada omnicanal
 
-**Rótulo de Jornada:**
+**Rótulo de jornada:**
 `<your seat number>` - Jornada de boas-vindas
 
 >[!BEGINTABS]
@@ -171,17 +171,17 @@ Clique em **Instalar mesmo assim**
 **Rótulo:**
 Mensagem de boas-vindas
 
-**Title:**\
-Bem-vindo a sua estadia em Vegas.
+**Título:**\
+Boas-vindas ao Vegas Stay.
 
 **Corpo:**\
 Faça o check-in no aplicativo móvel e evite filas
 
-**Deeplink:** iOS: lab://, Android e: https://lab
+**Deeplink:** iOS: lab://, Android&amp;: https://lab
 
 **Mídia:**
 
-https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=pt-BR
 
 
 Esta é a imagem que estamos usando para a notificação por push:
@@ -194,7 +194,7 @@ Esta é a imagem que estamos usando para a notificação por push:
 Mensagem de boas-vindas
 
 **Mensagem:**
-Bem-vindo a Vegas. Faça o check-in no aplicativo móvel e evite filas: lab://checkin
+Boas-vindas ao Vegas Stay. Faça o check-in no aplicativo móvel e evite filas: lab://checkin
 
 >[!TAB Mensagem de email]
 
@@ -202,6 +202,6 @@ Bem-vindo a Vegas. Faça o check-in no aplicativo móvel e evite filas: lab://ch
 Mensagem de confirmação
 
 **Linha de assunto:**
-{{profile.person.name.firstName}}, você está conectado, agora confira nossas ofertas para sua estada!
+{{profile.person.name.firstName}}, você terminou o check-in. Agora confira nossas ofertas para sua estadia.
 
 >[!ENDTABS]

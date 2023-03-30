@@ -4,7 +4,7 @@ user-guide-description: Configurar uma sandbox para fins de treinamento
 breadcrumb-title: Tutorial - Configurar uma sandbox de treinamento
 breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html
 index: false
-source-git-commit: e0ec663ba23fe2c1f8cc5920c43a95b07dbf5b16
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -15,8 +15,10 @@ ht-degree: 0%
 # Tutorial - Configurar uma sandbox de treinamento {#configure-a-training-sandbox}
 
 + [Configurar uma sandbox de treinamento](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
-+ Etapa 1: configure a estrutura de dados e assimile dados {#set-up-data-structure-and-ingest-data}
++ Etapa 1: Configurar a estrutura de dados e importar os dados de amostra {#set-up-data-structure-and-ingest-data}
+   + [Configurar a estrutura de dados e importar dados de amostra usando o Postman](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=pt-BR)
    + [Configure a estrutura de dados (manualmente)](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
-   + [Assimile dados (manualmente)](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
+   + [Importar dados de amostra (manualmente)](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
 + [Etapa 2: configure eventos](/help/tutorial-configure-a-training-sandbox/configure-events.md)
 + [Tutoriais](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=pt-BR)
++ [Desafios](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=pt-BR)

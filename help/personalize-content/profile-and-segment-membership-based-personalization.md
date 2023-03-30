@@ -1,5 +1,5 @@
 ---
-title: Trabalhar com a associação de perfil e segmento para personalização
+title: Trabalhar com perfil e segmento de afiliação para personalização
 description: Saiba como adicionar uma personalização baseada em perfil a uma mensagem e como usar o segmento de afiliação como uma pré-condição para um bloco de personalização.
 landing-page-description: Saiba como adicionar uma personalização baseada em perfil a uma mensagem e como usar o segmento de afiliação como uma pré-condição para um bloco de personalização.
 short-description: Learn how to add profile-based personalization to a message and how to use segment membership as a pre-condition to a personalization block.
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 ---
 
-# Trabalhar com a associação de perfil e segmento para personalização
+# Trabalhar com perfil e segmento de afiliação para personalização
 
 Saiba como adicionar uma personalização baseada em perfil a uma mensagem e como usar o segmento de afiliação como uma pré-condição para um bloco de personalização.
 

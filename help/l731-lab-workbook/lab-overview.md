@@ -1,6 +1,6 @@
 ---
-title: Visão geral do Lab
-description: Neste laboratório prático, você aprenderá a implementar uma estratégia de marketing multicanal que inclua notificações por push, mensagens SMS e campanhas e jornadas de mensagens por email no Adobe Journey Optimizer.
+title: Visão geral do laboratório
+description: Neste laboratório prático, você aprenderá a implementar uma estratégia de marketing de vários canais que inclua campanhas no aplicativo, notificações por push, mensagens SMS e por email, além de jornadas no Adobe Journey Optimizer.
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -9,22 +9,22 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# L731 - Crie momentos móveis personalizados com o Journey Optimizer
+# L731 - Crie momentos personalizados para dispositivos móveis com o Journey Optimizer
 
-## Visão geral do Lab
+## Visão geral do laboratório
 
-Neste laboratório prático, você aprenderá a implementar uma estratégia de marketing multicanal que inclua notificações por push, mensagens SMS e campanhas e jornadas de mensagens por email no Adobe Journey Optimizer.
+Neste laboratório prático, você aprenderá a implementar uma estratégia de marketing de vários canais que inclua campanhas no aplicativo, notificações por push, mensagens SMS e por email, além de jornadas no Adobe Journey Optimizer.
 
-## Takeaways de chave
+## Principais aprendizados
 
-* Entenda como as interações com um aplicativo móvel refletem nos dados do perfil.
+* Entenda como as interações com um aplicativo móvel refletem nos dados de perfil.
 * Saiba como configurar campanhas no aplicativo e por push.
-* Crie uma jornada omnicanal e entenda quando usar qual canal.
+* Crie uma jornada omnicanal e entenda quando usar cada canal.
 * Saiba como testar sua jornada.

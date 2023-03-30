@@ -36,7 +36,7 @@ ht-degree: 100%
 + Canal de email{#email-channel}
    + [Criar conteúdo com o Designer de email](/help/channels/create-content-with-the-email-designer.md)
    + [Importar e criar conteúdo de email HTML](/help/channels/import-and-author-html-email-content.md)
-   + [Pré-visualizar, testar e publicar](/help/channels/preview-proof-and-publish.md)
+   + [Pré-visualizar, provar e publicar](/help/channels/preview-proof-and-publish.md)
    + [Modelos de conteúdo](/help/channels/content-templates.md)
 + Canal no aplicativo{#in-app-channel}
    + [Mensagens no aplicativo para campanhas](/help/channels/in-app-messaging-for-campaigns.md)

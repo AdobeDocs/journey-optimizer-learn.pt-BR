@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 92%
@@ -19,7 +19,7 @@ ht-degree: 92%
 
 O tutorial em vídeo a seguir explica como criar conjuntos de dados e assimilar dados manualmente:
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on)
 
 Crie os seguintes conjuntos de dados:
 

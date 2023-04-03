@@ -6,17 +6,17 @@ doc-type: article
 role: User
 recommendations: noDisplay, noCatalog
 hide: true
-source-git-commit: 879eeea18f565db742f62d7dbdf65f61341ead2e
+source-git-commit: 9ea6931bc191e23b120111441a4cc602a2f37b41
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Exercício 1.2: registrar-se como um usuário no aplicativo
 
->[!IMPORTANT]\
+>[!IMPORTANT]
 >Cadastre-se com um **endereço de email que você possa acessar durante a sessão do laboratório** e com **seu número de telefone celular**.
 >
 > Essa informação é necessária para que você receba as mensagens que enviará. Isso também permite acessar suas informações no Journey Optimizer. Elas não serão usadas para nenhum outro fim além deste laboratório.

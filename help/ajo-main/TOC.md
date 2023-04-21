@@ -2,10 +2,10 @@
 user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
-source-git-commit: a2bb2d9aa79887aad8b891e6460ecacf1b6536c7
+source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 99%
+source-wordcount: '321'
+ht-degree: 97%
 
 ---
 
@@ -74,16 +74,11 @@ ht-degree: 99%
    + [Mapear identidades](/help/set-up-data/map-identities.md)
    + [Criar conjuntos de dados e assimilar dados](/help/set-up-data/create-datasets-and-ingest-data.md)
    + [Configurar conectores de origem](/help/set-up-data/configure-source-connectors.md)
+   + [Exportar conjuntos de dados para locais de armazenamento na nuvem](/help/set-up-data/export-datasets.md)
 + Relatar e monitorar {#report-and-monitor}
    + [Relatórios dinâmicos e globais](/help/report-and-monitor/live-and-global-reports.md)
    + [Usar alertas](/help/administration/alerts.md)
 + Configuração {#configuration}
-   + Configurar dados {#data-configuration}
-      + [Visão geral](/help/set-up-data/set-up-data-overview.md)
-      + [Criar um esquema](/help/set-up-data/create-schema.md)
-      + [Mapear identidades](/help/set-up-data/map-identities.md)
-      + [Criar conjuntos de dados e assimilar dados](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [Configurar conectores de origem](/help/set-up-data/configure-source-connectors.md)
    + Configurar canais {#channel-configuration}
       + [Configurar canal de email](/help/set-up-channels/set-up-email-channel.md)
       + [Delegar subdomínios CName](/help/set-up-channels/delegate-cname-subdomains.md)

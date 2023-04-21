@@ -5,7 +5,7 @@ user-guide-description: Estes são tutoriais do Journey Optimizer.
 source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 

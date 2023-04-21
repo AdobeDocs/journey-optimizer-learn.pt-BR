@@ -1,6 +1,6 @@
 ---
 title: Gestão de decisões - Limite de frequência
-description: Entenda como o limite de frequência do Offer Decisioning funciona. Saiba como configurar o limite de frequência para um evento personalizado e como configurar incrementos definindo a frequência.
+description: Entenda como funciona o limite de frequência do Offer Decisioning. Saiba como configurar o limite de frequência para um evento personalizado e como configurar incrementos definindo a frequência.
 feature: Offers
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 # Gestão de decisões - Limite de frequência
 
-Entenda como o limite de frequência do Offer Decisioning funciona. Saiba como configurar o limite de frequência para um evento personalizado e como configurar incrementos definindo a frequência.
+Entenda como funciona o limite de frequência do Offer Decisioning. Saiba como configurar o limite de frequência para um evento personalizado e como configurar incrementos definindo a frequência.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417853/?quality=12&learn=on)

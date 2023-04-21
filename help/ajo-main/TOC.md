@@ -2,10 +2,10 @@
 user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
-source-git-commit: e8f4f8bd1428bf6e4a9af88b2b7d11ca962db581
+source-git-commit: a2bb2d9aa79887aad8b891e6460ecacf1b6536c7
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 98%
+source-wordcount: '331'
+ht-degree: 99%
 
 ---
 
@@ -68,6 +68,12 @@ ht-degree: 98%
    + [Criar decisões](/help/decision-management/create-decisions.md)
    + [Fornecer ofertas com a API de Decisões](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Limite de frequência](/help/decision-management/frequency-capping.md)
++ Gerenciamento de dados {#data-management}
+   + [Visão geral](/help/set-up-data/set-up-data-overview.md)
+   + [Criar um esquema](/help/set-up-data/create-schema.md)
+   + [Mapear identidades](/help/set-up-data/map-identities.md)
+   + [Criar conjuntos de dados e assimilar dados](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [Configurar conectores de origem](/help/set-up-data/configure-source-connectors.md)
 + Relatar e monitorar {#report-and-monitor}
    + [Relatórios dinâmicos e globais](/help/report-and-monitor/live-and-global-reports.md)
    + [Usar alertas](/help/administration/alerts.md)

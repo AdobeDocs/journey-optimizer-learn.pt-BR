@@ -2,10 +2,10 @@
 user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
-source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
+source-git-commit: 58333495c7a4fba108f171b28a977cdb8f36b758
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 98%
+source-wordcount: '331'
+ht-degree: 95%
 
 ---
 
@@ -44,6 +44,9 @@ ht-degree: 98%
 + Canal SMS{#sms-channel}
    + [Criar e entregar mensagens SMS](/help/channels/author-and-deliver-sms-messages.md)
    + [Compatibilidade com palavras-chave de entrada para SMS](/help/channels/inbound-keyword-support-for-sms.md)
++ Canal da Web {#web-channel}
+   + [Criar uma campanha da Web](/help/channels/create-a-web-campaign.md)
+   + [Criar uma campanha da Web](/help/channels/author-a-web-campaign.md)
 + Perfis, segmentos e assinaturas do cliente {#profiles-segments-subscriptions}
    + [Perfil e segmentação unificados - visão geral](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Criar segmentos](/help/set-up-resources/create-segments.md)

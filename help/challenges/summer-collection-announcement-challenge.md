@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: 8e86fdfe2a9e8c7cc37eeb95af23d32a5c1d83a7
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 100%
+source-wordcount: '1166'
+ht-degree: 96%
 
 ---
 
@@ -153,7 +153,7 @@ Envie uma prova para si mesmo:
 1. Envie uma prova para si mesmo.
 
 Resultado:\
-Você deve receber um email. A linha de assunto deve ficar *&quot;Stanleigh, descubra os novos equipamentos atléticos masculinos!&quot;* e o corpo do email deve corresponder ao que você viu na visualização: [Coleção masculina da Luma](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+Você deve receber um email. A linha de assunto deve ficar *&quot;Stanleigh, descubra os novos equipamentos atléticos masculinos!&quot;* e o corpo do email deve corresponder ao que você viu na visualização.
 
 >[!NOTE]
 >Pode levar alguns minutos para você receber a prova.
@@ -163,14 +163,14 @@ Você deve receber um email. A linha de assunto deve ficar *&quot;Stanleigh, des
 Pré-visualize o email com o perfil de teste *Louise Petti.*
 
 * A linha de assunto deve ficar: *Louise, descubra coleção feminina da Luma!*
-* O corpo do email deve corresponder ao que você viu na visualização: [Coleção feminina da Luma](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
+* O corpo do email deve corresponder ao que você viu na visualização.
 
 **Mensagem de email nº 4 - Luma - Coleção com 20% de desconto**
 
 Visualizar o email com o perfil de teste *Louise Petti.*
 
 * A linha de assunto deve ser: *Louise, aproveite a liquidação com 20% de desconto!*
-* O corpo do email deve corresponder ao que você viu na visualização: [Coleção Luma com 20% de desconto](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
+* O corpo do email deve corresponder ao que você viu na visualização.
 
 #### Teste a jornada
 
@@ -180,13 +180,15 @@ Visualizar o email com o perfil de teste *Louise Petti.*
 >
 >1. Certifique-se de que a [!UICONTROL Atividade Ler segmento] tem o namespace definido como **ID do CRM da Luma (lumaCrmId)**
 >1. Para cada email, substitua os parâmetros de email padrão nos emails de modo que eles sejam enviados para seu endereço de email:
->    * Exiba os valores ocultos clicando no ícone de olho.
->    * Nos parâmetros de email, clique no ícone de T (habilitar a substituição de parâmetro).
->
->      ![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Clique no campo [!UICONTROL Endereço]
->    * Na próxima tela, adicione seu endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em OK.
+   >    * Exiba os valores ocultos clicando no ícone de olho.
+   >    * Nos parâmetros de email, clique no ícone de T (habilitar a substituição de parâmetro).
+
+      >
+      >      ![Substituir parâmetros de email](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Clique no campo [!UICONTROL Endereço]
+   >    * Na próxima tela, adicione seu endereço de email entre parênteses: `"yourname@yourdomain"` no editor de expressão e clique em OK.
+
 >
 
 

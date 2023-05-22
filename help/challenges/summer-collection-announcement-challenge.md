@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8e86fdfe2a9e8c7cc37eeb95af23d32a5c1d83a7
+source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
 workflow-type: tm+mt
-source-wordcount: '1166'
-ht-degree: 96%
+source-wordcount: '1126'
+ht-degree: 98%
 
 ---
 
@@ -140,7 +140,6 @@ Pré-visualizar o email:
 Resultado:
 
 * A linha de assunto deve ficar: Louise, chegou a nova coleção da Luma!
-* O corpo do email deve corresponder ao que você viu na visualização: [Anúncio da nova coleção da estação](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 **Mensagem de email nº 2 - Coleção masculina da Luma**
 
@@ -149,8 +148,8 @@ Envie uma prova para si mesmo:
 1. Adicione um perfil de teste: Stanleigh Stooke:
    * Namespace de identidade: *A ID no CRM da Luma*
    * Valor de identidade: `4f34057d9d9e792c28ba18ecae378e98`
-1. Selecione o perfil de teste: Stanleigh Stooke.
-1. Envie uma prova para si mesmo.
+2. Selecione o perfil de teste: Stanleigh Stooke.
+3. Envie uma prova para si mesmo.
 
 Resultado:\
 Você deve receber um email. A linha de assunto deve ficar *&quot;Stanleigh, descubra os novos equipamentos atléticos masculinos!&quot;* e o corpo do email deve corresponder ao que você viu na visualização.
@@ -163,14 +162,12 @@ Você deve receber um email. A linha de assunto deve ficar *&quot;Stanleigh, des
 Pré-visualize o email com o perfil de teste *Louise Petti.*
 
 * A linha de assunto deve ficar: *Louise, descubra coleção feminina da Luma!*
-* O corpo do email deve corresponder ao que você viu na visualização.
 
 **Mensagem de email nº 4 - Luma - Coleção com 20% de desconto**
 
 Visualizar o email com o perfil de teste *Louise Petti.*
 
 * A linha de assunto deve ser: *Louise, aproveite a liquidação com 20% de desconto!*
-* O corpo do email deve corresponder ao que você viu na visualização.
 
 #### Teste a jornada
 

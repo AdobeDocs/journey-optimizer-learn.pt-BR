@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
+source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
 workflow-type: tm+mt
 source-wordcount: '357'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -202,6 +202,6 @@ Boas-vindas ao Vegas Stay. Faça o check-in no aplicativo móvel e evite filas: 
 Mensagem de confirmação
 
 **Linha de assunto:**
-{{profile.person.name.firstName}}, você terminou o check-in. Agora confira nossas ofertas para sua estadia.
+`{{profile.person.name.firstName}},` você está em check-in, agora confira nossas ofertas para sua estadia!
 
 >[!ENDTABS]

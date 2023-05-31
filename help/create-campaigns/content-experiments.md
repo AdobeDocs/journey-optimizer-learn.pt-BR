@@ -8,9 +8,9 @@ doc-type: Feature Video
 jira: KT-11129
 thumbnail: 3419893.jpeg
 source-git-commit: ff61b570060bb04a9b17cd9e7e0062015363dce2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 source-git-commit: 6a490db336065781dea510d25c3bf9fc8e0b3181
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '24'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # Configurar experimentos de conteúdo para emails

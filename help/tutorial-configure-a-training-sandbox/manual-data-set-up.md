@@ -3,13 +3,13 @@ title: Configurar a estrutura de dados manualmente
 description: Crie os namespaces de identidade necessários e defina a estrutura de dados de amostra do Luma.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
-kt: 9382
+jira: KT-9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '1021'
 ht-degree: 100%
 
@@ -320,12 +320,12 @@ Agora o [!UICONTROL namespace] e o [!DNL Luma Loyalty schema] estão configurado
       1. **[!UICONTROL Esquema de referência]**: [!DNL Luma Product Catalog Schema].
 
       2. **[!UICONTROL Namespace de identidade de referência]**: [!DNL LumaProductSKU].
+
    3. Selecione **[!UICONTROL Aplicar]**.
 
       O esquema deve ficar assim:
 
       ![Relação SKU](assets/sku_relationship.png)
-
 
 1. Ative para o **Perfil**.
 
@@ -340,7 +340,7 @@ Crie os seguintes [!UICONTROL esquemas] adicionais:
 | **[!UICONTROL Classe]** | [!UICONTROL Perfil individual XDM] | [!UICONTROL Evento de experiência do XDM] | [!UICONTROL Perfil individual XDM] | [IUICONTROL XDM ExperienceEvent] |
 | **[!UICONTROL Adicionar um grupo de campos já existente]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL Relação]** |  | `productListItems.SKU`:<br> esquema de referência `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> esquema de referência `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
-| [!UICONTROL namespace] de **[!UICONTROL identidade principal])** | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| [!UICONTROL namespace] de **[!UICONTROL identidade principal])** | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
 | **[!UICONTROL Habilitar para o perfil]** | sim | sim | sim | sim |
 
 ## Próximas etapas

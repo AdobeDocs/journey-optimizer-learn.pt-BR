@@ -1,15 +1,15 @@
 ---
 title: Desafio de reposição de produto
 description: Aplique o que você aprendeu sobre como criar segmentos e testar suas habilidades.
-kt: 8417
+jira: KT-8417
 feature: Segments
 role: User
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '580'
 ht-degree: 100%
 
@@ -101,7 +101,6 @@ Código da condição:
 > * Selecione o SKU em Salvar para mais tarde, na seção *Procurar variáveis*
 > * Use a opção de comparação ao soltar o SKU em Salvar para mais tarde, no campo evento
 
-
 Verifique o código no canto inferior direito da tela Editar segmento, em Eventos. O código deve ter esta aparência:
 
 Código:
@@ -118,6 +117,7 @@ Notifique os clientes que adicionaram um item indisponível com uma chamada para
 >[!TIP]
 >
 > Use o evento comercial existente. Adicione uma condição que verifique se o SKU de reabastecimento está incluído em (algum) tipo de evento salvar para mais tarde.
+>
 
 
 

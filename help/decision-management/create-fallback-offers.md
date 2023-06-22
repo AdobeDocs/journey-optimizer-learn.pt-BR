@@ -2,10 +2,10 @@
 title: Criar ofertas substitutas
 description: Saiba como criar ofertas substitutas para a gestão de decisões. As ofertas substitutas têm regras de qualificação associadas a elas para ajudar você a exibi-las somente para clientes relevantes.
 feature: Offers
-kt: 6780
+jira: KT-6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
-source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%

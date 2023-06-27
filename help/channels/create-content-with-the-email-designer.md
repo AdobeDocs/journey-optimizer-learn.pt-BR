@@ -9,16 +9,16 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 2df3f69611c4f3c2e93b3b5746b80b0814ad0497
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 69%
 
 ---
 
 # Criar conteúdo com o Designer de email
 
-Saiba como criar emails do zero. Entenda como usar ativos da biblioteca do AEM Assets Essentials, editar o design de email responsivo e criar emails de modelos.
+Saiba como criar emails do zero. Entenda como usar os ativos da biblioteca do Adobe Experience Manager Assets Essentials, editar o design de email responsivo e criar emails a partir de modelos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12&learn=on)
 

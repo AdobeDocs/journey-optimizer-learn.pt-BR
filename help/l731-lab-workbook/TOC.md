@@ -1,13 +1,15 @@
 ---
 user-guide-title: Summit Lab 731 - Pasta de trabalho
 user-guide-description: Neste laboratório prático, você aprenderá a implementar uma estratégia de marketing de vários canais que inclua campanhas no aplicativo, notificações por push, mensagens SMS e por email, além de jornadas no Adobe Journey Optimizer.
+role: User
+level: Beginner
 breadcrumb-title: Journey Optimizer - Pasta de trabalho L731
 breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
 index: false
 hide: true
-source-git-commit: a1751f374f611fcf38db7ad9b51c42315c890b04
-workflow-type: tm+mt
-source-wordcount: '54'
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---

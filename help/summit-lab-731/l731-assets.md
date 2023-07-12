@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
-workflow-type: ht
-source-wordcount: '357'
-ht-degree: 100%
+source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+workflow-type: tm+mt
+source-wordcount: '342'
+ht-degree: 92%
 
 ---
 
@@ -125,8 +125,6 @@ Você será solicitado a instalar o Testflight, etapas 1 a 4. Depois de instalar
 
 ![Código QR para Android](/help/assets/lab731-android-qr-code.png)
 
-Se estiver usando o simulador para Android, use este link: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
-
 Como o aplicativo não está registrado na Google Play Store, você receberá uma mensagem de aviso:
 
 ![Tela de aviso do Android](/help/assets/lab731-install-android.png)
@@ -149,14 +147,14 @@ Clique em **Instalar mesmo assim**
 
 | Campo | Texto | Links |
 |----|----|----|
-| Nome da campanha | `<your seat number> March Vegas Campaign` |  |
+| Nome da campanha | `<your seat number> Vegas Stay Campaign` |  |
 | Correspondência | booknow |  |
 | Opção de URL de mídia |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Título | É agora e está ao vivo! |  |
-| Corpo | O Adobe Summit voltará a Las Vegas de 21 a 23 de março de 2023. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. |  |
-| Botão | Reserve o hotel agora e economize 10% | lab://booking?suite=presidential&amp;discount=10 |
+| Título | Obter o seu desconto de pássaro cedo! |  |
+| Corpo | Adobe Summit retorna a Las Vegas em 2024. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. Reserve sua suíte agora e ganhe 10% de desconto. |  |
+| Botão | Reservar agora | lab://booking?suite=presidential&amp;discount=10 |
 | Botão: evento interativo | CTA no aplicativo |  |
-| URL básica |  | iOS: lab:// <br>Android&amp;: https://lab |
+| URL básica |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
 ## Lição 3 - Criar uma jornada omnicanal

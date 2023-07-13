@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 6580652b9c28d51c03944362a0fb848a0a8194e2
+source-git-commit: d44943b27a1681a2f264e762a2eac9d993ce46be
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '285'
 ht-degree: 76%
 
 ---
@@ -149,10 +149,10 @@ Clique em **Instalar mesmo assim**
 |----|----|----|
 | Nome da campanha | `<your seat number> Vegas Stay Campaign` |  |
 | Correspondência | booknow |  |
-| Opção de URL de mídia |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| Opção de URL de mídia |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | Título | Obter o seu desconto de pássaro cedo! |  |
 | Corpo | Adobe Max volta para Las Vegas. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. Reserve sua suíte agora e ganhe 10% de desconto. |  |
-| Botão | Reservar agora | lab://booking?suite=presidential&amp;discount=10 |
+| Botão | Obtenha seu desconto de 10%! | lab://booking?suite=presidential&amp;discount=10 |
 | Botão: evento interativo | CTA no aplicativo |  |
 | URL básica a ser usado para visualização no dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
 
@@ -162,6 +162,6 @@ Clique em **Instalar mesmo assim**
 | Campo | Texto | Links |
 |----|----|----|
 | Nome da campanha | `<your seat number> Max Push Campaign` |  |
-| Opção de URL de mídia |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| Opção de URL de mídia |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | Título | Ei! |  |
 | Corpo | Você sabia que o Adobe Max está voltando para Vegas. Reserve seu quarto agora e obtenha 10% de desconto. |  |

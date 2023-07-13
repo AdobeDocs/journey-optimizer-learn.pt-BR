@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+source-git-commit: 6580652b9c28d51c03944362a0fb848a0a8194e2
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 92%
+source-wordcount: '286'
+ht-degree: 76%
 
 ---
 
@@ -133,7 +133,7 @@ Clique em **Instalar mesmo assim**
 
 >[!ENDTABS]
 
-## Exercício 1.3: fazer logon no Adobe Journey Optimizer
+## Exercício 1: fazer logon no Adobe Journey Optimizer
 
 [Clique aqui para fazer logon no Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
@@ -143,63 +143,25 @@ Clique em **Instalar mesmo assim**
 * **Senha:** Adobe2023!
 
 
-## Exercício 2.1 - Criar uma campanha no aplicativo
+## Exercício 2 - Criar uma campanha no aplicativo
 
 | Campo | Texto | Links |
 |----|----|----|
 | Nome da campanha | `<your seat number> Vegas Stay Campaign` |  |
 | Correspondência | booknow |  |
-| Opção de URL de mídia |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
+| Opção de URL de mídia |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
 | Título | Obter o seu desconto de pássaro cedo! |  |
-| Corpo | Adobe Summit retorna a Las Vegas em 2024. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. Reserve sua suíte agora e ganhe 10% de desconto. |  |
+| Corpo | Adobe Max volta para Las Vegas. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. Reserve sua suíte agora e ganhe 10% de desconto. |  |
 | Botão | Reservar agora | lab://booking?suite=presidential&amp;discount=10 |
 | Botão: evento interativo | CTA no aplicativo |  |
-| URL básica |  | **iOS:** lab:// <br>**Android**: https://lab |
+| URL básica a ser usado para visualização no dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
-## Lição 3 - Criar uma jornada omnicanal
+## Exercício 3: Criar uma notificação por push
 
-**Rótulo de jornada:**
-`<your seat number>` - Jornada de boas-vindas
-
->[!BEGINTABS]
-
->[!TAB Mensagem por push]
-
-**Rótulo:**
-Mensagem de boas-vindas
-
-**Título:**\
-Boas-vindas ao Vegas Stay.
-
-**Corpo:**\
-Faça o check-in no aplicativo móvel e evite filas
-
-**Deeplink:** iOS: lab://, Android&amp;: https://lab
-
-**Mídia:**
-
-https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=pt-BR
-
-
-Esta é a imagem que estamos usando para a notificação por push:
-
-![Check-in online](/help/assets/vegas_online_check_in.jpg)
-
->[!TAB Mensagem SMS]
-
-**Rótulo:**
-Mensagem de boas-vindas
-
-**Mensagem:**
-Boas-vindas ao Vegas Stay. Faça o check-in no aplicativo móvel e evite filas: lab://checkin
-
->[!TAB Mensagem de email]
-
-**Rótulo:**
-Mensagem de confirmação
-
-**Linha de assunto:**
-`{{profile.person.name.firstName}},` você fez o check-in, agora confira nossas ofertas para sua estadia.
-
->[!ENDTABS]
+| Campo | Texto | Links |
+|----|----|----|
+| Nome da campanha | `<your seat number> Max Push Campaign` |  |
+| Opção de URL de mídia |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| Título | Ei! |  |
+| Corpo | Você sabia que o Adobe Max está voltando para Vegas. Reserve seu quarto agora e obtenha 10% de desconto. |  |

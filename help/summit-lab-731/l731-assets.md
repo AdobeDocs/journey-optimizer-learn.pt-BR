@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 0341fab31cb829838228cf706a4f696fc71cbd97
+source-git-commit: 152435650d2160fd6def2614d50fc06ade79f24c
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 71%
@@ -31,6 +31,7 @@ Digitalize o código QR para baixar o aplicativo
 ![Código QR para iOS](/help/assets/lab731-ios-qr-code.png)
 
 >[!Tip]
+>
 >Se solicitado a resgatar o código, feche o aplicativo TestFlight e verifique o código QR novamente.
 >**Permitir &#39;Notificações&#39;.**
 

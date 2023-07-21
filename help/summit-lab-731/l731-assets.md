@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: af22cd4dfe86ade11a88428cd44460fad721942a
+source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 71%
+source-wordcount: '326'
+ht-degree: 66%
 
 ---
 
@@ -142,7 +142,7 @@ Clique em **Instalar mesmo assim**
 
 ## Exercício 1: fazer logon no Adobe Journey Optimizer
 
-[Clique aqui para fazer logon no Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+[Clique aqui para fazer logon no Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
 **Detalhes de logon:**
 
@@ -152,16 +152,16 @@ Clique em **Instalar mesmo assim**
 
 ## Exercício 2 - Criar uma campanha no aplicativo
 
-| Campo | Texto | Links |
-|----|----|----|
-| Nome da campanha | `<your seat number> Vegas Stay Campaign` |  |
-| Correspondência | booknow |  |
-| Opção de URL de mídia |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| Título | Obter o seu desconto de pássaro cedo! |  |
-| Corpo | Adobe Max volta para Las Vegas. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. Reserve sua suíte agora e ganhe 10% de desconto. |  |
-| Botão | Obtenha seu desconto de 10%! | lab://booking?suite=presidential&amp;discount=10 |
-| Botão: evento interativo | CTA no aplicativo |  |
-| URL básica a ser usado para visualização no dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
+| Seção | Campo | Texto | Links |
+|----|----|----|----|
+| **Propriedades** |  | Nome da campanha | `<your seat number> Vegas Stay Campaign` |  |
+| **Triggers** | Estado | booknow |  |
+| **Editar conteúdo:** Mídia | Opção de URL de mídia |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| **Editar conteúdo:** Conteúdo | Título | Obter o seu desconto de pássaro cedo! |  |
+| **Editar conteúdo:** Conteúdo | Corpo | Adobe Max volta para Las Vegas. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. Reserve sua suíte agora e ganhe 10% de desconto. |  |
+| **Editar conteúdo:** Botões | Botão | Obtenha seu desconto de 10%! | lab://booking?suite=presidential&amp;discount=10 |
+| **Editar conteúdo:** Conteúdo |  | Botão: Interagir evento | CTA no aplicativo |  |
+| **Visualizar no dispositivo** |  | URL base a ser usado para visualização no dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
 ## Exercício 3: Criar uma notificação por push

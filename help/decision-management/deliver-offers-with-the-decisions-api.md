@@ -1,5 +1,5 @@
 ---
-title: Fornecer ofertas com a API do hub de decisões
+title: Forneça ofertas com a API do hub de decisões
 description: Saiba como fornecer ofertas de gestão de decisões com a API de decisões.
 feature: Offers
 role: Developer
@@ -8,7 +8,7 @@ jira: KT-6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
 ht-degree: 100%
 

@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # Criar tags
 
-Saiba como [criar tags](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=pt-BR) no [!DNL Decision Management]. Tags são componentes opcionais de blocos de construção de ofertas. Elas podem ser usadas para organizar ofertas e agrupá-las em coleções dinâmicas.
+Saiba como [criar tags](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=pt-BR) no [!DNL Decision Management]. Tags são componentes básicos opcionais de ofertas. Elas podem ser usadas para organizar ofertas e agrupá-las em coleções dinâmicas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on)
 

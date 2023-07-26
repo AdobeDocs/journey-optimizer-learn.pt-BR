@@ -1,5 +1,5 @@
 ---
-title: Criar posicionamentos
+title: Criar inserções
 description: Saiba como criar posicionamentos para a gestão de decisões. Inserções são um dos componentes básicos necessários das ofertas.
 feature: Offers
 role: User

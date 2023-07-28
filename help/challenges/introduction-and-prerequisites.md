@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -66,7 +66,7 @@ A Luma pretende promover sua coleção de roupas e equipamentos mais recentes e 
    <strong><a href="summer-collection-announcement-challenge.md">Criar um anúncio de coleção de verão </strong>
  </a>
       <p>
-      <em>Crie uma jornada que envia um email de anúncio da coleção de verão para um segmento de clientes existentes. </em>
+      <em>Crie uma jornada que envia um email de anúncio da coleção de verão para um público-alvo de clientes existentes. </em>
       <p>
       <b>Competências necessárias:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=pt-BR"> Criar segmentos</li>

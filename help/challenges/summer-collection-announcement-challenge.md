@@ -1,16 +1,16 @@
 ---
 title: Criar um anúncio da Coleção de Verão - desafio
-description: Envie um anúncio da Coleção de Verão a um segmento de clientes existentes para promover a nova Coleção de verão da Luma.
+description: Envie um anúncio da Coleção de Verão para um público-alvo de clientes existentes para promover a nova Coleção de verão da Luma.
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 035d568fc25119142b92e0caa8adfb0ae5e21be8
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
 workflow-type: tm+mt
-source-wordcount: '1126'
-ht-degree: 100%
+source-wordcount: '1125'
+ht-degree: 94%
 
 ---
 
@@ -28,24 +28,24 @@ ht-degree: 100%
 
 ## A história
 
-A Luma, uma empresa ficcional de vestuário atlético, está promovendo sua mais recente coleção de roupas e equipamentos para impulsionar as vendas entre clientes existentes. A Luma está lançando a nova Coleção de Verão e gostaria de direcionar especificamente diferentes segmentos de clientes.
+A Luma, uma empresa ficcional de vestuário atlético, está promovendo sua mais recente coleção de roupas e equipamentos para impulsionar as vendas entre clientes existentes. A Luma está lançando a nova Coleção de Verão e gostaria de direcionar especificamente diferentes públicos-alvo.
 
 ## Seu desafio
 
 A equipe de marketing da Luma solicita a implementação de uma campanha de marketing da Coleção de Verão no Journey Optimizer. Seu desafio é:
 
-* Criar um segmento definindo quais perfis se qualificam para receber a promoção.
+* Crie um público-alvo que defina quais perfis se qualificam para receber a promoção.
 * Criar a jornada.
 
-### Etapa 1: Definir o segmento - Clientes ativos
+### Etapa 1: Definir o público-alvo - Clientes ativos
 
 >[!BEGINTABS]
 
 >[!TAB Tarefa]
 
-#### Criar um segmento no [!DNL Journey Optimizer]
+#### Criar um público-alvo no [!DNL Journey Optimizer]
 
-* Criar um segmento no [!DNL Journey Optimizer] chamado *Clientes ativos*.
+* Criar um público-alvo no [!DNL Journey Optimizer] chamado *Clientes ativos*.
 * O segmento deve incluir somente clientes Luma ativos.
 * Os clientes ativos são definidos como clientes que têm um nível no programa de fidelidade do Luma (bronze, prata, ouro ou platina).
 

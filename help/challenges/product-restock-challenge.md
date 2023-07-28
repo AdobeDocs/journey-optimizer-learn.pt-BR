@@ -8,10 +8,10 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -37,7 +37,7 @@ A Luma solicita que você implemente uma jornada no Journey Optimizer que notifi
 
 ## 1. Definir o segmento – Itens da lista de desejos esgotados
 
-Para direcionar clientes interessados em potencial quando os produtos forem reabastecidos, crie um segmento que consista de clientes:
+Para direcionar clientes interessados em potencial quando os produtos forem reabastecidos, crie um público-alvo que consista de clientes:
 
 * Que adicionaram pelo menos um item à lista de desejos (use o tipo de evento: [!UICONTROL Commerce Salvar para mais tarde])
 * Que estava esgotado nos últimos três meses (use quantidade em estoque = 0)

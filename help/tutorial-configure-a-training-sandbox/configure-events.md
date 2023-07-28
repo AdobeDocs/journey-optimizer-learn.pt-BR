@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
-source-wordcount: '190'
-ht-degree: 100%
+source-git-commit: df055830da42b94d751890af6c19074ddfea2237
+workflow-type: tm+mt
+source-wordcount: '159'
+ht-degree: 97%
 
 ---
 
@@ -52,26 +52,14 @@ Ao usar esse evento, o Journey Optimizer recebe informações quando uma pessoa 
 
 1. Selecione **[!UICONTROL Salvar]**.
 
-## Crie o evento *[!DNL Luma Wishlist Add]*
-
-| [!UICONTROL Parâmetro] | [!UICONTROL Valor] |
-|-------------|-----------|
-| [!UICONTROL NOME] | `LumaWishlistAdd` |
-| [!UICONTROL TIPO] | [!UICONTROL Unitário] |
-| [!UICONTROL Tipo de ID de evento] | [!UICONTROL Baseado em regras] |
-| [!UICONTROL Esquema] | `Luma Product Interactions` |
-| [!UICONTROL Campos] | EventType<br>productListItem.quantity<br><b>Em Itens da lista de produtos > Produtos Luma > _*[!DNL yourOrganizationID]* > Produto:</b> <br>Nome<br>Preço<br> ProductImageURL<br>ProductURL |
-| [!UICONTROL Condição] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
-| [!UICONTROL Namespace] | Email(EMail) |
-
 ## Crie o evento *[!DNL Luma Product Restock]*
 
 | [!UICONTROL Parâmetro] | [!UICONTROL Valor] |
 |-------------|-----------|
 | [!UICONTROL NOME] | `LumaProductRestock` |
 | [!UICONTROL TIPO] | [!UICONTROL Business] |
-| [!UICONTROL Esquema] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL Campos] | SKU <br> stockEventType<br><b> yourOrganizationID > produto:</b> <br>nome<br>preço<br> ImageURL<br>descrição |
+| [!UICONTROL Esquema] | [!DNL Luma Product Inventory Event Schema] |
+| [!UICONTROL Campos] | SKU <br> stockEventType<br><b>EsquemaCatálogoDeProdutosLuma._yourOrganizationID.product :</b> <br>nome<br>preço<br> ImageURL<br>descrição |
 | [!UICONTROL Condição] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType foi reabastecido |
 
 Parabéns! Sua sandbox agora está pronta para uso.

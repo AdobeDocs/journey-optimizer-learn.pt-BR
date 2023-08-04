@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+source-git-commit: 1f1b8b3237dccebbf6741253edaf380e4a83753b
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 100%
+source-wordcount: '594'
+ht-degree: 91%
 
 ---
 
@@ -45,6 +45,12 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 <div id="events-section">
 
 ## Eventos ao vivo da Experience League
+
+* **[Maximize o potencial do seu aplicativo móvel com o Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=pt-BR)**
+  *Saiba mais sobre os benefícios das mensagens no aplicativo como um canal de engajamento em tempo real e como configurar e criar experiências personalizadas para aplicativos móveis no Adobe Journey Optimizer.*
+
+* **[Explore o futuro do Adobe Journey Optimizer com o canal da Web e a experimentação de conteúdo](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=pt-BR)**
+  *O novo canal da Web permite que os profissionais de marketing criem campanhas da Web com um designer visual WYSIWYG. Além disso, o Journey Optimizer agora permite experimentar conteúdo em qualquer canal — email, Web, push, no aplicativo, SMS e muito mais.*
 
 * **[Executar suas campanhas no Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=pt-BR)**
   *Neste episódio do Experience League ao vivo, originalmente realizado em 22 de setembro de 2022, acompanhe a anfitriã Sandra Hausmann e os especialistas em produtos Bridgette Darling e Frederic Mary, enquanto discutem os casos de uso que este novo recurso aborda e uma demonstração de como configurar e executar facilmente uma campanha no Journey Optimizer.*

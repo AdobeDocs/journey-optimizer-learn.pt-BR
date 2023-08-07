@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 source-git-commit: 391abc80e405fee1e56bbf534d6c0cc822fbc389
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '396'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 93%
    + [Visão geral sobre a Tela da Jornada](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introdução à criação de uma jornada](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso de uso - Jornada transacional](/help/create-journeys/use-case-transactional-journey.md)
-   + [Caso de uso — Evento comercial](/help/create-journeys/use-case-business-event.md)
-   + [Caso de uso - Ler público](/help/create-journeys/use-case-read-audience.md)
-   + [Caso de uso - Qualificação do público-alvo](/help/create-journeys/use-case-audience-qualification.md)
+   + [Caso de uso - Evento comercial](/help/create-journeys/use-case-business-event.md)
+   + [Caso de uso - Público-alvo de leitura](/help/create-journeys/use-case-read-audience.md)
+   + [Caso de uso - Qualificação de público-alvo](/help/create-journeys/use-case-audience-qualification.md)
    + [Criar um perfil de teste](/help/create-journeys/test-a-journey.md)
    + [Publicar uma jornada](/help/create-journeys/publish-a-journey.md)
    + [Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)
@@ -49,7 +49,7 @@ ht-degree: 93%
    + [Criar uma campanha no aplicativo](/help/channels/create-an-in-app-campaign.md)
    + [Criar uma mensagem no aplicativo](/help/channels/author-in-app-messages.md)
    + [Configurar experimentos de conteúdo para mensagens no aplicativo](/help/experimentation/content-experiments-for-in-app-messages.md)
-+ Canal por push{#push-channel}
++ Canal{#push-channel} de push
    + [Configurar e enviar uma campanha por push](/help/channels/create-a-push-campaign.md)
 + Canal SMS{#sms-channel}
    + [Configurar, criar e entregar mensagens SMS](/help/channels/author-sms-messages.md)
@@ -63,7 +63,7 @@ ht-degree: 93%
    + [Subscrições e páginas de destino](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalizar conteúdo {#personalize-content}
-   + [Personalização baseada em associação de perfil e público-alvo](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
+   + [Personalização baseada em perfil e associação de público-alvo](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Adicionar ofertas como personalização](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Usar informações de evento contextual para personalização](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Usar funções auxiliares para personalização](/help/personalize-content/use-helper-functions-for-personalization.md)

@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Digitalize o código QR para baixar o aplicativo
 
 >[!IMPORTANT]
 >
->Se solicitado a resgatar o código, feche o aplicativo TestFlight e verifique o código QR novamente.
+>Se solicitado a resgatar o código, feche o aplicativo TestFlight e digitalize o QR Code novamente.
 >
 >Permita notificações.
 >
@@ -157,17 +157,17 @@ Clique em **Instalar mesmo assim**
 | **Propriedades** | Nome da campanha | `<your seat number> Vegas Stay Campaign` |  |
 | **Triggers** | Estado | booknow |  |
 | **Editar conteúdo:** Mídia | Opção de URL de mídia |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| **Editar conteúdo:** Conteúdo | Título | Obter o seu desconto de pássaro cedo! |  |
-| **Editar conteúdo:** Conteúdo | Corpo | Adobe Max volta para Las Vegas. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. Reserve sua suíte agora e ganhe 10% de desconto. |  |
-| **Editar conteúdo:** Botões | Botão | Obtenha seu desconto de 10%! | lab://booking?suite=presidential&amp;discount=10 |
-| **Editar conteúdo:** Botões | Interagir evento | CTA no aplicativo |  |
-| **Visualizar no dispositivo** | URL base a ser usado para visualização no dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
+| **Editar conteúdo:** Conteúdo | Título | Obtenha o desconto antecipado. |  |
+| **Editar conteúdo:** Conteúdo | Corpo | A Adobe Max volta para Las Vegas. Prepare-se para palestrantes inspiradores, sessões de expansão de habilidades e novas conexões. Reserve sua suíte agora e ganhe 10% de desconto. |  |
+| **Editar conteúdo:** Botões | Botão | Receba 10% de desconto. | lab://booking?suite=presidential&amp;discount=10 |
+| **Editar conteúdo:** Botões | Evento de interação | CTA no aplicativo |  |
+| **Visualizar no dispositivo** | URL de base a ser usado para visualização no dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
 
-## Exercício 3: Criar uma notificação por push
+## Exercício 3: criar uma notificação por push
 
 | Campo | Texto | Links |
 |----|----|----|
 | Nome da campanha | `<your seat number> Max Push Campaign` |  |
 | Título | Ei! |  |
-| Corpo | Você sabia que o Adobe Max está voltando para Vegas. Reserve seu quarto agora e obtenha 10% de desconto. |  |
+| Corpo | Você sabia que a Adobe Max está voltando para Vegas? Reserve seu quarto agora e receba 10% de desconto. |  |
 | Opção de URL de mídia |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |

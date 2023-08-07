@@ -1,6 +1,6 @@
 ---
 title: Criar um anúncio da Coleção de Verão - desafio
-description: Envie um anúncio da Coleção de Verão para um público-alvo de clientes existentes para promover a nova Coleção de verão da Luma.
+description: Envie um anúncio da coleção de verão a um público-alvo de clientes já existentes para promover a nova coleção de verão da Luma.
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1125'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,16 +28,16 @@ ht-degree: 94%
 
 ## A história
 
-A Luma, uma empresa ficcional de vestuário atlético, está promovendo sua mais recente coleção de roupas e equipamentos para impulsionar as vendas entre clientes existentes. A Luma está lançando a nova Coleção de Verão e gostaria de direcionar especificamente diferentes públicos-alvo.
+A Luma, uma empresa ficcional de vestuário atlético, está promovendo sua mais recente coleção de roupas e equipamentos para impulsionar as vendas entre clientes existentes. A Luma está lançando a nova coleção de verão e gostaria de atingir especificamente diferentes públicos-alvo.
 
 ## Seu desafio
 
 A equipe de marketing da Luma solicita a implementação de uma campanha de marketing da Coleção de Verão no Journey Optimizer. Seu desafio é:
 
-* Crie um público-alvo que defina quais perfis se qualificam para receber a promoção.
-* Criar a jornada.
+* Crie um público-alvo definindo quais perfis se qualificam para receber a promoção.
+* Crie a jornada.
 
-### Etapa 1: Definir o público-alvo - Clientes ativos
+### Etapa 1: Defina o público-alvo - Clientes ativos
 
 >[!BEGINTABS]
 
@@ -105,7 +105,7 @@ Uma agência forneceu quatro arquivos HTML com o design para os emails:
 
 1. Crie uma jornada chamada *Luma - Anúncio da Coleção de Verão* com base nas seguintes orientações:
 
-   1. Envie o email *Luma - Novo anúncio da Coleção de Verão* para o segmento *Clientes ativos*, mantendo 10% do público como um grupo de controle
+   1. Envie o email *Luma - Novo anúncio da Coleção de Verão* para o segmento *Clientes ativos*, mantendo 10% do público-alvo como um grupo de controle
       * Título da mensagem *Luma - Anúncio da Coleção de Verão*
       * Linha de assunto *(nome do receipient), chegou a nova coleção de verão da Luma!*
       * Use o arquivo HTML fornecido `SeasonalCollectionEmail.html` no corpo do email.

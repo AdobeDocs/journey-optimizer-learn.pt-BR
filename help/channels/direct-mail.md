@@ -1,6 +1,6 @@
 ---
 title: Canal de correspondência direta
-description: Saiba como configurar o canal de correspondência direta e como criar e pré-visualizar campanhas de correspondência direta.
+description: Saiba como configurar o canal de correspondência direta e como criar e visualizar campanhas de correspondência direta.
 feature: Direct Mail
 role: User, Admin
 level: Beginner
@@ -9,15 +9,15 @@ last-substantial-update: 2023-07-26T00:00:00Z
 jira: KT-10585
 thumbnail: 3422019.jpeg
 source-git-commit: 9ecbd093db359ca8051ca45d91f51ec2afe79360
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Canal de correspondência direta
 
-Saiba como configurar o canal de correspondência direta e como criar e pré-visualizar campanhas de correspondência direta.
+Saiba como configurar o canal de correspondência direta e como criar e visualizar campanhas de correspondência direta.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on)

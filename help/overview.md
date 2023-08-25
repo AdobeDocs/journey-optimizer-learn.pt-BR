@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 1f1b8b3237dccebbf6741253edaf380e4a83753b
+source-git-commit: bbdfb4b2a6bea5043c5db99d7973ef8905a30153
 workflow-type: tm+mt
-source-wordcount: '594'
-ht-degree: 100%
+source-wordcount: '627'
+ht-degree: 96%
 
 ---
 
@@ -42,9 +42,19 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 </div>
 
 
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
 <div id="events-section">
 
 ## Eventos ao vivo da Experience League
+
+* **[Mensagens acionadas por API no Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=pt-BR)**
+  *Saiba como usar APIs REST para comunicações transacionais e de marketing contextuais, personalizadas e em tempo real.*
 
 * **[Maximize o potencial do seu aplicativo móvel com o Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=pt-BR)**
   *Saiba mais sobre os benefícios das mensagens no aplicativo como um canal de engajamento em tempo real e como criar e configurar experiências personalizadas para aplicativos móveis no Adobe Journey Optimizer.*
@@ -59,13 +69,6 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
   *Nesse episódio ao vivo da Experience League, falamos sobre os casos de uso comuns para notificações por push com o Adobe Journey Optimizer e nos aprofundamos nos detalhes técnicos sobre como configurar um aplicativo para push com a Adobe Experience Platform.*
 
 </div>
-
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
 

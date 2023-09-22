@@ -10,10 +10,10 @@ jira: KT-13113
 thumbnail: 3418688.jpeg
 badge: label="Beta" type="Informative"
 exl-id: 17e1d65c-2548-4d50-bc9f-4e30d729fb5b
-source-git-commit: eb45fa6fd3382ee842d5b0bc937a83e0e271bb44
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 98%
 
 ---
 
@@ -27,6 +27,6 @@ Saiba como exportar um conjunto de dados do Journey Optimizer para um destino do
 >[!NOTE]
 >Durante a fase beta, todos os conjuntos de dados estarão visíveis. Quando esse recurso estiver disponível para o público em geral, isso se limitará somente aos conjuntos de dados gerados pelo sistema.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
 
 Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=pt-BR) para obter mais informações.

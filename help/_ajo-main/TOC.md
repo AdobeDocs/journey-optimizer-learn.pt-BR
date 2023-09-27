@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3b0b830bb1d5e813df49625c8125924a0bca9364
+source-git-commit: 72208c0530f1055f46a232773a3480f807a09f8b
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 96%
+source-wordcount: '422'
+ht-degree: 95%
 
 ---
 
@@ -96,6 +96,7 @@ ht-degree: 96%
 + Relatar e monitorar {#report-and-monitor}
    + [Relatórios dinâmicos e globais](/help/report-and-monitor/live-and-global-reports.md)
    + [Relatórios de nível de canal](/help/report-and-monitor/channel-level-reports.md)
+   + [Exportar relatórios no formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Usar alertas](/help/administration/alerts.md)
 + Configuração {#configuration}
    + Configurar canais {#channel-configuration}

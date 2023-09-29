@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: bc127e90867bcda59a44881e7e4f462be2e88d5e
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 95%
+source-wordcount: '427'
+ht-degree: 94%
 
 ---
 
@@ -87,12 +87,13 @@ ht-degree: 95%
    + [Fornecer ofertas com a API de Decisões](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Limite de frequência](/help/decision-management/frequency-capping.md)
 + Gerenciamento de dados {#data-management}
-   + [Visão geral](/help/set-up-data/set-up-data-overview.md)
-   + [Criar um esquema](/help/set-up-data/create-schema.md)
-   + [Mapear identidades](/help/set-up-data/map-identities.md)
-   + [Criar conjuntos de dados e assimilar dados](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [Configurar conectores de origem](/help/set-up-data/configure-source-connectors.md)
-   + [Exportar conjuntos de dados para locais de armazenamento na nuvem](/help/set-up-data/export-datasets.md)
+   + [Visão geral](/help/data-management/set-up-data-overview.md)
+   + [Criar um esquema](/help/data-management/create-schema.md)
+   + [Mapear identidades](/help/data-management/map-identities.md)
+   + [Criar conjuntos de dados e assimilar dados](/help/data-management/create-datasets-and-ingest-data.md)
+   + [Configurar conectores de origem](/help/data-management/configure-source-connectors.md)
+   + [Configurar um destino de exportação do conjunto de dados](/help/data-management/configure-dataset-export-destination.md)
+   + [Exportar conjuntos de dados para locais de armazenamento na nuvem](/help/data-management/export-datasets.md)
 + Relatar e monitorar {#report-and-monitor}
    + [Relatórios dinâmicos e globais](/help/report-and-monitor/live-and-global-reports.md)
    + [Relatórios de nível de canal](/help/report-and-monitor/channel-level-reports.md)

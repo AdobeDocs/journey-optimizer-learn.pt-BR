@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -20,4 +20,4 @@ Saiba como criar [regras de decisões](https://experienceleague.adobe.com/docs/j
 
 >[!VIDEO](https://video.tv.adobe.com/v/329373?quality=12&learn=on){transcript=true}
 
-Para saber mais sobre como criar regras de decisão com uma API, consulte o [guia do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/decision-rules/create.html?lang=pt-BR)
+Para saber mais sobre como criar regras de decisão com uma API, consulte o [manual do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/decision-rules/create.html?lang=pt-BR)

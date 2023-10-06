@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -20,4 +20,4 @@ Saiba como [criar tags](https://experienceleague.adobe.com/docs/journey-optimize
 
 >[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on){transcript=true}
 
-Para saber mais sobre como criar tags com uma API, consulte o [guia do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html?lang=pt-BR)
+Para saber mais sobre como criar tags com uma API, consulte o [manual do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html?lang=pt-BR)

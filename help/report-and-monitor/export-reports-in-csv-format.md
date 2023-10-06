@@ -1,6 +1,6 @@
 ---
 title: Exportar relatórios no formato CSV
-description: Entenda como baixar um relatório CSV para um relatório e um único widget.
+description: Entenda como baixar um relatório no formato CSV para um único dispositivo.
 feature: Reporting
 role: User
 level: Beginner
@@ -9,16 +9,16 @@ last-substantial-update: 2023-09-27T00:00:00Z
 jira: KT-14038
 thumbnail: 3424603.jpeg
 hidefromtoc: false
-source-git-commit: 2e12d30c620620155985a5d8c13a9e6c593332e8
-workflow-type: tm+mt
+exl-id: 8885b5d8-ed95-4a77-be76-16cde58998b3
+source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Exportar relatórios no formato CSV
 
-Entenda como baixar um relatório CSV para um relatório e um único widget.
+Entenda como baixar um relatório no formato CSV para um único dispositivo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)

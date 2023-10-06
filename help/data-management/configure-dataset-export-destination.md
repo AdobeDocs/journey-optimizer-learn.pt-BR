@@ -1,6 +1,6 @@
 ---
-title: Configurar um destino de exportação do conjunto de dados
-description: Saiba mais sobre configuração, fluxo de trabalho e casos de uso para exportar conjuntos de dados do [!DNL Adobe Experience Platform] para um local de armazenamento na nuvem usando uma conexão de destino.
+title: Configurar um destino de exportação para o conjunto de dados
+description: Saiba mais sobre a configuração, o fluxo de trabalho e os casos de uso da exportação de conjuntos de dados da  [!DNL Adobe Experience Platform]  para um local de armazenamento na nuvem por meio de uma conexão com o destino.
 solution: Real-Time Customer Data Platform, Experience Platform, Journey Optimizer
 feature: Destinations, Data Management
 role: User, Admin
@@ -8,17 +8,18 @@ level: Beginner
 jira: KT-13946
 thumbnail: 3424392.jpg
 last-substantial-update: 2023-09-27T00:00:00Z
-source-git-commit: 8542676e7c75962b7a59cef554070a10f8f5e3d0
-workflow-type: tm+mt
+exl-id: 23f12d51-9841-41f5-9028-1507c4b538cf
+source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
-# Configurar um destino de exportação do conjunto de dados
+# Configurar um destino de exportação para o conjunto de dados
 
-Saiba mais sobre configuração, fluxo de trabalho e casos de uso para exportar conjuntos de dados do [!DNL Adobe Experience Platform] para um local de armazenamento na nuvem usando uma conexão de destino.
+Saiba mais sobre a configuração, o fluxo de trabalho e os casos de uso da exportação de conjuntos de dados da [!DNL Adobe Experience Platform] para um local de armazenamento na nuvem por meio de uma conexão com o destino.
 
-Para obter mais informações sobre como Exportar conjuntos de dados para locais de armazenamento na nuvem do Adobe Journey Optimizer, visite o [documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=pt-BR).
+Para mais informações sobre como exportar conjuntos de dados para os locais de armazenamento na nuvem do Adobe Journey Optimizer, consulte a [documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=pt-BR).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)

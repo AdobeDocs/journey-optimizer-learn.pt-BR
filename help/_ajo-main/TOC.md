@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f08f646c2317cc17356594052d3174065ef00384
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 94%
 + Canal da Web {#web-channel}
    + [Criar uma campanha da Web](/help/channels/create-a-web-campaign.md)
    + [Criar uma campanha da Web](/help/channels/author-a-web-campaign.md)
-   + [Suporte a SPA no editor da Web](/help/channels/singel-page-application-support.md)
+   + [Compatibilidade com SPA no editor da web](/help/channels/singel-page-application-support.md)
 + Perfis, públicos-alvo e assinaturas {#profiles-segments-subscriptions}
    + [Perfil e segmentação unificados - visão geral](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Criar segmentos](/help/set-up-resources/create-segments.md)
@@ -92,11 +92,11 @@ ht-degree: 94%
    + [Mapear identidades](/help/data-management/map-identities.md)
    + [Criar conjuntos de dados e assimilar dados](/help/data-management/create-datasets-and-ingest-data.md)
    + [Configurar conectores de origem](/help/data-management/configure-source-connectors.md)
-   + [Configurar um destino de exportação do conjunto de dados](/help/data-management/configure-dataset-export-destination.md)
+   + [Configurar um destino de exportação para o conjunto de dados](/help/data-management/configure-dataset-export-destination.md)
    + [Exportar conjuntos de dados para locais de armazenamento na nuvem](/help/data-management/export-datasets.md)
 + Relatar e monitorar {#report-and-monitor}
    + [Relatórios dinâmicos e globais](/help/report-and-monitor/live-and-global-reports.md)
-   + [Relatórios de nível de canal](/help/report-and-monitor/channel-level-reports.md)
+   + [Relatórios no nível do canal](/help/report-and-monitor/channel-level-reports.md)
    + [Exportar relatórios no formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Usar alertas](/help/administration/alerts.md)
 + Configuração {#configuration}

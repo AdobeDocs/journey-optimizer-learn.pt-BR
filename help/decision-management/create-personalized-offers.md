@@ -9,9 +9,9 @@ role: User
 level: Beginner
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ Saiba como criar [ofertas personalizadas](https://experienceleague.adobe.com/doc
 
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on){transcript=true}
 
-Para saber mais sobre como criar atividades de ofertas personalizadas com uma API, consulte o [guia do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html?lang=pt-BR)
+Para saber mais sobre como criar atividades de ofertas personalizadas com uma API, consulte o [manual do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html?lang=pt-BR)

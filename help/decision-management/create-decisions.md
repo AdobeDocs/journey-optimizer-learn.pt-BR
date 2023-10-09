@@ -8,17 +8,17 @@ level: Beginner
 thumbnail: 329606.jpg
 last-substantial-update: 2022-09-30T00:00:00Z
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: fd57dad17761a5ff54b403fba26d6461f1f29219
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 68%
 
 ---
 
 # Criar decisões
 
-Saiba como criar [decisões](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html?lang=pt-BR) para a gestão de decisões. Uma decisão combina seus posicionamentos e coleções em uma única entidade, de modo que seja possível tomar a decisão de fornecer a oferta mais relevante ao cliente.
+Saiba como criar [decisões](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html) para a gestão de decisões. Uma decisão combina seus posicionamentos e coleções em uma única entidade, de modo que seja possível tomar a decisão de fornecer a oferta mais relevante ao cliente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on){transcript=true}
 
-Para saber como criar decisões com uma API, consulte o [manual do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/activities-api/create.html?lang=pt-BR)
+Para saber mais sobre como criar decisões com o uso da API de decisão em lote, consulte a [guia do produto.](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api.html)

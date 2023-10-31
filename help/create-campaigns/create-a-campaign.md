@@ -1,6 +1,6 @@
 ---
 title: Criar uma campanha
-description: Saiba como fornecer conteúdo único a um público-alvo específico executando ações imediatamente ou em um cronograma especificado.
+description: Saiba como entregar conteúdo único a um público-alvo específico executando ações imediatamente ou em um cronograma especificado.
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 >
 >Esse recurso só está disponível para usuários com acesso a um perfil de produto relacionado à campanha, como administrador da campanha, aprovador da campanha, gerente da campanha e/ou visualizador da campanha. Para obter mais informações sobre como atribuir perfis de produto, consulte [este vídeo](/help/set-up-access/access-management.md).
 
-Saiba como fornecer conteúdo único a um público-alvo específico executando ações imediatamente ou em um cronograma especificado.
+Saiba como entregar conteúdo único a um público-alvo específico executando ações imediatamente ou em um cronograma especificado.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){transcript=true}
 

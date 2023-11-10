@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '428'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 + Campanhas {#create-campaigns}
    + [Criar uma campanha](/help/create-campaigns/create-a-campaign.md)
    + [Criar uma campanha no aplicativo](/help/create-campaigns/in-app.md)
-   + [Criar uma campanha da Web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=pt-BR)
+   + [Criação de uma campanha da web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=pt-BR)
    + [Acione campanhas usando APIs](/help/create-campaigns/api-triggered-campaigns.md)
    + [Criar experimentos de conteúdo para campanhas de email](/help/create-campaigns/content-experiments.md)
 + Jornadas {#create-journeys}
@@ -40,8 +40,8 @@ ht-degree: 98%
    + [Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)
 + Perfis, públicos-alvo e assinaturas {#profiles-audiences-subscriptions}
    + [Perfil e segmentação unificados - visão geral](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-   + [Criar públicos-alvo usando o construtor de regras](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-   + [Subscrições e páginas de destino](/help/subscriptions-and-landing-pages.md)
+   + [Criação de públicos-alvo por meio do construtor de regras](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [Páginas de assinaturas e de destino](/help/subscriptions-and-landing-pages.md)
 + Canal de email{#email-channel}
    + [Criar conteúdo com o Designer de email](/help/channels/create-content-with-the-email-designer.md)
    + [Importar e criar conteúdo de email HTML](/help/channels/import-and-author-html-email-content.md)
@@ -49,7 +49,7 @@ ht-degree: 98%
    + [Modelos de conteúdo](/help/channels/content-templates.md)
    + [Gerenciar, criar e usar fragmentos](/help/content-management/manage-author-use-fragments.md)
    + [Criar e usar fragmentos de expressão](/help/content-management/expression-fragments.md)
-   + [Configurar experimentos de conteúdo para emails](/help/experimentation/content-experiments-for-emails.md)
+   + [Configuração de experimentos de conteúdo para emails](/help/experimentation/content-experiments-for-emails.md)
 + Canal de correspondência direta{#direct-mail-channel}
    + [Canal de correspondência direta](/help/channels/direct-mail.md)
 + Canal no aplicativo{#in-app-channel}
@@ -62,7 +62,7 @@ ht-degree: 98%
 + Canal SMS{#sms-channel}
    + [Configurar, criar e entregar mensagens SMS](/help/channels/author-sms-messages.md)
    + [Compatibilidade com palavras-chave de entrada para SMS](/help/channels/inbound-keyword-support-for-sms.md)
-+ Canal da Web {#web-channel}
++ Canal da web {#web-channel}
    + [Criar uma campanha da Web](/help/channels/create-a-web-campaign.md)
    + [Criar uma campanha da Web](/help/channels/author-a-web-campaign.md)
    + [Compatibilidade com SPA no editor da web](/help/channels/singel-page-application-support.md)

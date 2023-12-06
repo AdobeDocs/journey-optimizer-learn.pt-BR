@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
+source-git-commit: 6997e1257b0194fce07fc4ee4e1017e333e7f697
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 96%
+source-wordcount: '470'
+ht-degree: 94%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 96%
       + [Delegar subdomínios CName](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Configurar credenciais da API de SMS e superfícies de canal](/help/set-up-channels/set-up-sms-channel.md)
       + [Configurar regras de frequência de mensagem](/help/administration/configure-frequency-rules.md)
+      + [Criar e executar um plano de aquecimento de ip](/help/administration/create-and-execute-an-ip-warmup-plan.md)
    + Configurar jornadas {#journey-configuration}
       + [Configurar fontes de dados](/help/set-up-journeys/configure-data-sources.md)
       + [Criar eventos](/help/set-up-journeys/create-events.md)

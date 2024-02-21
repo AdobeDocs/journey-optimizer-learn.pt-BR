@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
-workflow-type: ht
-source-wordcount: '588'
+source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
+workflow-type: tm+mt
+source-wordcount: '490'
 ht-degree: 100%
 
 ---
@@ -20,25 +20,6 @@ ht-degree: 100%
 O Journey Optimizer ajuda as empresas a fornecer experiências conectadas, contextuais e personalizadas aos clientes. A jornada do cliente envolve todo o processo de interação do cliente com a marca, desde os primeiros momentos de contato até o cliente sair do site.
 
 Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e capacidades do Adobe Journey Optimizer.
-
-<div id="whats-new-section">
-
-## Novidades
-
-* **[Crie conteúdo dinâmico com o construtor de regras de condição](/help/personalize-content/create-dynamic-content.md)**
-  *Saiba como criar e salvar regras de condição e como aplicá-las ao conteúdo em todos os canais.*
-
-* **[Usar alertas](/help/administration/alerts.md)**
-  *Saiba como assinar alertas predefinidos para comportamentos de jornada inesperados e ser notificado por email, no Journey Optimizer ou por meio de uma API.*
-
-* **[Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)**
-  *Saiba como copiar uma jornada e seus objetos dependentes de uma sandbox para outra.*
-
-* **[Mascaramento de dados em mensagens](/help/privacy/mask-data-in-messages.md)**
-  *Entenda o que é o mascaramento de dados e por que utilizá-lo. Saiba como mascarar dados em mensagens do Journey Optimizer.*
-
-</div>
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

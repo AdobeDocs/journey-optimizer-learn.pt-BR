@@ -1,5 +1,5 @@
 ---
-title: Tutoriais do Journey Optimizer - Visão geral
+title: Tutoriais do Journey Optimizer
 description: Temos uma variedade de tutoriais em vídeo para mostrar como aproveitar os benefícios do Journey Optimizer.
 recommendations: noDisplay, noCatalog
 feature: Get Started
@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
+source-git-commit: 53f92861c15c65dac900f279dd815efa314741a1
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '489'
 ht-degree: 100%
 
 ---

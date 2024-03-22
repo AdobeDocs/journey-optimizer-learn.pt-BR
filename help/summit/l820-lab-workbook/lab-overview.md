@@ -9,7 +9,7 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: 0a31369dc315d1d68f291c0c15f87b0211dfddb1
+source-git-commit: 654520e25814eb94c5b19cb13087c1b93b4e4683
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -67,6 +67,4 @@ O coração do negócio da Fréscopa reside nos seus serviços de subscrição d
 Complementando seus serviços de assinatura, o site e aplicativo móvel da Fréscopa oferecem uma ampla gama de produtos relacionados ao café, permitindo que os clientes explorem e aprimorem seus rituais de café. De equipamentos de fabricação de cerveja a acessórios artesanais, a Fréscopa oferece um balcão único para os aficionados por café que buscam qualidade e comodidade.
 
 O compromisso da Fréscopa com a excelência vai além de seus produtos, já que a empresa se dedica a criar uma jornada perfeita e agradável para o cliente. A combinação de tecnologias inovadoras e uma abordagem centrada no cliente coloca a Fréscopa na vanguarda da indústria cafeeira em evolução. Em essência, Fréscopa encarna a fusão de paixão e tecnologia, redefinindo a forma como os indivíduos experimentam e desfrutam de seu café. Com foco em qualidade, conveniência e ofertas personalizadas, a Fréscopa convida os entusiastas do café a embarcar em uma jornada de sabor, entregue na porta da casa.
-
-
 

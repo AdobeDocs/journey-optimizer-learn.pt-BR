@@ -10,9 +10,9 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
+source-git-commit: 4f5c92f79eba3651b3633b7850e993160cb1f72c
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '699'
 ht-degree: 2%
 
 ---
@@ -157,4 +157,4 @@ Nesta seção, você define o conteúdo, o design e o layout da mensagem.
 * [Introdução ao canal no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
 * [Criar uma mensagem no aplicativo da Web](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
 * [Projete seu conteúdo no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [Verifique e envie sua notificação no aplicativo](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [Verifique e envie sua notificação no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

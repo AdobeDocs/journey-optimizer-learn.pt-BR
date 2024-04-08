@@ -9,13 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: fe18eca7-229c-4867-ab34-1862bad63124
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '1395'
-ht-degree: 0%
+source-wordcount: '1433'
+ht-degree: 1%
 
 ---
-
 
 # Lição 2: criar uma campanha móvel no aplicativo
 
@@ -309,4 +309,18 @@ A variável **Duplicar campanha** e **Visualizar no dispositivo** Os recursos do
 >
 > A mensagem no aplicativo aparece no dispositivo.
 >
-> *Depois de conectada, a mensagem no aplicativo deverá ser exibida sempre que você clicar no link **[!UICONTROL Visualizar no dispositivo] botão**.*
+> *Depois de conectada, a mensagem no aplicativo deverá ser exibida sempre que você clicar no link **[!UICONTROL Visualizar no dispositivo] botão**.
+
+## Recursos adicionais
+
+**Vídeos explicativos:**
+
+* [Criar uma campanha no aplicativo](/help/channels/create-an-in-app-campaign.md)
+* [Criar uma mensagem no aplicativo](/help/channels/author-in-app-messages.md)
+
+**Documentação do produto:**
+
+* [Introdução ao canal no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Criar uma mensagem no aplicativo móvel](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [Projete seu conteúdo no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Verifique e envie sua notificação no aplicativo](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
-workflow-type: ht
-source-wordcount: '501'
-ht-degree: 100%
+source-git-commit: 1499ccefd78a34e8d6f930bae9d6d76db5af9da1
+workflow-type: tm+mt
+source-wordcount: '521'
+ht-degree: 96%
 
 ---
 
@@ -31,6 +31,9 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 <div id="events-section">
 
 ## Eventos ao vivo da Experience League
+
+* **[Novo canal de experiência baseado em código no Journey Optimizer](/https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
+  *Saiba como ativar superfícies de entrada e controle de personalização granular com ações centradas no desenvolvedor.*
 
 * **[Mensagens acionadas por API no Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=pt-BR){target="_blank"}**
   *Saiba como usar APIs REST para comunicações transacionais e de marketing contextuais, personalizadas e em tempo real.*

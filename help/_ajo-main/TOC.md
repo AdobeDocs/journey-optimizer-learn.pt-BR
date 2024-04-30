@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e1b7bd76b1f496b5f43f39004d393739f3e1e0c2
+source-git-commit: 1499ccefd78a34e8d6f930bae9d6d76db5af9da1
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 98%
+source-wordcount: '494'
+ht-degree: 97%
 
 ---
 
@@ -122,6 +122,7 @@ ht-degree: 98%
    + [Configurar uma sandbox de treinamento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=pt-BR)
    + [Desafios](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=pt-BR)
 + Gravações ao vivo da Experience League{#experience-league-live-recordings}
+   + [Novo canal de experiência baseado em código no Journey Optimizer](/https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Mensagens acionadas por API no Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=pt-BR){target="_blank"}
    + [Maximize o potencial do seu aplicativo móvel com o Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=pt-BR){target="_blank"}
    + [Entregue a oferta certa no momento certo com a gestão de decisões](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=pt-BR){target="_blank"}

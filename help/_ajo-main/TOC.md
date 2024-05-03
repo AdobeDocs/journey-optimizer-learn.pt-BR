@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 42e7d88fa169980445d537a85681858675023620
+source-git-commit: 41a651b01380181d2ebc586fdb6a5eb697a92448
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 96%
+source-wordcount: '517'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 96%
 + Campanhas {#create-campaigns}
    + [Criar uma campanha](/help/create-campaigns/create-a-campaign.md)
    + [Criar uma campanha no aplicativo](/help/create-campaigns/in-app.md)
-   + [Criação de uma campanha da web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=pt-BR)
+   + [Configurar e enviar uma campanha por push](/help/create-campaigns/push-campaign.md)
+   + [Criar uma campanha da Web](/help/create-campaigns/web-campaign.md)
+   + [Criar uma campanha de experiência baseada em código](/help/create-campaigns/code-based-experience.md)
    + [Acione campanhas usando APIs](/help/create-campaigns/api-triggered-campaigns.md)
    + [Criar experimentos de conteúdo para campanhas de email](/help/create-campaigns/content-experiments.md)
 + Jornadas {#create-journeys}
@@ -51,6 +53,8 @@ ht-degree: 96%
    + [Gerenciar, criar e usar fragmentos](/help/content-management/manage-author-use-fragments.md)
    + [Criar e usar fragmentos de expressão](/help/content-management/expression-fragments.md)
    + [Configuração de experimentos de conteúdo para emails](/help/experimentation/content-experiments-for-emails.md)
++ Canal de experiência baseado em código{#code-based-experience-channel}
+   + [Criar uma campanha de experiência baseada em código](/help/channels/create-a-code-based-experience-campaign.md)
 + Canal de correspondência direta{#direct-mail-channel}
    + [Canal de correspondência direta](/help/channels/direct-mail.md)
 + Canal no aplicativo{#in-app-channel}
@@ -62,7 +66,7 @@ ht-degree: 96%
    + [Configurar e enviar uma campanha por push](/help/channels/create-a-push-campaign.md)
 + Canal SMS{#sms-channel}
    + [Configurar, criar e entregar mensagens SMS](/help/channels/author-sms-messages.md)
-   + [Criar um MMS](/help/channels/author-mms.md)
+   + [Criar uma mensagem MMS](/help/channels/author-mms.md)
    + [SMS: aceitação dupla para Sinch e Infobip](/help/channels/sms-double-opt-in.md)
 + Canal da web {#web-channel}
    + [Criar uma campanha da Web](/help/channels/create-a-web-campaign.md)

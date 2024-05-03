@@ -1,5 +1,5 @@
 ---
-title: Criar mensagens MMS
+title: Criar uma mensagem MMS
 description: Saiba como conectar o Journey Optimizer a um provedor de serviços MMS e como criar uma superfície de canal MMS.
 feature: SMS
 role: Admin, User
@@ -9,14 +9,15 @@ duration: 63
 last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15444
 exl-id: 810c700b-d629-474c-8ffb-ea44ca187a03
-source-git-commit: f361136919df2a417041e471f33337e8e6536696
+source-git-commit: 5a6ece502b0638f5d160255dbc3f858d11c773da
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# Criar mensagens MMS
+
+# Criar uma mensagem MMS
 
 Saiba como conectar o Journey Optimizer a um provedor de serviços MMS e como criar uma superfície de canal MMS.
 

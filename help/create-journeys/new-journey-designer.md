@@ -1,6 +1,6 @@
 ---
-title: Conheça o novo Jornada Designer
-description: Descubra a nova tela de jornada reprojetada e como aproveitar os relatórios em tempo real no jornada.
+title: Conheça o novo Journey Designer
+description: Conheça a nova tela de jornada reprojetada e como aproveitar os relatórios em tempo real em jornadas.
 feature: Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -12,14 +12,14 @@ hidefromtoc: false
 hide: false
 exl-id: e481336c-eaf2-4fbc-8803-9ba109559dd4
 source-git-commit: 017a2cf5b4ec44f1adfe3d1f7c970e673c216ec9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# Conheça o novo Jornada Designer
+# Conheça o novo Journey Designer
 
-Descubra a nova tela de jornada reprojetada e como aproveitar os relatórios em tempo real no jornada.
+Conheça a nova tela de jornada reprojetada e como aproveitar os relatórios em tempo real em jornadas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}

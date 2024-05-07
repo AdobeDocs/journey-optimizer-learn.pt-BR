@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
 workflow-type: tm+mt
 source-wordcount: '524'
-ht-degree: 91%
+ht-degree: 94%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 91%
    + [Acione campanhas usando APIs](/help/create-campaigns/api-triggered-campaigns.md)
    + [Criar experimentos de conteúdo para campanhas de email](/help/create-campaigns/content-experiments.md)
 + Jornadas {#create-journeys}
-   + [Conheça o novo Jornada Designer](/help/create-journeys/new-journey-designer.md)
+   + [Conheça o novo Journey Designer](/help/create-journeys/new-journey-designer.md)
    + [Visão geral sobre a Tela da Jornada](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introdução à criação de uma jornada](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso de uso - Jornada transacional](/help/create-journeys/use-case-transactional-journey.md)
@@ -128,7 +128,7 @@ ht-degree: 91%
    + [Configurar uma sandbox de treinamento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=pt-BR)
    + [Desafios](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=pt-BR)
 + Gravações ao vivo da Experience League{#experience-league-live-recordings}
-   + [Novo canal de experiência baseado em código no Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
+   + [Novo canal de experiência baseado em código no Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Mensagens acionadas por API no Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=pt-BR){target="_blank"}
    + [Maximize o potencial do seu aplicativo móvel com o Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=pt-BR){target="_blank"}
    + [Entregue a oferta certa no momento certo com a gestão de decisões](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=pt-BR){target="_blank"}

@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 94%
    + [Criar uma campanha](/help/create-campaigns/create-a-campaign.md)
    + [Criar uma campanha no aplicativo](/help/create-campaigns/in-app.md)
    + [Configurar e enviar uma campanha por push](/help/create-campaigns/push-campaign.md)
-   + [Criar uma campanha da Web](/help/create-campaigns/web-campaign.md)
+   + [Criar uma campanha da web](/help/create-campaigns/web-campaign.md)
    + [Criar uma campanha de experiência baseada em código](/help/create-campaigns/code-based-experience.md)
    + [Acione campanhas usando APIs](/help/create-campaigns/api-triggered-campaigns.md)
    + [Criar experimentos de conteúdo para campanhas de email](/help/create-campaigns/content-experiments.md)
@@ -53,7 +53,7 @@ ht-degree: 94%
    + [Gerenciar, criar e usar fragmentos](/help/content-management/manage-author-use-fragments.md)
    + [Criar e usar fragmentos de expressão](/help/content-management/expression-fragments.md)
    + [Configuração de experimentos de conteúdo para emails](/help/experimentation/content-experiments-for-emails.md)
-+ Canal de experiência baseado em código{#code-based-experience-channel}
++ Canal de experiência baseada em código{#code-based-experience-channel}
    + [Criar uma campanha de experiência baseada em código](/help/channels/create-a-code-based-experience-campaign.md)
 + Canal de correspondência direta{#direct-mail-channel}
    + [Canal de correspondência direta](/help/channels/direct-mail.md)
@@ -69,7 +69,7 @@ ht-degree: 94%
    + [Criar uma mensagem MMS](/help/channels/author-mms.md)
    + [SMS: aceitação dupla para Sinch e Infobip](/help/channels/sms-double-opt-in.md)
 + Canal da web {#web-channel}
-   + [Criar uma campanha da Web](/help/channels/create-a-web-campaign.md)
+   + [Criar uma campanha da web](/help/channels/create-a-web-campaign.md)
    + [Criar uma campanha da Web](/help/channels/author-a-web-campaign.md)
    + [Compatibilidade com SPA no editor da web](/help/channels/singel-page-application-support.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
@@ -113,7 +113,7 @@ ht-degree: 94%
       + [Configurar credenciais da API de SMS e superfícies de canal](/help/set-up-channels/set-up-sms-channel.md)
       + [Configurar regras de frequência de mensagem](/help/administration/configure-frequency-rules.md)
       + [Criar e executar um plano de aquecimento de IP](/help/administration/create-and-execute-an-ip-warmup-plan.md)
-      + [Configurar credenciais da API do MMS e superfícies do canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + [Configurar credenciais da API de MMS e superfícies de canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + Configurar jornadas {#journey-configuration}
       + [Configurar fontes de dados](/help/set-up-journeys/configure-data-sources.md)
       + [Criar eventos](/help/set-up-journeys/create-events.md)

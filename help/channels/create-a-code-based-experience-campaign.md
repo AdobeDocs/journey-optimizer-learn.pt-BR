@@ -1,6 +1,6 @@
 ---
-title: Crie uma campanha de experiência baseada em código.
-description: Saiba como criar uma campanha de experiência baseada em código para dimensionar a personalização com suporte para métodos de implementação do lado do servidor, baseados em API ou baseados em SDK para integrar-se perfeitamente a ambientes de desenvolvimento.
+title: Criar uma campanha de experiência baseada em código.
+description: Saiba como criar uma campanha de experiência baseada em código para dimensionar a personalização, com suporte a métodos de implementação do lado do servidor, baseados em API ou baseados em SDK para uma integração perfeita com ambientes de desenvolvimento.
 feature: Code-based Experiences
 role: User
 level: Experienced
@@ -10,9 +10,9 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14044
 exl-id: 4fc6d7d9-732b-4cf5-9582-5a771a2204c1
 source-git-commit: 9cc759c4b1b7984d282b2902d56b8683c476a5af
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 

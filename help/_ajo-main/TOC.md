@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 6a0f50992c7112be09f85cd4b87268c9441d0d4d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '533'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 98%
    + [Criar uma campanha no aplicativo](/help/create-campaigns/in-app.md)
    + [Configurar e enviar uma campanha por push](/help/create-campaigns/push-campaign.md)
    + [Criar uma campanha da web](/help/create-campaigns/web-campaign.md)
-   + [Criar uma campanha de experiência baseada em código](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+   + [Criar uma campanha de experiência baseada em código](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
    + [Acione campanhas usando APIs](/help/create-campaigns/api-triggered-campaigns.md)
    + [Criar experimentos de conteúdo para campanhas de email](/help/create-campaigns/content-experiments.md)
 + Jornadas {#create-journeys}
-   + [Visão geral sobre a Tela da Jornada](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [Visão geral da tela da jornada](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Conheça o novo Journey Designer](/help/create-journeys/new-journey-designer.md)
    + [Introdução à criação de uma jornada](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso de uso - Jornada transacional](/help/create-journeys/use-case-transactional-journey.md)
@@ -40,7 +40,7 @@ ht-degree: 98%
    + [Caso de uso - Qualificação de público-alvo](/help/create-journeys/use-case-audience-qualification.md)
    + [Criar um perfil de teste](/help/create-journeys/test-a-journey.md)
    + [Publicar uma jornada](/help/create-journeys/publish-a-journey.md)
-   + [Atualizar conteúdo em uma jornada em tempo real](/help/create-journeys/update-content-in-live-journey.md)
+   + [Atualizar conteúdo em uma jornada ativa](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)
 + Perfis, públicos-alvo e assinaturas {#profiles-audiences-subscriptions}
    + [Perfil e segmentação unificados - visão geral](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)

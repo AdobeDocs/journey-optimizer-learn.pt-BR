@@ -1,23 +1,24 @@
 ---
-title: Caso de uso — evento comercial
-description: Entenda os casos de uso aplicáveis a eventos comerciais. Saiba como criar uma jornada usando um evento comercial e quais práticas recomendadas devem ser aplicadas.
-jira: KT-7702
-thumbnail: 334234.jpg
+title: 'Caso de uso: evento comercial'
+description: Saiba como usar eventos comerciais no Journey Optimizer. Entenda como os dados de eventos comerciais podem ser usados para mensagens personalizadas em jornadas.
 feature: Journeys
-doc-type: feature video
-team: PM
 role: User
 level: Beginner
+doc-type: Feature Video
+duration: 250
+last-substantial-update: 2024-06-28T00:00:00Z
+jira: KT-7702
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: 6eba4838f70e8f7b8b2192eeb6255ac2b50ce1e2
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
-# Caso de uso — evento comercial
 
-Entenda os casos de uso aplicáveis a eventos comerciais. Saiba como criar uma jornada usando um evento comercial e quais práticas recomendadas devem ser aplicadas.
+# Caso de uso: evento comercial
 
->[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12&learn=on){transcript=true}
+Saiba como usar eventos comerciais no Journey Optimizer. Os eventos comerciais permitem que as marcas acionem jornadas com base em eventos não relacionados a pessoas, como notificar os assinantes quando uma publicação de notícias tem novo conteúdo ou enviar comunicações durante um evento esportivo. Entenda como os dados de eventos comerciais podem ser usados para mensagens personalizadas em jornadas.
+
+>[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)

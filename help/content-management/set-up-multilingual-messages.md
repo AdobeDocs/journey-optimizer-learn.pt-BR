@@ -1,6 +1,6 @@
 ---
-title: Definir mensagens multilíngues
-description: Saiba como configurar mensagens multilíngues para tradução manual e automática no Adobe Journey Optimizer.  
+title: Configurar mensagens multilíngues
+description: Saiba como configurar projetos de tradução para tradução automática e a configuração de idioma necessária para tradução manual e projetos de tradução automática para mensagens multilíngues.
 feature: Multilingual Content
 role: Admin
 level: Beginner
@@ -9,15 +9,15 @@ duration: 599
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-14034
 thumbnail: KT-14034.jpeg
-source-git-commit: 2233210765082361d33be8d01317ebf0afcd27dd
+source-git-commit: 28cdf4939f12b981e2c3953814ca3ca612cdbe9d
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 68%
 
 ---
 
 
-# Definir mensagens multilíngues
+# Configurar mensagens multilíngues
 
 {{limited-availability}}
 

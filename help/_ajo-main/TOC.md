@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0feda01400ce1b8f87bb6143f1913fa6cdd54632
+source-git-commit: 45a973fa9700abbf254573906d5778ded9483316
 workflow-type: tm+mt
-source-wordcount: '560'
-ht-degree: 98%
+source-wordcount: '550'
+ht-degree: 97%
 
 ---
 
@@ -56,10 +56,7 @@ ht-degree: 98%
       + [Criar conteúdo com o Designer de email](/help/channels/create-content-with-the-email-designer.md)
       + [Importar e criar conteúdo de email HTML](/help/channels/import-and-author-html-email-content.md)
       + [Pré-visualizar, provar e publicar](/help/channels/preview-proof-and-publish.md)
-      + [Modelos de conteúdo](/help/channels/content-templates.md)
-      + [Gerenciar, criar e usar fragmentos](/help/content-management/manage-author-use-fragments.md)
-      + [Criar e usar fragmentos de expressão](/help/content-management/expression-fragments.md)
-      + [Configuração de experimentos de conteúdo para emails](/help/experimentation/content-experiments-for-emails.md)
+      + [Configurar experimentos de conteúdo para emails](/help/experimentation/content-experiments-for-emails.md)
    + Canal no aplicativo{#in-app-channel}
       + [Criar uma campanha no aplicativo](/help/channels/create-an-in-app-campaign.md)
       + [Criar uma mensagem no aplicativo em uma jornada](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -77,7 +74,9 @@ ht-degree: 98%
       + [Compatibilidade com SPA no editor da web](/help/channels/singel-page-application-support.md)
 + Gestão de conteúdo{#content-management}
    + [Gerenciar ativos](/help/assets-essentials-overview.md)
-   + [Criar e usar fragmentos de expressão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [Gerenciar modelos de conteúdo](/help/content-management/content-templates.md)
+   + [Gerenciar fragmentos](/help/content-management/manage-fragments.md)
+   + [Criar fragmentos de expressão](/help/content-management/expression-fragments.md)
    + [Configurar mensagens multilíngues](/help/content-management/set-up-multilingual-messages.md)
    + [Criar uma mensagem multilíngue](/help/content-management/create-multilingual-messages.md)
 + Personalizar conteúdo {#personalize-content}

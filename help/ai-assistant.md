@@ -22,4 +22,4 @@ Saiba o que você pode fazer com o Assistente de IA em aplicativos baseados em A
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Consulte [Trabalhar com o assistente de IA](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) para obter mais informações sobre os casos de uso compatíveis com o Journey Optimizer. Para obter a documentação detalhada, visite o [Assistente de IA no Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) documentação.
+Consulte [Trabalhar com o assistente de IA](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) para obter mais informações sobre os casos de uso compatíveis com o Journey Optimizer. Para obter a documentação detalhada, visite o [Assistente de IA na documentação do Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home).

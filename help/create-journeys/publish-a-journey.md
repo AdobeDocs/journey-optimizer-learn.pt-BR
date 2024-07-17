@@ -1,5 +1,5 @@
 ---
-title: Publicar uma jornada e os status da jornada
+title: Publish a jornada e status de jornada
 description: Entenda os diferentes estados de uma jornada e o impacto da publicação.
 jira: KT-7528
 thumbnail: 3424998.jpeg
@@ -17,7 +17,7 @@ ht-degree: 68%
 
 ---
 
-# Publicar uma jornada e os status da jornada
+# Publish a jornada e status de jornada
 
 Entenda os diferentes estados de uma jornada e o impacto da publicação.
 

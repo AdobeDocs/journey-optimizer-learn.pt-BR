@@ -8,8 +8,8 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: ht
-source-wordcount: '1120'
+workflow-type: tm+mt
+source-wordcount: '1108'
 ht-degree: 100%
 
 ---
@@ -110,15 +110,15 @@ Uma agência forneceu quatro arquivos HTML com o design para os emails:
    1. Aguarde dois dias e envie uma mensagem de email de acompanhamento com conteúdo mais direcionado:
       * Os clientes do sexo masculino devem receber o email **Coleção masculina da Luma**.
          * Título da mensagem: *Coleção masculina da Luma*
-         * Linha de assunto: *(nome do recipient), descubra os novos equipamentos atléticos masculinos!*
+         * Linha de assunto: *(nome do destinatário), descubra os novos equipamentos atléticos masculinos!*
          * Corpo do email: `MensCollectionEmail.html` no corpo do email.
       * As clientes do sexo feminino devem receber o email **Coleção feminina da Luma**.
          * Título da mensagem: *Coleção feminina da Luma*
-         * Linha de assunto: *(nome do recipient), descubra coleção feminina da Luma!*
+         * Linha de assunto: *(nome do destinatário), descubra coleção feminina da Luma!*
          * Corpo do email: `WomensCollectionEmail.html`
       * Outros clientes devem receber o email **Luma - Coleção com 20% de desconto**.
       * Título da mensagem: *Luma - Coleção com 20% de desconto*
-      * Linha de assunto: *(nome do recipient), aproveite a liquidação com 20% de desconto!*
+      * Linha de assunto: *(nome do destinatário), aproveite a liquidação com 20% de desconto!*
       * Corpo do email: `20OOffCollectionEmail.html`
    1. Depois de enviar os emails direcionados acima, aguarde mais dois dias para que eles sejam abertos
    1. Se o email direcionado não for aberto em 2 dias, envie o email **Luma - Coleção com 20% de desconto** como uma tentativa final de redirecionamento

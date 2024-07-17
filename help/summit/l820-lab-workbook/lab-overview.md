@@ -30,16 +30,16 @@ Neste laboratório prático, você explora vários cenários móveis e aprende a
 >
 >Evite publicar fotos ou capturas de tela da sessão nas redes sociais.
 ><br>
->**Confidencialidade Adobe**
+>**Confidencialidade de Adobe**
 >As informações e divulgações de produtos compartilhadas hoje durante este laboratório são Informações confidenciais de Adobe.
 >Os participantes não podem reproduzir, utilizar, divulgar ou divulgar Informações confidenciais a qualquer pessoa ou entidade.
 >As divulgações de produtos são somente para fins informativos, não são uma garantia de qualquer recurso ou funcionalidade futura e estão sujeitas a alterações a qualquer momento. Dessa forma, esses recursos ou funcionalidades do produto não fazem parte de nenhum acordo com a Adobe ou de nenhuma outra forma comprometida com você.
 ><br>
->**Isenção de responsabilidade**
+>**Aviso de Isenção de Responsabilidade**
 >O Adobe está fornecendo acesso antecipado aos recursos do, que aproveitam a tecnologia de IA geradora. Observe que esses recursos ainda estão em desenvolvimento e podem produzir respostas inesperadas ou imprecisas. Seus comentários são bem-vindos à medida que lançamos esse recurso no mercado.
 
 
-### Principais aprendizados
+### Principais pontos
 
 * Entenda a variedade de experiências móveis compatíveis.
 * Configure uma campanha por push.
@@ -51,11 +51,11 @@ Neste laboratório prático, você explora vários cenários móveis e aprende a
 
 * Conheça o número do seu assento: Você pode encontrar o número do seu assento no tampo da mesa da máquina do laboratório:
 
-![Número da vaga](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+![Número de vagas](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 Você precisa de acesso a:
 
-* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}  - os detalhes de logon são fornecidos durante os exercícios.
-* [Site da Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
+* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - os detalhes de logon são fornecidos durante os exercícios.
+* [Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 
 ### Entender o caso de uso

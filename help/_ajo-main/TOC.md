@@ -3,7 +3,7 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: d45d00e8d2ae83322f32fc458af1ce4f0c576bab
+source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
 workflow-type: tm+mt
 source-wordcount: '557'
 ht-degree: 94%
@@ -117,10 +117,10 @@ ht-degree: 94%
    + Configurar canais {#channel-configuration}
       + [Configurar canal de email](/help/set-up-channels/set-up-email-channel.md)
       + [Delegar subdomínios CName](/help/set-up-channels/delegate-cname-subdomains.md)
+      + [Configurar e executar um plano de aquecimento de IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [Configurar credenciais da API de SMS e superfícies de canal](/help/set-up-channels/set-up-sms-channel.md)
       + [Traga seu próprio provedor de SMS (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [Configurar regras de frequência de mensagem](/help/administration/configure-frequency-rules.md)
-      + [Configurar e executar um plano de aquecimento de IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [Configurar credenciais da API de MMS e superfícies de canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + Configurar jornadas {#journey-configuration}
       + [Configurar fontes de dados](/help/set-up-journeys/configure-data-sources.md)

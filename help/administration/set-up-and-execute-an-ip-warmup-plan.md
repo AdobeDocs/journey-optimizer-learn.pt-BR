@@ -1,6 +1,6 @@
 ---
 title: Configurar e executar um plano de aquecimento de IP
-description: Entenda o que é aquecimento de IP e saiba como configurar e executar um plano de aquecimento de IP no Adobe Journey Optimizer.
+description: Entenda o que é o aquecimento de IP e saiba como configurar e executar um plano de aquecimento de IP no Adobe Journey Optimizer.
 feature: IP Warmup Plans
 role: Admin
 level: Beginner
@@ -12,15 +12,15 @@ last-substantial-update: 2024-08-14T00:00:00Z
 jira: KT-14602
 source-git-commit: 5e6503b8f15ee0dfc7f2894e8d1d7a8493abe63d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 62%
 
 ---
 
 
 # Configurar e executar um plano de aquecimento de IP
 
-Entenda o que é aquecimento de IP e saiba como configurar e executar um plano de aquecimento de IP no Adobe Journey Optimizer.
+Entenda o que é o aquecimento de IP e saiba como configurar e executar um plano de aquecimento de IP no Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 

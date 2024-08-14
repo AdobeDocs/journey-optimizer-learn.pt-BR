@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -119,7 +119,7 @@ ht-degree: 94%
       + [Delegar subdomínios CName](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Configurar e executar um plano de aquecimento de IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [Configurar credenciais da API de SMS e superfícies de canal](/help/set-up-channels/set-up-sms-channel.md)
-      + [Traga seu próprio provedor de SMS (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
+      + [Traga o seu próprio provedor de SMS (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [Configurar regras de frequência de mensagem](/help/administration/configure-frequency-rules.md)
       + [Configurar credenciais da API de MMS e superfícies de canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + Configurar jornadas {#journey-configuration}

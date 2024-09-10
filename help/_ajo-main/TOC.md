@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 4c51e1a1b04750559f3d1316fc9c13bedd94ae60
+source-git-commit: 406d57307ca700d0cf4e95a39d55665654c3de93
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 97%
+source-wordcount: '580'
+ht-degree: 96%
 
 ---
 
@@ -128,6 +128,8 @@ ht-degree: 97%
       + [Configurar fontes de dados](/help/set-up-journeys/configure-data-sources.md)
       + [Criar eventos](/help/set-up-journeys/create-events.md)
       + [Criar ações](/help/set-up-journeys/create-actions.md)
+   + Regras de negócio {business-rules}
+      + [Configurar regras de limite de frequência](/help/configuration/configure-frequency-capping-rules.md)
 + Controle de acesso {#access-control}
    + [Gerenciamento de acesso](/help/set-up-access/access-management.md)
    + [Configurar o controle de acesso baseado em atributos](/help/administration/attribute-based-access-control.md)

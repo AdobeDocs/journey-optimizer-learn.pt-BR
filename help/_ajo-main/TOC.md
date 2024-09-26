@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 108dfe961f0bc7078e65e2d036734460a95de09f
+source-git-commit: 4add927932ca713a1812df56c70f07910dca44f6
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 92%
+source-wordcount: '606'
+ht-degree: 91%
 
 ---
 
@@ -62,6 +62,7 @@ ht-degree: 92%
       + [Criar uma mensagem no aplicativo em uma jornada](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Criar uma mensagem no aplicativo](/help/channels/author-in-app-messages.md)
       + [Configurar experimentos de conteúdo para mensagens no aplicativo](/help/experimentation/content-experiments-for-in-app-messages.md)
+      + [Criar cartões de conteúdo](/help/channels/create-content-cards.md)
    + Canal{#push-channel} de push
       + [Configurar e enviar uma campanha por push](/help/channels/create-a-push-campaign.md)
    + Canal SMS{#sms-channel}

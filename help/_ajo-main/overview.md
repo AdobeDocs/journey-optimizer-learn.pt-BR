@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 4c51e1a1b04750559f3d1316fc9c13bedd94ae60
+source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 89%
+source-wordcount: '377'
+ht-degree: 81%
 
 ---
 
@@ -32,10 +32,13 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 ## Eventos Experience League Live mais recentes
 
+* **[Bloqueio de IA - Desbloqueando o poder do Assistente de IA em aplicativos e no Campaign da Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+  *Saiba como o Assistente de IA transforma as interações com o cliente e melhora a produtividade nos Aplicativos Adobe Experience Cloud e no Adobe Campaign.*
 * **[Destaque do Verão - É necessário experimentar recursos no Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
   *Turbine seu engajamento com o cliente neste verão com três recursos da Adobe Journey Optimizer: experimentação de jornada, limite de frequência e mensagens em vários idiomas.*
 * **[Novo canal de experiência baseado em código no Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *Saiba como ativar superfícies de entrada e controle de personalização granular com ações centradas no desenvolvedor.*
+
 </div>
 
 <div id="staff-picks-section">

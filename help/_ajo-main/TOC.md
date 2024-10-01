@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0f286412ace011859fc5f1f79ef4baf61d83ac50
+source-git-commit: 0f8cacf3676b4d14f11264fbd691fa73ef01f6ed
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 87%
+source-wordcount: '630'
+ht-degree: 88%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 87%
       + [Importar e criar conteúdo de email HTML](/help/channels/import-and-author-html-email-content.md)
       + [Pré-visualizar, provar e publicar](/help/channels/preview-proof-and-publish.md)
       + [Configuração de experimentos de conteúdo para emails](/help/experimentation/content-experiments-for-emails.md)
-   + Cartões de conteúdo (#content-cards)
+   + Cartões de conteúdo{#content-cards}
       + [Criar cartões de conteúdo](/help/channels/create-content-cards.md)
    + Canal no aplicativo{#in-app-channel}
       + [Criar uma campanha no aplicativo](/help/channels/create-an-in-app-campaign.md)

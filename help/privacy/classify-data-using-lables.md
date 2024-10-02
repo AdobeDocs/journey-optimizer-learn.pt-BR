@@ -1,0 +1,27 @@
+---
+title: Classificar dados usando rótulos
+description: Saiba como aplicar rótulos a seus esquemas e conjuntos de dados.
+feature: Governance, Privacy, Data Management, Access Management
+role: Data Architect, Admin
+level: Beginner
+jira: KT-16266
+thumbnail: 29709.jpg
+last-substantial-update: 2024-10-01T00:00:00Z
+hide: true
+hidefromtoc: true
+source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+workflow-type: tm+mt
+source-wordcount: '132'
+ht-degree: 8%
+
+---
+
+# Classificar dados usando rótulos
+
+>>[!NOTE]
+>>
+O vídeo demonstra esse recurso na interface do usuário do Adobe Experience Platform. A mesma funcionalidade está disponível na interface do usuário do Journey Optimizer, na seção GERENCIAMENTO DE DADOS na navegação à esquerda.
+
+Saiba como aplicar rótulos a esquemas e conjuntos de dados. Os rótulos de uso de dados permitem marcar e classificar os dados para refletir as políticas corporativas, as obrigações contratuais, os requisitos de conformidade e as regulamentações regionais na Adobe Experience Platform. Essa capacidade é essencial para diferenciar dados conhecidos e desconhecidos sobre seus clientes e aplicar controles apropriados no uso de dados com base na natureza dos dados. Para obter a documentação detalhada do produto, consulte [gerenciar rótulos de uso de dados na interface](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html?lang=pt-BR) e [gerenciar rótulos de uso de dados com a API](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/dataset-api.html)
+
+>[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)

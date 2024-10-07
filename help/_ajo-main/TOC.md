@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
 source-wordcount: '646'
-ht-degree: 86%
+ht-degree: 97%
 
 ---
 
@@ -75,9 +75,9 @@ ht-degree: 86%
       + [Criar uma campanha da Web](/help/channels/author-a-web-campaign.md)
       + [Compatibilidade com SPA no editor da web](/help/channels/singel-page-application-support.md)
 + Gestão de conteúdo{#content-management}
-   + Acelerador de Conteúdo do Assistente de IA{#content-accelerator}
+   + Acelerador de conteúdo do Assistente de IA{#content-accelerator}
       + [Introdução ao Acelerador de conteúdo do Assistente de IA](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-      + [Criar conteúdo com o Assistente de IA no Journey Optimizer - Acelerador de conteúdo](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+      + [Criar conteúdo com o Assistente de IA do Journey Optimizer – Acelerador de Conteúdo](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Gerenciar ativos](/help/assets-essentials-overview.md)
    + [Gerenciar modelos de conteúdo](/help/content-management/content-templates.md)
    + [Gerenciar fragmentos](/help/content-management/manage-fragments.md)
@@ -132,7 +132,7 @@ ht-degree: 86%
       + [Configurar fontes de dados](/help/set-up-journeys/configure-data-sources.md)
       + [Criar eventos](/help/set-up-journeys/create-events.md)
       + [Criar ações](/help/set-up-journeys/create-actions.md)
-   + Regras comerciais {#business-rules}
+   + Regras de negócios {#business-rules}
       + [Configurar regras de limite de frequência](/help/configuration/configure-frequency-capping-rules.md)
       + [Testar e relatar regras de frequência](/help/configuration/test-and-report-on-frequency-rules.md)
 + Controle de acesso {#access-control}
@@ -149,8 +149,8 @@ ht-degree: 86%
    + [Configurar uma sandbox de treinamento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=pt-BR)
    + [Desafios](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=pt-BR)
 + Gravações ao vivo da Experience League{#experience-league-live-recordings}
-   + [Bloqueio de IA - Desbloqueando o poder do assistente de IA em aplicativos e no Campaign da Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
-   + [Destaque do Verão - É necessário experimentar recursos no Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
+   + [AI Bash: como explorar o potencial do Assistente de IA em aplicativos da Adobe Experience Platform e no Campaign](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+   + [Destaque do trimestre: três recursos que você precisa experimentar no Adobe Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
    + [Novo canal de experiência baseado em código no Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Mensagens acionadas por API no Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=pt-BR){target="_blank"}
    + [Entregue a oferta certa no momento certo com a gestão de decisões](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=pt-BR){target="_blank"}

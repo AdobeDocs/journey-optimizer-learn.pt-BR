@@ -1,6 +1,6 @@
 ---
 title: Visão geral da estrutura de governança de dados
-description: Entender os recursos de governança do Adobe Experience Platform.
+description: Compreenda os recursos de governança da Adobe Experience Platform.
 feature: Governance, Privacy
 role: Data Architect, User
 level: Intermediate
@@ -13,14 +13,14 @@ hidefromtoc: true
 source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 32%
 
 ---
 
 
 # Visão geral da estrutura de governança de dados
 
-Entender a estrutura de governança de dados do Adobe Experience Platform.
+Compreenda a estrutura de governança de dados da Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
@@ -28,6 +28,6 @@ Consulte a documentação do produto para obter mais informações sobre [govern
 
 ## Aprendizado adicional
 
-* [Lista de Reprodução: Introdução à Governança de Dados do Adobe Experience Platform](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-data-governance)
+* [Lista de Reprodução: Introdução à Governança de Dados do Adobe Experience Platform](https://experienceleague.adobe.com/pt-br/playlists/experience-platform-get-started-with-data-governance)
 
   *Saiba mais sobre a governança de dados no Adobe Experience Platform e como classificar dados usando rótulos, criar políticas de uso de dados e impor políticas de uso de dados no Experience Platform.*

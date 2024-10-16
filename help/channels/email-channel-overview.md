@@ -1,5 +1,5 @@
 ---
-title: Canal de email - Visão geral
+title: 'Canal de email: visão geral'
 description: Entenda como o Journey Optimizer lida com todos os casos de uso de email com recursos abrangentes de criação, orquestração e entrega de email.
 feature: Email
 role: User
@@ -9,14 +9,14 @@ duration: 109
 last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16315
 source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Canal de email - Visão geral
+# Canal de email: visão geral
 
 Entenda como o Journey Optimizer lida com todos os casos de uso de email com recursos abrangentes de criação, orquestração e entrega de email.
 

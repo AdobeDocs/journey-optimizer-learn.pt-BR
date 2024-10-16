@@ -1,5 +1,5 @@
 ---
-title: Aplicar políticas de uso de dados nos canais da Journey Optimizer
+title: Aplicar políticas de uso de dados nos canais do Journey Optimizer
 description: Saiba como a rotulagem de uso de dados é aplicada nos canais do Journey Optimizer.
 feature: Governance, Privacy
 role: Data Architect, Admin, User
@@ -12,17 +12,17 @@ hide: false
 hidefromtoc: false
 badgePrivateBeta: label="Private Beta" type="Informative"
 source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Aplicar políticas de uso de dados nos canais da Journey Optimizer
+# Aplicar políticas de uso de dados nos canais do Journey Optimizer
 
 Saiba como as políticas de uso de dados são aplicadas nos canais do Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-Consulte a documentação do produto para obter mais informações sobre [governança de dados](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) e como [trabalhar com políticas de consentimento](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-restricted) no Journey Optimizer.
+Consulte a documentação do produto para mais informações sobre [governança de dados](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/privacy/action-privacy-restricted) e como [trabalhar com políticas de consentimento](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/privacy/consent/consent-restricted) no Journey Optimizer.

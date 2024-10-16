@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '685'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 88%
    + [Acione campanhas usando APIs](/help/create-campaigns/api-triggered-campaigns.md)
    + [Criar experimentos de conteúdo para campanhas de email](/help/create-campaigns/content-experiments.md)
 + Jornadas {#create-journeys}
-   + [Jornada Designer - Visão geral](/help/create-journeys/journey-designer-overview.md)
+   + [Designer de jornada: visão geral](/help/create-journeys/journey-designer-overview.md)
    + [Conheça o novo Journey Designer](/help/create-journeys/new-journey-designer.md)
    + [Introdução à criação de uma jornada](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso de uso - Jornada transacional](/help/create-journeys/use-case-transactional-journey.md)
@@ -44,19 +44,19 @@ ht-degree: 88%
    + [Atualizar conteúdo em uma jornada ativa](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)
 + Perfis, públicos-alvo e assinaturas {#profiles-audiences-subscriptions}
-   + [Perfis e públicos-alvo - Visão geral](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
+   + [Perfis e públicos-alvo: visão geral](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Perfil e segmentação unificados - visão geral](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Criação de públicos-alvo por meio do construtor de regras](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Páginas de assinaturas e de destino](/help/subscriptions-and-landing-pages.md)
 + Canais {#channels}
-   + [Otimização do aplicativo móvel - Visão geral](/help/channels/mobile-app-optimization-overview.md)
+   + [Otimização do aplicativo móvel: visão geral](/help/channels/mobile-app-optimization-overview.md)
    + Canal de experiência baseada em código{#code-based-experience-channel}
       + [Criar uma campanha de experiência baseada em código](/help/channels/create-a-code-based-experience-campaign.md)
    + Canal de correspondência direta{#direct-mail-channel}
       + [Criação de uma correspondência direta](/help/channels/direct-mail.md)
    + Canal de email{#email-channel}
-      + [Canal de email - Visão geral](/help/channels/email-channel-overview.md)
-      + [Design e personalização de email - Visão geral](/help/channels/email-design-and-personalization-overview.md)
+      + [Canal de email: visão geral](/help/channels/email-channel-overview.md)
+      + [Design e personalização de email: visão geral](/help/channels/email-design-and-personalization-overview.md)
       + [Criar conteúdo com o Designer de email](/help/channels/create-content-with-the-email-designer.md)
       + [Importar e criar conteúdo de email HTML](/help/channels/import-and-author-html-email-content.md)
       + [Pré-visualizar, provar e publicar](/help/channels/preview-proof-and-publish.md)
@@ -64,40 +64,40 @@ ht-degree: 88%
    + Cartões de conteúdo{#content-cards}
       + [Criar cartões de conteúdo](/help/channels/create-content-cards.md)
    + Canal no aplicativo{#in-app-channel}
-      + [Mensagens no aplicativo - Visão geral](/help/channels/in-app-messages-overview.md)
+      + [Mensagens no aplicativo: visão geral](/help/channels/in-app-messages-overview.md)
       + [Criar uma campanha no aplicativo](/help/channels/create-an-in-app-campaign.md)
       + [Criar uma mensagem no aplicativo em uma jornada](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Criar uma mensagem no aplicativo](/help/channels/author-in-app-messages.md)
       + [Configurar experimentos de conteúdo para mensagens no aplicativo](/help/experimentation/content-experiments-for-in-app-messages.md)
    + Canal{#push-channel} de push
-      + [Notificações por push - Visão geral](/help/channels/push-notifications-overview.md)
+      + [Notificações por push: visão geral](/help/channels/push-notifications-overview.md)
       + [Configurar e enviar uma campanha por push](/help/channels/create-a-push-campaign.md)
    + Canal SMS{#sms-channel}
-      + [Mensagens SMS/MMS - Visão geral](/help/channels/sms-mms-messages-overview.md)
+      + [Mensagens SMS/MMS: visão geral](/help/channels/sms-mms-messages-overview.md)
       + [Configurar, criar e entregar mensagens SMS](/help/channels/author-sms-messages.md)
       + [Criar uma mensagem MMS](/help/channels/author-mms.md)
       + [SMS: aceitação dupla para Sinch e Infobip](/help/channels/sms-double-opt-in.md)
    + Canal da web {#web-channel}
-      + [Personalização da Web - Visão geral](/help/channels/web-personalization-overview.md)
+      + [Personalização da web: visão geral](/help/channels/web-personalization-overview.md)
       + [Criar uma campanha da web](/help/channels/create-a-web-campaign.md)
       + [Criar uma campanha da Web](/help/channels/author-a-web-campaign.md)
       + [Compatibilidade com SPA no editor da web](/help/channels/singel-page-application-support.md)
 + Gestão de conteúdo{#content-management}
-   + [Criação de mensagens - Visão geral](/help/content-management/message-authoring-overview.md)
-   + [Gerenciamento de ativos digitais - Visão geral](/help/content-management/digital-asset-management-overview.md)
+   + [Criação de mensagens: visão geral](/help/content-management/message-authoring-overview.md)
+   + [Gerenciamento de ativos digitais: visão geral](/help/content-management/digital-asset-management-overview.md)
    + [Gerenciar ativos](/help/assets-essentials-overview.md)
    + [Gerenciar modelos de conteúdo](/help/content-management/content-templates.md)
    + [Gerenciar fragmentos](/help/content-management/manage-fragments.md)
    + [Criar fragmentos de expressão](/help/content-management/expression-fragments.md)
-   + [Experimentação - Visão geral](/help/content-management/experimentation-overview.md)
+   + [Experimentação: visão geral](/help/content-management/experimentation-overview.md)
    + Mensagens multilíngues {#multilingual-messaging}
       + [Configurar mensagens multilíngues](/help/content-management/set-up-multilingual-messages.md)
       + [Criar uma mensagem multilíngue](/help/content-management/create-multilingual-messages.md)
    + Acelerador de conteúdo do Assistente de IA{#content-accelerator}
-      + [Acelerador de conteúdo do assistente de IA - Visão geral](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [Criar conteúdo usando o Acelerador de conteúdo do Assistente de IA](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+      + [Acelerador de conteúdo do Assistente de IA: visão geral](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Criar conteúdo com o acelerador de conteúdo do Assistente de IA](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Personalizar conteúdo {#personalize-content}
-   + [Editor do Personalization - Visão geral](/help/personalize-content/personalization-editor-overview.md)
+   + [Editor de personalização: visão geral](/help/personalize-content/personalization-editor-overview.md)
    + [Personalização baseada em perfil e associação de público-alvo](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Adicionar ofertas como personalização](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Usar informações de evento contextual para personalização](/help/personalize-content/use-contextual-event-information-for-personalization.md)
@@ -126,7 +126,7 @@ ht-degree: 88%
    + [Configurar um destino de exportação para o conjunto de dados](/help/data-management/configure-dataset-export-destination.md)
    + [Exportar conjuntos de dados para locais de armazenamento na nuvem](/help/data-management/export-datasets.md)
 + Relatar e monitorar {#report-and-monitor}
-   + [Medição e relatórios - Visão geral](/help/report-and-monitor/measurement-and-reporting-overview.md)
+   + [Medição e relatórios: visão geral](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [Relatórios dinâmicos e globais](/help/report-and-monitor/live-and-global-reports.md)
    + [Relatórios no nível do canal](/help/report-and-monitor/channel-level-reports.md)
    + [Exportar relatórios no formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
@@ -157,7 +157,7 @@ ht-degree: 88%
    + [Estrutura de governança de dados](/help/privacy/data-governance-framework.md)
    + [Classificar dados usando rótulos](/help/privacy/classify-data-using-lables.md)
    + [Criar políticas de uso de dados](/help/privacy/create-data-usage-policies.md)
-   + [Aplicar políticas de uso de dados nos canais da Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
+   + [Aplicar políticas de uso de dados nos canais do Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Mascaramento de dados em mensagens](/help/privacy/mask-data-in-messages.md)
 + Exercícios e desafios {#exercises-and-challenges}
    + [Configurar uma sandbox de treinamento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=pt-BR)

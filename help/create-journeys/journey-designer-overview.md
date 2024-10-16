@@ -1,6 +1,6 @@
 ---
-title: Jornada Designer - Visão geral
-description: Este vídeo fornece uma visão geral sobre como projetar e gerenciar jornadas de clientes usando o designer de Jornadas.
+title: 'Designer de jornada: visão geral'
+description: Este vídeo fornece uma visão geral de como projetar e gerenciar jornadas de clientes com o designer de jornada.
 feature: Journeys
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 98
 last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16290
 source-git-commit: dde5bc9f9d453b5b3df8cc3625329ee81d1889ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Jornada Designer - Visão geral
+# Designer de jornada: visão geral
 
-Este vídeo fornece uma visão geral sobre como projetar e gerenciar jornadas de clientes usando o designer de Jornadas.
+Este vídeo fornece uma visão geral de como projetar e gerenciar jornadas de clientes com o designer de jornada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432672/?learn=on)

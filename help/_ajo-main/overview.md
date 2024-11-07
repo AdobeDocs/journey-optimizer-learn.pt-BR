@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2d0a573812fbcbce347821532d5ab254b3a4c98c
+source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
 workflow-type: tm+mt
 source-wordcount: '372'
-ht-degree: 98%
+ht-degree: 81%
 
 ---
 
@@ -47,30 +47,31 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 <table>
 <tr>
-  <td>
-    <a href="../introduction/journey-optimizer-overview.md">
-      <img alt="Visão geral do Journey Optimizer (vídeo)" src="../assets/334174.jpg"/>
+    <td>
+    <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+      <img alt="Criar conteúdo usando o Acelerador de conteúdo do Assistente de IA (vídeo)" src="../assets/3434635.jpg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-1.md">
-    <strong>Visão geral do Journey Optimizer Parte 1 </strong>
+      <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+    <strong>Criar conteúdo usando o Acelerador de Conteúdo do Assistente de IA</strong>
     </a>
     </div>
     <p>
-    <em>Este vídeo mostra como as marcas podem usar a Otimização de jornada da Adobe para fornecer jornadas personalizadas omnicanais aos seus consumidores.</em>
+    <em>Saiba como usar o Acelerador de Conteúdo do Assistente de IA para gerar sugestões de variação de conteúdo pró-ativo para texto e imagens.
+</em>
     <p>
   </td>
     <td>
-    <a href="../introduction/journey-optimizer-overview-part-2.md">
-      <img alt="Visão geral do Journey Optimizer Parte 2 — fornecer jornadas omnicanais (vídeo)" src="../assets/334175.jpg"/>
+    <a href="../experimentation/content-experiments-for-emails.md">
+      <img alt="Configurar experimentos de conteúdo para campanhas de email (vídeo)" src="../assets/3419893.jpeg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-2.md">
-    <strong>Visão geral do Journey Optimizer Parte 2  </strong>
+      <a href="../experimentation/content-experiments-for-emails.md">
+    <strong>Configurar experimentos de conteúdo para campanhas de email </strong>
     </a>
     </div>
     <p>
-    <em>Este vídeo mostra como as marcas podem usar os recursos de gestão de decisões, a qualificação de segmentos em tempo real e o gerenciamento de eventos comerciais do Adobe Journey Optimizer para elevar a jornada dos consumidores a novos patamares.</em>
+    <em>Saiba como configurar experimentos de conteúdo para testes A/B e explorar o conteúdo de email que melhor direciona seus objetivos comerciais.</em>
     <p>
   </td>
   </td>

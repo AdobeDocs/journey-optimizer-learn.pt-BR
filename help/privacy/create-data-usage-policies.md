@@ -10,17 +10,17 @@ last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: false
 hidefromtoc: false
-source-git-commit: da924ae1f11f87ef6d940d7ccfc0ac3b9cf3b896
-workflow-type: tm+mt
+exl-id: 0aaf116d-e8e9-449d-99b5-800fee8c3c0a
+source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-
 # Criar políticas de uso de dados
 
-Saiba como criar e gerenciar políticas de uso de dados. As políticas de uso de dados permitem restringir o uso de dados para fins específicos com base nos rótulos dos dados. Para saber a abordagem baseada em API, consulte [Criar políticas de uso de dados com a API](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create).
+Saiba como criar e gerenciar políticas de uso de dados. As políticas de uso de dados permitem restringir o uso de dados para fins específicos com base nos rótulos dos dados. Para saber mais sobre a abordagem baseada em API, consulte [Criar políticas de uso de dados com a API](https://experienceleague.adobe.com/pt-br/docs/experience-platform/data-governance/policies/create).
 
 >[!NOTE]
 >

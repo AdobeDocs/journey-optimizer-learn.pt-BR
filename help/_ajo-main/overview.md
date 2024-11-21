@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '372'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -49,15 +49,15 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="Criar conteúdo usando o Acelerador de conteúdo do Assistente de IA (vídeo)" src="../assets/3434635.jpg"/>
+      <img alt="Criar conteúdo com o acelerador de conteúdo do Assistente de IA (vídeo)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>Criar conteúdo usando o Acelerador de Conteúdo do Assistente de IA</strong>
+    <strong>Criar conteúdo com o acelerador de conteúdo do assistente de IA</strong>
     </a>
     </div>
     <p>
-    <em>Saiba como usar o Acelerador de Conteúdo do Assistente de IA para gerar sugestões de variação de conteúdo pró-ativo para texto e imagens.
+    <em>Saiba como usar o acelerador de conteúdo do Assistente de IA para gerar sugestões proativas de variação de conteúdo para textos e imagens.
 </em>
     <p>
   </td>
@@ -67,11 +67,11 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
     </a>
     <div>
       <a href="../experimentation/content-experiments-for-emails.md">
-    <strong>Configurar experimentos de conteúdo para campanhas de email </strong>
-    </a>
+    <strong>Configurar experimentos de conteúdo para campanhas de email </strong>
+    </a>
     </div>
     <p>
-    <em>Saiba como configurar experimentos de conteúdo para testes A/B e explorar o conteúdo de email que melhor direciona seus objetivos comerciais.</em>
+    <em>Saiba como configurar experimentos de conteúdo para testes A/B e explorar o conteúdo de email que melhor impulsiona seus objetivos de negócios.</em>
     <p>
   </td>
   </td>

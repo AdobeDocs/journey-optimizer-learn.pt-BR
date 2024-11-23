@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f445b5c7572cf8b85d1e1ef053b9385fcb9c3fbd
+source-git-commit: bf1a97a0950782838946ecf2e21d82e84913340f
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 98%
+source-wordcount: '597'
+ht-degree: 99%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 98%
 
 + [Tutoriais do Journey Optimizer](/help/_ajo-main/overview.md)
 + Introdução ao Journey Optimizer {#introduction-to-journey-optimizer}
-   + [Journey Optimizer - Visão geral](/help/introduction/journey-optimizer-overview.md)
+   + [Journey Optimizer – Visão geral](/help/introduction/journey-optimizer-overview.md)
    + [Introdução ao Journey Optimizer](/help/introduction/introduction.md)
    + [Principais recursos e a interface do usuário](/help/introduction/key-capabilities-and-user-interface.md)
    + [Arquitetura](/help/introduction/architecture.md)
@@ -151,7 +151,7 @@ ht-degree: 98%
 + Controle de acesso {#access-control}
    + [Gerenciamento de acesso](/help/set-up-access/access-management.md)
    + [Configurar o controle de acesso baseado em atributos](/help/administration/attribute-based-access-control.md)
-   + [Criar e gerenciar sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [Usar sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Governança e privacidade de dados {#data-governance-and-privacy}
    + [Estrutura de governança de dados](/help/privacy/data-governance-framework.md)
    + [Classificar dados usando rótulos](/help/privacy/classify-data-using-lables.md)
@@ -161,6 +161,6 @@ ht-degree: 98%
 + Exercícios e desafios {#exercises-and-challenges}
    + [Configurar uma sandbox de treinamento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=pt-BR)
    + [Desafios](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=pt-BR)
-+ [Gravações do programa Experience League Live](/help/experience-league-live-show-recordings.md)
++ [Gravações do show ao vivo da Experience League](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [Crie momentos móveis personalizados com o Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}

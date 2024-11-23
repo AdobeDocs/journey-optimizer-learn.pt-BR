@@ -1,23 +1,23 @@
 ---
 title: Criar e gerenciar sandboxes
-description: Entenda o que são sandboxes e como distinguir sandboxes de desenvolvimento e produção. Saiba como criar, redefinir e excluir sandboxes.
+description: Saiba como as sandboxes Experience Platform fornecem ambientes isolados para experimentar funcionalidades novas ou existentes e trabalhar com uma abordagem rápida de falha. Saiba como redefinir e reiniciar os ambientes de desenvolvimento e usar sandboxes com chamadas de API.
 jira: KT-7568
-thumbnail: 334355.jpg
 feature: Sandboxes
 doc-type: feature video
-team: PM
-role: Admin
+team: TM
+role: Admin, User
 level: Beginner
+last-substantial-update: 2024-11-22T00:00:00Z
 exl-id: b1ad3aa7-2b58-4a9f-8c5c-085126586c11
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: cfa548b1c8490e74cb40bba48386a4b6efd0ba67
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Criar e gerenciar sandboxes
+# Usar sandboxes
 
-Entenda o que são sandboxes e como distinguir sandboxes de desenvolvimento e produção. Saiba como criar, redefinir e excluir sandboxes.
+Saiba como as sandboxes Experience Platform fornecem ambientes isolados para experimentar funcionalidades novas ou existentes e trabalhar com uma abordagem &quot;fail fast&quot;. Saiba como redefinir e reiniciar os ambientes de desenvolvimento e usar sandboxes com chamadas de API. Para obter mais informações, visite o [Guia do usuário de sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=pt-BR).
 
->[!VIDEO](https://video.tv.adobe.com/v/334355?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29838/?learn=on)

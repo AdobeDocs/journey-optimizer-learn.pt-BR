@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 20c8649624e91fcc77745309a4816bd02e6d09bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '603'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 99%
 
 + [Tutoriais do Journey Optimizer](/help/_ajo-main/overview.md)
 + Casos de uso {#use-cases}
-   + [Integração do cliente](/help/use-cases/customer-onboarding.md)
+   + [Integração de clientes](/help/use-cases/customer-onboarding.md)
 + Introdução ao Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Visão geral](/help/introduction/journey-optimizer-overview.md)
    + [Introdução ao Journey Optimizer](/help/introduction/introduction.md)
@@ -133,7 +133,7 @@ ht-degree: 99%
    + [Exportar relatórios no formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Usar alertas](/help/administration/alerts.md)
    + [Relatórios aprimorados com o Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
-   + [Interatividade de relatórios](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
+   + [Interatividade dos relatórios](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
 + Configuração {#configuration}
    + Configurar canais {#channel-configuration}
       + [Configurar canais](/help/set-up-channels/configure-channels.md)

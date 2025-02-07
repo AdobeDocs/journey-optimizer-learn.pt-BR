@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: fce89856e1fb8459af493f3b722b9a098a3f1b03
+source-git-commit: cad09b4cc870a9a241c92940e424bb2fbe03e0d6
 workflow-type: tm+mt
-source-wordcount: '611'
-ht-degree: 98%
+source-wordcount: '605'
+ht-degree: 99%
 
 ---
 
@@ -54,7 +54,6 @@ ht-degree: 98%
    + [Otimização do aplicativo móvel: visão geral](/help/channels/mobile-app-optimization-overview.md)
    + Canal de experiência baseada em código{#code-based-experience-channel}
       + [Criar uma campanha de experiência baseada em código](/help/channels/create-a-code-based-experience-campaign.md)
-      + [Usar decisão no canal baseado em código](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canal de correspondência direta{#direct-mail-channel}
       + [Criação de uma correspondência direta](/help/channels/direct-mail.md)
    + Canal de email{#email-channel}
@@ -168,3 +167,4 @@ ht-degree: 98%
 + [Gravações do show ao vivo da Experience League](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [Crie momentos móveis personalizados com o Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [Folha de características](/help/summit-lab-assets/l535-assets.md)

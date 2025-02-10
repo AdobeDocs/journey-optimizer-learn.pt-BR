@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: cad09b4cc870a9a241c92940e424bb2fbe03e0d6
+source-git-commit: 697fde1c593052ad9e2dc9eb0bc8f8bb6fafe1ff
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 99%
+source-wordcount: '621'
+ht-degree: 96%
 
 ---
 
@@ -49,11 +49,13 @@ ht-degree: 99%
    + [Perfis e públicos-alvo: visão geral](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Perfil e segmentação unificados - visão geral](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Criação de públicos-alvo por meio do construtor de regras](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [Criar um público-alvo carregando um arquivo CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Páginas de assinaturas e de destino](/help/subscriptions-and-landing-pages.md)
 + Canais {#channels}
    + [Otimização do aplicativo móvel: visão geral](/help/channels/mobile-app-optimization-overview.md)
    + Canal de experiência baseada em código{#code-based-experience-channel}
       + [Criar uma campanha de experiência baseada em código](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Usar decisão no canal baseado em código](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canal de correspondência direta{#direct-mail-channel}
       + [Criação de uma correspondência direta](/help/channels/direct-mail.md)
    + Canal de email{#email-channel}

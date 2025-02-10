@@ -7,17 +7,17 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
-workflow-type: ht
-source-wordcount: '372'
-ht-degree: 100%
+source-git-commit: 66092b7d9d2a377dcd3ad1e5a9da7891b117f7be
+workflow-type: tm+mt
+source-wordcount: '378'
+ht-degree: 88%
 
 ---
 
 
 # Tutoriais do Journey Optimizer
 
-O Journey Optimizer ajuda as empresas a fornecer experiências conectadas, contextuais e personalizadas aos clientes. A jornada do cliente envolve todo o processo de interação do cliente com a marca, desde os primeiros momentos de contato até o cliente sair do site.
+O Journey Optimizer permite que as empresas criem experiências coesas, contextuais e personalizadas para o cliente. Ele orienta os clientes durante toda a jornada com a marca, desde o ponto inicial de contato até o momento em que eles saem do site, garantindo uma experiência conectada e satisfatória em cada ponto de contato.
 
 Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Journey Optimizer. Pratique o que você aprendeu participando dos [Desafios do Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites).
 

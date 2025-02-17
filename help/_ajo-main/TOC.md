@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 2e871d0866b2dc5f4c46a664aa62ca69e4ec4e4a
 workflow-type: tm+mt
 source-wordcount: '621'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -49,13 +49,13 @@ ht-degree: 96%
    + [Perfis e públicos-alvo: visão geral](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Perfil e segmentação unificados - visão geral](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Criação de públicos-alvo por meio do construtor de regras](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-   + [Criar um público-alvo carregando um arquivo CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
+   + [Criar um público-alvo através do envio de um arquivo CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Páginas de assinaturas e de destino](/help/subscriptions-and-landing-pages.md)
 + Canais {#channels}
    + [Otimização do aplicativo móvel: visão geral](/help/channels/mobile-app-optimization-overview.md)
    + Canal de experiência baseada em código{#code-based-experience-channel}
       + [Criar uma campanha de experiência baseada em código](/help/channels/create-a-code-based-experience-campaign.md)
-      + [Usar decisão no canal baseado em código](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
+      + [Usar o serviço de decisão no canal baseado em código](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canal de correspondência direta{#direct-mail-channel}
       + [Criação de uma correspondência direta](/help/channels/direct-mail.md)
    + Canal de email{#email-channel}
@@ -169,4 +169,4 @@ ht-degree: 96%
 + [Gravações do show ao vivo da Experience League](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [Crie momentos móveis personalizados com o Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
-   + [Folha de características](/help/summit-lab-assets/l535-assets.md)
+   + [Folha de dicas](/help/summit-lab-assets/l535-assets.md)

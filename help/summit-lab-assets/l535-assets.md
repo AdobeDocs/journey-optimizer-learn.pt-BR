@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: c7a2575121dd10c79a2a0459186e042335a67623
+source-git-commit: af70e8e589e3a4b48885d3ad1241ab8c140fa75a
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 29%
@@ -33,9 +33,7 @@ Esta página contém textos e links que estão sendo usados no L535 Summit Lab. 
 #### Prompt
 
 ```
-Generate a welcome email for new SecurFinancial
-customers who just opened a new savings account. Add a
-call to action to install the SecurFinancial mobile app.
+Generate a welcome email for new SecurFinancial customers who just opened a new savings account. Add a call to action to install the SecurFinancial mobile app.
 ```
 
 ### Exercício 3.1 - Aplicar conteúdo dinâmico à mensagem SMS
@@ -89,17 +87,13 @@ Welcome to SecurFinancial!
 #### Corpo
 
 ```
-Thank you for downloading the app. You can find
-ATMs, track your spending and more. All within the
-app.
+Thank you for downloading the app. You can find ATMs, track your spending and more. All within the app.
 ```
 
 #### URL da mídia
 
 ```
-https://demo-systemnext.
-s3.amazonaws.com/assets/securfinancial/homeloan.
-jpg
+https://demo-systemnext.s3.amazonaws.com/assets/securfinancial/homeloan.jpg
 ```
 
 #### Título do botão

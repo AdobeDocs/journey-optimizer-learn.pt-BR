@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: eb429656bc1e86a8be9e8bac3d5bfff9c5807b1e
+source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
 workflow-type: tm+mt
-source-wordcount: '638'
-ht-degree: 99%
+source-wordcount: '635'
+ht-degree: 97%
 
 ---
 
@@ -110,9 +110,9 @@ ht-degree: 99%
    + [Usar funções auxiliares para personalização](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Usar e gerenciar expressões salvas na biblioteca de personalização](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Criar conteúdo dinâmico com o construtor de regras de condição](/help/personalize-content/create-dynamic-content.md)
-+ Gestão de decisões {#decision-management}
-   + [Introdução à gestão de decisões](/help/decision-management/introduction-to-decision-management.md)
-   + [Demonstração dos recursos de gestão de decisões](/help/decision-management/demo-of-decision-management-capabilities.md)
++ Decisões {#decisioning}
+   + [Introdução à decisão](/help/decision-management/introduction-to-decisioning.md)
+   + [Demonstração dos recursos de decisão](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [Criar inserções](/help/decision-management/create-placements.md)
    + [Criar regras](/help/decision-management/create-rules.md)
    + [Criar tags](/help/decision-management/create-tags.md)

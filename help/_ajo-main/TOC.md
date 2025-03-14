@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
-workflow-type: ht
-source-wordcount: '635'
-ht-degree: 100%
+source-git-commit: 8727d3b84573f78ac28da260177aab607014f6fe
+workflow-type: tm+mt
+source-wordcount: '647'
+ht-degree: 97%
 
 ---
 
@@ -110,19 +110,23 @@ ht-degree: 100%
    + [Usar funções auxiliares para personalização](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Usar e gerenciar expressões salvas na biblioteca de personalização](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Criar conteúdo dinâmico com o construtor de regras de condição](/help/personalize-content/create-dynamic-content.md)
-+ Decisões {#decisioning}
-   + [Introdução à decisão](/help/decision-management/introduction-to-decisioning.md)
-   + [Demonstração dos recursos de decisão](/help/decision-management/demo-of-decision-management-capabilities.md)
-   + [Criar inserções](/help/decision-management/create-placements.md)
-   + [Criar regras](/help/decision-management/create-rules.md)
-   + [Criar tags](/help/decision-management/create-tags.md)
-   + [Criar ofertas personalizadas](/help/decision-management/create-personalized-offers.md)
-   + [Criar modelos de IA](/help/decision-management/create-ai-models.md)
-   + [Criar ofertas substitutas](/help/decision-management/create-fallback-offers.md)
-   + [Criar coleções](/help/decision-management/create-collections.md)
-   + [Criar decisões](/help/decision-management/create-decisions.md)
-   + [Fornecer ofertas com a API de Decisões](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [Limite de frequência](/help/decision-management/frequency-capping.md)
++ Recursos de decisão{#decision-capabilites}
+   + Decisões {#decisioning}
+      + [Introdução à Decisão](/help/decisioning/introduction-to-decisioning.md)
+      + [Apresentação completa da Decisão](/help/decisioning/decisioning-end-to-end.md)
+   + Gerenciamento de decisão {#decision-management}
+      + [Introdução à Gestão de decisões](/help/decision-management/introduction-to-decision-management.md)
+      + [Demonstração das funcionalidades de gestão de decisões](/help/decision-management/demo-of-decision-management-capabilities.md)
+      + [Criar inserções](/help/decision-management/create-placements.md)
+      + [Criar regras](/help/decision-management/create-rules.md)
+      + [Criar tags](/help/decision-management/create-tags.md)
+      + [Criar ofertas personalizadas](/help/decision-management/create-personalized-offers.md)
+      + [Criar modelos de IA](/help/decision-management/create-ai-models.md)
+      + [Criar ofertas substitutas](/help/decision-management/create-fallback-offers.md)
+      + [Criar coleções](/help/decision-management/create-collections.md)
+      + [Criar decisões](/help/decision-management/create-decisions.md)
+      + [Fornecer ofertas com a API de Decisões](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+      + [Limite de frequência](/help/decision-management/frequency-capping.md)
 + Gerenciamento de dados {#data-management}
    + [Visão geral](/help/data-management/set-up-data-overview.md)
    + [Criar um esquema](/help/data-management/create-schema.md)

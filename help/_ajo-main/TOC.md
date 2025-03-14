@@ -3,7 +3,7 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 8727d3b84573f78ac28da260177aab607014f6fe
+source-git-commit: 070dd91ef8fee8ff1801d6cfb5fc4a6658fc9d15
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 97%
@@ -110,7 +110,7 @@ ht-degree: 97%
    + [Usar funções auxiliares para personalização](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Usar e gerenciar expressões salvas na biblioteca de personalização](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Criar conteúdo dinâmico com o construtor de regras de condição](/help/personalize-content/create-dynamic-content.md)
-+ Recursos de decisão{#decision-capabilites}
++ Recursos de decisão{#decision-capabilities}
    + Decisões {#decisioning}
       + [Introdução à Decisão](/help/decisioning/introduction-to-decisioning.md)
       + [Apresentação completa da Decisão](/help/decisioning/decisioning-end-to-end.md)

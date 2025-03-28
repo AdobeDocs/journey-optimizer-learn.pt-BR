@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 943d35a082ec511fd389ad8c439b94fdd528eed4
+source-git-commit: fc1d1eeb472e4f9f5230425c16220df86db9dbb7
 workflow-type: tm+mt
-source-wordcount: '652'
-ht-degree: 96%
+source-wordcount: '657'
+ht-degree: 95%
 
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 96%
    + [Perfil e segmentação unificados - visão geral](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Criação de públicos-alvo por meio do construtor de regras](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Criar um público-alvo através do envio de um arquivo CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
+   + [Avaliar públicos-alvo sob demanda](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Páginas de assinaturas e de destino](/help/subscriptions-and-landing-pages.md)
 + Canais {#channels}
    + [Otimização do aplicativo móvel: visão geral](/help/channels/mobile-app-optimization-overview.md)

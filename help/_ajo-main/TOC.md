@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: fc1d1eeb472e4f9f5230425c16220df86db9dbb7
+source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '662'
 ht-degree: 95%
 
 ---
@@ -95,6 +95,7 @@ ht-degree: 95%
    + [Gerenciar fragmentos](/help/content-management/manage-fragments.md)
    + [Criar fragmentos de expressão](/help/content-management/expression-fragments.md)
    + [Experimentação: visão geral](/help/content-management/experimentation-overview.md)
+   + [Criar um email usando o GenStudio](/help/content-management/create-an-email-using-genstudio.md)
    + Mensagens multilíngues {#multilingual-messaging}
       + [Configurar mensagens multilíngues](/help/content-management/set-up-multilingual-messages.md)
       + [Criar uma mensagem multilíngue](/help/content-management/create-multilingual-messages.md)

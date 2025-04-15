@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '662'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -74,10 +74,10 @@ ht-degree: 99%
       + [Criar uma mensagem no aplicativo em uma jornada](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Criar uma mensagem no aplicativo](/help/channels/author-in-app-messages.md)
       + [Configurar experimentos de conteúdo para mensagens no aplicativo](/help/experimentation/content-experiments-for-in-app-messages.md)
-   + Canal{#push-channel} de push
+   + Canal de push{#push-channel}
       + [Notificações por push: visão geral](/help/channels/push-notifications-overview.md)
       + [Configurar e enviar uma campanha por push](/help/channels/create-a-push-campaign.md)
-   + Canal SMS{#sms-channel}
+   + Canal de SMS{#sms-channel}
       + [Mensagens SMS/MMS: visão geral](/help/channels/sms-mms-messages-overview.md)
       + [Configurar, criar e entregar mensagens SMS](/help/channels/author-sms-messages.md)
       + [Criar uma mensagem MMS](/help/channels/author-mms.md)
@@ -87,7 +87,7 @@ ht-degree: 99%
       + [Criar uma campanha da web](/help/channels/create-a-web-campaign.md)
       + [Criar uma campanha da Web](/help/channels/author-a-web-campaign.md)
       + [Compatibilidade com SPA no editor da web](/help/channels/singel-page-application-support.md)
-+ Gestão de conteúdo{#content-management}
++ Gerenciamento de conteúdo{#content-management}
    + [Criação de mensagens: visão geral](/help/content-management/message-authoring-overview.md)
    + [Gerenciamento de ativos digitais: visão geral](/help/content-management/digital-asset-management-overview.md)
    + [Gerenciar ativos](/help/assets-essentials-overview.md)
@@ -113,8 +113,8 @@ ht-degree: 99%
    + [Usar funções auxiliares para personalização](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Usar e gerenciar expressões salvas na biblioteca de personalização](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Criar conteúdo dinâmico com o construtor de regras de condição](/help/personalize-content/create-dynamic-content.md)
-+ Recursos de tomada de decisão{#decision-capabilities}
-   + Decisões {#decisioning}
++ Recursos de decisão{#decision-capabilities}
+   + Decisão {#decisioning}
       + [Introdução ao serviço de decisão](/help/decisioning/introduction-to-decisioning.md)
       + [Passo a passo completo do serviço de decisão](/help/decisioning/decisioning-end-to-end.md)
    + Gestão de decisões {#decision-management}
@@ -178,6 +178,6 @@ ht-degree: 99%
    + [Desafios](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=pt-BR)
 + [Gravações do show ao vivo da Experience League](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
-   + [Crie momentos móveis personalizados com o Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [Crie momentos personalizados em dispositivos móveis com o Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [Folha de dicas](/help/summit-lab-assets/l535-assets.md)
    + [Instalar o aplicativo móvel](/help/summit-lab-assets/install-mobile-app.md)

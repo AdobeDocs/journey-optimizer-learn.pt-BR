@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 6dd5b60426226724bb7855594fac387f7f6d8a7d
+source-git-commit: b85a915543769e5af2e873bc7c1cb57286d78fe8
 workflow-type: tm+mt
-source-wordcount: '671'
-ht-degree: 99%
+source-wordcount: '675'
+ht-degree: 98%
 
 ---
 
@@ -92,6 +92,7 @@ ht-degree: 99%
    + Gerenciar assets {#assets}
       + [Gerenciamento de ativos digitais: visão geral](/help/content-management/digital-asset-management-overview.md)
       + [Gerenciar ativos](/help/assets-essentials-overview.md)
+      + [Integração com o AEM Dynamic Media](/help/content-management/aem-dynamic-media-integration.md)
       + [Editar ativos com o Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
    + Trabalhar com fragmentos {#fragments}
       + [Gerenciar fragmentos](/help/content-management/manage-fragments.md)

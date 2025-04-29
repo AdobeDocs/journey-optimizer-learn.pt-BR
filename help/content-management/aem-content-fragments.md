@@ -1,6 +1,6 @@
 ---
-title: Usar fragmentos de conteúdo do Adobe Experience Manager
-description: Descubra como o Adobe Experience Manager (AEM) se integra perfeitamente ao Adobe Journey Optimizer para simplificar o gerenciamento de conteúdo e garantir a consistência da marca em todos os canais. Saiba como criar, aprovar e renderizar fragmentos de conteúdo, além de trocar e simular novos conteúdos sem esforço. Ideal para quem busca gerenciamento de conteúdo eficiente e marca consistente.
+title: Usar os Fragmentos de conteúdo do Adobe Experience Manager
+description: Saiba como o Adobe Experience Manager (AEM) se integra perfeitamente ao Adobe Journey Optimizer para simplificar o gerenciamento de conteúdo e garantir a consistência da marca entre canais. Saiba como criar, aprovar e renderizar fragmentos de conteúdo, além de trocar e simular novos conteúdos sem esforço. Ideal para quem busca gerenciamento de conteúdo eficiente e uma identidade visual consistente.
 feature: Fragments
 topic: Content Management
 role: User
@@ -16,12 +16,12 @@ index: false
 source-git-commit: 210b854d56cc71193476118aacf5469068e84eda
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Usar fragmentos de conteúdo do Adobe Experience Manager
+# Usar os Fragmentos de conteúdo do Adobe Experience Manager
 
-Descubra como o Adobe Experience Manager (AEM) se integra perfeitamente ao Adobe Journey Optimizer para simplificar o gerenciamento de conteúdo e garantir a consistência da marca em todos os canais. Saiba como criar, aprovar e renderizar fragmentos de conteúdo, além de trocar e simular novos conteúdos sem esforço. Ideal para quem busca gerenciamento de conteúdo eficiente e marca consistente.
+Saiba como o Adobe Experience Manager (AEM) se integra perfeitamente ao Adobe Journey Optimizer para simplificar o gerenciamento de conteúdo e garantir a consistência da marca entre canais. Saiba como criar, aprovar e renderizar fragmentos de conteúdo, além de trocar e simular novos conteúdos sem esforço. Ideal para quem busca gerenciamento de conteúdo eficiente e uma identidade visual consistente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)

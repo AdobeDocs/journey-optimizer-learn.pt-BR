@@ -97,7 +97,7 @@ ht-degree: 98%
    + Trabalhar com fragmentos {#fragments}
       + [Gerenciar fragmentos](/help/content-management/manage-fragments.md)
       + [Criar fragmentos de expressão](/help/content-management/expression-fragments.md)
-      + [Usar fragmentos de conteúdo do AEM](/help/content-management/aem-content-fragments.md)
+      + [Usar Fragmentos de conteúdo do AEM](/help/content-management/aem-content-fragments.md)
    + Modelos de conteúdo{#content-templates}
       + [Criar modelos de conteúdo](/help/content-management/templates/create-content-templates.md)
       + [Bloquear conteúdo em modelos](/help/content-management/templates/content-locking.md)
@@ -105,7 +105,7 @@ ht-degree: 98%
       + [Configurar mensagens multilíngues](/help/content-management/set-up-multilingual-messages.md)
       + [Criar uma mensagem multilíngue](/help/content-management/create-multilingual-messages.md)
    + Assistente de IA para geração de conteúdo {#content-accelerator}
-      + [Assistente de IA para geração de conteúdo — Visão geral](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Assistente de IA para geração de conteúdo: Visão geral](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [Crie conteúdo usando o Assistente de IA para geração de conteúdo](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
    + [Experimentação: visão geral](/help/content-management/experimentation-overview.md)
    + [Criar um email usando o GenStudio](/help/content-management/create-an-email-using-genstudio.md)

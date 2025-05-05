@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Entenda o que é o mascaramento de dados e quando e por que você pode precisar utilizá-lo. Saiba como mascarar dados em mensagens do Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409395?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415826?quality=12&learn=on&captions=por_br){transcript=true}

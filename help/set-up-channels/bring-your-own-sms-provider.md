@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Saiba como adicionar e configurar provedores de SMS adicionais no Journey Optimizer, além dos provedores padrão Sinch, Infobip e Twilio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432088/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443633/?learn=on&captions=por_br)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como implementar o caso de uso de carrinho de compras abandonado usando o recurso Manual no Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443969/?learn=on&enablevpops&captions=por_br)

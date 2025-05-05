@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba que recursos para publicação de conteúdo para dispositivos móveis o Adobe Journey Optimizer oferece aos profissionais de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430380?quality=12&learn=on&captions=por_br){transcript=true}

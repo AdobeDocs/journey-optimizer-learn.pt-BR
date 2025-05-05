@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Entenda como baixar um relatório no formato CSV para um único dispositivo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439614/?learn=on&captions=por_br)

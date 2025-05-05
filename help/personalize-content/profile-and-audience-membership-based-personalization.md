@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como adicionar personalização baseada em perfil a uma mensagem e como usar a associação de público-alvo como pré-condição para um bloco de personalização.
 
->[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417586?quality=12&learn=on&captions=por_br){transcript=true}

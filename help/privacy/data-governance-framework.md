@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Compreenda a estrutura de governança de dados da Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32683/?learn=on&captions=por_br)
 
 Consulte a documentação para mais informações sobre [governança de dados](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/privacy/action-privacy-restricted) no Journey Optimizer.
 

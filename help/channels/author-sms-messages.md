@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como configurar, criar e entregar mensagens SMS em campanhas e jornadas do Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420509?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422698?quality=12&learn=on&captions=por_br){transcript=true}

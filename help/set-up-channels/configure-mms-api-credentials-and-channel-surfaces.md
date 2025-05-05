@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como conectar o Journey Optimizer a um provedor de serviços de MMS e como criar uma superfície de canal de MMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428872/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438051/?learn=on&captions=por_br)

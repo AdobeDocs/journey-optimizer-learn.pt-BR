@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como criar um subdomínio usando CNAME para apontar para registros específicos do Adobe.
 
->[!VIDEO](https://video.tv.adobe.com/v/339484?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342240?quality=12&learn=on&captions=por_br){transcript=true}

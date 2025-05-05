@@ -20,5 +20,5 @@ ht-degree: 100%
 
 Saiba como configurar um evento, especificar o ponto de acesso da transmissão e o conteúdo de um evento.
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431510?quality=12&learn=on&captions=por_br){transcript=true}
 

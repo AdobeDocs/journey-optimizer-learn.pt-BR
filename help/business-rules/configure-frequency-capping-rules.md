@@ -20,6 +20,6 @@ ht-degree: 65%
 
 Saiba como configurar regras de limitação de frequência.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433400/?learn=on&captions=por_br)
 
 Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/configuration/frequency-rules) para obter mais informações.

@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Saiba como bloquear conteúdo em modelos. Este tutorial aborda o bloqueio total ou parcial de modelos, o uso de modos de somente leitura e de bloqueio de conteúdo e como gerenciar áreas editáveis em um modelo bloqueado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451612/?learn=on&enablevpops&captions=por_br){transcript=true}
 
 Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/content-templates/content-locking) para obter mais informações.

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como usar informações de evento contextual de uma jornada para personalizar uma mensagem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425027?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428533?quality=12&learn=on&captions=por_br){transcript=true}

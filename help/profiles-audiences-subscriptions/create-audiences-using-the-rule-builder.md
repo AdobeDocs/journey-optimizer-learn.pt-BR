@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Entenda como o Journey Optimizer usa regras para gerar públicos-alvo e saiba como usar atributos, eventos e públicos-alvo já existentes para criar um público-alvo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425020?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430327?quality=12&learn=on&captions=por_br){transcript=true}

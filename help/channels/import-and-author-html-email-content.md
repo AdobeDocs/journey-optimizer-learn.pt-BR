@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como importar conteúdo HTML existente, ajustar o design, adicionar mirror page e links para cancelar a inscrição e como codificar seu conteúdo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430264?quality=12&learn=on&captions=por_br){transcript=true}

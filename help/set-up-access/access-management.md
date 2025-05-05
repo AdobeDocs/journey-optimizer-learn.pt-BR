@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Saiba como gerenciar perfis e permissões de produtos e como adicionar e gerenciar usuários.
 
->[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417589?quality=12&learn=on&captions=por_br){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como criar um perfil unificado e, em seguida, criar segmentos com base em atributos de perfil para personalizar as jornadas do cliente.
 
->[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345517?quality=12&learn=on&captions=por_br){transcript=true}

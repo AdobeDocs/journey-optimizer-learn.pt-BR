@@ -22,4 +22,4 @@ Saiba mais sobre a configuração, o fluxo de trabalho e os casos de uso da expo
 
 Para mais informações sobre como exportar conjuntos de dados para os locais de armazenamento na nuvem do Adobe Journey Optimizer, consulte a [documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=pt-BR).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448823/?learn=on&captions=por_br)

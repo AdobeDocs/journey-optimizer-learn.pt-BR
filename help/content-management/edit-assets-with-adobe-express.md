@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Saiba como editar os seus ativos no Adobe Journey Optimizer com as ferramentas do Adobe Express.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455528/?learn=on&enablevpops&captions=por_br)
 
 Consulte a [documentação do produto Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/assets-images/express) para mais informações sobre como acessar esse recurso a partir do editor de conteúdo. Para saber mais sobre o Adobe Express, consulte [esta documentação](https://helpx.adobe.com/br/express/user-guide.html).

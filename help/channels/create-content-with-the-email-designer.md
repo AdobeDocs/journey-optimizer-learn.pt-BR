@@ -20,5 +20,5 @@ ht-degree: 100%
 
 Saiba como criar emails do zero. Saiba como usar os ativos da biblioteca do Adobe Experience Manager Assets Essentials, editar o design de email responsivo e criar emails a partir de modelos.
 
->[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417587?quality=12&learn=on&captions=por_br){transcript=true}
 

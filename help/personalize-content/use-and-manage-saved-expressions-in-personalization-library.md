@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba como usar os itens salvos na biblioteca de personalização em uma mensagem e como criar e gerenciar itens na biblioteca de personalização.
 
->[!VIDEO](https://video.tv.adobe.com/v/340941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344989?quality=12&learn=on&captions=por_br){transcript=true}

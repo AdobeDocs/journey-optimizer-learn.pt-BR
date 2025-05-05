@@ -1,6 +1,6 @@
 ---
 title: Introdução ao serviço de decisão
-description: Saiba mais sobre os recursos de decisão no Journey Optimizer.
+description: Saiba mais sobre os recursos do serviço de decisão no Journey Optimizer.
 feature: Decisioning
 topic: Integrations
 role: User
@@ -14,7 +14,7 @@ exl-id: d5219ce1-ea44-4c41-b557-b094978e37cc
 source-git-commit: b9a223a583a2ceb7c6c55a144ab78c7963ae2969
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 69%
+ht-degree: 80%
 
 ---
 

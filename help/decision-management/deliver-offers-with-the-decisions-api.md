@@ -23,4 +23,4 @@ Saiba como entregar ofertas com a [API do hub de decisões](https://experiencele
 
 >[!INFO]
 >
-> Este vídeo faz parte do curso [Introdução à Gestão de decisões para profissionais de marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), que está disponível gratuitamente na Experience League.
+> Este vídeo faz parte do curso [Introdução à Gestão de decisões para profissionais de marketing](https://experienceleague.adobe.com/?lang=pt-br&recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), que está disponível gratuitamente na Experience League.

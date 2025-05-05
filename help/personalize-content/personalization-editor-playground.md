@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Playground do editor do Personalization
 
-O [playground do editor de personalização](https://experienceleague.adobe.com/en/apps/journey-optimizer/ajo-personalization#) fornece um ambiente simulado para gravar e testar o código de personalização usando dados de amostra sem exigir conjuntos de dados em tempo real.
+O [playground do editor de personalização](https://experienceleague.adobe.com/pt-br/apps/journey-optimizer/ajo-personalization#) fornece um ambiente simulado para gravar e testar o código de personalização usando dados de amostra sem exigir conjuntos de dados em tempo real.
 
 Saiba como aproveitar amostras de código predefinidas, editar cargas de perfil fictícias e visualizar a saída do seu código de personalização em tempo real.
 

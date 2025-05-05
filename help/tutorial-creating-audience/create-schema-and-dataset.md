@@ -19,7 +19,7 @@ ht-degree: 0%
 
 * Fazer logon no Adobe Experience Platform
 
-* Crie um esquema baseado em eventos XDM chamado Supervisores financeiros no Journey Optimizer. Se você não estiver familiarizado com a criação de um esquema, siga esta [documentação](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Crie um esquema baseado em eventos XDM chamado Supervisores financeiros no Journey Optimizer. Se você não estiver familiarizado com a criação de um esquema, siga esta [documentação](https://experienceleague.adobe.com/pt-br/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 * Adicione a estrutura a seguir ao esquema. O elemento PreferredFinancialInstrument armazena a preferência do usuário para Ações, Títulos, CD
   ![xdm-schema](assets/xdm-schema.png)

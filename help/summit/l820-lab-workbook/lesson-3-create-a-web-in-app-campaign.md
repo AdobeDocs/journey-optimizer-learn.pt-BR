@@ -154,7 +154,7 @@ Nesta seção, você define o conteúdo, o design e o layout da mensagem.
 
 **Documentação do produto:**
 
-* [Introdução ao canal no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Criar uma mensagem no aplicativo da Web](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [Projete seu conteúdo no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [Verifique e envie sua notificação no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [Introdução ao canal no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Criar uma mensagem no aplicativo da Web](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Projete seu conteúdo no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/design-in-app)
+* [Verifique e envie sua notificação no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/send-in-app)

@@ -321,7 +321,7 @@ Os recursos **Duplicar campanha** e **Visualizar no dispositivo** são funcional
 
 **Documentação do produto:**
 
-* [Introdução ao canal no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Criar uma mensagem móvel no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
-* [Projete seu conteúdo no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [Verifique e envie sua notificação no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [Introdução ao canal no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Criar uma mensagem móvel no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/create-in-app)
+* [Projete seu conteúdo no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/design-in-app)
+* [Verifique e envie sua notificação no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/send-in-app)

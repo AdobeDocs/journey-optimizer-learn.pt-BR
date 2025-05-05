@@ -22,4 +22,4 @@ Saiba como criar um conjunto de regras de limite de frequência do cliente para 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
 
-Consulte a [documentação do produto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/rule-sets) para obter mais informações.
+Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/configuration/rule-sets) para obter mais informações.

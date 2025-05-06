@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: eccb016c737f94eef1cbd8357a9ce37a053904a1
+source-git-commit: 036ac1b9cf1618ff1e4727fc1560dee8dddb7c9f
 workflow-type: tm+mt
-source-wordcount: '696'
-ht-degree: 95%
+source-wordcount: '707'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + Casos de uso {#use-cases}
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)
    + [Carrinho abandonado](/help/use-cases/abandoned-cart.md)
+   + [Dimensionando orquestração para envolvimento omnicanal](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement){target="_blank"}
 
 + Introdução ao Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Visão geral](/help/introduction/journey-optimizer-overview.md)
@@ -190,6 +191,6 @@ ht-degree: 95%
    + [Criar formulário web](../tutorial-creating-audience/create-web-form.md)
    + [Depurar a solução](../tutorial-creating-audience/debug.md)
 + Summit Labs {#summit-labs}
-   + [Crie momentos personalizados em dispositivos móveis com o Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
-   + [Folha de dicas](/help/summit-lab-assets/l535-assets.md)
-   + [Instalar o aplicativo móvel](/help/summit-lab-assets/install-mobile-app.md)
+   + [Crie momentos personalizados em dispositivos móveis com o Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [Dimensionando a orquestração para o envolvimento omnicanal no Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+

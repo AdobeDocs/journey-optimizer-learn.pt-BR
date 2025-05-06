@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a usar o Assistente de IA para gerar conteúdo e sugestões proativas de variação de conteúdo para texto e imagens.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434640/?learn=on&captions=por_br)

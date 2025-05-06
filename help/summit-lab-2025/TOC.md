@@ -5,9 +5,9 @@ role: User
 level: Beginner,Intermediate
 breadcrumb-title: dimensionamento-orquestração-para-engajamento-omnicanal
 breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
-source-git-commit: fd50ce73503ca6b42e0171d8476ea08928ebd165
+source-git-commit: e7c9cc0861f3c0b94e08c82d5ae5d71ce8143aaa
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '97'
 ht-degree: 1%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 1%
 
 [Visão geral do tutorial]{#overview}
 + [Introdução](/help/summit-lab-2025/introduction.md)
-+ [Lição 1: experimentar a jornada](/help/summit-lab-2025/lesson-1.md)
-+ [Lição 2 - Criar uma jornada de boas-vindas](/help/summit-lab-2025/lesson-2.md)
-+ [Lição 3 - Criar conteúdo dinâmico](/help/summit-lab-2025/lesson-3.md)
-+ [Lição 4 - Criar um experimento de conteúdo](/help/summit-lab-2025/lesson-4.md)
-+ [Lição 5: testar a Jornada](/help/summit-lab-2025/lesson-5.md)
-+ [Lição 6 - Criar uma campanha de cartão de conteúdo](/help/summit-lab-2025/lesson-6.md)
++ [Lição 1 - Experimente a jornada]&#x200B;(/help/summit-lab-2025/lection-1-experience -the-jornada.md)
++ [Lição 2 - Criar uma jornada de boas-vindas](/help/summit-lab-2025/lesson-2-create-a-welcome-journey.md)
++ [Lição 3 - Criar conteúdo dinâmico](/help/summit-lab-2025/lesson-3-create-dynamic-content.md)
++ [Lição 4 - Criar um experimento de conteúdo](/help/summit-lab-2025/lesson-4-create-a-content-experiment.md)
++ [Lição 5: testar a Jornada](/help/summit-lab-2025/lesson-5-test-your-journey.md)
++ [Lição 6 - Criar uma campanha de cartão de conteúdo]&#x200B;(/help/summit-lab-2025/lection-6-create-a content-card-campaign.md)

@@ -9,9 +9,9 @@ duration: 193
 last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17945
 index: false
-source-git-commit: 9a76105425560fe9aeaa007df86786467281f44e
+source-git-commit: 7a625a44db8fe891bef812c91cf7affe6672e743
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,7 @@ ht-degree: 0%
 
 # Lição 6 - Criar uma campanha de cartão de conteúdo
 
-Seu desafio: você gostaria de continuar a experiência de integração no aplicativo móvel também,
-sem ser intrusivo.
+Seu desafio: você gostaria de continuar a experiência de integração no aplicativo móvel também, sem ser intrusivo.
 
 A solução: os cartões de conteúdo são um recurso de mensagens no Adobe Journey Optimizer que fornece
 conteúdo personalizado e envolvente diretamente em aplicativos móveis e sites. Diferentemente do push tradicional

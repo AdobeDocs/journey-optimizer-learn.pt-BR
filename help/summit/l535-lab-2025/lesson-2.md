@@ -9,7 +9,7 @@ duration: 295
 last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17874
 index: false
-source-git-commit: 9a76105425560fe9aeaa007df86786467281f44e
+source-git-commit: 7a625a44db8fe891bef812c91cf7affe6672e743
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

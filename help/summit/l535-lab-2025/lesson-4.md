@@ -1,6 +1,6 @@
 ---
 title: Lição 4 - Criar um experimento de conteúdo
-description: Nesta lição, você aplicará a experimentação de conteúdo à mensagem de push.
+description: Nesta lição, você aplica a experimentação de conteúdo à mensagem de push.
 feature: Experimentation, Push
 role: User
 level: Beginner, Intermediate
@@ -9,9 +9,9 @@ duration: 169
 last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17876
 index: false
-source-git-commit: 9a76105425560fe9aeaa007df86786467281f44e
+source-git-commit: 7a625a44db8fe891bef812c91cf7affe6672e743
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 # Lição 4 - Criar um experimento de conteúdo
 
-*Seu desafio:* você tem várias abordagens para a mensagem de push em mente, mas não tem certeza de qual delas será mais eficiente. Você deseja garantir que a mensagem mais eficaz seja enviada. 
+*Seu desafio:* você tem várias abordagens para a mensagem de push em mente, mas não tem certeza de qual delas é mais eficiente. Você deseja garantir que a mensagem mais eficaz seja enviada. 
 
-*A Solução:* experimentos de conteúdo permitem otimizar o conteúdo para as ações em sua jornada. Por meio da experimentação de conteúdo, é possível expor uma determinada variação de uma mensagem a um grupo de usuários selecionados aleatoriamente e outra variação/tratamento a um conjunto diferente de usuários selecionados aleatoriamente. Após enviar a mensagem, você pode medir as métricas de resultado em que está interessado.
+*A Solução:* experimentos de conteúdo permitem que você otimize seu conteúdo para ações específicas em sua jornada. Usando experimentos de conteúdo, é possível apresentar uma versão de uma mensagem a um grupo de usuários selecionados aleatoriamente e uma versão diferente a outro grupo. Após enviar as mensagens, você pode medir as métricas de resultado que interessam a você.
 
-Nesta lição, você aplicará a experimentação de conteúdo à mensagem de push.
+Nesta lição, você aplica a experimentação de conteúdo à mensagem de push.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)

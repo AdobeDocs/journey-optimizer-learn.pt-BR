@@ -1,26 +1,25 @@
 ---
-user-guide-title: Summit Lab 731 - Pasta de trabalho
-user-guide-description: Neste laboratório prático, você aprenderá a implementar uma estratégia de marketing de vários canais que inclua campanhas no aplicativo, notificações por push, mensagens SMS e por email, além de jornadas no Adobe Journey Optimizer.
+user-guide-title: Dimensionar a orquestração para o envolvimento omnicanal no Adobe Journey Optimizer
+user-guide-description: Neste laboratório, você aprenderá a transformar as comunicações de negócios de mensagens de saída básicas em experiências omnicanais sofisticadas. Por meio de exemplos práticos, você criará uma jornada do cliente que combina alcance pró-ativo com engajamento responsivo.
 role: User
-level: Beginner
-breadcrumb-title: Journey Optimizer - Pasta de trabalho L731
-breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
-index: false
-hide: true
-source-git-commit: 57180556181d19875f906d6f3c97a755fefbbe11
+level: Beginner,Intermediate
+breadcrumb-title: dimensionamento-orquestração-para-engajamento-omnicanal
+breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/overview.html
+source-git-commit: 7a625a44db8fe891bef812c91cf7affe6672e743
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 100%
+source-wordcount: '85'
+ht-degree: 1%
 
 ---
 
 
-# Summit Lab L731: crie momentos personalizados para dispositivos móveis com o Journey Optimizer {#workbook}
+# Dimensionamento da orquestração para o engajamento omnicanal{#scaling-orchestration-to-omnichannel-engagement}
 
-+ [Visão geral do laboratório]{#overview}
-+ [Introdução]{#introduction}
-   + [Introdução](/help/summit/l731-lab-workbook/Introduction/introduction.md)
-   + [Exercício 1.1](/help/summit/l731-lab-workbook/Introduction/exercise-1-1.md)
-   + [Exercício 1.2](/help/summit/l731-lab-workbook/Introduction/exercise-1-2.md)
-   + [Exercício 1.3](/help/summit/l731-lab-workbook/Introduction/exercise-1-3.md)
-   + [Exercício 1.4](/help/summit/l731-lab-workbook/Introduction/exercise-1-4.md)
+[Visão geral do tutorial]{#overview}
++ [Introdução](/help/summit/l535-lab-2025/introduction.md)
++ [Lição 1: experimentar a jornada](/help/summit/l535-lab-2025/lesson-1.md)
++ [Lição 2 - Criar uma jornada de boas-vindas](/help/summit/l535-lab-2025/lesson-2.md)
++ [Lição 3 - Criar conteúdo dinâmico](/help/summit/l535-lab-2025/lesson-3.md)
++ [Lição 4 - Criar um experimento de conteúdo](/help/summit/l535-lab-2025/lesson-4.md)
++ [Lição 5: testar a Jornada](/help/summit/l535-lab-2025/lesson-5.md)
++ [Lição 6 - Criar uma campanha de cartão de conteúdo](/help/summit/l535-lab-2025/lesson-6.md)

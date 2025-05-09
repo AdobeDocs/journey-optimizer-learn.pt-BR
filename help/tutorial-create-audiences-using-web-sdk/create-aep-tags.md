@@ -20,7 +20,7 @@ ht-degree: 2%
 
 As Tags do Adobe Experience Platform (antigo Adobe Launch) ajudam a gerenciar e implantar* tecnologias de marketing e análise no seu site sem precisar alterar o código do site.
 
-Este [vídeo descreve o processo de criação de Tags de Experiência do Adobe](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
+Este [vídeo descreve o processo de criação de Tags de Experiência do Adobe](https://experienceleague.adobe.com/pt-br/playlists/experience-platform-get-started-with-tags)
 
 * Fazer logon na Coleção de dados
 * Clique em Tags -> Nova propriedade

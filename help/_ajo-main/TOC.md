@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
+source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '714'
 ht-degree: 96%
 
 ---
@@ -17,10 +17,8 @@ ht-degree: 96%
 + Casos de uso {#use-cases}
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)
    + [Carrinho abandonado](/help/use-cases/abandoned-cart.md)
-   + [Criar públicos com base nas preferências do usuário](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [Decisão na página da Web](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [Melhorar o engajamento do cliente](/help/use-cases/enhance-customer-engagement.md)
    + [Dimensionamento de orquestração para engajamento onicanal](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-
 + Introdução ao Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Visão geral](/help/introduction/journey-optimizer-overview.md)
    + [Introdução ao Journey Optimizer](/help/introduction/introduction.md)
@@ -55,6 +53,7 @@ ht-degree: 96%
    + [Perfil e segmentação unificados - visão geral](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Criação de públicos-alvo por meio do construtor de regras](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Criar um público-alvo através do envio de um arquivo CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
+   + [Criar públicos-alvo usando o Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)
    + [Avaliar públicos-alvo sob demanda](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Páginas de assinaturas e de destino](/help/subscriptions-and-landing-pages.md)
 + Canais {#channels}
@@ -140,6 +139,7 @@ ht-degree: 96%
       + [Criar decisões](/help/decision-management/create-decisions.md)
       + [Fornecer ofertas com a API de Decisões](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [Limite de frequência](/help/decision-management/frequency-capping.md)
+   + [Usar a decisão para personalizar ofertas da Web (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction)
 + Gerenciamento de dados {#data-management}
    + [Visão geral](/help/data-management/set-up-data-overview.md)
    + [Criar um esquema](/help/data-management/create-schema.md)
@@ -187,24 +187,6 @@ ht-degree: 96%
    + [Configurar uma sandbox de treinamento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=pt-BR)
    + [Desafios](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=pt-BR)
 + [Gravações do show ao vivo da Experience League](/help/experience-league-live-show-recordings.md)
-+ Criação de públicos-alvo com o SDK da Web {#tutorial-creating-audiences}
-   + [Introdução](../tutorial-creating-audience/introduction.md)
-   + [Criar esquema, conjuntos de dadosetc.](../tutorial-creating-audience/create-schema-and-dataset.md)
-   + [Criar tags da AEP](../tutorial-creating-audience/create-aep-tags.md)
-   + [Criar formulário web](../tutorial-creating-audience/create-web-form.md)
-   + [Depurar a solução](../tutorial-creating-audience/debug.md)
-+ Decisão na página da Web {#getting-started-with-decisioning-webpage}
-   + [Introdução](../getting-started-with-decisioning-webpage/introduction.md)
-   + [Criar tags](../getting-started-with-decisioning-webpage/create-tags.md)
-   + [Criar oferta](../getting-started-with-decisioning-webpage/create-offers.md)
-   + [Criar coleção](../getting-started-with-decisioning-webpage/create-collection.md)
-   + [Criar estratégia de seleção](../getting-started-with-decisioning-webpage/create-selection-strategy.md)
-   + [Criar canal](../getting-started-with-decisioning-webpage/create-channel.md)
-   + [Criar campanha](../getting-started-with-decisioning-webpage/create-campaign.md)
-   + [Criar política de decisão](../getting-started-with-decisioning-webpage/create-decision-policy.md)
-   + [Criar tags da AEP](../getting-started-with-decisioning-webpage/create-aep-tags.md)
-   + [Criar página da Web](../getting-started-with-decisioning-webpage/create-web-page.md)
-
 + Summit Labs {#summit-labs}
    + [Crie momentos personalizados em dispositivos móveis com o Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [Dimensionamento da orquestração para engajamento onicanal no Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}

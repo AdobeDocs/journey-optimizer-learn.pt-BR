@@ -34,7 +34,7 @@ Os públicos-alvo no Adobe Experience Platform são grupos de usuários criados 
    * Clientes interessados no CD
 
 
-* Verifique se o método de avaliação de cada público-alvo está definido como _**Edge**_ para qualificação em tempo real.
+* Verifique se o método de avaliação de cada público-alvo está definido como _&#x200B;**Edge**&#x200B;_ para qualificação em tempo real.
   ![edge-audience](assets/audience-edge.png)
 
 * Use o campo PreferredFinancialInstrument para segmentar os usuários com base em seus interesses de investimento selecionados, como Ações, Títulos ou CDs
@@ -48,7 +48,7 @@ Os públicos-alvo no Adobe Experience Platform são grupos de usuários criados 
 
 >[!NOTE]
 >
->>Se o campo PreferredFinancialInstrument não estiver visível na guia events, clique no ícone settings e alterne o esquema XDM completo.
+>&#x200B;>Se o campo PreferredFinancialInstrument não estiver visível na guia events, clique no ícone settings e alterne o esquema XDM completo.
 
 
 

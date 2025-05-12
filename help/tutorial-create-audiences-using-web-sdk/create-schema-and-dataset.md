@@ -24,7 +24,7 @@ ht-degree: 0%
 
 * Crie um esquema baseado em eventos XDM chamado _Supervisores Financeiros_. Se você não estiver familiarizado com a criação de um esquema, siga esta [documentação](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
-* Adicione a estrutura a seguir ao esquema. O elemento PreferredFinancialInstrument armazena a preferência do usuário para Ações, Títulos, CD. O **__techmarketingdemos_**é a ID do locatário e será diferente em seu ambiente.
+* Adicione a estrutura a seguir ao esquema. O elemento PreferredFinancialInstrument armazena a preferência do usuário para Ações, Títulos, CD. O **__techmarketingdemos_**&#x200B;é a ID do locatário e será diferente em seu ambiente.
   ![xdm-schema](assets/xdm-schema.png)
 
 * O elemento PreferredFinancialInstrument tem valores de enumeração definidos como mostrado abaixo

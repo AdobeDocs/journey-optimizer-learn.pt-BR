@@ -8,9 +8,9 @@ feature: Decisioning
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 72a67137-303d-4dfe-9b70-322c81e5fb27
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -21,18 +21,27 @@ Essa página da Web foi criada para testar ofertas personalizadas entregues pelo
 
 O script a seguir é responsável por buscar e exibir uma oferta personalizada em uma página da Web usando o Adobe Journey Optimizer.
 
-1. Decodificar entidades do HTML: há uma função auxiliar que converte com segurança qualquer caractere especial no conteúdo da oferta em um HTML legível.
+1. Decodificar entidades do HTML:
 
-2. Executar personalização:
-Quando chamado, ele envia uma solicitação (sendEvent) para o Adobe Web SDK a fim de obter conteúdo personalizado para uma área específica na página (o elemento #ajo-offer).
-Se uma oferta for retornada, ela decodifica a HTML e a insere na página.
-Se nada for retornado, ele registrará um aviso.
+   Há uma função auxiliar que converte com segurança qualquer caractere especial no conteúdo da oferta em um HTML legível.
 
-3. Aguarde a SDK:
-Como o SDK (liga) do Adobe é carregado de forma assíncrona, o script aguarda até que seja totalmente carregado antes de fazer a solicitação.
-Ele verifica se há liga a cada 200 milissegundos, até 20 vezes, para evitar erros.
+1. Executar personalização:
 
-4. No carregamento da página: quando a página termina o carregamento, o script inicia o processo chamando waitForAlloy().
+   Quando chamado, ele envia uma solicitação (`sendEvent`) ao Web SDK do Adobe para obter conteúdo personalizado para uma área específica na página (o elemento `#ajo-offer`).
+
+   Se uma oferta for retornada, ela decodifica a HTML e a insere na página.
+
+   Se nada for retornado, ele registrará um aviso.
+
+1. Aguarde a SDK:
+
+   Como o SDK (liga) do Adobe é carregado de forma assíncrona, o script aguarda até que seja totalmente carregado antes de fazer a solicitação.
+
+   Ele verifica se há liga a cada 200 milissegundos, até 20 vezes, para evitar erros.
+
+1. No carregamento da página:
+
+   Quando a página terminar de carregar, o script iniciará o processo chamando `waitForAlloy()`.
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: Usar o decisioning para personalizar ofertas da Web
-description: Saiba como usar o Adobe Journey Optimizer (AJO) Decisioning para fornecer ofertas personalizadas em uma página da Web aproveitando a segmentação de público incorporada no Adobe Experience Platform (AEP).
+title: Personalizar ofertas da Web com o Decisioning
+description: Saiba como usar o Journey Optimizer (AJO) Decisioning para fornecer ofertas personalizadas em uma página da Web aproveitando a segmentação de público incorporada no Experience Platform (AEP).
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 0c42bf9a9af53bf80a14d904733ae0c1f03be0ee
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '261'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ Você pode testar as ofertas personalizadas do AJO ao vivo usando o link abaixo.
 * Capacidade de usar as DevTools do navegador (guias Console e Rede)
 
 
-## META
+## Meta
 
 Este tutorial o orienta por meio da entrega de ofertas de investimento personalizadas, como Ações, Títulos ou CDs, em um site usando o Adobe Journey Optimizer (AJO). Ao aproveitar a segmentação de público e as estratégias de decisão, você aprende a garantir que cada visitante veja a oferta mais relevante com base em suas preferências.
 

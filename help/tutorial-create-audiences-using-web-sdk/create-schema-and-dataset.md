@@ -1,28 +1,30 @@
 ---
-title: Configurar esquema XDM, conjunto de dados, sequência de dados e públicos no AEP
-description: Criação de esquema XDM, conjunto de dados, sequência de dados e públicos-alvo
+title: Configurar esquema, conjunto de dados e fluxo de dados XDM no AEP
+description: Criação de esquema XDM, conjunto de dados e fluxo de dados
 feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30T00:00:00Z
-recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 0efa418a-5b4f-4012-a6fc-afaa34a59285
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+source-git-commit: 15b2379c251ed0d7583a01fb6af67815322456cf
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-# Configurar esquema XDM, conjunto de dados, sequência de dados e públicos no AEP
+# Configurar esquema XDM, conjunto de dados e sequência de dados no AEP
+
+## Criar esquema XDM
 
 * Fazer logon no Adobe Experience Platform
+* Gerenciamento de dados -> Esquemas -> Criar esquema
 
-* Crie um esquema baseado em eventos XDM chamado Supervisores financeiros no Journey Optimizer. Se você não estiver familiarizado com a criação de um esquema, siga esta [documentação](https://experienceleague.adobe.com/pt-br/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Crie um esquema baseado em eventos XDM chamado _Supervisores Financeiros_. Se você não estiver familiarizado com a criação de um esquema, siga esta [documentação](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
-* Adicione a estrutura a seguir ao esquema. O elemento PreferredFinancialInstrument armazena a preferência do usuário para Ações, Títulos, CD
+* Adicione a estrutura a seguir ao esquema. O elemento PreferredFinancialInstrument armazena a preferência do usuário para Ações, Títulos, CD. O **__techmarketingdemos_**é a ID do locatário e será diferente em seu ambiente.
   ![xdm-schema](assets/xdm-schema.png)
 
 * O elemento PreferredFinancialInstrument tem valores de enumeração definidos como mostrado abaixo
@@ -34,6 +36,8 @@ ht-degree: 0%
 
 Um **conjunto de dados na Adobe Experience Platform (AEP)** é um contêiner de armazenamento estruturado usado para assimilar, armazenar e ativar dados com base em um esquema XDM definido.
 
+
+* Gerenciamento de dados -> Conjuntos de dados -> Criar conjunto de dados
 * Crie um conjunto de dados chamado _Conjunto de dados de Supervisores Financeiros_ com base no esquema XDM (Supervisores Financeiros) criado na etapa anterior.
 
 * Verifique se o conjunto de dados está habilitado para o perfil
@@ -42,7 +46,7 @@ Um **conjunto de dados na Adobe Experience Platform (AEP)** é um contêiner de 
 
 Um fluxo de dados no Adobe Experience Platform é como um pipeline seguro (ou rodovia) que conecta seu site ou aplicativo aos serviços da Adobe, permitindo que os dados fluam e o conteúdo personalizado flua de volta.
 
-* Vá para AEP > Fluxos de dados e clique em Novo fluxo de dados. Nomeie o fluxo de dados _Fluxo de Dados de Consultores Financeiros_
+* Coleta de dados > Fluxos de dados, em seguida, clique em Nova sequência de dados. Nomeie o fluxo de dados _Fluxo de Dados de Consultores Financeiros_
 
 * Forneça os detalhes a seguir, como mostrado na captura de tela abaixo
   ![sequência de dados](assets/datastream.png)
@@ -53,30 +57,3 @@ Um fluxo de dados no Adobe Experience Platform é como um pipeline seguro (ou ro
 
 * Salvar a sequência de dados
 
-## Criar públicos-alvo
-
-Os públicos-alvo no Adobe Experience Platform são grupos de usuários criados com base em suas ações, preferências ou informações de perfil para fornecer experiências personalizadas.
-
-* Navegue até Cliente -> Públicos-alvo
-* Criar públicos-alvo usando o método de criação de regra
-
-* Crie os três públicos-alvo a seguir no AJO usando o elemento PreferredFinancialInstrument do esquema do evento.
-
-   * Clientes interessados em Ações
-
-   * Clientes interessados em títulos
-
-   * Clientes interessados no CD
-
-Verifique se o método de avaliação de cada público-alvo está definido como Edge para qualificação em tempo real.
-
-As capturas de tela a seguir devem ajudar você a criar os Públicos-alvo.
-
-![público-alvo](assets/rule-based-audience.png)
-
-![evento](assets/event-attribute.png)
-
-
-![InstrumentoFinanceiroPreferencial](assets/stock-customers.png)
-
-![edge-audience](assets/audience-edge.png)

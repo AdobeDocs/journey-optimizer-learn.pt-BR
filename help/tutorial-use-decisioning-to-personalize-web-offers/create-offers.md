@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: d705992a-0d47-4bb9-b3d8-b925974e64cb
-source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
+source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,8 @@ Este esquema:
    Para cada oferta, copie e cole o texto de oferta correspondente fornecido no final deste artigo no item de oferta apropriado.
 
 1. Adicione uma tag às ofertas com a tag criada na etapa anterior.
-
+1. Adicione o público-alvo apropriado a cada oferta.
+   ![qualificação para a oferta](assets/offer-eligibility.png)
 1. Aprove as ofertas.
 
 Oferta concluída com atributos padrão e personalizados definidos:

@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 2790e0765b1a4ee281516c437ef18cf35c7bf4d2
-workflow-type: ht
-source-wordcount: '714'
-ht-degree: 100%
+source-git-commit: 0537383a1eb59dec48bc46be83b7c5cb43f695b2
+workflow-type: tm+mt
+source-wordcount: '735'
+ht-degree: 97%
 
 ---
 
@@ -18,7 +18,11 @@ ht-degree: 100%
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)
    + [Carrinho abandonado](/help/use-cases/abandoned-cart.md)
    + [Aprimorar o engajamento dos clientes](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [Dimensionamento de orquestração para engajamento onicanal](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Dimensionando orquestração para envolvimento omnicanal](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+Playbooks de caso de uso {#use-case-playbooks}
+   + [Visão geral](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Configurar uma sandbox do manual](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Criar e publicar instâncias do manual de estratégia](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introdução ao Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Visão geral](/help/introduction/journey-optimizer-overview.md)
    + [Introdução ao Journey Optimizer](/help/introduction/introduction.md)
@@ -188,6 +192,7 @@ ht-degree: 100%
    + [Desafios](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=pt-BR)
 + [Gravações do show ao vivo da Experience League](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
+   + [Folha de características do laboratório de 2025 Summit](/help/summit-lab-assets/l535-assets.md)
    + [Crie momentos personalizados em dispositivos móveis com o Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [Dimensionamento da orquestração para engajamento onicanal no Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 

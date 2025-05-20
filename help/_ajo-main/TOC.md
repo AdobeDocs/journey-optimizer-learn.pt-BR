@@ -20,9 +20,9 @@ ht-degree: 97%
    + [Aprimorar o engajamento dos clientes](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Dimensionando orquestração para envolvimento omnicanal](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 Playbooks de caso de uso {#use-case-playbooks}
-   + [Visão geral](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configurar uma sandbox do manual](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Criar e publicar instâncias do manual de estratégia](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [Visão geral](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Configurar uma sandbox do manual](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Criar e publicar instâncias do manual de estratégia](http://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introdução ao Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Visão geral](/help/introduction/journey-optimizer-overview.md)
    + [Introdução ao Journey Optimizer](/help/introduction/introduction.md)

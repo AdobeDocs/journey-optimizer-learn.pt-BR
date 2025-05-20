@@ -8,16 +8,18 @@ doc-type: Tutorial
 duration: 373
 last-substantial-update: 2025-02-04T00:00:00Z
 jira: KT-16346
-source-git-commit: be0838d1d46606570994bc2a38f86cd678d1f2c2
+exl-id: 01216374-2457-4dcd-b970-42315578bb1a
+source-git-commit: 7d10b8f053f981cea8997f35e069acadde99ee2c
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # Manual de caso de uso - Carrinho de compras abandonado
 
-Saiba como implementar o caso de uso de carrinho de compras abandonado usando o recurso Manual no Adobe Journey Optimizer.
+Saiba como implementar o caso de uso de carrinho de compras abandonado usando o recurso Manual de estratégia no Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443969/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+
+Para obter mais informações, visite [Configurar uma sandbox do manual](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} e [Criar e publicar instâncias do manual](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.

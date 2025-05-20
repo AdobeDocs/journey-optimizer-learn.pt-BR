@@ -22,4 +22,4 @@ Saiba como usar as regras de negócios da Adobe Journey Optimizer para configura
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
 
-Consulte a [documentação do produto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/frequency-rules) para obter mais informações.
+Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/configuration/frequency-rules) para obter mais informações.

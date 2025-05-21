@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Esses tutoriais se concentram em aprimorar o envolvimento e a personalização do cliente usando a criação de público-alvo em tempo real e a tomada de decisões personalizadas por meio de formulários Web e páginas da Web. Ao integrar essas técnicas poderosas, as empresas podem garantir que a mensagem certa chegue ao público certo na hora certa, melhorando o engajamento do cliente e impulsionando esforços de marketing personalizados.
 
-1. [Criar públicos-alvo usando o Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+1. [Criar públicos-alvo usando o Web SDK (Tutorial)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
 
    Saiba como:
 
@@ -27,7 +27,7 @@ Esses tutoriais se concentram em aprimorar o envolvimento e a personalização d
    * Classifique os usuários automaticamente em públicos-alvo específicos com base em suas escolhas.
 
 
-2. [Usar a decisão para personalizar ofertas da Web (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+2. [Usar a decisão para personalizar ofertas da Web (Tutorial)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 
 Com base no primeiro tutorial, saiba como usar um catálogo centralizado de ofertas de marketing e um mecanismo de decisão inteligente para mostrar a cada pessoa as ofertas mais relevantes.
 

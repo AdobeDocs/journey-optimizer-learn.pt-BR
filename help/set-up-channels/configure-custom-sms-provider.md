@@ -22,4 +22,4 @@ Saiba como configurar um provedor de SMS personalizado no Adobe Journey Optimize
 
 Consulte [Configurar um provedor de SMS personalizado](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom) para obter mais informações.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443611/?learn=on&enablevpops&captions=por_br)

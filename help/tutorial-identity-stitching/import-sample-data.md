@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
-source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
+exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
+source-git-commit: 461906416a976ef9a9dea4fdb583b853b4fe61c7
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '267'
 ht-degree: 4%
 
 ---
@@ -34,27 +35,22 @@ Adicione um campo de identidade **_crmid_** sob o objeto SystemIdentifier. Marca
 
 ## Preparar dados de amostra
 
-| crmId | firstName | lastName | email | fidelizarStatus | annualIncome |
-|--------|-----------|----------|---------------------------|---------------|--------------|
-| FIN001 | Alice | Wong | alice.wong@example.com | Ouro | 336104 |
-| FIN002 | Brian | Smith | brian.smith@example.com | Prata | 191065 |
-| FIN003 | Cathy | Johnson | cathy.johnson@example.com | Bronze | 117015 |
-| FIN004 | David | Lee | david.lee@example.com | Bronze | 61869 |
-| FIN005 | Eva | Martinez | eva.martinez@example.com | Prata | 191371 |
-| FIN006 | Frank | Marrom | frank.brown@example.com | Prata | 196132 |
-| FIN007 | Grace | Kim | grace.kim@example.com | Ouro | 309851 |
-| FIN008 | Henry | Davis | henry.davis@example.com | Ouro | 318378 |
-| FIN009 | Isla | Clark | isla.clark@example.com | Prata | 181776 |
-| FIN010 | Tomada | Lopez | jack.lopez@example.com | Prata | 186643 |
+| crmId | firstName | lastName | email | fidelizarStatus | zipCode | annualIncome |
+|--------|-----------|----------|-------------------------|---------------|---------|--------------|
+| FIN001 | Alice | Wong | alice.wong@example.com | Ouro | 92128 | 120000 |
+| FIN002 | Bob | Smith | bob.smith@example.com | Prata | 92126 | 85000 |
+| FIN003 | Charlie | Kim | charlie.kim@example.com | Platina | 60614 | 175000 |
+| FIN004 | Diana | Lee | diana.lee@example.com | Ouro | 30303 | 98000 |
+| FIN005 | Ethan | Marrom | ethan.brown@example.com | Bronze | 75201 | 60000 |
 
 ## Assimilar o arquivo CSV
 
 * Crie um conjunto de dados chamado **_FinWiseCustomerDataSetWithAnnualIncome_** com base no **_FinWiseProfileSchema_** criado na etapa anterior
 
 * Navegue até Conexões -> Fontes -> Sistema local
-* Selecione o **_Adicionar dados_** em Carregamento de arquivo local. Selecione o _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ como o conjunto de dados de destino.
+* Selecione o **_Adicionar dados_** em Carregamento de arquivo local. Selecione o _**FinWiseCustomerDataSetWithAnnualIncome**_ como o conjunto de dados de destino.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
-* Navegue até a próxima tela. Carregue o [arquivo csv](assets/sample_crm_data.csv) e verifique os mapeamentos
+* Navegue até a próxima tela. Carregue o [arquivo csv](assets/finwise_profiles.csv) e verifique os mapeamentos
   ![mapeamentos](assets/mappings.png)
 
 * Clique em Concluir para iniciar o processo de assimilação de dados

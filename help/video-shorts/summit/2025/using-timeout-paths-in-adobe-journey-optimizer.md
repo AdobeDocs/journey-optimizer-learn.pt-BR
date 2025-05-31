@@ -20,4 +20,4 @@ ht-degree: 0%
 Saiba como lidar com tempos limite e erros no Adobe Journey Optimizer, configurando caminhos de tempo limite para manter os perfis em movimento ao longo da jornada.
 
 <!-- 62_S522_3442522_36_using-timeout-paths-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458213/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460475/?learn=on&enablevpops=true&captions=por_br)

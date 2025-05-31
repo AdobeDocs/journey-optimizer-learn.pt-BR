@@ -20,4 +20,4 @@ ht-degree: 0%
 Saiba como os agentes inteligentes da Adobe organizam experiências hiperpersonalizadas de clientes em escala, abordando desafios como orçamentos apertados e gargalos de produção de conteúdo.
 
 <!-- 72_S653_3442539_83_aidriven-personalization-adobe-agents-in-action -->
->[!VIDEO](https://video.tv.adobe.com/v/3458198/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460117/?learn=on&enablevpops=true&captions=por_br)

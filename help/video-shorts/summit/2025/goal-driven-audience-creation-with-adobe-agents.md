@@ -20,4 +20,4 @@ ht-degree: 0%
 Veja como a Audience Agent da Adobe usa IA para criar públicos-alvo precisos e orientados por metas, aproveitando dados em tempo real e modelos de aprendizado de máquina.
 
 <!-- 62_S653_3442539_281_goaldriven-audience-creation-with-adobe-agents -->
->[!VIDEO](https://video.tv.adobe.com/v/3458193/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460302/?learn=on&enablevpops=true&captions=por_br)

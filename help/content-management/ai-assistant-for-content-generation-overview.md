@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Entenda como o Assistente de IA para geração de conteúdo pode ajudar os profissionais de marketing fornecendo sugestões proativas de variação de conteúdo para texto e imagens.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432686/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463105/?learn=on&captions=por_br)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Dê uma olhada nos recursos futuros para Cartões de conteúdo, incluindo novos modelos, caixas de entrada de mensagens e muito mais.
 
 <!-- 62_S603_3442534_83_future-enhancements-for-content-cards -->
->[!VIDEO](https://video.tv.adobe.com/v/3458202/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460325/?learn=on&enablevpops=true&captions=por_br)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra como a integração nativa do AJO com o WhatsApp Business permite comunicações transacionais e de marketing ininterruptas.
 
 <!-- 72_S520_3442520_49_whatsapp-integration-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458215/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460473/?learn=on&enablevpops=true&captions=por_br)

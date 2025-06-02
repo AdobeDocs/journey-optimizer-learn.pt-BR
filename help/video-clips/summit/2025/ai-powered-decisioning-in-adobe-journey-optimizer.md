@@ -20,4 +20,4 @@ ht-degree: 0%
 Saiba como o Adobe Journey Optimizer usa a IA e o aprendizado de máquina para as próximas melhores ações, a otimização de jornada e a tomada de decisões para fornecer experiências personalizadas aos clientes.
 
 <!-- 62_S520_3442520_184_aipowered-decisioning-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458219/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460269/?learn=on&enablevpops=true&captions=por_br)

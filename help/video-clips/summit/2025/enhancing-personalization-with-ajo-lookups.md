@@ -20,4 +20,4 @@ ht-degree: 0%
 Saiba como usar conjuntos de dados baseados em registros para mensagens personalizadas sem aumentar os perfis do cliente no Adobe Journey Optimizer.
 
 <!-- 62_S522_3442522_70_enhancing-personalization-with-ajo-lookups -->
->[!VIDEO](https://video.tv.adobe.com/v/3458226/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460336/?learn=on&enablevpops=true&captions=por_br)

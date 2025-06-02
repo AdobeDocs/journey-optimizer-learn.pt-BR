@@ -20,4 +20,4 @@ ht-degree: 0%
 Saiba como a Adobe identificou e abordou as principais barreiras para dimensionar a experimentação, desde a ideação até a execução, usando soluções orientadas por plataforma.
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460380/?learn=on&enablevpops=true&captions=por_br)

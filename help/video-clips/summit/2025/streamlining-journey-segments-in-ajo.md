@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra como otimizar os segmentos de transmissão e usar a Tela do Jornada para a tomada de decisões sem sobrecarregar o seu sistema.
 
 <!-- 62_S522_3442522_52_streamlining-journey-segments-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458244/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460458/?learn=on&enablevpops=true&captions=por_br)

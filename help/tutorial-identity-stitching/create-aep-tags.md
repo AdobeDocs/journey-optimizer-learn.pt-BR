@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
+source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 9%
@@ -22,7 +23,7 @@ Uma propriedade de Tags da AEP chamada FinWise é criada. As seguintes extensõe
 
 ![extensões-tags](assets/tags-extensions.png)
 
-Configure a extensão do AEP Web SDK usando o DataStream dos consultores financeiros criado no tutorial anterior.
+Configure a extensão do AEP Web SDK usando o DataStream dos Supervisores Financeiros criado na etapa anterior.
 O Serviço da Experience Cloud ID é uma extensão opcional adicionada à propriedade da tag para fins de depuração.
 
 ## Marcar elementos de dados
@@ -51,4 +52,3 @@ Enviar ação do evento
 ## Salvar e criar
 
 Salve as alterações, crie e crie a biblioteca.
-

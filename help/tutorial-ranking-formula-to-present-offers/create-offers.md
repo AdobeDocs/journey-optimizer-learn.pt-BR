@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 7dd49746-bea6-4679-9d88-d8f9d2aa5b52
+source-git-commit: fb0ef6d502c6e3ba37ef528683a8888ed83f2990
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # Criar ofertas com base em localização com direcionamento por código postal
 
@@ -73,12 +73,9 @@ O texto da oferta Genérico, sem nenhum código postal associado à oferta
 </div>
 ```
 
-Agrupe estas ofertas em uma coleção chamada **_GenericOffers_**
+Agrupe estas ofertas em uma coleção chamada **revenue-related-offers**
 
 As ofertas estão disponíveis para todos os visitantes, o que significa que não há restrições de qualificação estritas. Em seguida, a fórmula de classificação se torna crítica para determinar qual oferta deve ser mostrada com base no contexto do perfil.
 Como as regras de elegibilidade não estão filtrando as ofertas, todos os três são tratados como candidatos.
 A estratégia de seleção recupera todos os três.
 A fórmula de classificação os classifica com base nos atributos do perfil (como CEP e annualIncome) para escolher o melhor.
-
-
-

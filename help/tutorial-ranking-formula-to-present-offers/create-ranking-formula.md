@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: eee1b86e-b33f-408e-9faf-90317bc5e861
+source-git-commit: 69868d1f303fa0c67530b3343a678a850a8e493b
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # Criar fórmula de classificação
 
@@ -31,35 +31,34 @@ Um critério em uma fórmula de classificação refere-se a uma regra condiciona
 
 
 Critério 1
-![critérios_um](assets/criteria1.png)
 
-O critério 1 contém três critérios:
-
-* oferta._techmarketingdemos.offerDetails.zipCode == &quot;92128&quot; - verifica o CEP associado à oferta.
-
-* _techmarketingdemos.zipCode == &quot;92128&quot; - verifica o código postal no perfil do usuário.
-
-* _techmarketingdemos.annualIncome > 100000 - verifica o nível de renda do perfil do usuário.
-
-Se todos esses critérios forem atendidos, a oferta obterá uma pontuação de 40.
+Esta condição filtra os itens de decisão (ofertas) **para incluir apenas** as ofertas marcadas com &quot;IncomeLevel&quot;.
+Essas ofertas filtradas prosseguirão para a próxima etapa (como classificação ou entrega) com base na lógica adicional definida.
+![critérios_um](assets/income-related-formula.png)
 
 
+A expressão a seguir é usada para criar a pontuação de classificação
+
+```pql
+if(   offer._techmarketingdemos.offerDetails.zipCode = _techmarketingdemos.zipCode,   _techmarketingdemos.annualIncome / 1000 + 10000,   if(     not offer._techmarketingdemos.offerDetails.zipCode,     _techmarketingdemos.annualIncome / 1000,     -9999   ) )
+```
+
+O que a Fórmula Faz
+
+* Se a oferta tiver o mesmo CEP do usuário, atribua a ele uma pontuação muito alta para que seja escolhido primeiro.
+
+* Se a oferta não tiver um CEP (é uma oferta geral), atribua a ela uma pontuação normal com base na renda do usuário.
+
+* Se a oferta tiver um CEP diferente do usuário, atribua a ela uma pontuação muito baixa para que não seja selecionada.
+
+Dessa forma, o sistema:
+
+* Sempre tenta mostrar uma oferta correspondente a um ZIP primeiro,
+
+* Retorna a uma oferta geral se nenhuma correspondência for encontrada e evita mostrar ofertas destinadas a outros códigos postais.
 
 
-
-
-Critério 2
-![critérios_dois](assets/criteria2.png)
-
-O critério 2 contém três critérios:
-
-* oferta._techmarketingdemos.offerDetails.zipCode == &quot;92126&quot; - verifica o CEP associado à oferta.
-
-* _techmarketingdemos.zipCode == &quot;92126&quot; - verifica o código postal no perfil do usuário.
-
-* _techmarketingdemos.annualIncome &lt; 100000 - verifica o nível de renda do perfil do usuário.
-
-Se todos esses critérios forem atendidos, a oferta obterá uma pontuação de 30.
+Se um item de oferta não atender a nenhum dos critérios de filtro (como não ter a tag &quot;IncomeLevel&quot; ), a oferta receberá uma pontuação de classificação padrão de 10.
 
 
 

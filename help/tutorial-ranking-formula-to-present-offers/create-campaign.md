@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
+source-git-commit: 666d25d1ed06ab76331d197a1677731516f73d7c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
-
 
 # Criar uma campanha
 
@@ -88,11 +88,14 @@ Essa configuração usa a ECID como a identidade principal para reconhecer usuá
      Uma expressão lógica que classifica cada oferta elegível. A oferta com a pontuação mais alta é renderizada na experiência personalizada.
 
 
+6. **Inserir Política de Decisão**
 
-6. **Publicar a campanha**\
+   ![editor-personalização](assets/personalization-editor.png)
+
+   O código Handlebars percorre as ofertas retornadas por uma política de decisão específica da Adobe Journey Optimizer e cria um `<div>` para cada oferta. Cada `<div>` usa um atributo de tags de dados com o nome interno da oferta para ajudar o grupo do carrossel e organizar ofertas por categoria para uma navegação suave. O conteúdo dentro de cada `<div>` exibe o texto de oferta personalizado, permitindo a apresentação dinâmica e segmentada visualmente de várias ofertas.
+
+
+7. **Publicar a campanha**\
    Ative a campanha para começar a fornecer ofertas personalizadas em tempo real.
 
-
-
-
-
+![img](assets/personalization-editor.png)

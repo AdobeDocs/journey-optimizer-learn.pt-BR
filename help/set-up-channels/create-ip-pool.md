@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como criar um pool de IP para proteger a reputação do remetente e aumentar a capacidade de entrega de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463254/?learn=on&enablevpops&captions=por_br)

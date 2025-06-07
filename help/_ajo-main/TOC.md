@@ -20,9 +20,9 @@ ht-degree: 95%
    + [Aprimorar o engajamento dos clientes](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Dimensionamento de orquestração para engajamento onicanal](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Manuais de casos de uso  {#use-case-playbooks}
-   + [Visão geral](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configurar uma sandbox do manual](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Criar e publicar instâncias do manual de estratégia](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [Visão geral](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Configurar uma sandbox do manual](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Criar e publicar instâncias do manual de estratégia](http://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introdução ao Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Visão geral](/help/introduction/journey-optimizer-overview.md)
    + [Introdução ao Journey Optimizer](/help/introduction/introduction.md)
@@ -52,7 +52,7 @@ ht-degree: 95%
    + [Atualizar conteúdo em uma jornada ativa](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)
    + [Acionar execuções diárias da jornada após a segmentação em lotes](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Solução de problemas de ações de entrada no jornada](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+   + [Solução de problemas de ações de entrada no jornada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
 + Gerenciamento de conflitos {#conflict-management}
    + [Identificar possíveis conflitos](/help/conflict-management/identify-potential-conflicts.md)
    + [Atribuir pontuações de prioridade](/help/conflict-management/assign-priority-score.md)

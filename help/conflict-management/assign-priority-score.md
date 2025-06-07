@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Saiba como priorizar ações de entrada, garantindo que o conteúdo de maior prioridade seja entregue a um cliente quando qualificado para várias ações de entrada usando a mesma configuração de canal
 
->[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445006/?learn=on&enablevpops&captions=por_br)
 
 Consulte a documentação do produto para obter mais informações sobre como [Atribuir pontuações de prioridade a jornadas e campanhas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/conflict-prioritization/priority-scores).

@@ -8,10 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
-source-git-commit: 71c406e7a06c49f01245970c280c6a7beb84da5f
+source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 1%
+source-wordcount: '226'
+ht-degree: 2%
 
 ---
 
@@ -19,8 +19,6 @@ ht-degree: 1%
 
 Este tutorial se baseia em uma configuração de segmentação de público-alvo criada anteriormente usando o Adobe Experience Platform (AEP) Web SDK. No [tutorial anterior](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction), as preferências do usuário, como interesse em Ações, Títulos ou Certificados de Depósito (CDs), foram capturadas e usadas para segmentar indivíduos em públicos-alvo direcionados no Experience Platform. Este tutorial se baseia nessa base usando o Adobe Journey Optimizer (AJO) Decisioning para fornecer ofertas financeiras personalizadas a esses públicos em tempo real, melhorando os resultados de engajamento e conversão.
 
-Você pode testar as ofertas personalizadas do AJO ao vivo usando o link abaixo.
-[Clique aqui para exibir a demonstração ao vivo](https://gbedekar489.github.io/finwise/welcome.html). A página exibe ofertas em tempo real com base nas suas preferências de investimento.
 
 ## Pré-requisitos para este tutorial
 

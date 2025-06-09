@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: personalizar-ofertas-com-fórmulas-classificação-baseado-em-usuário-código-postal-e-renda
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
 auto-video-transcripts: true
-source-git-commit: 461906416a976ef9a9dea4fdb583b853b4fe61c7
+source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 11%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 11%
 # Personalização de ofertas com fórmulas de Classificação com base no CEP e na renda do usuário {#personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income}
 
 + [Introdução](./introduction.md)
-+ [Criar uma oferta](./create-offers.md)
++ [Criar ofertas](./create-offers.md)
 + [Criar uma fórmula de classificação](./create-ranking-formula.md)
 + [Criar uma estratégia de seleção](./selection-strategy.md)
 + [Criar uma campanha](./create-campaign.md)

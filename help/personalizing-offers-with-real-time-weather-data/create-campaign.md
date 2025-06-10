@@ -33,12 +33,13 @@ Quando um usuário visita o site, o sistema detecta sua localização e busca a 
 - Criar uma configuração de canal
    - Defina onde e como as ofertas são exibidas (por exemplo, uma página da Web com experiência baseada em código).
    - Faça logon no Jornada Otimizer
-   - Navegue até _**Administração ->Canais ->Criar configuração de canal**_
+   - Navegue até _&#x200B;**Administração ->Canais ->Criar configuração de canal**&#x200B;_
    - **Nome**: `offers-by-weather`\
      Identifica essa configuração para a entrega personalizada de ofertas da Web.
    - **Plataforma**: `Web`\
      Direcionado especificamente para navegadores da Web. Nenhum canal móvel habilitado.
    - **Tipo de experiência**:
+
      `Code-based experience`\
      As ofertas não são injetadas diretamente no DOM. Em vez disso, o AJO retorna o HTML bruto, que é analisado usando o JavaScript personalizado.
    - **URL da página**: `https://gbedekar489.github.io/weather/weather-offers.html`\
@@ -66,7 +67,7 @@ Essa configuração usa a ECID como a identidade principal para reconhecer usuá
 - **Criar Política de Decisão**
    - A ação está vinculada a uma **Política de Decisão** que define como as ofertas são selecionadas e quantas ofertas são retornadas para exibição. Esta política usa uma **Estratégia de Seleção** criada anteriormente no tutorial.
    - Para inserir a política de decisão, clique em **_Editar conteúdo_** nas seções Ações e em **_Editar código_** para abrir o editor de personalização.
-   - Selecione o ícone _**Política de decisão**_ à esquerda e clique no botão **Adicionar política de decisão** para abrir a tela **Criar política de decisão**. Forneça um nome significativo para a política de decisão e selecione o número de itens que a política de decisão deve retornar. O padrão é 1.
+   - Selecione o ícone _&#x200B;**Política de decisão**&#x200B;_ à esquerda e clique no botão **Adicionar política de decisão** para abrir a tela **Criar política de decisão**. Forneça um nome significativo para a política de decisão e selecione o número de itens que a política de decisão deve retornar. O padrão é 1.
    - Clique em **_avançar_**, adicione a estratégia de seleção criada na etapa anterior à política de decisão e clique em **avançar** para concluir o processo de criação da política de decisão. Nenhuma oferta substituta foi associada à política de decisão.
 
 
@@ -74,7 +75,7 @@ Essa configuração usa a ECID como a identidade principal para reconhecer usuá
 - **Inserir Política de Decisão**
   ![editor-personalização](assets/personalization-editor.png)
 
-  Insira a política de decisão recém-criada clicando no botão _**Inserir política**_. Isso insere um loop for no editor de personalização no lado direito.
+  Insira a política de decisão recém-criada clicando no botão _&#x200B;**Inserir política**&#x200B;_. Isso insere um loop for no editor de personalização no lado direito.
 Coloque o cursor entre cada loop na linha dois e insira o offerText navegando até a oferta aprofundando o `tenant name`
 
   O código Handlebars repete as ofertas retornadas por uma política de decisão específica no Adobe Journey Optimizer.

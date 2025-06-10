@@ -21,9 +21,9 @@ Uma fórmula de classificação no Adobe Journey Optimizer é usada durante o Of
 
 * Fazer logon no Journey Optimizer
 
-* Navegue até _**Decisão ->Configuração da estratégia ->Fórmulas de classificação ->Criar fórmula**_
+* Navegue até _&#x200B;**Decisão ->Configuração da estratégia ->Fórmulas de classificação ->Criar fórmula**&#x200B;_
 
-Nomeie a fórmula _**Clima - Relacionado - Ofertas**_
+Nomeie a fórmula _&#x200B;**Clima - Relacionado - Ofertas**&#x200B;_
 
 
 

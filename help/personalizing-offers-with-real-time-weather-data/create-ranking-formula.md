@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Uma fórmula de classificação no Adobe Journey Optimizer é usada durante o Of
 
 * Fazer logon no Journey Optimizer
 
-* Decisão ->Configuração da estratégia ->Fórmulas de classificação ->Criar fórmula
+* Navegue até _**Decisão ->Configuração da estratégia ->Fórmulas de classificação ->Criar fórmula**_
 
-Nomeie a fórmula _&#x200B;**Clima - Relacionado - Ofertas**&#x200B;_
+Nomeie a fórmula _**Clima - Relacionado - Ofertas**_
 
 
 

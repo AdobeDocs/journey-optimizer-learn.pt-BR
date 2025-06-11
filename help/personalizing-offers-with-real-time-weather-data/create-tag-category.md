@@ -23,7 +23,7 @@ As coleções permitem categorizar e agrupar itens de decisão de acordo com as 
 Etapas para criar uma coleção
 
 * Fazer logon no Journey Optimizer
-* Navegue até _**Marcas ->Criar categoria de marca**_(_**WeatherRelatedOffers**_)
+* Navegue até _&#x200B;**Marcas ->Criar categoria de marca**&#x200B;_(_&#x200B;**WeatherRelatedOffers**&#x200B;_)
 * Clique em Salvar
-* Clique em Criar tags (quente, frio, primavera). Estas marcas devem estar na categoria de marcas _**WeatherRelatedOffers**_
+* Clique em Criar tags (quente, frio, primavera). Estas marcas devem estar na categoria de marcas _&#x200B;**WeatherRelatedOffers**&#x200B;_
 

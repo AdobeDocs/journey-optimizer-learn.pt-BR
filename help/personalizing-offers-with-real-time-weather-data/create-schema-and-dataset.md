@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: dac6b373226bd0be2533cf859e4f250018cf568b
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Para usar o Adobe Experience Platform Web SDK (Alloy.js) em uma página da Web, 
 Para criar um esquema XDM
 
 * Fazer logon no Adobe Experience Platform
-* Gerenciamento de dados -> Esquemas -> Criar esquema
+* Navegue até _**Gerenciamento de dados -> Esquemas -> Criar esquema**_
 
-* Crie um esquema baseado em eventos XDM chamado **_Weather-Schema_**. Se você não estiver familiarizado com a criação de um esquema, siga esta [documentação](https://experienceleague.adobe.com/pt-br/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Crie um esquema baseado em eventos XDM chamado **_Weather-Schema_**. Se você não estiver familiarizado com a criação de um esquema, siga esta [documentação](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 * Verifique se o esquema tem os seguintes campos com o tipo de dados apropriado.
@@ -37,16 +37,15 @@ Para criar um esquema XDM
 
 Um **conjunto de dados na Adobe Experience Platform (AEP)** é um contêiner de armazenamento estruturado usado para assimilar, armazenar e ativar dados com base em um esquema XDM definido.
 
-
-* Gerenciamento de dados -> Conjuntos de dados -> Criar conjunto de dados
-* Crie um conjunto de dados chamado **_Weather-schema-dataset_** com base no esquema XDM(_&#x200B;**Weather-Schema**&#x200B;_) criado na etapa anterior.
+* Navegue até _**Gerenciamento de dados -> Conjuntos de dados -> Criar conjunto de dados**_
+* Crie um conjunto de dados chamado **_Weather-schema-dataset_** com base no esquema XDM(_**Weather-Schema**_) criado na etapa anterior.
 
 
 ## Criar um fluxo de dados
 
 Um fluxo de dados no Adobe Experience Platform é como um pipeline seguro (ou rodovia) que conecta seu site ou aplicativo aos serviços da Adobe, permitindo que os dados fluam e o conteúdo personalizado flua de volta.
 
-* Navegue até Coleção de dados > Fluxos de dados e clique em Novo fluxo de dados. Nomeie a sequência de dados **sequência de dados relacionada ao tempo**
+* Navegue até _**Coleção de dados > Sequências de dados**_ e clique em Nova sequência de dados. Nomeie a sequência de dados **sequência de dados relacionada ao tempo**
 
 
 * Forneça os detalhes a seguir, como mostrado na captura de tela abaixo

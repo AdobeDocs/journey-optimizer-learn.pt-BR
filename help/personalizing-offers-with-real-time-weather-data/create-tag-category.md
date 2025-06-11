@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 64%
@@ -23,7 +23,7 @@ As coleções permitem categorizar e agrupar itens de decisão de acordo com as 
 Etapas para criar uma coleção
 
 * Fazer logon no Journey Optimizer
-* Navegue até Tags ->Criar categoria de tag(_&#x200B;**WeatherRelatedOffers**&#x200B;_)
+* Navegue até _**Marcas ->Criar categoria de marca**_(_**WeatherRelatedOffers**_)
 * Clique em Salvar
-* Clique em Criar tags (quente, frio, primavera). Estas marcas devem estar na categoria de marcas _&#x200B;**WeatherRelatedOffers**&#x200B;_
+* Clique em Criar tags (quente, frio, primavera). Estas marcas devem estar na categoria de marcas _**WeatherRelatedOffers**_
 

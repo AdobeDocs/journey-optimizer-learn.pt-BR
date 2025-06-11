@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -31,14 +31,14 @@ Exemplo de uma oferta baseada no clima
 
 ## Pré-requisitos para este tutorial
 
-* Acesso ao Experience Platform
+* Acesso ao Experience Platform.
 
-* Noções básicas sobre tags do Adobe Experience Platform
+* Conhecimento básico das Tags do Adobe Experience Platform.
 
-* Noções básicas sobre conceitos do Experience Platform (Perfis, Públicos-alvo, Conjuntos de dados)
+* Conhecimento básico dos conceitos do Experience Platform (perfis, públicos-alvo, conjuntos de dados).
 
-* Familiaridade com o Journey Optimizer
+* Familiaridade com o Journey Optimizer.
 
-* Conhecimento básico do JavaScript (ler e escrever funções simples)
+* Conhecimento básico do JavaScript (ler e escrever funções simples).
 
-* Capacidade de usar as DevTools do navegador (guias Console e Rede)
+* Capacidade de usar as DevTools do navegador (guias Console e Rede).

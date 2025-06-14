@@ -24,4 +24,4 @@ O Construtor de fórmulas no Adobe Journey Optimizer é uma interface visual usa
 
 Este vídeo fornece uma breve visão geral da interface do usuário do Construtor de fórmulas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463738?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3463744?quality=12&learn=on&captions=por_br){transcript=true}

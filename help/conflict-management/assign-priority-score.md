@@ -22,4 +22,4 @@ Saiba como priorizar ações de entrada, garantindo que o conteúdo de maior pri
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
 
-Consulte a documentação do produto para obter mais informações sobre como [Atribuir pontuações de prioridade a jornadas e campanhas](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/priority-scores).
+Consulte a documentação do produto para obter mais informações sobre como [Atribuir pontuações de prioridade a jornadas e campanhas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/conflict-prioritization/priority-scores).

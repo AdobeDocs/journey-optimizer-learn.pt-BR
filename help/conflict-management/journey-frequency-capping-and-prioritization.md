@@ -22,4 +22,4 @@ Saiba como priorizar ações de entrada, garantindo que o conteúdo de maior pri
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
-Consulte a documentação do produto para obter mais informações sobre [limite de Jornada e arbitragem](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).
+Consulte a documentação do produto para obter mais informações sobre [limite de Jornada e arbitragem](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).

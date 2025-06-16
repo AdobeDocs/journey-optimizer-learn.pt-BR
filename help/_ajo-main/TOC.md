@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: b29ec5eb30db089d8b7dd2d8133640ac84874e7d
 workflow-type: tm+mt
 source-wordcount: '815'
-ht-degree: 89%
+ht-degree: 94%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 89%
 + Casos de uso {#use-cases}
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)
    + [Carrinho abandonado](/help/use-cases/abandoned-cart.md)
-   + [Personalizando ofertas com dados do tempo real no Adobe Journey Optimizer usando o Web SDK](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Use a fórmula de classificação para fornecer ofertas personalizadas no Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Personalizando ofertas com dados do tempo real no Adobe Journey Optimizer usando o Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Use a fórmula de classificação para fornecer ofertas personalizadas no Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Aprimorar o engajamento dos clientes](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Dimensionamento de orquestração para engajamento onicanal](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-+ Manuais de casos de uso  {#use-case-playbooks}
++ Manuais de estratégia de casos de uso  {#use-case-playbooks}
    + [Visão geral](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configurar uma sandbox do manual](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Configurar uma sandbox de manual de estratégia](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
    + [Criar e publicar instâncias do manual de estratégia](http://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introdução ao Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Visão geral](/help/introduction/journey-optimizer-overview.md)
@@ -54,7 +54,7 @@ ht-degree: 89%
    + [Atualizar conteúdo em uma jornada ativa](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)
    + [Acionar execuções diárias da jornada após a segmentação em lotes](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Solução de problemas de ações de entrada no jornada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+   + [Solucionar problemas de ações de entrada em jornadas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
 + Gerenciamento de conflitos {#conflict-management}
    + [Identificar possíveis conflitos](/help/conflict-management/identify-potential-conflicts.md)
    + [Atribuir pontuações de prioridade](/help/conflict-management/assign-priority-score.md)
@@ -104,7 +104,7 @@ ht-degree: 89%
       + [Compatibilidade com SPA no editor da web](/help/channels/singel-page-application-support.md)
 + Gerenciamento de conteúdo{#content-management}
    + [Criação de mensagens: visão geral](/help/content-management/message-authoring-overview.md)
-   + Gerenciar ativos Gerenciar ativos {#assets}
+   + Gerenciar ativos {#assets}
       + [Gerenciamento de ativos digitais: visão geral](/help/content-management/digital-asset-management-overview.md)
       + [Gerenciar ativos](/help/assets-essentials-overview.md)
       + [Integração com o Dynamic Media do AEM](/help/content-management/aem-dynamic-media-integration.md)
@@ -137,9 +137,9 @@ ht-degree: 89%
    + Decisão {#decisioning}
       + [Introdução ao serviço de decisão](/help/decisioning/introduction-to-decisioning.md)
       + [Passo a passo completo do serviço de decisão](/help/decisioning/decisioning-end-to-end.md)
-      + [Navegação na Interface do Construtor de Fórmulas](/help/decisioning/formula-builder-ui.md)
-      + [Personalizando ofertas com dados do tempo real](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [Usar fórmula de classificação para entregar ofertas personalizadas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [Navegação na interface do Construtor de fórmulas](/help/decisioning/formula-builder-ui.md)
+      + [Personalizando ofertas com dados do tempo real](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [Usar fórmula de classificação para entregar ofertas personalizadas](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
 
 
    + Gestão de decisões {#decision-management}
@@ -180,11 +180,11 @@ ht-degree: 89%
          + [Delegar subdomínios CName](/help/set-up-channels/delegate-cname-subdomains.md)
          + [Configurar um canal de email](/help/set-up-channels/configure-email-channel.md)
          + [Configurar e executar um plano de aquecimento de IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + Canal SMS/MMS {#sms-mms-channel}
+      + Canal de SMS/MMS {#sms-mms-channel}
          + [Configurar credenciais da API de SMS e superfícies de canal](/help/set-up-channels/set-up-sms-channel.md)
          + [Configurar um provedor de SMS personalizado](/help/set-up-channels/configure-custom-sms-provider.md)
          + [Configurar credenciais da API de MMS e superfícies de canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
-      + Canais da Web e móveis {#web-and-mobile-channels}
+      + Canais da web e dispositivos móveis {#web-and-mobile-channels}
          + [Configuração de canal guiada](/help/set-up-channels/guided-channel-setup.md)
    + Configurar jornadas {#journey-configuration}
       + [Configurar fontes de dados](/help/set-up-journeys/configure-data-sources.md)
@@ -209,7 +209,7 @@ ht-degree: 89%
    + [Desafios](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=pt-BR)
 + [Gravações do show ao vivo da Experience League](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
-   + [Folha de características do laboratório de 2025 Summit](/help/summit-lab-assets/l535-assets.md)
+   + [Folha de dicas do Summit lab 2025](/help/summit-lab-assets/l535-assets.md)
    + [Crie momentos personalizados em dispositivos móveis com o Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [Dimensionamento da orquestração para engajamento onicanal no Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 

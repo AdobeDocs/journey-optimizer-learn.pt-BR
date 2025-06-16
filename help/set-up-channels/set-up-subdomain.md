@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como configurar um subdomínio para o canal de email no Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458490/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463230/?learn=on&enablevpops&captions=por_br)

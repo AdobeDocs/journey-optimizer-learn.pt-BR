@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: b29ec5eb30db089d8b7dd2d8133640ac84874e7d
+source-git-commit: b237731f00ee1ec979edaf566ac932221ef3552f
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 94%
+source-wordcount: '822'
+ht-degree: 93%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 94%
 + Casos de uso {#use-cases}
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)
    + [Carrinho abandonado](/help/use-cases/abandoned-cart.md)
-   + [Personalizando ofertas com dados do tempo real no Adobe Journey Optimizer usando o Web SDK](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Use a fórmula de classificação para fornecer ofertas personalizadas no Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Personalizando ofertas com dados do tempo real no Adobe Journey Optimizer usando o Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Use a fórmula de classificação para fornecer ofertas personalizadas no Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Aprimorar o engajamento dos clientes](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Dimensionamento de orquestração para engajamento onicanal](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Manuais de estratégia de casos de uso  {#use-case-playbooks}
@@ -71,6 +71,7 @@ ht-degree: 94%
    + [Otimização do aplicativo móvel: visão geral](/help/channels/mobile-app-optimization-overview.md)
    + Canal de experiência baseada em código{#code-based-experience-channel}
       + [Criar uma campanha de experiência baseada em código](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Adicionar campos editáveis a modelos de experiência baseados em código](/help/channels/editable-fields-in-code-based-experiences.md)
       + [Usar o serviço de decisão no canal baseado em código](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canal de correspondência direta{#direct-mail-channel}
       + [Criação de uma correspondência direta](/help/channels/direct-mail.md)
@@ -138,8 +139,8 @@ ht-degree: 94%
       + [Introdução ao serviço de decisão](/help/decisioning/introduction-to-decisioning.md)
       + [Passo a passo completo do serviço de decisão](/help/decisioning/decisioning-end-to-end.md)
       + [Navegação na interface do Construtor de fórmulas](/help/decisioning/formula-builder-ui.md)
-      + [Personalizando ofertas com dados do tempo real](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [Usar fórmula de classificação para entregar ofertas personalizadas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [Personalizando ofertas com dados do tempo real](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [Usar fórmula de classificação para entregar ofertas personalizadas](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
 
 
    + Gestão de decisões {#decision-management}

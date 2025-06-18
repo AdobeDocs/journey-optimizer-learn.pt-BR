@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: f6ddb0f7b8b7570582eaaa3b20fd3a70450cdaf1
-workflow-type: ht
-source-wordcount: '377'
-ht-degree: 100%
+source-git-commit: 963068d792f47e569c939a9570fa8036977302fc
+workflow-type: tm+mt
+source-wordcount: '514'
+ht-degree: 56%
 
 ---
 
@@ -32,12 +32,91 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 ## Últimos eventos ao vivo da Experience League
 
-* **[AI Bash: como explorar o potencial do Assistente de IA em aplicativos da Adobe Experience Platform e no Campaign](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
-  *Saiba como o Assistente de IA transforma as interações com o cliente e melhora a produtividade nos Aplicativos da Adobe Experience Cloud e no Adobe Campaign.*
-* **[Destaque do trimestre: três recursos que você precisa experimentar no Adobe Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
-  *Turbine seu engajamento com o cliente neste trimestre com três recursos do Adobe Journey Optimizer: experimentação de jornada, limite de frequência e mensagens multilíngue.*
-* **[Novo canal de experiência baseado em código no Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
-  *Saiba como ativar superfícies de entrada e controle de personalização granular com ações centradas no desenvolvedor.*
+<!-- CARDS
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+  {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
+  {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dove into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They showed how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. }
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+     {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
+     {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
+     {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
+     {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Master Frequency Capping & Conflict Prioritization (June 18, 2025)">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="Limite de frequência principal e priorização de conflitos (18 de junho de 2025)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1750288896715" alt="Limite de frequência principal e priorização de conflitos (18 de junho de 2025)"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="Limite de frequência principal e priorização de conflitos (18 de junho de 2025)">Limite de frequência principal e Priorização de conflito (18 de junho de 2025)</a>
+                    </p>
+                    <p class="is-size-6">Nesta sessão, os especialistas da Adobe, Ariel Sultan e Aaron Forrest, analisam os novos recursos do Adobe Journey Optimizer para ajudar você a administrar e priorizar as mensagens dos clientes com precisão. Eles mostraram como reduzir a fadiga das mensagens, resolver conflitos e fornecer experiências impactantes que repercutem.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Agile Workflows for Personalized Content at Scale (June 05, 2025)">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Fluxos de trabalho ágeis para conteúdo personalizado em escala (05 de junho de 2025)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1750288896708" alt="Fluxos de trabalho ágeis para conteúdo personalizado em escala (05 de junho de 2025)"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="Fluxos de trabalho ágeis para conteúdo personalizado em escala (05 de junho de 2025)">Fluxos de Trabalho Agile para Conteúdo Personalizado em Escala (05 de junho de 2025)</a>
+                    </p>
+                    <p class="is-size-6">Nesta sessão, os especialistas da Adobe Chris Ivory, Amarnath Vannarath e Rohan Bhatt demonstram como o Adobe Journey Optimizer (AJO) se integra perfeitamente ao Adobe Express e ao GenStudio for Performance Marketing. Saiba como essas ferramentas oferecem flexibilidade, colaboração e criatividade baseada em IA inigualáveis aos seus fluxos de trabalho de marketing.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Desbloquear insights operacionais com o Assistente de IA no Adobe Experience Platform (27 de fevereiro de 2025)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1750288896696" alt="Desbloquear insights operacionais com o Assistente de IA no Adobe Experience Platform (27 de fevereiro de 2025)"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Desbloquear insights operacionais com o Assistente de IA no Adobe Experience Platform (27 de fevereiro de 2025)">Desbloqueando insights operacionais com o Assistente de IA no Adobe Experience Platform (27 de fevereiro de 2025)</a>
+                    </p>
+                    <p class="is-size-6">Nossos especialistas discutiram como o AI Assistant pode desbloquear insights operacionais valiosos, aumentando a produtividade e redefinindo o trabalho no Adobe Experience Platform e em seus aplicativos baseados em plataforma.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 </div>
 

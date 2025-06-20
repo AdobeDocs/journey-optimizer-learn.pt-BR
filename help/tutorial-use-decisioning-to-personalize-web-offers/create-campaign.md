@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-05T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: a48a3702-4d66-467b-a7ec-9d91b81b771d
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 09c69d341e71af641febd74d319c28af1932ecec
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '138'
 ht-degree: 4%
 
 ---
@@ -22,6 +22,8 @@ No Adobe Journey Optimizer (AJO), uma campanha serve como um contêiner que reú
 
 1. Faça logon no Journey Optimizer.
 1. Clique em **[!UICONTROL Gerenciamento de Jornadas]** > **[!UICONTROL Campanhas]** > **[!UICONTROL Criar campanha]** > **[!UICONTROL Agendar Marketing]**.
+1. Forneça um nome significativo para a campanha
+1. Navegue até a guia _**Ação**_
 1. Selecione a ação **[!UICONTROL Experiência baseada em código]** e selecione a configuração criada na etapa anterior.
 1. Clique em **[!UICONTROL Editar conteúdo]**.
 

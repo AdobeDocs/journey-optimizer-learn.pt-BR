@@ -8,7 +8,8 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: b0b0eba099324d64940a87ecdad872db51dceb55
+exl-id: c3e4f760-9b10-4a99-bc53-9245e76c1bab
+source-git-commit: 51707a64a5d05227b663fed5e0413b4d2ffee0a9
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 1%
@@ -17,7 +18,7 @@ ht-degree: 1%
 
 # Criar uma campanha
 
-Para fornecer ofertas personalizadas aos usuários na página da Web, uma campanha foi criada no Adobe Journey Optimizer e configurada com o canal correto, canal da Web. Essa configuração garante que as ofertas sejam entregues por meio de decisões em tempo real aos usuários que interagem com o site.
+Para fornecer ofertas personalizadas aos usuários na página da Web, uma campanha foi criada no Adobe Journey Optimizer e configurada com o canal correto, canal de experiência baseado em código. Essa configuração garante que as ofertas sejam entregues por meio de decisões em tempo real aos usuários que interagem com o site.
 
 Nesta campanha, uma política de decisão foi definida para controlar como as ofertas são selecionadas. A política de decisão inclui uma estratégia de seleção, que consiste em:
 
@@ -33,22 +34,22 @@ Quando um usuário visita o site, o sistema detecta sua localização e busca a 
 - Criar uma configuração de canal
    - Defina onde e como as ofertas são exibidas (por exemplo, uma página da Web com experiência baseada em código).
    - Faça logon no Jornada Otimizer
-   - Navegue até _&#x200B;**Administração ->Canais ->Criar configuração de canal**&#x200B;_
+   - Navegue até _**Administração ->Canais ->Criar configuração de canal**_
    - **Nome**: `offers-by-weather`\
      Identifica essa configuração para a entrega personalizada de ofertas da Web.
-   - **Plataforma**: `Web`\
-     Direcionado especificamente para navegadores da Web. Nenhum canal móvel habilitado.
-   - **Tipo de experiência**:
+- **Canal**:
+  `Code-based experience`\
+  As ofertas não são injetadas diretamente no DOM. Em vez disso, o AJO retorna o HTML bruto, que é analisado usando o JavaScript personalizado.
+- **Plataforma**: `Web`\
+  Direcionado especificamente para navegadores da Web. Nenhum canal móvel habilitado.
 
-     `Code-based experience`\
-     As ofertas não são injetadas diretamente no DOM. Em vez disso, o AJO retorna o HTML bruto, que é analisado usando o JavaScript personalizado.
-   - **URL da página**: `https://gbedekar489.github.io/weather/weather-offers.html`\
-     O canal é configurado para uma página de teste específica usada durante o desenvolvimento.
-   - **Local na Página**: `offerContainer`\
-     As ofertas retornadas são analisadas dinamicamente e renderizadas nesse contêiner usando lógica de front-end.
+- **URL da página**: `https://gbedekar489.github.io/weather/weather-offers.html`\
+  O canal é configurado para uma página de teste específica usada durante o desenvolvimento.
+- **Local na Página**: `offerContainer`\
+  As ofertas retornadas são analisadas dinamicamente e renderizadas nesse contêiner usando lógica de front-end.
 
-   - **Formato do conteúdo**: `HTML`\
-     As ofertas são entregues como fragmentos brutos do HTML, permitindo controle total sobre o estilo, a filtragem e a exibição.
+- **Formato do conteúdo**: `HTML`\
+  As ofertas são entregues como fragmentos brutos do HTML, permitindo controle total sobre o estilo, a filtragem e a exibição.
 
 
 - **Iniciar uma nova campanha**
@@ -67,7 +68,7 @@ Essa configuração usa a ECID como a identidade principal para reconhecer usuá
 - **Criar Política de Decisão**
    - A ação está vinculada a uma **Política de Decisão** que define como as ofertas são selecionadas e quantas ofertas são retornadas para exibição. Esta política usa uma **Estratégia de Seleção** criada anteriormente no tutorial.
    - Para inserir a política de decisão, clique em **_Editar conteúdo_** nas seções Ações e em **_Editar código_** para abrir o editor de personalização.
-   - Selecione o ícone _&#x200B;**Política de decisão**&#x200B;_ à esquerda e clique no botão **Adicionar política de decisão** para abrir a tela **Criar política de decisão**. Forneça um nome significativo para a política de decisão e selecione o número de itens que a política de decisão deve retornar. O padrão é 1.
+   - Selecione o ícone _**Política de decisão**_ à esquerda e clique no botão **Adicionar política de decisão** para abrir a tela **Criar política de decisão**. Forneça um nome significativo para a política de decisão e selecione o número de itens que a política de decisão deve retornar. O padrão é 1.
    - Clique em **_avançar_**, adicione a estratégia de seleção criada na etapa anterior à política de decisão e clique em **avançar** para concluir o processo de criação da política de decisão. Nenhuma oferta substituta foi associada à política de decisão.
 
 
@@ -75,7 +76,7 @@ Essa configuração usa a ECID como a identidade principal para reconhecer usuá
 - **Inserir Política de Decisão**
   ![editor-personalização](assets/personalization-editor.png)
 
-  Insira a política de decisão recém-criada clicando no botão _&#x200B;**Inserir política**&#x200B;_. Isso insere um loop for no editor de personalização no lado direito.
+  Insira a política de decisão recém-criada clicando no botão _**Inserir política**_. Isso insere um loop for no editor de personalização no lado direito.
 Coloque o cursor entre cada loop na linha dois e insira o offerText navegando até a oferta aprofundando o `tenant name`
 
   O código Handlebars repete as ofertas retornadas por uma política de decisão específica no Adobe Journey Optimizer.
@@ -83,5 +84,3 @@ Coloque o cursor entre cada loop na linha dois e insira o offerText navegando at
 
 - **Publicar a campanha**\
   Ative a campanha para começar a fornecer ofertas personalizadas em tempo real.
-
-

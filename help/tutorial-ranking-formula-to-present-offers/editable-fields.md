@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # Utilização de campos de formulário editáveis em experiências baseadas em código do AJO
 
-Em muitas jornadas de marketing, particularmente em setores regulamentados, é essencial incluir um aviso de isenção legal que pode variar dependendo da campanha, da geografia ou do produto. Ao usar um [campo editável](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences) diretamente no Editor do Personalization do AJO, os profissionais de marketing e as equipes jurídicas podem manter o controle total sobre o texto do aviso de isenção de responsabilidade sem envolver desenvolvedores ou modificar a lógica de decisão.
+Em muitas jornadas de marketing, particularmente em setores regulamentados, é essencial incluir um aviso de isenção legal que pode variar dependendo da campanha, da geografia ou do produto. Ao usar um [campo editável](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences) diretamente no Editor do Personalization do AJO, os profissionais de marketing e as equipes jurídicas podem manter o controle total sobre o texto do aviso de isenção de responsabilidade sem envolver desenvolvedores ou modificar a lógica de decisão.
 
 Isso permite atualizações rápidas e garante a conformidade em todas as campanhas, ao mesmo tempo que aproveita o conteúdo decidido, como ofertas.
 

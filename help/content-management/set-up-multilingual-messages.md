@@ -23,4 +23,4 @@ O recurso de mensagem multilíngue do Adobe Journey Optimizer permite criar faci
 
 Saiba como configurar projetos de tradução para tradução automática e a configuração de idioma necessária para projetos de tradução manual e automática para mensagens multilíngues.
  
->[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453548/?learn=on&captions=por_br)

@@ -24,4 +24,4 @@ Saiba como tornar os componentes do HTML em um fragmento editável, permitindo a
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
 
-Consulte a [documentação do produto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"} para obter mais informações sobre este recurso.
+Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"} para obter mais informações sobre este recurso.

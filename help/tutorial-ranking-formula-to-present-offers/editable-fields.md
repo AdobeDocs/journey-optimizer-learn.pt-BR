@@ -25,9 +25,9 @@ Isso permite atualizações rápidas e garante a conformidade em todas as campan
 ## Inserir campo editável no editor de personalização
 
 - Abra a campanha criada na etapa anterior.
-- Clique em _**Modificar campanha**_
-- Navegue até a guia _**Conteúdo**_
-- Clique em _**Editar código**_ e insira um campo editável chamado legalDisclaimer com um valor padrão usando a seguinte sintaxe no editor de personalização
+- Clique em _&#x200B;**Modificar campanha**&#x200B;_
+- Navegue até a guia _&#x200B;**Conteúdo**&#x200B;_
+- Clique em _&#x200B;**Editar código**&#x200B;_ e insira um campo editável chamado legalDisclaimer com um valor padrão usando a seguinte sintaxe no editor de personalização
 
 - `{{#inline "legalDisclaimer" name="Legal Disclaimer"}} Legal Disclaimer will go here {{/inline}}`
 

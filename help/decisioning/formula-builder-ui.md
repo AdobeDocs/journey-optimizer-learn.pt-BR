@@ -1,6 +1,6 @@
 ---
 title: Guia para a interface do Construtor de fórmulas no Adobe Journey Optimizer
-description: Saiba como usar o Construtor de fórmulas de IA no Adobe Journey Optimizer para criar estratégias de classificação de ofertas personalizadas.
+description: Saiba como usar o Construtor de fórmulas de IA no Adobe Journey Optimizer para criar estratégias de classificação de ofertas personalizadas. Esta apresentação explica como usar o Construtor de fórmulas de IA para combinar pontuações de modelo, dados de perfil e oferta, sinais contextuais e regras de negócios para personalizar decisões e priorizar ofertas com base em suas metas de marketing.
 feature: Decisioning
 topic: Integrations
 role: User
@@ -11,9 +11,9 @@ last-substantial-update: 2025-06-25T00:00:00Z
 jira: KT-17614
 thumbnail: KT-17614.jpeg
 exl-id: 0926ec17-7b6a-49be-95c1-059366cdaa81
-source-git-commit: 5139c3f3de9943eac4f63cba386c551aac4a804a
+source-git-commit: 3f3c225179c4ff390eae40d1e3122ead314605b8
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---

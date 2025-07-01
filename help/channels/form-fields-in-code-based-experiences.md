@@ -1,6 +1,6 @@
 ---
-title: Adicionar campos de formulário a modelos de canal de experiência baseados em código
-description: Descubra como os desenvolvedores podem simplificar a colaboração com as equipes de marketing, habilitando campos editáveis em canais de experiência baseados em código. Saiba como definir campos JSON e HTML editáveis em modelos de conteúdo, permitindo que os profissionais de marketing atualizem elementos de campanha como títulos e descrições sem tocar no código. Veja como as políticas de decisão incorporadas melhoram a personalização diretamente nos modelos, aumentando a eficiência, reduzindo erros e acelerando a entrega de campanhas.
+title: Adicionar campos de formulário a modelos de canal de experiência baseada em código
+description: Descubra como desenvolvedores podem simplificar a colaboração com equipes de marketing, habilitando campos editáveis em canais de experiência baseada em código. Aprenda a definir campos JSON e HTML editáveis em modelos de conteúdo, permitindo que profissionais de marketing atualizem elementos da campanha, como títulos e descrições, sem modificar o código. Saiba como as políticas de decisão incorporadas melhoram a personalização direta dos modelos, aumentando a eficiência, reduzindo erros e acelerando a entrega de campanhas.
 feature: Code-based Experiences
 role: Developer
 level: Beginner, Intermediate
@@ -10,18 +10,18 @@ last-substantial-update: 2025-06-17T00:00:00Z
 jira: KT-18362
 hidefromtoc: false
 hide: false
-source-git-commit: cbc906146f595623281a1cbe66e8a4dbd7a65800
-workflow-type: tm+mt
+exl-id: 046ba026-a166-4b32-be07-393246e3fd3b
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
+workflow-type: ht
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Adicionar campos de formulário a modelos de canal de experiência baseada em código
 
-# Adicionar campos de formulário a modelos de canal de experiência baseados em código
+Descubra como desenvolvedores podem simplificar a colaboração com equipes de marketing, habilitando campos editáveis em canais de experiência baseada em código. Aprenda a definir campos JSON e HTML editáveis em modelos de conteúdo, permitindo que profissionais de marketing atualizem elementos da campanha, como títulos e descrições, sem modificar o código. Saiba como as políticas de decisão incorporadas melhoram a personalização direta dos modelos, aumentando a eficiência, reduzindo erros e acelerando a entrega de campanhas.
 
-Descubra como os desenvolvedores podem simplificar a colaboração com as equipes de marketing, habilitando campos editáveis em canais de experiência baseados em código. Saiba como definir campos JSON e HTML editáveis em modelos de conteúdo, permitindo que os profissionais de marketing atualizem elementos de campanha como títulos e descrições sem tocar no código. Veja como as políticas de decisão incorporadas melhoram a personalização diretamente nos modelos, aumentando a eficiência, reduzindo erros e acelerando a entrega de campanhas.
+>[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/3463996/?learn=on&enablevpops&captions=por_br)
-
-Para obter mais informações, consulte a [documentação detalhada do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).
+Para mais informações, consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields) detalhada.

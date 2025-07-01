@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: e5d7156b5ea62847c2c622f38979e137b425bd76
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '585'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
@@ -33,13 +33,13 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 ## Últimos eventos ao vivo da Experience League
 
 <!-- CARDS
-* https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dove into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They showed how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. }
-* https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
      {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
      {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
-* https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
      {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
      {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
 
@@ -50,8 +50,8 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="Limite de frequência principal e priorização de conflitos (18 de junho de 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1750720617792" alt="Limite de frequência principal e priorização de conflitos (18 de junho de 2025)"
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="Limites de frequência principais e priorização de conflitos (18 de junho de 2025)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1750720617792" alt="Limites de frequência principais e priorização de conflitos (18 de junho de 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -59,9 +59,9 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="Limite de frequência principal e priorização de conflitos (18 de junho de 2025)">Limite de frequência principal e Priorização de conflito (18 de junho de 2025)</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="Limites de frequência principais e priorização de conflitos (18 de junho de 2025)">Limites de frequência principais e priorização de conflitos (18 de junho de 2025)</a>
                     </p>
-                    <p class="is-size-6">Nesta sessão, os especialistas da Adobe, Ariel Sultan e Aaron Forrest, analisam os novos recursos do Adobe Journey Optimizer para ajudar você a administrar e priorizar as mensagens dos clientes com precisão. Eles mostraram como reduzir a fadiga das mensagens, resolver conflitos e fornecer experiências impactantes que repercutem.</p>
+                    <p class="is-size-6">Nesta sessão, Ariel Sultan e Aaron Forrest, especialistas da Adobe, analisam os novos recursos do Adobe Journey Optimizer para ajudar a administrar e priorizar as mensagens dos clientes com precisão. Eles mostram como reduzir a fadiga das mensagens, resolver conflitos e proporcionar experiências impactantes que repercutem.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
@@ -73,8 +73,8 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Fluxos de trabalho ágeis para conteúdo personalizado em escala (05 de junho de 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1750720617807" alt="Fluxos de trabalho ágeis para conteúdo personalizado em escala (05 de junho de 2025)"
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Fluxos de trabalho ágeis para conteúdo personalizado em grande escala (5 de junho de 2025)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1750720617807" alt="Fluxos de trabalho ágeis para conteúdo personalizado em grande escala (5 de junho de 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -82,9 +82,9 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="Fluxos de trabalho ágeis para conteúdo personalizado em escala (05 de junho de 2025)">Fluxos de Trabalho Agile para Conteúdo Personalizado em Escala (05 de junho de 2025)</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="Fluxos de trabalho ágeis para conteúdo personalizado em grande escala (5 de junho de 2025)">Fluxos de trabalho ágeis para conteúdo personalizado em grande escala (5 de junho de 2025)</a>
                     </p>
-                    <p class="is-size-6">Nesta sessão, os especialistas da Adobe Chris Ivory, Amarnath Vannarath e Rohan Bhatt demonstram como o Adobe Journey Optimizer (AJO) se integra perfeitamente ao Adobe Express e ao GenStudio for Performance Marketing. Saiba como essas ferramentas oferecem flexibilidade, colaboração e criatividade baseada em IA inigualáveis aos seus fluxos de trabalho de marketing.</p>
+                    <p class="is-size-6">Nesta sessão, Chris Ivory, Amarnath Vannarath e Rohan Bhatt, especialistas da Adobe, demonstram como o Adobe Journey Optimizer (AJO) se integra perfeitamente ao Adobe Express e ao GenStudio for Performance Marketing. Saiba como essas ferramentas adicionam flexibilidade, colaboração e criatividade baseada em IA inigualáveis aos seus fluxos de trabalho de marketing.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
@@ -96,8 +96,8 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Desbloquear insights operacionais com o Assistente de IA no Adobe Experience Platform (27 de fevereiro de 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1750720617800" alt="Desbloquear insights operacionais com o Assistente de IA no Adobe Experience Platform (27 de fevereiro de 2025)"
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Como desbloquear insights operacionais com o Assistente de IA na Adobe Experience Platform (27 de fevereiro de 2025)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1750720617800" alt="Como desbloquear insights operacionais com o Assistente de IA na Adobe Experience Platform (27 de fevereiro de 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -105,9 +105,9 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Desbloquear insights operacionais com o Assistente de IA no Adobe Experience Platform (27 de fevereiro de 2025)">Desbloqueando insights operacionais com o Assistente de IA no Adobe Experience Platform (27 de fevereiro de 2025)</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Como desbloquear insights operacionais com o Assistente de IA na Adobe Experience Platform (27 de fevereiro de 2025)">Como desbloquear insights operacionais com o Assistente de IA na Adobe Experience Platform (27 de fevereiro de 2025)</a>
                     </p>
-                    <p class="is-size-6">Nossos especialistas discutiram como o AI Assistant pode desbloquear insights operacionais valiosos, aumentando a produtividade e redefinindo o trabalho no Adobe Experience Platform e em seus aplicativos baseados em plataforma.</p>
+                    <p class="is-size-6">Nossos especialistas conversam sobre como o Assistente de IA pode desbloquear insights operacionais valiosos, aumentando a produtividade e redefinindo o trabalho na Adobe Experience Platform e em seus aplicativos baseados em plataformas.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
@@ -124,9 +124,9 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 
 <!-- CARDS
 
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -136,7 +136,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="Principais recursos e a interface do usuário" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430320?format=jpeg&nocache=1750720618534&captions=por_br" alt="Principais recursos e a interface do usuário"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1750720618534" alt="Principais recursos e a interface do usuário"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -158,8 +158,8 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" title="Introdução à criação de uma jornada" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430346?format=jpeg&nocache=1750720618508&captions=por_br" alt="Introdução à criação de uma jornada"
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" title="Introdução à criação de jornadas" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1750720618508" alt="Introdução à criação de jornadas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -167,7 +167,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" title="Introdução à criação de uma jornada">Introdução à criação de uma jornada</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" title="Introdução à criação de jornadas">Introdução à criação de uma jornada</a>
                     </p>
                     <p class="is-size-6">Entenda as noções básicas para a criação de uma jornada na tela de jornada.</p>
                 </div>
@@ -181,8 +181,8 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Criar um público-alvo usando o construtor de regras" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430327?format=jpeg&nocache=1750720618527&captions=por_br" alt="Criar um público-alvo usando o construtor de regras"
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Criar um público-alvo com o construtor de regras" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1750720618527" alt="Criar um público-alvo com o construtor de regras"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -190,7 +190,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" title="Criar um público-alvo usando o construtor de regras">Criar uma audiência usando o construtor de regras</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" title="Criar um público-alvo com o construtor de regras">Criar um público-alvo com o construtor de regras</a>
                     </p>
                     <p class="is-size-6">Entenda como o Journey Optimizer (AJO) usa regras para gerar público-alvo e aprenda a usar atributos, eventos e públicos-alvo já existentes para criar um público-alvo.</p>
                 </div>
@@ -204,9 +204,9 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 <!-- CARDS
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -215,8 +215,8 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Crie conteúdo usando o Assistente de IA para geração de conteúdo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434640/?format=jpeg&nocache=1750720619194&captions=por_br" alt="Crie conteúdo usando o Assistente de IA para geração de conteúdo"
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Criar conteúdo com o Assistente de IA para geração de conteúdo" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1750720619194" alt="Criar conteúdo com o Assistente de IA para geração de conteúdo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -224,7 +224,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="Crie conteúdo usando o Assistente de IA para geração de conteúdo">Criar conteúdo usando o Assistente de IA para geração de conteúdo</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="Criar conteúdo com o Assistente de IA para geração de conteúdo">Criar conteúdo com o Assistente de IA para geração de conteúdo</a>
                     </p>
                     <p class="is-size-6">Aprenda a usar o Assistente de IA para gerar conteúdo e sugestões proativas de variação de conteúdo para texto e imagens.</p>
                 </div>
@@ -238,8 +238,8 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="Decisão de uma apresentação completa" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1750720619211" alt="Decisão de uma apresentação completa"
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="Guia completo do serviço de decisão" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1750720619211" alt="Guia completo do serviço de decisão"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -247,9 +247,9 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" title="Decisão de uma apresentação completa">Apresentação completa da decisão</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" title="Guia completo do serviço de decisão">Passo a passo da tomada de decisão</a>
                     </p>
-                    <p class="is-size-6">Apresentação completa da Decisão no Journey Optimizer</p>
+                    <p class="is-size-6">Guia completo do serviço de decisão no Journey Optimizer</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
@@ -262,7 +262,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="Configurar experimentos de conteúdo para mensagens no aplicativo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445293/?format=jpeg&nocache=1750720619204&captions=por_br" alt="Configurar experimentos de conteúdo para mensagens no aplicativo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1750720619204" alt="Configurar experimentos de conteúdo para mensagens no aplicativo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

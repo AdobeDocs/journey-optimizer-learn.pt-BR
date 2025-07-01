@@ -11,9 +11,9 @@ jira: KT-14034
 thumbnail: KT-14034.jpeg
 exl-id: 59464ab1-dac2-4e68-9025-606d29d076f0
 source-git-commit: 7f22cccab99ca1ee8ff5d99fccdf4ae607440b1b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '106'
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ O recurso de mensagem multilíngue do Adobe Journey Optimizer permite criar faci
 
 Saiba como configurar projetos de tradução para tradução automática e a configuração de idioma necessária para projetos de tradução manual e automática para mensagens multilíngues.
  
->[!VIDEO](https://video.tv.adobe.com/v/3453548/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)

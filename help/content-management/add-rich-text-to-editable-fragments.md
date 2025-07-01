@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Saiba como tornar os componentes em HTML de um fragmento editáveis, permitindo atualizações dinâmicas do conteúdo e do estilo. Você verá como estruturar o HTML, configurar campos editáveis em linha e conectá-los ao conteúdo padrão e ao CSS, além de como testar e validar as alterações feitas em um ambiente de campanha ativo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464373/?learn=on&enablevpops&captions=por_br)
 
 Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"} para mais informações sobre esse recurso.

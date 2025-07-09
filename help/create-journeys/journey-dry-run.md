@@ -27,4 +27,4 @@ Este tutorial apresenta o recurso Jornada Dry Run no Adobe Journey Optimizer, qu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
 
-Consulte a [documentação do produto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) para obter mais informações sobre este recurso.
+Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) para obter mais informações sobre este recurso.

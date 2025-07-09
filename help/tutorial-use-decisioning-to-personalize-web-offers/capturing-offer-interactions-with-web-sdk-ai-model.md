@@ -26,7 +26,7 @@ Antes de começar, verifique se o seguinte está em vigor:
 
 - Uma propriedade do Adobe Launch em funcionamento com a extensão Adobe Experience Platform Web SDK instalada.
 
-- Uma [sequência de dados](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset) configurada e mapeada para a sandbox da AEP.
+- Uma [sequência de dados](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset) configurada e mapeada para a sandbox da AEP.
 
 - Um site em que o Launch é implantado.
 
@@ -35,7 +35,7 @@ Antes de começar, verifique se o seguinte está em vigor:
 
 Para coletar eventos de experiência, primeiro é necessário criar um conjunto de dados para onde esses eventos serão enviados.
 
-Siga as etapas mencionadas neste [artigo para criar o esquema e o conjunto de dados necessários](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
+Siga as etapas mencionadas neste [artigo para criar o esquema e o conjunto de dados necessários](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
 
 ## Criar uma sequência de dados no AEP
 

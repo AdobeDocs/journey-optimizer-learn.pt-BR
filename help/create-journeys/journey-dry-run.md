@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Este tutorial apresenta o recurso Jornada Dry Run no Adobe Journey Optimizer, que permite que os profissionais de marketing testem a lógica da jornada sem enviar comunicações reais. Você aprenderá a ativar uma jornada no modo de simulação, configurar opções como desativar tempos de espera e fontes de dados externas e interpretar as métricas de fluxo de perfil para validar a segmentação de público e a lógica condicional. Entenda como identificar e corrigir problemas, como erros de digitação em nós de condição, e como acessar e exportar relatórios de simulação para análise adicional antes de iniciar a jornada em tempo real.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464687/?learn=on&enablevpops&captions=por_br)
 
 Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) para obter mais informações sobre este recurso.

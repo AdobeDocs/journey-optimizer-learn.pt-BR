@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 14672bd5743c5fbadfc0e38308d82b6e7b6893dc
+source-git-commit: e1fac28df665a0ca6d25a7655f22bd1eb787b5e1
 workflow-type: tm+mt
 source-wordcount: '843'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 98%
 + Manuais de estratégia de casos de uso  {#use-case-playbooks}
    + [Visão geral](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
    + [Configurar uma sandbox de manual de estratégia](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Criar e publicar instâncias do manual de estratégia](http://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [Criar e publicar instâncias do manual de estratégia](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introdução ao Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Visão geral](/help/introduction/journey-optimizer-overview.md)
    + [Introdução ao Journey Optimizer](/help/introduction/introduction.md)
@@ -55,7 +55,7 @@ ht-degree: 98%
    + [Atualizar conteúdo em uma jornada ativa](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)
    + [Acionar execuções diárias da jornada após a segmentação em lotes](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Solucionar problemas de ações de entrada em jornadas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+   + [Solucionar problemas de ações de entrada em jornadas](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + Gerenciamento de conflitos {#conflict-management}
    + [Identificar possíveis conflitos](/help/conflict-management/identify-potential-conflicts.md)
    + [Atribuir pontuações de prioridade](/help/conflict-management/assign-priority-score.md)
@@ -207,8 +207,8 @@ ht-degree: 98%
    + [Aplicar políticas de uso de dados nos canais do Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Mascaramento de dados em mensagens](/help/privacy/mask-data-in-messages.md)
 + Exercícios e desafios {#exercises-and-challenges}
-   + [Configurar uma sandbox de treinamento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=pt-BR)
-   + [Desafios](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=pt-BR)
+   + [Configurar uma sandbox de treinamento](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [Desafios](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Gravações do show ao vivo da Experience League](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [Folha de dicas do Summit lab 2025](/help/summit-lab-assets/l535-assets.md)

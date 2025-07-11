@@ -23,4 +23,4 @@ Saiba como configurar e enviar mensagens RCS interativas e da marca no Adobe Jou
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
 
-Consulte a [documentação do produto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration) para obter mais informações sobre como configurar o RCS.
+Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration) para obter mais informações sobre como configurar o RCS.

@@ -1,5 +1,5 @@
 ---
-title: Personalização de ofertas com fórmulas de Classificação com base no CEP e na renda do usuário
+title: Personalizar ofertas com fórmulas de classificação com base no CEP e na receita
 description: Use as fórmulas de classificação da Adobe Journey Optimizer para fornecer dinamicamente as ofertas financeiras mais relevantes, adaptadas ao CEP e nível de renda de cada usuário, visando maior engajamento e personalização mais inteligente.
 feature: Decisioning
 role: User
@@ -7,14 +7,15 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-27T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 11685f7c-8048-4318-9c28-71bd7da8f7ff
+source-git-commit: 85d3def3afb1d073b133df40e4cbf32d00a3a5c9
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
-# Personalização de ofertas com fórmulas de Classificação com base no CEP e na renda do usuário
+# Personalizar ofertas com fórmulas de classificação com base no CEP e na renda do usuário
 
 Este caso de uso demonstra como fornecer ofertas financeiras personalizadas, aproveitando atributos de usuário como código postal e receita anual no Adobe Journey Optimizer. Ao usar fórmulas de classificação, as ofertas são pontuadas e priorizadas de forma inteligente com base em promoções específicas do local e na qualificação com base na renda. Por exemplo, os CD de alto rendimento podem ser promovidos junto dos utilizadores em códigos postais ricos, enquanto as opções de investimento diversificadas são apresentadas aos investidores emergentes. As fórmulas de classificação garantem que cada usuário receba ofertas relevantes e financeiramente apropriadas. Os critérios de classificação são definidos usando atributos de perfil, sinais contextuais e modelos de IA opcionais para melhorar ainda mais a precisão da decisão. As ofertas são fornecidas em tempo real por meio da Web ou de canais de email, aumentando o engajamento e a conversão. Essa abordagem combina lógica de negócios com personalização orientada por dados para elevar a experiência do usuário e o impacto do marketing.
 
@@ -39,5 +40,3 @@ Este tutorial aborda as próximas etapas do Offer Decisioning:
 * Definir uma estratégia de seleção para agrupar e priorizar ofertas.
 
 * Criar uma política de decisão para fornecer a oferta mais relevante para cada indivíduo.
-
-

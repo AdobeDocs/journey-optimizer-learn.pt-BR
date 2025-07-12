@@ -21,4 +21,4 @@ ht-degree: 100%
 
 O recurso de mensagem multilíngue permite criar conteúdo em vários idiomas facilmente em uma mesma campanha ou jornada. Saiba como criar mensagens multilíngues no Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452118/?learn=on&captions=por_br)

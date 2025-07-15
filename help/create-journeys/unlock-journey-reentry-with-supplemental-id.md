@@ -24,4 +24,4 @@ Neste tutorial, você aprenderá a ativar e aplicar um identificador complementa
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
 
-Para obter mais informações sobre IDs suplementares, consulte a [documentação do produto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
+Para obter mais informações sobre IDs suplementares, consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).

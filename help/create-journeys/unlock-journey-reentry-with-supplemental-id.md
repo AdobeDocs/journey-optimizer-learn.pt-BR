@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Neste tutorial, você aprenderá a ativar e aplicar um identificador complementar no Adobe Journey Optimizer. Você verá como o uso de identificadores complementares permite que os perfis entrem novamente nas jornadas, iterem em arrays de objetos e personalizem mensagens usando dados contextuais como ID do produto, informações de envio e muito mais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464797/?learn=on&enablevpops&captions=por_br)
 
 Para obter mais informações sobre IDs suplementares, consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).

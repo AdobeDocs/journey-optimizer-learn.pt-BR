@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como usar o Assistente de IA para geração de conteúdo a fim de gerar sugestões proativas de variação de conteúdo para textos e imagens.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434640/?learn=on&captions=por_br)

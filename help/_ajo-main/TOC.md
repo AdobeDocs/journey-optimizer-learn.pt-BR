@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 032e1ac6bf969975e598f2a763cde94ba17856b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '849'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 98%
    + [Criar um perfil de teste](/help/create-journeys/test-a-journey.md)
    + [Validar a lógica da jornada com o recurso Execução de teste da jornada](/help/create-journeys/journey-dry-run.md)
    + [Publicar uma jornada](/help/create-journeys/publish-a-journey.md)
-   + [Desbloquear a reentrada do jornada com IDs complementares](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
+   + [Desbloquear reentrada da jornada com IDs complementares](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Atualizar conteúdo em uma jornada ativa](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)
    + [Acionar execuções diárias da jornada após a segmentação em lotes](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
@@ -182,7 +182,7 @@ ht-degree: 98%
          + [Delegar subdomínios CName](/help/set-up-channels/delegate-cname-subdomains.md)
          + [Configurar um canal de email](/help/set-up-channels/configure-email-channel.md)
          + [Configurar e executar um plano de aquecimento de IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + Canal SMS/MMS/RCS {#sms-mms-channel}
+      + Canal de SMS/MMS/RCS {#sms-mms-channel}
          + [Configurar credenciais da API de SMS e superfícies de canal](/help/set-up-channels/set-up-sms-channel.md)
          + [Configurar um provedor de SMS personalizado](/help/set-up-channels/configure-custom-sms-provider.md)
          + [Configurar credenciais da API de MMS e superfícies de canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)

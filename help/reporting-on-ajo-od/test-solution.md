@@ -42,7 +42,7 @@ Abra o arquivo weather-offers.html no editor de texto e substitua a tag script p
 
 - Abra a página da Web em seu navegador favorito.
 
-- Permitir _**rastreamento de localização**_. Isso é necessário para obter os detalhes meteorológicos com base em sua localização.
+- Permitir _&#x200B;**rastreamento de localização**&#x200B;_. Isso é necessário para obter os detalhes meteorológicos com base em sua localização.
 
 - Clique no botão nas ofertas para acionar o evento de interação.
 

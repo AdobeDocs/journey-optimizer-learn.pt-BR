@@ -21,6 +21,6 @@ Para iniciar a configuração de relatórios do Adobe Journey Optimizer Offer De
 
 - Fazer logon no Journey Optimizer
 
-- Navegue até _**Administração ->Configurações ->Relatórios ->Gerenciar ->Adicionar conjunto de dados**_
-- Selecione o _**Conjunto de dados de esquema de tempo**_, que armazena a impressão da oferta e os eventos de clique gerados no tutorial anterior.
+- Navegue até _&#x200B;**Administração ->Configurações ->Relatórios ->Gerenciar ->Adicionar conjunto de dados**&#x200B;_
+- Selecione o _&#x200B;**Conjunto de dados de esquema de tempo**&#x200B;_, que armazena a impressão da oferta e os eventos de clique gerados no tutorial anterior.
 

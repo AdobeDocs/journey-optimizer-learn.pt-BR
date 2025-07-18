@@ -25,7 +25,7 @@ Para usar o Adobe Experience Platform Web SDK (Alloy.js) em uma página da Web, 
 Para criar um esquema XDM
 
 - Fazer logon no Adobe Experience Platform
-- Navegue até _**Gerenciamento de dados -> Esquemas -> Criar esquema**_
+- Navegue até _&#x200B;**Gerenciamento de dados -> Esquemas -> Criar esquema**&#x200B;_
 
 - Crie um esquema baseado em eventos XDM chamado **_Weather-Schema_**. Se você não estiver familiarizado com a criação de um esquema, siga esta [documentação](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
@@ -34,21 +34,21 @@ Para criar um esquema XDM
 
 - ![weather-schema](assets/weather-schema.png)
 
-- Adicione o Grupo de Campos _**Detalhes da Web**_ ao esquema. Este grupo de campos é necessário para fins de relatório.
+- Adicione o Grupo de Campos _&#x200B;**Detalhes da Web**&#x200B;_ ao esquema. Este grupo de campos é necessário para fins de relatório.
 
 ## Criar um conjunto de dados com base no esquema
 
 Um **conjunto de dados na Adobe Experience Platform (AEP)** é um contêiner de armazenamento estruturado usado para assimilar, armazenar e ativar dados com base em um esquema XDM definido.
 
-- Navegue até _**Gerenciamento de dados -> Conjuntos de dados -> Criar conjunto de dados**_
-- Crie um conjunto de dados chamado **_Weather-schema-dataset_** com base no esquema XDM(_**Weather-Schema**_) criado na etapa anterior.
+- Navegue até _&#x200B;**Gerenciamento de dados -> Conjuntos de dados -> Criar conjunto de dados**&#x200B;_
+- Crie um conjunto de dados chamado **_Weather-schema-dataset_** com base no esquema XDM(_&#x200B;**Weather-Schema**&#x200B;_) criado na etapa anterior.
 
 
 ## Criar um fluxo de dados
 
 Um fluxo de dados no Adobe Experience Platform é como um pipeline seguro (ou rodovia) que conecta seu site ou aplicativo aos serviços da Adobe, permitindo que os dados fluam e o conteúdo personalizado flua de volta.
 
-- Navegue até _**Coleção de dados > Sequências de dados**_ e clique em Nova sequência de dados. Nomeie a sequência de dados **sequência de dados relacionada ao tempo**
+- Navegue até _&#x200B;**Coleção de dados > Sequências de dados**&#x200B;_ e clique em Nova sequência de dados. Nomeie a sequência de dados **sequência de dados relacionada ao tempo**
 
 
 - Forneça os detalhes a seguir, como mostrado na captura de tela abaixo

@@ -18,13 +18,13 @@ ht-degree: 0%
 
 Para modificar o código no editor de personalização, siga as etapas:
 
-Navegue até _**Gerenciamento de Jornadas ->Campanhas**_
+Navegue até _&#x200B;**Gerenciamento de Jornadas ->Campanhas**&#x200B;_
 
-Abra a campanha apropriada e clique no botão _**Parar campanha**_ para interromper a campanha.
+Abra a campanha apropriada e clique no botão _&#x200B;**Parar campanha**&#x200B;_ para interromper a campanha.
 
-Abra a campanha interrompida e clique no botão _**Modificar campanha**_.
+Abra a campanha interrompida e clique no botão _&#x200B;**Modificar campanha**&#x200B;_.
 
-Clique na guia _**Conteúdo**_ e clique no botão _**Editar código**_ para abrir o editor de personalização.
+Clique na guia _&#x200B;**Conteúdo**&#x200B;_ e clique no botão _&#x200B;**Editar código**&#x200B;_ para abrir o editor de personalização.
 
 Adicione dois novos atributos de dados ao div, como mostrado na captura de tela
 ![token de rastreamento](assets/offer-item-with-tracking-code.png)

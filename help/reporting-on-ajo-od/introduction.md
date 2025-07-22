@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
+source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -24,9 +25,7 @@ O objetivo é fornecer insights claros e orientados por dados sobre o desempenho
 
 
 
-
 ![painel-de-relatórios](assets/dashboard-reporting.png)
-
 
 
 ## Pré-requisitos para este tutorial
@@ -34,12 +33,8 @@ O objetivo é fornecer insights claros e orientados por dados sobre o desempenho
 Antes de começar, complete o [tutorial Personalizar Ofertas com Dados Climáticos em Tempo Real.](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Estabelece todos os componentes fundamentais, incluindo:
 
 - Integração com o Web SDK
-
 - Configuração de oferta no Adobe Journey Optimizer (AJO)
-
 - Decisão usando atributos contextuais, como clima e temperatura
-
 - Renderização da oferta em tempo real em uma página da Web
 
 Este tutorial se baseia diretamente nessa implementação e se concentra especificamente na captura de impressões e interações de ofertas para relatórios e análises no Journey Optimizer.
-

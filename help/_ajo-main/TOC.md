@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 4a228623154a5422ba45ff1c0cc8be986787c0cb
+source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 99%
+source-wordcount: '860'
+ht-degree: 98%
 
 ---
 
@@ -46,13 +46,14 @@ ht-degree: 99%
    + [Designer de jornada: visão geral](/help/create-journeys/journey-designer-overview.md)
    + [Conheça o novo Journey Designer](/help/create-journeys/new-journey-designer.md)
    + [Introdução à criação de jornadas](/help/create-journeys/introduction-to-building-a-journey.md)
+   + [Criar um perfil de teste](/help/create-journeys/test-a-journey.md)
+   + [Publicar uma jornada](/help/create-journeys/publish-a-journey.md)
    + [Caso de uso - Jornada transacional](/help/create-journeys/use-case-transactional-journey.md)
    + [Caso de uso - Evento comercial](/help/create-journeys/use-case-business-event.md)
    + [Caso de uso - Público-alvo de leitura](/help/create-journeys/use-case-read-audience.md)
    + [Caso de uso - Qualificação de público-alvo](/help/create-journeys/use-case-audience-qualification.md)
-   + [Criar um perfil de teste](/help/create-journeys/test-a-journey.md)
+   + [Dominar a filtragem de vários atributos](/help/create-journeys/mastering-multi-attribute-filtering.md)
    + [Validar a lógica da jornada com o recurso Execução de teste da jornada](/help/create-journeys/journey-dry-run.md)
-   + [Publicar uma jornada](/help/create-journeys/publish-a-journey.md)
    + [Desbloquear reentrada da jornada com IDs complementares](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Atualizar conteúdo em uma jornada ativa](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)

@@ -1,5 +1,5 @@
 ---
-title: Rastrear e relatar ofertas do Adobe Journey Optimizer (AJO) entregues via AJO Offer Decisioning
+title: Rastrear e relatar ofertas do Adobe Journey Optimizer (AJO) fornecidas pelo AJO Decisioning
 description: Este tutorial estende uma implementação existente do Adobe Journey Optimizer (AJO) que fornece ofertas personalizadas com base em dados contextuais, como temperatura. Ele descreve como capturar eventos de impressão e interação e preparar os dados para relatórios no Journey Optimizer.
 feature: Decisioning
 role: User
@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
-# Rastrear e relatar ofertas do Adobe Journey Optimizer (AJO) entregues via AJO Offer Decisioning
+# Rastrear e relatar ofertas do Adobe Journey Optimizer (AJO) fornecidas pelo AJO Decisioning
 
 Esse caso de uso se concentra em permitir a emissão de relatórios e a análise de desempenho para ofertas entregues por meio do Adobe Journey Optimizer (AJO). Quando as ofertas são personalizadas e entregues com base em sinais contextuais (como clima ou localização), é essencial rastrear as impressões e as interações do usuário para avaliar sua eficácia.
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 Para habilitar relatórios sobre impressões de oferta e cliques do AJO Decisioning, os seguintes componentes devem ser configurados:
 >[!NOTE]
 >
-> Esses pré-requisitos já foram concluídos na seção de criação de esquema e conjunto de dados do [tutorial anterior](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Esses pré-requisitos já foram concluídos na seção de criação de esquema e conjunto de dados do [tutorial anterior](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## &#x200B;1. Conjunto de dados na Adobe Experience Platform (AEP)
 

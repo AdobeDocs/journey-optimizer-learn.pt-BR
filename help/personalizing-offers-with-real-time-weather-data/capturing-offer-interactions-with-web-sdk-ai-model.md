@@ -1,6 +1,6 @@
 ---
 title: Captura de interações de oferta com o Adobe Web SDK para treinamento do modelo de IA
-description: Este artigo fornece orientação sobre como capturar dados de interação do usuário — como impressões de ofertas e cliques — usando o Adobe Experience Platform Web SDK (alloy.js). Esses dados servem como base para treinar modelos de IA no Adobe Journey Optimizer (AJO) de forma inteligente para classificar ofertas com base no comportamento do usuário e em sinais contextuais.
+description: Este artigo fornece orientação sobre como capturar dados de interação do usuário — como impressões de ofertas e cliques — usando o Adobe Experience Platform Web SDK (alloy.js). Esses dados servem como base para treinar modelos de IA no Adobe Journey Optimizer (AJO) de forma inteligente para classificar ofertas de acordo com o comportamento do usuário e sinais contextuais.
 feature: Decisioning
 topic: Integrations
 role: User
@@ -8,13 +8,13 @@ level: Beginner
 doc-type: Article
 last-substantial-update: 2025-07-08T00:00:00Z
 jira: KT-18451
-source-git-commit: 41f0d44fb39c9d187ee8c97d54202387fa9eda56
+exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
+source-git-commit: 6c4f33d1f55be298781cfb0958862f9710e3647a
 workflow-type: tm+mt
 source-wordcount: '698'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Captura de interações de oferta com o Adobe Web SDK para treinamento do modelo de IA
 
@@ -41,7 +41,7 @@ Em vez de criar um novo esquema, o esquema Evento de experiência existente usad
 
 No Adobe Experience Platform:
 
-- Abra o _&#x200B;**Esquema de Meteorologia**&#x200B;_ existente. Esquema de Evento de Experiência que você está usando para ofertas baseadas em clima.
+- Abra o _**Esquema de Meteorologia**_ existente. Esquema de Evento de Experiência que você está usando para ofertas baseadas em clima.
 
 - Adicionar o grupo de campos:
 Evento de experiência - Interações de apresentação
@@ -72,26 +72,32 @@ Um evento decisioning.propositionDisplay agora é enviado usando o Adobe Web SDK
 
 
 ```javascript
-if (offerIds.length > 0) {
-  alloy("sendEvent", {
-    xdm: {
-      _id: generateUUID(),
-      timestamp: new Date().toISOString(),
-      eventType: "decisioning.propositionDisplay",
-      _experience: {
-        decisioning: {
-          propositionEvent: {
-            display: 1
-          },
-          involvedPropositions: offerIds.map(id => ({
-            id,
-            scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-          }))
-        }
-      }
-    }
-  });
-}
+alloy("sendEvent", {
+                    xdm: {
+                      _id: generateUUID(),
+                      timestamp: new Date().toISOString(),
+                      eventType: "decisioning.propositionInteract",
+                      identityMap: {
+                        ECID: [{
+                          id: ecidValue,
+                          authenticatedState: "ambiguous",
+                          primary: true
+                        }]
+                      },
+                      _experience: {
+                        decisioning: {
+                          propositionEventType: {
+                            interact: 1
+                          },
+                          propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                          },
+                          propositions: window.latestPropositions
+                        }
+                      }
+                    }
+                  });
 ```
 
 ## Capturar Eventos De Clique Da Oferta (Interações)
@@ -102,31 +108,42 @@ Quando um clique é detectado, um evento decisioning.propositionInteract é envi
 
 ```javascript
 // Attach click tracking to <a> and <button> elements
-wrapper.querySelectorAll("a, button").forEach(el => {
-  el.addEventListener("click", () => {
-    const offerId = el.getAttribute("data-offer-id") || item.id;
-    console.log("Clicked element offerId:", offerId);
+child.querySelectorAll("a, button").forEach(el => {
+                el.addEventListener("click", () => {
+                  const ecidValue = getECID();
+                  if (!ecidValue || !offerId || !trackingToken) {
+                    console.warn("Girish!!!!  Missing ECID, offerId, or trackingToken. Interaction event not sent.");
+                    return;
+                  }
 
-    alloy("sendEvent", {
-      xdm: {
-        _id: generateUUID(),
-        timestamp: new Date().toISOString(),
-        eventType: "decisioning.propositionInteract",
-        _experience: {
-          decisioning: {
-            propositionEvent: {
-              interact: 1
-            },
-            involvedPropositions: [{
-              id: offerId,
-              scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-            }]
-          }
-        }
-      }
-    });
-  });
-});
+                  alloy("sendEvent", {
+                    xdm: {
+                      _id: generateUUID(),
+                      timestamp: new Date().toISOString(),
+                      eventType: "decisioning.propositionInteract",
+                      identityMap: {
+                        ECID: [{
+                          id: ecidValue,
+                          authenticatedState: "ambiguous",
+                          primary: true
+                        }]
+                      },
+                      _experience: {
+                        decisioning: {
+                          propositionEventType: {
+                            interact: 1
+                          },
+                          propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                          },
+                          propositions: window.latestPropositions
+                        }
+                      }
+                    }
+                  });
+                });
+              });
 ```
 
 ## Criar um modelo de IA para classificação de ofertas no Adobe Journey Optimizer Offer Decisioning

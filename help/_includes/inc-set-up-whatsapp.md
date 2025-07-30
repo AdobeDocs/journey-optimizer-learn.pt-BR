@@ -17,4 +17,4 @@ O que você aprenderá:
 
 Perfeito para profissionais de marketing e desenvolvedores que desejam ativar mensagens do WhatsApp nas jornadas dos clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470273/?learn=on&enablevpops&captions=por_br)

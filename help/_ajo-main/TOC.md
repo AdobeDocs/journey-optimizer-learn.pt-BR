@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: d84462b08d8abac74f9fa1147f6d10a05922520b
+source-git-commit: e21d18dea5e34d8647fdc7028a5ab5d47420fa33
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '893'
 ht-degree: 96%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 96%
 + Casos de uso {#use-cases}
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)
    + [Carrinho abandonado](/help/use-cases/abandoned-cart.md)
-   + [Reengajamento inteligente - Navegação abandonada](https://experienceleague.adobe.com/pt-br/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Reengajamento inteligente - Navegação abandonada](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Como personalizar ofertas com dados meteorológicos em tempo real no Adobe Journey Optimizer, usando o SDK da web](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [Gerar relatórios sobre impressões e cliques de ofertas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Usar a fórmula de classificação para fornecer ofertas personalizadas no Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -109,6 +109,7 @@ ht-degree: 96%
       + [Criar uma campanha da Web](/help/channels/author-a-web-campaign.md)
       + [Compatibilidade com SPA no editor da web](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
+      + [Introdução ao WhatsApp (ponta a ponta)](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [Introdução ao canal do WhatsApp](/help/channels/whatsapp-introduction.md)
       + [Configurar o canal do WhatsApp](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)
       + [Criar uma jornada do WhatsApp](/help/channels/create-a-whatsapp-journey.md)

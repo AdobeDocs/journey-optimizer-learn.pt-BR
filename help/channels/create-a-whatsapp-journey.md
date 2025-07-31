@@ -28,4 +28,4 @@ O que você aprenderá:
 
 Ideal para profissionais de marketing que buscam automatizar o engajamento personalizado do cliente por meio do WhatsApp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470287/?learn=on&enablevpops&captions=por_br)

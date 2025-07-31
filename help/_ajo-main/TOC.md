@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 41b6fb378767274151676aaf5ed247e9551717e4
+source-git-commit: e0713e7265468f749239acdac53ddaf1c27afdc8
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 96%
+source-wordcount: '905'
+ht-degree: 95%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
 + Casos de uso {#use-cases}
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)
    + [Carrinho abandonado](/help/use-cases/abandoned-cart.md)
-   + [Reengajamento inteligente - Navegação abandonada](https://experienceleague.adobe.com/pt-br/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Reengajamento inteligente - Navegação abandonada](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Como personalizar ofertas com dados meteorológicos em tempo real no Adobe Journey Optimizer, usando o SDK da web](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [Gerar relatórios sobre impressões e cliques de ofertas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Usar a fórmula de classificação para fornecer ofertas personalizadas no Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -36,13 +36,17 @@ ht-degree: 96%
    + [Recursos móveis para desenvolvedores](/help/channels/mobile-capabilities-for-developers.md)
    + [Obter ajuda com o assistente de IA](/help/ai-assistant.md)
 + Campanhas {#create-campaigns}
-   + [Criar uma campanha](/help/create-campaigns/create-a-campaign.md)
-   + [Criar uma campanha no aplicativo](/help/create-campaigns/in-app.md)
-   + [Configurar e enviar uma campanha por push](/help/create-campaigns/push-campaign.md)
-   + [Criar uma campanha da web](/help/create-campaigns/web-campaign.md)
-   + [Criar uma campanha de experiência baseada em código](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-   + [Acione campanhas usando APIs](/help/create-campaigns/api-triggered-campaigns.md)
-   + [Criar experimentos de conteúdo para campanhas de email](/help/create-campaigns/content-experiments.md)
+   + Campanhas de ação {#action-campaigns}
+      + [Criar uma campanha](/help/create-campaigns/create-a-campaign.md)
+      + [Criar uma campanha no aplicativo](/help/create-campaigns/in-app.md)
+      + [Configurar e enviar uma campanha por push](/help/create-campaigns/push-campaign.md)
+      + [Criar uma campanha da web](/help/create-campaigns/web-campaign.md)
+      + [Criar uma campanha de experiência baseada em código](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+      + [Criar experimentos de conteúdo para campanhas de email](/help/create-campaigns/content-experiments.md)
+      + [Aproveitar a otimização de mensagens em uma campanha](/help/channels/leverage-message-optimization-in-a-campaign.md)
+   + Campanhas acionadas por API {#api-triggered-campaigns}
+      + [Acione campanhas usando APIs](/help/create-campaigns/api-triggered-campaigns.md)
+   + Campanhas orquestradas {#orchestrated-campaigns}
 + Jornadas {#create-journeys}
    + [Designer de jornada: visão geral](/help/create-journeys/journey-designer-overview.md)
    + [Conheça o novo Journey Designer](/help/create-journeys/new-journey-designer.md)

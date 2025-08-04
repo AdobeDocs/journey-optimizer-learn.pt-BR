@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Saiba como aproveitar a otimização de mensagens em campanhas acionadas por ação ou API. Você verá como direcionar subpúblicos-alvo, criar variações de mensagem por local, ativar conteúdo de fallback e executar vários experimentos em uma única campanha. Este tutorial também aborda como gerenciar campanhas com vários canais e, ao mesmo tempo, manter a consistência da mensagem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470373/?learn=on&enablevpops&captions=por_br)

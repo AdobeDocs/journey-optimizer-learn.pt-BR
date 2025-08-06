@@ -24,4 +24,4 @@ Saiba como criar e personalizar suas próprias marcas para definir claramente su
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
 
-Para obter mais informações sobre este recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).
+Para obter mais informações sobre este recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).

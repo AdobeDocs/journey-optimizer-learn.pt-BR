@@ -1,6 +1,6 @@
 ---
 title: Introdução ao WhatsApp no Adobe Journey Optimizer
-description: Saiba como integrar o WhatsApp como um canal nativo no Adobe Journey Optimizer para fornecer mensagens seguras, em tempo real e personalizadas em escala.
+description: Saiba como integrar o WhatsApp como um canal nativo ao Adobe Journey Optimizer para fornecer mensagens seguras, em tempo real e personalizadas em grande escala.
 feature: Whatsapp
 role: Admin, User
 level: Beginner, Intermediate, Experienced
@@ -9,25 +9,25 @@ duration: 598
 last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-18657
 hidefromtoc: true
-source-git-commit: e21d18dea5e34d8647fdc7028a5ab5d47420fa33
-workflow-type: tm+mt
+exl-id: 0edd792a-14e5-4fb4-94e0-f032be89d267
+source-git-commit: e0aee000736f2e1d2ac290c4e24b2e0de95753a0
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Introdução ao WhatsApp no Adobe Journey Optimizer
 
-Saiba como integrar o WhatsApp como um canal nativo no Adobe Journey Optimizer para fornecer mensagens seguras, em tempo real e personalizadas em escala.
+Saiba como integrar o WhatsApp como um canal nativo ao Adobe Journey Optimizer para fornecer mensagens seguras, em tempo real e personalizadas em grande escala.
 
-Neste tutorial, você descobrirá como:
+Neste tutorial, você aprenderá a:
 
-* Configure sua Conta de Negócios do WhatsApp e conecte-a ao Journey Optimizer.
-* Defina credenciais da API, webhooks e configurações de canal.
-* Criar e personalizar jornadas do WhatsApp usando modelos de mensagem aprovados.
-* Teste, visualize e publique campanhas com relatórios e análises integrados.
+* Configurar a sua conta comercial do WhatsApp e conectá-la ao Journey Optimizer.
+* Definir credenciais da API, webhooks e configurações do canal.
+* Criar e personalizar jornadas do WhatsApp com base em modelos de mensagem aprovados.
+* Testar, visualizar e publicar campanhas com relatórios e análises integrados.
 
-Perfeito para profissionais de marketing que buscam expandir seu alcance e engajamento por meio de uma das plataformas de mensagens mais populares do mundo.
+Perfeito para profissionais de marketing que buscam expandir seu alcance e engajamento por meio de uma das plataformas de mensagens mais usadas do mundo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470249/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)

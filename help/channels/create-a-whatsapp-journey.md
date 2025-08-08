@@ -1,6 +1,6 @@
 ---
 title: Criar uma jornada do WhatsApp
-description: Este tutorial o guiará pela criação de uma jornada do WhatsApp em várias etapas usando o Adobe Journey Optimizer.
+description: Este tutorial apresentará a criação de uma jornada do WhatsApp em várias etapas com o Adobe Journey Optimizer.
 feature: Whatsapp
 role: User
 level: Beginner
@@ -8,24 +8,24 @@ doc-type: Feature Video
 duration: 309
 last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-18659
-source-git-commit: 3f47c5ea06e03a79d031fcf3160735a41aa2ed9c
-workflow-type: tm+mt
+exl-id: ec2df062-4c43-4afc-9ae4-ae98f8c106af
+source-git-commit: 20e0da0799956b246370aa04dabec958ff6b51ae
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Criar uma jornada do WhatsApp
 
-Este tutorial o guiará pela criação de uma jornada do WhatsApp em várias etapas usando o Adobe Journey Optimizer.
+Este tutorial apresentará a criação de uma jornada do WhatsApp em várias etapas com o Adobe Journey Optimizer.
 
 O que você aprenderá:
 
-* Configure uma jornada que envie uma confirmação de reserva de cruzeiro, aguarde três dias e forneça uma mensagem de venda adicional direcionada.
-* Defina seu público, configure as ações do WhatsApp e personalize as mensagens usando modelos aprovados.
-* Pré-visualize e teste mensagens com variáveis de mídia e dinâmicas antes de publicar.
+* Configurar uma jornada para enviar uma confirmação de reserva de cruzeiro, aguardar três dias e fornecer uma mensagem de venda adicional direcionada.
+* Definir o seu público-alvo, configurar as ações do WhatsApp e personalizar as mensagens com base em modelos aprovados.
+* Pré-visualizar e testar mensagens com mídias e variáveis dinâmicas antes de publicar.
 
-Ideal para profissionais de marketing que buscam automatizar o engajamento personalizado do cliente por meio do WhatsApp.
+Ideal para profissionais de marketing que buscam automatizar o engajamento personalizado dos clientes por meio do WhatsApp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470287/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)

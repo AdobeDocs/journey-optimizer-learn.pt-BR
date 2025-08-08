@@ -1,20 +1,20 @@
 ---
 source-git-commit: 261b26e38b627e26de619ef08fdba455ad486fd5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # Configurar o canal do WhatsApp
 
-Este tutorial o guiará pela configuração do canal do WhatsApp no Adobe Journey Optimizer para ativar as mensagens comerciais em tempo real.
+Este tutorial apresentará a configuração do canal do WhatsApp no Adobe Journey Optimizer para habilitar mensagens comerciais em tempo real.
 
 O que você aprenderá:
 
-* Adicione e configure as credenciais da API do WhatsApp e os detalhes da conta comercial.
-* Configure webhooks para o tratamento de mensagens de entrada, incluindo palavras-chave de aceitação/recusa.
-* Crie uma configuração de canal para finalizar sua configuração do WhatsApp.
+* Adicionar e configurar as credenciais da API do WhatsApp e os detalhes da conta comercial.
+* Configurar webhooks para o tratamento de mensagens de entrada, incluindo palavras-chave de aceitação/recusa.
+* Criar uma configuração do canal para finalizar a configuração do WhatsApp.
 
-Perfeito para profissionais de marketing e desenvolvedores que desejam ativar mensagens do WhatsApp nas jornadas dos clientes.
+Perfeito para profissionais de marketing e desenvolvedores que desejam ativar mensagens do WhatsApp em suas jornadas do cliente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470273/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)

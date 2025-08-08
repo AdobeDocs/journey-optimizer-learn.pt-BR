@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
+source-git-commit: 39376d745d851bf2c3ed3826b9f550efafd9e8f4
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-# Rastrear e relatar ofertas do Adobe Journey Optimizer (AJO) fornecidas pelo AJO Decisioning
+# Rastrear e relatar as ofertas do Journey Optimizer entregues por meio do AJO Decisioning
 
 Esse caso de uso se concentra em permitir a emissão de relatórios e a análise de desempenho para ofertas entregues por meio do Adobe Journey Optimizer (AJO). Quando as ofertas são personalizadas e entregues com base em sinais contextuais (como clima ou localização), é essencial rastrear as impressões e as interações do usuário para avaliar sua eficácia.
 

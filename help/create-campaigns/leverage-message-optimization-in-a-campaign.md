@@ -1,6 +1,6 @@
 ---
-title: Aproveitar a otimização de mensagens em uma campanha
-description: Saiba como aproveitar a otimização de mensagens em campanhas acionadas por ação ou API. Você verá como direcionar subpúblicos-alvo, criar variações de mensagem por local, ativar conteúdo de fallback e executar vários experimentos em uma única campanha. Este tutorial também aborda como gerenciar campanhas com vários canais e, ao mesmo tempo, manter a consistência da mensagem.
+title: Utilizar a otimização de mensagens em uma campanha
+description: Saiba como utilizar a otimização de mensagens em campanhas acionadas por ações ou API. Você aprenderá a direcionar subconjuntos do público-alvo, criar variações de mensagem por local, habilitar o conteúdo de fallback e executar vários experimentos em uma mesma campanha. Este tutorial também aborda como gerenciar campanhas com vários canais e, ao mesmo tempo, manter a consistência das mensagens.
 feature: Campaigns
 role: User
 level: Beginner
@@ -14,12 +14,12 @@ exl-id: 12a80ca8-2517-4bbc-950f-18e1dfb8dc72
 source-git-commit: 79ff41864859fa6b18e09b4d3402492f91d9e658
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Aproveitar a otimização de mensagens em uma campanha
+# Utilizar a otimização de mensagens em uma campanha
 
-Saiba como aproveitar a otimização de mensagens em campanhas acionadas por ação ou API. Você verá como direcionar subpúblicos-alvo, criar variações de mensagem por local, ativar conteúdo de fallback e executar vários experimentos em uma única campanha. Este tutorial também aborda como gerenciar campanhas com vários canais e, ao mesmo tempo, manter a consistência da mensagem.
+Saiba como utilizar a otimização de mensagens em campanhas acionadas por ações ou API. Você aprenderá a direcionar subconjuntos do público-alvo, criar variações de mensagem por local, habilitar o conteúdo de fallback e executar vários experimentos em uma mesma campanha. Este tutorial também aborda como gerenciar campanhas com vários canais e, ao mesmo tempo, manter a consistência das mensagens.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470373/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)

@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Saiba como criar e personalizar suas próprias marcas para definir claramente sua identidade visual e verbal nas comunicações. Entenda como você pode receber feedback em tempo real sobre como o conteúdo reflete o tom, o estilo e as diretrizes da sua marca, com a pontuação de alinhamento da marca.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470551/?learn=on&enablevpops&captions=por_br)
 
 Para obter mais informações sobre este recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).

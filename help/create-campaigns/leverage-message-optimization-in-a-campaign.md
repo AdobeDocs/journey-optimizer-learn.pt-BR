@@ -24,4 +24,4 @@ Saiba como utilizar a otimização de mensagens em campanhas acionadas por açõ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
 
-Para obter mais informações sobre este recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
+Para obter mais informações sobre este recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).

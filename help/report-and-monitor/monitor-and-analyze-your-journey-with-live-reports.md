@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como usar o recurso Relatório ao vivo do Adobe Journey Optimizer com eficiência para monitorar e analisar o desempenho de suas jornadas e mensagens em tempo real. Saiba como personalizar painéis, exportar relatórios e interpretar métricas específicas do jornada para otimizar suas estratégias de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470709/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470840/?learn=on&enablevpops&captions=por_br)

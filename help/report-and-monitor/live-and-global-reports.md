@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba mais sobre a diferença entre relatórios dinâmicos e globais, como acessar e analisar a jornada e os relatórios específicos de mensagem e como modificar os painéis do relatório.  
 
->[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417588?quality=12&learn=on&captions=por_br){transcript=true}

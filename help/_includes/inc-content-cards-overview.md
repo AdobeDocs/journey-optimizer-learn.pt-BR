@@ -7,7 +7,7 @@ ht-degree: 2%
 ---
 # Cartões de conteúdo - Visão geral
 
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3460088/?learn=on&enablevpops&captions=por_br){transcript=true}
 
 ## O que é?
 

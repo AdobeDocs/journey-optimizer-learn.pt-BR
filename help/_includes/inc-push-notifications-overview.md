@@ -1,5 +1,5 @@
 ---
-source-git-commit: b4262722d7ebffb936a95425baab219bb40775fa
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 2%
@@ -33,7 +33,7 @@ Escolha notificações por push como seu canal de mensagens preferido quando pre
 | 5 | Aproveitar os recursos nativos do dispositivo | As notificações por push se integram aos recursos de SO da iOS/Android, como vibração, sons, selos e acionadores de geofencing. | <ul><li> Ofertas baseadas em localização quando perto de uma loja</li><li> Lembretes acionados em horários específicos.</li></ul> |
 | 6 | Quando a aceitação for provável | O push só funciona para usuários que aceitaram explicitamente o. Se o aplicativo oferecer alto valor ou a marca já tiver confiança, as taxas de aceitação podem ser altas. | <ul><li> Aplicativos com bases de usuários fiéis</li><li> Fluxos de integração que explicam o valor das notificações.</li></ul> |
 
-## Quando NÃO usar push como canal principal
+## Quando *não* usar push como canal principal
 
 * Baixas taxas de aceitação ou resistência do usuário às notificações.
 * Necessidade de conteúdo de formulário longo (o email pode ser melhor).

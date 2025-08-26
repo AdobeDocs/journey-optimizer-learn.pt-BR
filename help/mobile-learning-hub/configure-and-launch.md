@@ -30,7 +30,7 @@ Configure os canais móveis no Journey Optimizer e no Experience Platform, integ
 
 ## Recursos para dispositivos móveis no Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344619?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## SDK para dispositivos móveis e configuração de aplicativos
 
@@ -89,7 +89,7 @@ Saiba como o canal configura seus **canais móveis** usando a funcionalidade de 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Configurar o canal do WhatsApp" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1755888511569" alt="Configurar o canal do WhatsApp"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470273/?format=jpeg&nocache=1755888511569&captions=por_br" alt="Configurar o canal do WhatsApp"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -172,7 +172,7 @@ Saiba como configurar **canais SMS/MMS/RCS** com os provedores padrão (Twilio, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Configurar credenciais da API de MMS e superfícies de canal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1755888512061" alt="Configurar credenciais da API de MMS e superfícies de canal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438051/?format=jpeg&nocache=1755888512061&captions=por_br" alt="Configurar credenciais da API de MMS e superfícies de canal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -195,7 +195,7 @@ Saiba como configurar **canais SMS/MMS/RCS** com os provedores padrão (Twilio, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Configurar RCS no Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755888512073" alt="Configurar RCS no Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464760/?format=jpeg&nocache=1755888512073&captions=por_br" alt="Configurar RCS no Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -259,7 +259,7 @@ Saiba como configurar **canais SMS/MMS/RCS** com os provedores padrão (Twilio, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="Visão geral da estrutura de governança de dados" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1755888512557" alt="Visão geral da estrutura de governança de dados"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32683/?format=jpeg&nocache=1755888512557&captions=por_br" alt="Visão geral da estrutura de governança de dados"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -282,7 +282,7 @@ Saiba como configurar **canais SMS/MMS/RCS** com os provedores padrão (Twilio, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="Classificar dados usando rótulos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1755888512540" alt="Classificar dados usando rótulos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422793?format=jpeg&nocache=1755888512540&captions=por_br" alt="Classificar dados usando rótulos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -305,7 +305,7 @@ Saiba como configurar **canais SMS/MMS/RCS** com os provedores padrão (Twilio, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="Criar políticas de uso de dados" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1755888512550" alt="Criar políticas de uso de dados"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/37143/?format=jpeg&nocache=1755888512550&captions=por_br" alt="Criar políticas de uso de dados"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

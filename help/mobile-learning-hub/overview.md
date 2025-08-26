@@ -6,13 +6,13 @@ role: User, Admin, Developer
 hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
-source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
+exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
+source-git-commit: b70b2cca5d95d931c8bbd52a69e96ccc31faa92c
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 0%
 
 ---
-
 
 # Journey Optimizer - Hub de aprendizagem móvel
 
@@ -35,7 +35,7 @@ Os canais de saída são usados para **entregar mensagens** de forma proativa ao
 
 > Os canais de saída impõem **Políticas de Consentimento Personalizadas** no momento do envio da mensagem. Se o consentimento não for concedido para uma ação de marketing específica, a mensagem será bloqueada para delivery.
 
-## Canais de entrada
+### Canais de entrada
 
 Os canais de entrada foram projetados para **interações iniciadas pelo cliente**, permitindo experiências personalizadas quando os usuários interagem com sua marca.
 
@@ -45,7 +45,7 @@ Os canais de entrada foram projetados para **interações iniciadas pelo cliente
 
 > Os canais de entrada oferecem suporte à **personalização em tempo real** e à **captura de dados**, como formulários de página de aterrissagem que são alimentados no Adobe Experience Platform (AEP) para segmentação e direcionamento.
 
-## Como os canais móveis podem funcionar em conjunto?
+### Como os canais móveis podem funcionar em conjunto?
 
 Ao combinar esses canais, você pode criar uma experiência perfeita e eficaz para o cliente:
 
@@ -64,7 +64,7 @@ Ao combinar esses canais, você pode criar uma experiência perfeita e eficaz pa
 
 ## Casos de uso do cliente
 
-* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=pt)
+* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
 
 
 ## Construa sua base
@@ -99,5 +99,3 @@ Saiba mais sobre os conceitos e como
 | **Campanhas de venda adicional e venda cruzada** | Promove produtos adicionais ou atualizações para clientes existentes com base em seu comportamento, preferências ou histórico de compras. | - As notificações por push destacam oportunidades relevantes de venda adicional.<br>- As mensagens no aplicativo e os cartões de conteúdo exibem itens complementares.<br>- As campanhas SMS visam públicos segmentados com ofertas exclusivas. |
 | **Prevenção de Churn** | Identifica os usuários que correm o risco de sair e os envolve com estratégias personalizadas de retenção para manter a fidelidade. | - A análise preditiva aciona alcance móvel para usuários em risco.<br>- Notificações por push e SMS oferecem recompensas de fidelidade ou conteúdo personalizado.<br>- As pesquisas no aplicativo coletam feedback para melhorar as estratégias de retenção. |
 | **Mensagens multicanais** | Orquestra mensagens consistentes em vários canais móveis para garantir que os usuários recebam comunicações oportunas e relevantes. | - Push, no aplicativo, SMS e email são coordenados para unificação de mensagens.<br>- Os SDKs permitem a personalização em tempo real entre canais.<br>- Os cartões de conteúdo persistem entre as sessões para reforçar as principais mensagens. |
-
-

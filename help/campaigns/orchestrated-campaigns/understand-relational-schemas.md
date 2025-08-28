@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Neste tutorial, você obtém uma sólida compreensão de como os esquemas relacionais, específicos para campanhas orquestradas no Journey Optimizer, funcionam juntamente com os Perfis de clientes em tempo real. Saiba mais sobre os conceitos principais por trás da assimilação de dados, modelagem de esquema, segmentação e execução de campanha, fornecendo a base para projetar jornadas estruturadas, escaláveis e personalizadas para o cliente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470219/?learn=on&enablevpops&captions=por_br)

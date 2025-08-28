@@ -24,6 +24,6 @@ ht-degree: 100%
 
 Saiba como entregar conteúdo único a um público-alvo específico executando ações imediatamente ou em um cronograma especificado.
 
->[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3414156?quality=12&learn=on&captions=por_br){transcript=true}
 
 Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=pt-BR) para obter mais informações sobre esse recurso.

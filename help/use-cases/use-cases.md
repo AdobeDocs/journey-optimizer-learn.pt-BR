@@ -35,7 +35,7 @@ Explore cenários de marketing reais viabilizados pelo Adobe Journey Optimizer. 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="Caso de uso - Integração de clientes (Tutorial)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1756417587791" alt="Caso de uso - Integração de clientes (Tutorial)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440655/?format=jpeg&nocache=1756417587791&captions=por_br" alt="Caso de uso - Integração de clientes (Tutorial)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,7 +58,7 @@ Explore cenários de marketing reais viabilizados pelo Adobe Journey Optimizer. 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart" title="Manual de caso de uso - Carrinho de compras abandonado" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443964/?format=jpeg&nocache=1756417587818" alt="Manual de caso de uso - Carrinho de compras abandonado"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443969/?format=jpeg&nocache=1756417587818&captions=por_br" alt="Manual de caso de uso - Carrinho de compras abandonado"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +81,7 @@ Explore cenários de marketing reais viabilizados pelo Adobe Journey Optimizer. 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma" title="Exemplos do Luma de reengajamento inteligente" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425184/?format=jpeg&nocache=1756417587792" alt="Exemplos do Luma de reengajamento inteligente"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454278/?format=jpeg&nocache=1756417587792&captions=por_br" alt="Exemplos do Luma de reengajamento inteligente"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

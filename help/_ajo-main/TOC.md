@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 7f05f2f16414c4bbd64f55fd6cf3bc68623c6d4d
+source-git-commit: a3b77dfe47e09816ad4d5b295ebe791c4f133e69
 workflow-type: tm+mt
-source-wordcount: '913'
-ht-degree: 99%
+source-wordcount: '926'
+ht-degree: 97%
 
 ---
 
@@ -180,8 +180,10 @@ ht-degree: 99%
    + [Configurar um destino de exportação para o conjunto de dados](/help/data-management/configure-dataset-export-destination.md)
    + [Exportar conjuntos de dados para locais de armazenamento na nuvem](/help/data-management/export-datasets.md)
 + Relatar e monitorar {#report-and-monitor}
-   + [Medição e relatórios: visão geral](/help/report-and-monitor/measurement-and-reporting-overview.md)
+   + [Relatar e monitorar](/help/report-and-monitor/report-and-monitor.md)
+   + [Introdução aos relatórios com o Journey Optimizer](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [Monitore e analise sua jornada com relatórios em tempo real](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
+   + [Monitorar e analisar sua jornada com relatórios de Jornada](/help/report-and-monitor/journey-reports.md)
    + [Relatórios no nível do canal](/help/report-and-monitor/channel-level-reports.md)
    + [Exportar relatórios no formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Usar alertas](/help/administration/alerts.md)

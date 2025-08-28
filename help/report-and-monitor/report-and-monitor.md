@@ -60,7 +60,7 @@ Seja você um iniciante ou um profissional de marketing experiente, essas ferram
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="Monitore e analise sua jornada com relatórios em tempo real" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1756406406388" alt="Monitore e analise sua jornada com relatórios em tempo real"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470840/?format=jpeg&nocache=1756406406388&captions=por_br" alt="Monitore e analise sua jornada com relatórios em tempo real"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -83,7 +83,7 @@ Seja você um iniciante ou um profissional de marketing experiente, essas ferram
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="Relatórios no nível do canal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1756406406387" alt="Relatórios no nível do canal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448044/?format=jpeg&nocache=1756406406387&captions=por_br" alt="Relatórios no nível do canal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -106,7 +106,7 @@ Seja você um iniciante ou um profissional de marketing experiente, essas ferram
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="Exportar relatórios no formato CSV" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1756406406384" alt="Exportar relatórios no formato CSV"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439614/?format=jpeg&nocache=1756406406384&captions=por_br" alt="Exportar relatórios no formato CSV"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -152,7 +152,7 @@ Seja você um iniciante ou um profissional de marketing experiente, essas ferram
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Relatórios aprimorados com o Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1756406406386" alt="Relatórios aprimorados com o Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443156/?format=jpeg&nocache=1756406406386&captions=por_br" alt="Relatórios aprimorados com o Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

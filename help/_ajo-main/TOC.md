@@ -3,7 +3,7 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: fe5ca064c5823c980b19a41a511e534842a91e99
+source-git-commit: b46e2f77012fd1032f4d434132ee3263489b39a8
 workflow-type: tm+mt
 source-wordcount: '926'
 ht-degree: 97%
@@ -34,7 +34,7 @@ ht-degree: 97%
    + [Arquitetura](/help/introduction/architecture.md)
    + [Recursos de publicações de conteúdo para dispositivos móveis para profissionais de marketing](/help/channels/mobile-capabilities.md)
    + [Recursos móveis para desenvolvedores](/help/channels/mobile-capabilities-for-developers.md)
-   + [Obter ajuda com o assistente de IA](/help/ai-assistant.md)
+   + [Obter ajuda com o assistente de IA](/help/ai-agents/ai-assistant.md)
 + Campanhas {#create-campaigns}
    + Campanhas de ações {#action-campaigns}
       + [Criar uma campanha](/help/create-campaigns/create-a-campaign.md)
@@ -121,7 +121,7 @@ ht-degree: 97%
    + [Criação de mensagens: visão geral](/help/content-management/message-authoring-overview.md)
    + Gerenciar ativos {#assets}
       + [Gerenciamento de ativos digitais: visão geral](/help/content-management/digital-asset-management-overview.md)
-      + [Gerenciar ativos](/help/assets-essentials-overview.md)
+      + [Gerenciar ativos](/help/content-management/assets-essentials-overview.md)
       + [Integração com o Dynamic Media do AEM](/help/content-management/aem-dynamic-media-integration.md)
       + [Editar ativos com o Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
    + Trabalhar com fragmentos {#fragments}
@@ -227,7 +227,7 @@ ht-degree: 97%
 + Exercícios e desafios {#exercises-and-challenges}
    + [Configurar uma sandbox de treinamento](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Desafios](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
-+ [Gravações do show ao vivo da Experience League](/help/experience-league-live-show-recordings.md)
++ [Gravações do show ao vivo da Experience League](/help/_ajo-main/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [Folha de dicas do Summit lab 2025](/help/summit-lab-assets/l535-assets.md)
    + [Crie momentos personalizados em dispositivos móveis com o Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}

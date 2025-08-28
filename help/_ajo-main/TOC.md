@@ -3,7 +3,7 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: a3b77dfe47e09816ad4d5b295ebe791c4f133e69
+source-git-commit: fe5ca064c5823c980b19a41a511e534842a91e99
 workflow-type: tm+mt
 source-wordcount: '926'
 ht-degree: 97%
@@ -181,7 +181,7 @@ ht-degree: 97%
    + [Exportar conjuntos de dados para locais de armazenamento na nuvem](/help/data-management/export-datasets.md)
 + Relatar e monitorar {#report-and-monitor}
    + [Relatar e monitorar](/help/report-and-monitor/report-and-monitor.md)
-   + [Introdução aos relatórios com o Journey Optimizer](/help/report-and-monitor/measurement-and-reporting-overview.md)
+   + [Introdução aos relatórios com o Journey Optimizer](/help/report-and-monitor/introduction-to-reporting.md)
    + [Monitore e analise sua jornada com relatórios em tempo real](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [Monitorar e analisar sua jornada com relatórios de Jornada](/help/report-and-monitor/journey-reports.md)
    + [Relatórios no nível do canal](/help/report-and-monitor/channel-level-reports.md)

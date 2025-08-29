@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
 workflow-type: tm+mt
 source-wordcount: '938'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -172,7 +172,7 @@ ht-degree: 95%
 + Relatar e monitorar {#report-and-monitor}
    + [Relatar e monitorar](/help/report-and-monitor/report-and-monitor.md)
    + [Introdução aos relatórios com o Journey Optimizer](/help/report-and-monitor/introduction-to-reporting.md)
-   + [Monitore e analise sua jornada com relatórios em tempo real](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
+   + [Monitore e analise a jornada com relatórios em tempo real](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [Monitorar e analisar sua jornada com relatórios de Jornada](/help/report-and-monitor/journey-reports.md)
    + [Relatórios no nível do canal](/help/report-and-monitor/channel-level-reports.md)
    + [Exportar relatórios no formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)

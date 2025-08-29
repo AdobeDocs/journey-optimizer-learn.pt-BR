@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
+source-git-commit: f2354e6ebd8c033de11556493321f09a209d4817
 workflow-type: tm+mt
-source-wordcount: '938'
+source-wordcount: '930'
 ht-degree: 96%
 
 ---
@@ -29,12 +29,11 @@ ht-degree: 96%
       + [Configurar e enviar uma campanha por push](/help/campaigns/action-campaigns/push-campaign.md)
       + [Criar uma campanha da web](/help/campaigns/action-campaigns/web-campaign.md)
       + [Criar uma campanha de experiência baseada em código](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-      + [Utilizar a otimização de mensagens em uma campanha](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
-   + Campanhas acionadas por API {#api-triggered-campaigns}
+      + [Utilizar a otimização de mensagens em uma campanha](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
       + [Acionar campanhas usando APIs](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campanhas orquestradas {#orchestrated-campaigns}
       + [Introdução a campanhas orquestradas](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [Entender esquemas relacionais](/help/orchestrated-campaigns/understand-relational-schemas.md)
+      + [Entender esquemas relacionais](/help/campaigns/orchestrated-campaigns/understand-relational-schemas.md)
 + Jornadas {#create-journeys}
    + [Designer de jornada: visão geral](/help/create-journeys/journey-designer-overview.md)
    + [Conheça o novo Journey Designer](/help/create-journeys/new-journey-designer.md)
@@ -78,7 +77,6 @@ ht-degree: 96%
       + [Criar conteúdo com o Designer de email](/help/channels/create-content-with-the-email-designer.md)
       + [Importar e criar conteúdo de email HTML](/help/channels/import-and-author-html-email-content.md)
       + [Pré-visualizar, provar e publicar](/help/channels/preview-proof-and-publish.md)
-      + [Configuração de experimentos de conteúdo para emails](/help/experimentation/content-experiments-for-emails.md)
    + Cartões de conteúdo{#content-cards}
       + [Criar cartões de conteúdo](/help/channels/create-content-cards.md)
    + Canal no aplicativo{#in-app-channel}

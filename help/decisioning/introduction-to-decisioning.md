@@ -12,16 +12,16 @@ jira: KT-17486
 thumbnail: KT-17486.jpeg
 exl-id: d5219ce1-ea44-4c41-b557-b094978e37cc
 source-git-commit: b9a223a583a2ceb7c6c55a144ab78c7963ae2969
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
 # Introdução ao serviço de decisão
 
-O serviço de Decisão simplifica a personalização oferecendo um catálogo centralizado de ofertas de marketing conhecidas como “itens de decisão”, além de um mecanismo de escolha sofisticado. Esse mecanismo usa regras e critérios de classificação para selecionar e apresentar os itens de decisão mais relevantes para cada pessoa.
+O serviço de decisão simplifica a personalização oferecendo um catálogo centralizado de ofertas de marketing conhecidas como “itens de decisão”, além de um mecanismo de decisão sofisticado. Esse mecanismo usa regras e critérios de classificação para selecionar e apresentar os itens de decisão mais relevantes para cada pessoa.
 
-Este vídeo fornece uma breve visão geral dos recursos de decisão da Adobe Journey Optimizer
+Este vídeo fornece uma breve visão geral dos recursos de decisão do Adobe Journey Optimizer
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}

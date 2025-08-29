@@ -1,6 +1,6 @@
 ---
 title: Identificar possíveis conflitos
-description: Descubra como identificar e gerenciar possíveis conflitos, como públicos-alvo sobrepostos, linhas do tempo simultâneas, canais de comunicação compartilhados e restrições de frequência em jornadas e campanhas, para garantir uma experiência de comunicação contínua e amigável ao cliente.
+description: Descubra como identificar e gerenciar possíveis conflitos, como públicos-alvo sobrepostos, linhas do tempo simultâneas, canais de comunicação compartilhados e restrições de frequência em jornadas e campanhas para garantir uma experiência de comunicação contínua e amigável aos clientes.
 feature: Journeys
 role: User
 level: Intermediate
@@ -10,15 +10,15 @@ last-substantial-update: 2025-05-29T00:00:00Z
 jira: KT-17854
 exl-id: 2911535d-dcf2-4b24-a55f-28d750928b7c
 source-git-commit: cd99fb618d94e507b7d6dfd8810a275287eb96df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 # Identificar possíveis conflitos
 
-Descubra como identificar e gerenciar possíveis conflitos, como públicos-alvo sobrepostos, linhas do tempo simultâneas, canais de comunicação compartilhados e restrições de frequência em jornadas e campanhas, para garantir uma experiência de comunicação contínua e amigável ao cliente.
+Descubra como identificar e gerenciar possíveis conflitos, como públicos-alvo sobrepostos, linhas do tempo simultâneas, canais de comunicação compartilhados e restrições de frequência em jornadas e campanhas para garantir uma experiência de comunicação contínua e amigável aos clientes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
 

@@ -258,7 +258,7 @@ Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e ca
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="Configurar experimentos de conteúdo para mensagens no aplicativo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1754352425182" alt="Configurar experimentos de conteúdo para mensagens no aplicativo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445293/?format=jpeg&nocache=1754352425182&captions=por_br" alt="Configurar experimentos de conteúdo para mensagens no aplicativo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como implementar uma jornada de integração do cliente no Journey Optimizer. O processo é direcionado a novos membros de fidelidade, fornecendo emails personalizados e SMS para incentivar os downloads de aplicativos. Inclui o envio de um email de boas-vindas, a verificação da instalação do aplicativo e o acompanhamento com lembretes.Este tutorial também mostra como usar o assistente de conteúdo de IA para criar e personalizar conteúdo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440655/?learn=on&enablevpops&captions=por_br)

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Saiba como implementar o caso de uso de carrinho de compras abandonado com o recurso Manual de estratégia no Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443969/?learn=on&enablevpops&captions=por_br)
 
 Para obter mais informações, visite [Configurar a sandbox de um manual de estratégia](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} e [Criar e publicar instâncias do manual de estratégia](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.

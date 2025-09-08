@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Entenda como rastrear o desempenho da jornada individual como os usuários interagem com diferentes etapas em uma jornada, incluindo estatísticas de entrada e saída, erros e ações executadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471468/?learn=on&enablevpops&captions=por_br)

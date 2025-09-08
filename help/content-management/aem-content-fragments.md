@@ -14,9 +14,9 @@ hidefromtoc: false
 hide: false
 index: true
 source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '162'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 65%
 
 Saiba como o Adobe Experience Manager (AEM) se integra perfeitamente ao Adobe Journey Optimizer para simplificar o gerenciamento de conteúdo e garantir a consistência da marca entre canais. Saiba como criar, aprovar e renderizar fragmentos de conteúdo, além de trocar e simular novos conteúdos sem esforço. Ideal para quem busca gerenciamento de conteúdo eficiente e uma identidade visual consistente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463127/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
 
-Experience League LIVE - [Alimentando conteúdo personalizado no Journey Optimizer com fragmentos de conteúdo do AEM e Dynamic Media](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
+Experience League LIVE - [Promovendo conteúdo personalizado no Journey Optimizer com fragmentos de conteúdo do AEM e Dynamic Media](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
 
-Nesta sessão, Jyothitha Chandran, Chris Ivory e Kaitlin White mostraram como o Adobe Journey Optimizer (AJO) se integra perfeitamente aos fragmentos de conteúdo do Sites do Adobe Experience Manager (AEM) e ao AEM Assets Dynamic Media para oferecer personalização escalável e em tempo real em todos os canais.
+Nesta sessão, Jyothitha Chandran, Chris Ivory e Kaitlin White mostraram como o Adobe Journey Optimizer (AJO) se integra perfeitamente aos fragmentos de conteúdo de sites do Adobe Experience Manager (AEM) e ao AEM Assets Dynamic Media para oferecer personalização expansível e em tempo real em todos os canais.

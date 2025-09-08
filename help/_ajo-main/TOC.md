@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
 workflow-type: tm+mt
 source-wordcount: '933'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 96%
    + Campanhas acionadas por API {#api-triggered-campaigns}
       + [Acionar campanhas usando APIs](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campanhas orquestradas {#orchestrated-campaigns}
-      + [Introdução a campanhas orquestradas](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
+      + [Introdução às campanhas orquestradas](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [Noções básicas do Armazenamento Relacional](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + Jornadas {#create-journeys}
    + [Designer de jornada: visão geral](/help/create-journeys/journey-designer-overview.md)
@@ -172,7 +172,7 @@ ht-degree: 96%
    + [Relatar e monitorar](/help/report-and-monitor/report-and-monitor.md)
    + [Introdução aos relatórios com o Journey Optimizer](/help/report-and-monitor/introduction-to-reporting.md)
    + [Monitore e analise a jornada com relatórios em tempo real](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
-   + [Monitorar e analisar sua jornada com relatórios de Jornada](/help/report-and-monitor/journey-reports.md)
+   + [Monitorar e analisar a jornada com Relatórios de jornada](/help/report-and-monitor/journey-reports.md)
    + [Relatórios no nível do canal](/help/report-and-monitor/channel-level-reports.md)
    + [Exportar relatórios no formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Usar alertas](/help/administration/alerts.md)
@@ -232,5 +232,5 @@ ht-degree: 96%
    + Summit Labs {#summit-labs}
       + [Crie momentos personalizados em dispositivos móveis com o Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [Dimensionamento da orquestração para engajamento onicanal no Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-+ Sessões ao vivo e aprofundamento {#live-sessions-and-deep-dives}
++ Sessões ao vivo e aprofundamentos {#live-sessions-and-deep-dives}
    + [Gravações do show ao vivo da Experience League](/help/_ajo-main/experience-league-live-show-recordings.md)

@@ -1,6 +1,6 @@
 ---
-title: Noções básicas de loja relacional no Journey Optimizer
-description: Saiba mais sobre os conceitos fundamentais do armazenamento relacional usado na orquestração de campanhas do Journey Optimizer, que abrangem design de esquema, assimilação de dados, fontes compatíveis e as principais diferenças do armazenamento de perfis em tempo real.
+title: Noções básicas de armazenamento relacional no Journey Optimizer
+description: Saiba mais sobre os conceitos fundamentais do armazenamento relacional usado na orquestração de campanhas do Journey Optimizer, que abrangem design de esquemas, ingestão de dados, fontes compatíveis e as principais diferenças em relação ao armazenamento de perfis em tempo real.
 feature: Campaigns
 role: Data Engineer
 level: Beginner
@@ -13,14 +13,14 @@ index: true
 jira: KT-18519
 exl-id: a58a964b-0414-4061-ab5d-170f8a0a1f46
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Noções básicas de loja relacional no Journey Optimizer
+# Noções básicas de armazenamento relacional no Journey Optimizer
 
-Saiba mais sobre os conceitos fundamentais do armazenamento relacional usado na orquestração de campanhas do Journey Optimizer, que abrangem design de esquema, assimilação de dados, fontes compatíveis e as principais diferenças do armazenamento de perfis em tempo real.
+Saiba mais sobre os conceitos fundamentais do armazenamento relacional usado na orquestração de campanhas do Journey Optimizer, que abrangem design de esquemas, ingestão de dados, fontes compatíveis e as principais diferenças em relação ao armazenamento de perfis em tempo real.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470219/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)

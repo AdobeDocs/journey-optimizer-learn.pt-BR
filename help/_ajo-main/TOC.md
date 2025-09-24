@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '933'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 99%
       + [Acionar campanhas usando APIs](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campanhas orquestradas {#orchestrated-campaigns}
       + [Introdução às campanhas orquestradas](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [Noções básicas do Armazenamento Relacional](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
+      + [Noções básicas do armazenamento relacional](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + Jornadas {#create-journeys}
    + [Designer de jornada: visão geral](/help/create-journeys/journey-designer-overview.md)
    + [Conheça o novo Journey Designer](/help/create-journeys/new-journey-designer.md)
@@ -46,7 +46,7 @@ ht-degree: 99%
    + [Caso de uso - Público-alvo de leitura](/help/create-journeys/use-case-read-audience.md)
    + [Caso de uso - Qualificação de público-alvo](/help/create-journeys/use-case-audience-qualification.md)
    + [Dominar a filtragem de vários atributos](/help/create-journeys/mastering-multi-attribute-filtering.md)
-   + [Validar a lógica da jornada com o recurso Execução de teste da jornada](/help/create-journeys/journey-dry-run.md)
+   + [Validar a lógica da jornada com o recurso de execução de teste da jornada](/help/create-journeys/journey-dry-run.md)
    + [Desbloquear reentrada da jornada com IDs complementares](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Atualizar conteúdo em uma jornada ativa](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiar uma jornada para outra sandbox](/help/create-journeys/copy-a-journey.md)

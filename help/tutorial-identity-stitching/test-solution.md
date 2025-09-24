@@ -8,9 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
+source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -69,7 +70,7 @@ Copie todos os [arquivos HTML e CSS](assets/login-app-files.zip) fornecidos nest
 
 `node server.js`
 
-## Teste
+## Testar
 
 Abra a url `http://localhost:3000`. O login está usando alice/pass123
 
@@ -88,6 +89,7 @@ A captura de tela a seguir mostra a ID &quot;FIN001&quot; sendo transmitida corr
 * Navegue até Cliente -> Perfis ->Procurar
 * Procure por FinWise CRM ID = FIN001
 * Abra o perfil e verifique a seção Identidades. Você verá o CRMID e a ECID listados.   Isso confirma que as duas identidades foram compiladas em um único perfil.
-
+* A jornada também deve ser acionada. Verifique isso exibindo o relatório de jornada
+* ![relatório-jornada](assets/journey-triggered-report.png)
 
 

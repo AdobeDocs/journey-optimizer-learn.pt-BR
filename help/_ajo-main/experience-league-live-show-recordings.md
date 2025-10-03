@@ -4,7 +4,7 @@ description: Experience League LIVE é um programa de transmissão ao vivo produ
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: af94f3401aa31b2adc6dfb88f6763a472b1c3e3b
+source-git-commit: 16fc1e4e2705663071613fc9911668e5eb2bdfd8
 workflow-type: tm+mt
 source-wordcount: '1155'
 ht-degree: 85%
@@ -18,18 +18,15 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
 ## Episódios recentes
 
 <!-- CARDS
-* https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
     {title = Expand your mobile reach with RCS and WhatsApp in Journey Optimizer (September 30th 2025)}
     {description = IN this show Travis Jordan and Nikhil Sharma demonstrate how Adobe Journey Optimizer has recently expanded mobile engagement with powerful new channel additions and functionality, including WhatsApp, RCS, and Custom SMS Provider.}
-* https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
     {title = Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media (July 31 2025)}
     {description = In this session, Jyothitha Chandran, Chris Ivory, and Kaitlin White showcase how Adobe Journey Optimizer (AJO) integrates seamlessly with Adobe Experience Manager (AEM) Sites Content Fragments and AEM Assets Dynamic Media to deliver scalable, real-time personalization across every channel.}
-* https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dive into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They show how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. }
-* https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
-     {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
-     {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -37,8 +34,8 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" title="Expanda o seu alcance móvel com RCS e WhatsApp no Journey Optimizer (30 de setembro de 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475370/?format=jpeg&nocache=1759529862369" alt="Expanda o seu alcance móvel com RCS e WhatsApp no Journey Optimizer (30 de setembro de 2025)"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" title="Expanda o seu alcance móvel com RCS e WhatsApp no Journey Optimizer (30 de setembro de 2025)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475370/?format=jpeg&nocache=1759532704698" alt="Expanda o seu alcance móvel com RCS e WhatsApp no Journey Optimizer (30 de setembro de 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -46,11 +43,11 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" title="Expanda o seu alcance móvel com RCS e WhatsApp no Journey Optimizer (30 de setembro de 2025)">Expanda seu alcance móvel com o RCS e o WhatsApp na Journey Optimizer (30 de setembro de 2025)</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" title="Expanda o seu alcance móvel com RCS e WhatsApp no Journey Optimizer (30 de setembro de 2025)">Expanda seu alcance móvel com o RCS e o WhatsApp na Journey Optimizer (30 de setembro de 2025)</a>
                     </p>
                     <p class="is-size-6">Neste show, Travis Jordan e Nikhil Sharma demonstram como a Adobe Journey Optimizer expandiu recentemente o engajamento móvel com novas adições e funcionalidades avançadas do canal, incluindo WhatsApp, RCS e Custom SMS Provider.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
                 </a>
             </div>
@@ -61,7 +58,7 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25" title="Fornecimento de conteúdo personalizado no Journey Optimizer com fragmentos de conteúdo do AEM e Dynamic Media (31 de julho de 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470355/?format=jpeg&nocache=1759529862366" alt="Fornecimento de conteúdo personalizado no Journey Optimizer com fragmentos de conteúdo do AEM e Dynamic Media (31 de julho de 2025)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470355/?format=jpeg&nocache=1759532704690" alt="Fornecimento de conteúdo personalizado no Journey Optimizer com fragmentos de conteúdo do AEM e Dynamic Media (31 de julho de 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,7 +81,7 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="Limites de frequência principais e priorização de conflitos (18 de junho de 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1759529862496" alt="Limites de frequência principais e priorização de conflitos (18 de junho de 2025)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1759532704704" alt="Limites de frequência principais e priorização de conflitos (18 de junho de 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -102,12 +99,48 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             </div>
         </div>
     </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+
+## Episódios anteriores
+
+<!-- CARDS
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+     {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
+     {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
+     {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
+     {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24
+  {title = Unveiling Content Cards for Adobe Journey Optimizer (November 6, 2024)}
+  {description = Learn how Content Cards deliver key updates, promotions, and messages seamlessly within your app or website, ensuring a non-intrusive user experience. }
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+     {title = Harmonize Audiences in Experience Ecosystems - Federated Audience Composition in Experience Platform (October 24, 2024)}
+     {description = Learn about Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer.}
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24
+    {title = AI Bash - Unlocking the Power of AI Assistant in Adobe Experience Platform Applications and Campaign (September 26, 2024)}
+    {description = AI-driven tools are transforming the way we engage customers and streamline workflows. Learn how Adobe's AI capabilities will accelerate your productivity.}
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24 
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en 
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en
+  {description = Learn how integrating Adobe Target and Adobe Real-time Customer Data Platform can help businesses collect data in real time, and create and test targeted experiences. See the end to end process of this powerful capability in a live demonstration.}
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en
+    {description = Learn how to use both Campaigns and Journeys to deliver compelling personalized customer experiences and how the in-line messaging workflow is leveraged in each of these two canvases.}
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en
+    {description = Learn about the common use cases for push notification with Adobe Journey Optimizer and dive into the technical details on how to configure an app for Push powered by Adobe Experience Platform.}
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Agile Workflows for Personalized Content at Scale (June 05, 2025)">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Fluxos de trabalho ágeis para conteúdo personalizado em grande escala (5 de junho de 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1759529862371" alt="Fluxos de trabalho ágeis para conteúdo personalizado em grande escala (5 de junho de 2025)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1759532705276" alt="Fluxos de trabalho ágeis para conteúdo personalizado em grande escala (5 de junho de 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -125,45 +158,12 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             </div>
         </div>
     </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
-## Episódios anteriores
-
-<!-- CARDS
-* https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
-     {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
-     {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
-* https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24
-  {title = Unveiling Content Cards for Adobe Journey Optimizer (November 6, 2024)}
-  {description = Learn how Content Cards deliver key updates, promotions, and messages seamlessly within your app or website, ensuring a non-intrusive user experience. }
-* https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
-     {title = Harmonize Audiences in Experience Ecosystems - Federated Audience Composition in Experience Platform (October 24, 2024)}
-     {description = Learn about Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer.}
-* https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24
-    {title = AI Bash - Unlocking the Power of AI Assistant in Adobe Experience Platform Applications and Campaign (September 26, 2024)}
-    {description = AI-driven tools are transforming the way we engage customers and streamline workflows. Learn how Adobe's AI capabilities will accelerate your productivity.}
-* https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24 
-* https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=pt-BR 
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=pt-BR
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=pt-BR
-  {description = Learn how integrating Adobe Target and Adobe Real-time Customer Data Platform can help businesses collect data in real time, and create and test targeted experiences. See the end to end process of this powerful capability in a live demonstration.}
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=pt-BR
-    {description = Learn how to use both Campaigns and Journeys to deliver compelling personalized customer experiences and how the in-line messaging workflow is leveraged in each of these two canvases.}
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=pt-BR
-    {description = Learn about the common use cases for push notification with Adobe Journey Optimizer and dive into the technical details on how to configure an app for Push powered by Adobe Experience Platform.}
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Como desbloquear insights operacionais com o Assistente de IA na Adobe Experience Platform (27 de fevereiro de 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1759529863421" alt="Como desbloquear insights operacionais com o Assistente de IA na Adobe Experience Platform (27 de fevereiro de 2025)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1759532705318" alt="Como desbloquear insights operacionais com o Assistente de IA na Adobe Experience Platform (27 de fevereiro de 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24" title="Apresentação dos cartões de conteúdo para o Adobe Journey Optimizer (6 de novembro de 2024)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?format=jpeg&nocache=1759529863406" alt="Apresentação dos cartões de conteúdo para o Adobe Journey Optimizer (6 de novembro de 2024)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?format=jpeg&nocache=1759532705311" alt="Apresentação dos cartões de conteúdo para o Adobe Journey Optimizer (6 de novembro de 2024)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +209,7 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Harmonizar públicos-alvo em ecossistemas de experiência — Composição de público-alvo federado na Experience Platform (24 de outubro de 2024)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1759529863434" alt="Harmonizar públicos-alvo em ecossistemas de experiência — Composição de público-alvo federado na Experience Platform (24 de outubro de 2024)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1759532705300" alt="Harmonizar públicos-alvo em ecossistemas de experiência — Composição de público-alvo federado na Experience Platform (24 de outubro de 2024)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +232,7 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" title="AI Bash — Como desbloquear o potencial do Assistente de IA em aplicativos da Adobe Experience Platform e no Campaign (26 de setembro de 2024)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1759529863430" alt="AI Bash — Como desbloquear o potencial do Assistente de IA em aplicativos da Adobe Experience Platform e no Campaign (26 de setembro de 2024)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1759532705294" alt="AI Bash — Como desbloquear o potencial do Assistente de IA em aplicativos da Adobe Experience Platform e no Campaign (26 de setembro de 2024)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -255,7 +255,7 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24" title="Summer Spotlight — Três recursos que você precisa experimentar no Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1759529863444" alt="Summer Spotlight — Três recursos que você precisa experimentar no Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1759532705323" alt="Summer Spotlight — Três recursos que você precisa experimentar no Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,7 +278,7 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24" title="Novo canal de experiência baseada em código no Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428095/?format=jpeg&nocache=1759529863449" alt="Novo canal de experiência baseada em código no Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428095/?format=jpeg&nocache=1759532705305" alt="Novo canal de experiência baseada em código no Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -301,7 +301,7 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=pt-BR" title="Mensagens acionadas por API no Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1759529863879" alt="Mensagens acionadas por API no Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1759532705711" alt="Mensagens acionadas por API no Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -324,7 +324,7 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=pt-BR" title="Maximize o potencial do seu aplicativo móvel com o Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419194/?format=jpeg&nocache=1759529863893" alt="Maximize o potencial do seu aplicativo móvel com o Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419194/?format=jpeg&nocache=1759532705742" alt="Maximize o potencial do seu aplicativo móvel com o Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -347,7 +347,7 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=pt-BR" title="Entregue a oferta certa no momento certo com a gestão de decisões" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410560/?format=jpeg&nocache=1759529863857" alt="Entregue a oferta certa no momento certo com a gestão de decisões"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410560/?format=jpeg&nocache=1759532705823" alt="Entregue a oferta certa no momento certo com a gestão de decisões"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -370,7 +370,7 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=pt-BR" title="Executar campanhas no Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409504/?format=jpeg&nocache=1759529863773" alt="Executar campanhas no Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409504/?format=jpeg&nocache=1759532705781" alt="Executar campanhas no Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -393,7 +393,7 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=pt-BR" title="Notificações por push com o Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?format=jpeg&nocache=1759529863767" alt="Notificações por push com o Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?format=jpeg&nocache=1759532705716" alt="Notificações por push com o Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

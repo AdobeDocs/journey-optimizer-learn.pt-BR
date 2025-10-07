@@ -30,7 +30,7 @@ Para começar a compilação de identidade, importe dados de perfil de amostra d
 
 Crie um esquema de perfil individual chamado **_FinWiseProfileSchema_**. Inclua campos, como annualIncome, email, firstName, lastName e fidelizeStatus.
 Adicione um campo de identidade **_crmid_** conforme mostrado. Marque o campo crmid como identidade e primário.
-Adicione o grupo de campos _**Detalhes de Consentimentos e Preferências**_ ao esquema. [Consentimentos e Preferências](https://experienceleague.adobe.com/pt-br/docs/experience-platform/xdm/field-groups/profile/consents) é um grupo de campos padrão para a classe Perfil Individual XDM que captura informações de consentimento e preferência de um cliente individual.As preferências armazenadas aqui determinam as preferências de comunicação no nível do canal.
+Adicione o grupo de campos _&#x200B;**Detalhes de Consentimentos e Preferências**&#x200B;_ ao esquema. [Consentimentos e Preferências](https://experienceleague.adobe.com/pt-br/docs/experience-platform/xdm/field-groups/profile/consents) é um grupo de campos padrão para a classe Perfil Individual XDM que captura informações de consentimento e preferência de um cliente individual.As preferências armazenadas aqui determinam as preferências de comunicação no nível do canal.
 
 
 ![perfil-esquema](assets/finwise-profile-schema.png)
@@ -52,7 +52,7 @@ Atualize os endereços de email fictícios para os reais. Eles serão usados pos
 * Crie um conjunto de dados chamado **_FinWiseCustomerDataSetWithAnnualIncome_** com base no **_FinWiseProfileSchema_** criado na etapa anterior
 
 * Navegue até Conexões -> Fontes -> Sistema local
-* Selecione o **_Adicionar dados_** em Carregamento de arquivo local. Selecione o _**FinWiseCustomerDataSetWithAnnualIncome**_ como o conjunto de dados de destino.
+* Selecione o **_Adicionar dados_** em Carregamento de arquivo local. Selecione o _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ como o conjunto de dados de destino.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Navegue até a próxima tela. Carregue o [arquivo csv](assets/finwise_profiles.csv) e verifique os mapeamentos
   ![mapeamentos](assets/mappings.png)

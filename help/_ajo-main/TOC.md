@@ -216,8 +216,8 @@ ht-degree: 98%
    + [Aplicar políticas de uso de dados nos canais do Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Mascaramento de dados em mensagens](/help/privacy/mask-data-in-messages.md)
 + Assistente de IA {#ai-assistant}
-   + [Assistente de IA](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
-   + [Assistente de IA para geração de conteúdo](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [Assistente de IA para geração de conteúdo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
 + Casos de uso e práticas recomendadas{#use-cases}
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)
    + [Carrinho abandonado](/help/use-cases/abandoned-cart.md)

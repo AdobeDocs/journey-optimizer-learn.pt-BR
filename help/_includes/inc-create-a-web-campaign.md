@@ -9,4 +9,4 @@ ht-degree: 100%
 
 Entenda o que é uma campanha da Web. Saiba como configurar as propriedades da campanha da Web, revisá-las e publicá-las.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418800/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449986/?quality=12&learn=on&captions=por_br){transcript=true}

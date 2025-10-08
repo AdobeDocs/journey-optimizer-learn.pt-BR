@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Entenda as noções básicas para a criação de uma jornada na tela de jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424996?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430346?quality=12&learn=on&captions=por_br){transcript=true}

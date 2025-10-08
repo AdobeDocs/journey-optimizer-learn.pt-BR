@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Entenda os casos de uso aplicáveis para uma jornada acionada pela atividade de leitura de público-alvo. Saiba como criar jornadas baseadas em lote e quais práticas recomendadas devem ser aplicadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424997?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430363?quality=12&learn=on&captions=por_br){transcript=true}

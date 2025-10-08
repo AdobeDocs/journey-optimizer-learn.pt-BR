@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Saiba como criar eventos de negócios no Journey Optimizer. Os eventos de negócios permitem que as marcas acionem jornadas com base em eventos não relacionados a pessoas, como notificar os assinantes quando uma publicação de notícias tem novo conteúdo ou enviar comunicações durante um evento esportivo. Entenda como os dados de eventos de negócios podem ser usados para mensagens personalizadas em jornadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417595/?learn=on&captions=por_br)

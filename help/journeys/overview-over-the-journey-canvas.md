@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Entenda os recursos e as funcionalidades da Tela do Journey.
 
->[!VIDEO](https://video.tv.adobe.com/v/342099?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344636?quality=12&learn=on&captions=por_br){transcript=true}

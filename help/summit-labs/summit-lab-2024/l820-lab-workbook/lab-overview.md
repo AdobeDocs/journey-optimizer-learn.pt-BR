@@ -29,14 +29,14 @@ Neste laboratório prático, você explora vários cenários móveis e aprende a
 >[!IMPORTANT]
 >
 >Evite publicar fotos ou capturas de tela da sessão nas redes sociais.
->><br>
->>**Confidencialidade de Adobe**
->>As informações e divulgações de produtos compartilhadas hoje durante este laboratório são Informações confidenciais da Adobe.
->>Os participantes não podem reproduzir, utilizar, divulgar ou divulgar Informações confidenciais a qualquer pessoa ou entidade.
->>As divulgações de produtos são somente para fins informativos, não são uma garantia de qualquer recurso ou funcionalidade futura e estão sujeitas a alterações a qualquer momento. Sendo assim, esses recursos ou funcionalidades do produto não fazem parte de nenhum modo de seu contrato com a Adobe ou são de outra forma comprometidos com você.
->><br>
->>**Aviso de Isenção de Responsabilidade**
->>A Adobe está fornecendo acesso antecipado aos recursos do, que aproveitam a tecnologia de IA geradora. Observe que esses recursos ainda estão em desenvolvimento e podem produzir respostas inesperadas ou imprecisas. Seus comentários são bem-vindos à medida que lançamos esse recurso no mercado.
+>&#x200B;><br>
+>&#x200B;>**Confidencialidade de Adobe**
+>&#x200B;>As informações e divulgações de produtos compartilhadas hoje durante este laboratório são Informações confidenciais da Adobe.
+>&#x200B;>Os participantes não podem reproduzir, utilizar, divulgar ou divulgar Informações confidenciais a qualquer pessoa ou entidade.
+>&#x200B;>As divulgações de produtos são somente para fins informativos, não são uma garantia de qualquer recurso ou funcionalidade futura e estão sujeitas a alterações a qualquer momento. Sendo assim, esses recursos ou funcionalidades do produto não fazem parte de nenhum modo de seu contrato com a Adobe ou são de outra forma comprometidos com você.
+>&#x200B;><br>
+>&#x200B;>**Aviso de Isenção de Responsabilidade**
+>&#x200B;>A Adobe está fornecendo acesso antecipado aos recursos do, que aproveitam a tecnologia de IA geradora. Observe que esses recursos ainda estão em desenvolvimento e podem produzir respostas inesperadas ou imprecisas. Seus comentários são bem-vindos à medida que lançamos esse recurso no mercado.
 
 
 ### Principais pontos

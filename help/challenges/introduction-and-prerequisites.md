@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 1542a429d393d9d803976d1490a3bc09654b706b
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '411'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -37,7 +37,7 @@ Você precisa dos seguintes direitos de acesso:
 * Exibir perfis de teste e seus atributos
 
 >[!NOTE]
-> Os exercícios foram desenvolvidos com base nos dados da amostra do Luma. É recomendável configurar uma sandbox de treinamento configurada com os dados de amostra. Visite o tutorial [Configurar uma sandbox de treinamento](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) para obter instruções detalhadas.
+> Os exercícios foram desenvolvidos com base nos dados de amostra do Luma. É recomendável configurar uma sandbox de treinamento configurada com os dados de amostra. Visite o tutorial [Configurar uma sandbox de treinamento](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) para obter instruções detalhadas.
 
 ### Ações necessárias
 
@@ -68,7 +68,7 @@ A Luma pretende promover sua coleção de roupas e equipamentos mais recentes e 
       <p>
       <b>Competências necessárias:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=pt-BR"> Criar segmentos</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=pt-BR">Ler segmento</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html">Ler segmento</li>
        <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=pt-BR">Importar conteúdo HTML do email</li>
   </td>
   </tr>
@@ -90,7 +90,7 @@ A Luma pretende promover sua coleção de roupas e equipamentos mais recentes e 
     <p>
     <b>Competências necessárias:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=pt-BR"> Criar segmentos</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=pt-BR">Qualificação do segmento</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html">Qualificação de segmento</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=pt-BR">Importar e criar conteúdo de email HTML</li>
   </td>
   </tr>

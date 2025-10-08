@@ -7,10 +7,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '1108'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 | Desafio | Criar um anúncio de Coleção de Verão |
 |---|---|
 | Perfil | Gerenciador de Jornadas |
-| Competências necessárias | <ul><li>[Criar segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=pt-BR)</li><li> [Importar e criar conteúdo de email HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=br-PT)</li><li>[Caso de uso - Ler segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=br-PT)</li> |
+| Competências necessárias | <ul><li>[Criar segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=pt-BR)</li><li> [Importar e criar conteúdo de email HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=br-PT)</li><li>[Caso de uso - Ler segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | Ativos para baixar | [Arquivos de email de Coleções sazonais](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
@@ -53,7 +53,7 @@ A equipe de marketing da Luma solicita a implementação de uma campanha de mark
 No construtor de segmentos, é possível ver o número estimado de perfis qualificados. Se estiver trabalhando com os dados de treinamento da sandbox, você terá cerca de 753 perfis qualificados de um total de 1,29 mil.
 
 >[!NOTE]
->Pode levar até 24 horas para que o segmento de afiliação apareça para perfis existentes, pois os perfis existentes precisam ser preenchidos retroativamente.
+>Pode levar até 24 horas para que a associação a um segmento apareça para perfis existentes, pois os perfis existentes precisam ser preenchidos retroativamente.
 
 **Um perfil qualificado foi adicionado ao segmento:**
 
@@ -63,9 +63,9 @@ Na página do perfil, verifique a guia [!UICONTROL Atributos] para confirmar que
 
 ![Atributos do perfil](assets/C1-S1-profile-attributes.png)
 
-Você também pode verificar a guia [!UICONTROL Segmento de afiliação]: seu segmento deve estar listado.
+Você também pode verificar a guia [!UICONTROL Associação a um segmento]: seu segmento deve estar listado.
 
-![Segmento de afiliação](assets/C1-S1-profile-segment-membership.png)
+![Associação a um segmento](assets/C1-S1-profile-segment-membership.png)
 
 >[!TAB Verificar o seu trabalho]
 
@@ -189,7 +189,7 @@ Teste a jornada e envie os emails para sua própria conta:
 
 1. Coloque a jornada no modo de teste.
 1. Selecione **[!UICONTROL Um perfil por vez]**.
-1. Tempo de espera: Defina o cronômetro como 120 segundos (insira o valor no campo).
+1. Tempo de espera: Defina o temporizador como 120 segundos (insira o valor no campo).
 1. Acione a entrada do perfil
 1. Você pode testar cada ramificação usando uma das seguintes *IDs do CRM da Luma* como identificadores de perfil:
    * Feminino: Leora Dietsche, valor de identidade:`a8f14eab3b483c2b96171b575ecd90b1`

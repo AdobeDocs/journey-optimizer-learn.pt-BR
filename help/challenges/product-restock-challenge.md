@@ -8,10 +8,10 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '547'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 | Desafio | Reposição de produto |
 |---|---|
 | Perfil | Gerenciador de Jornadas |
-| Competências necessárias | <ul><li>[Criar segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=pt-BR)</li><li> [Importar e criar conteúdo de email HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=pt-BR)</li><li>[Caso de uso - Ler segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=br-PT)</li> |
+| Competências necessárias | <ul><li>[Criar segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=pt-BR)</li><li> [Importar e criar conteúdo de email HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=pt-BR)</li><li>[Caso de uso - Ler segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | Ativos para baixar | [Arquivo de email de reabastecimento do produto](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## A história
@@ -35,7 +35,7 @@ A Luma solicita que você implemente uma jornada no Journey Optimizer que notifi
 
 >[!TAB Tarefa]
 
-## 1. Definir o segmento – Itens da lista de desejos esgotados
+## &#x200B;1. Definir o segmento – Itens da lista de desejos esgotados
 
 Para atingir potenciais clientes interessados quando os produtos forem reabastecidos, crie um público-alvo que consista em clientes:
 
@@ -49,7 +49,7 @@ Para atingir potenciais clientes interessados quando os produtos forem reabastec
 Nomeie este segmento: `Out-of-stock-Wishlist`
 
 
-### 2. Criar a jornada – Notificação de reabastecimento do produto
+### &#x200B;2. Criar a jornada – Notificação de reabastecimento do produto
 
 Quando um item anteriormente indisponível voltar ao estoque, notifique os clientes que o adicionaram com uma chamada para comprar agora, já que o item está de volta ao estoque.
 
@@ -116,7 +116,7 @@ Notifique os clientes que adicionaram um item indisponível com uma chamada para
 
 >[!TIP]
 >
-> Use o evento comercial existente. Adicione uma condição que verifique se o SKU de reabastecimento está incluído em (algum) tipo de evento salvar para mais tarde.
+> Use o evento de negócios existente. Adicione uma condição que verifique se o SKU de reabastecimento está incluído em (algum) tipo de evento salvar para mais tarde.
 >
 
 

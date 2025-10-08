@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3558a9530827303a6597966e16ead1cfdee7576b
+source-git-commit: f89cba65a472ea389ef0c8e974ddead6e4b2d24b
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '958'
 ht-degree: 98%
 
 ---
@@ -140,7 +140,7 @@ ht-degree: 98%
 + Experimentação {#experimentation}
    + [Introdução à experimentação](/help/experimentation/introduction-to-experimentation.md)
    + [Criar experimentos de conteúdo para campanhas de email](/help/experimentation/content-experiments-for-emails.md)
-   + [Agente de experimentação](/help/ai-agents/experimentation-agent-overview.md)
+   + [Agente de experimentação - Visão geral](/help/ai-agents/experimentation-agent-overview.md)
 + Recursos de decisão{#decision-capabilities}
    + Decisão {#decisioning}
       + [Introdução ao serviço de decisão](/help/decisioning/introduction-to-decisioning.md)
@@ -216,8 +216,10 @@ ht-degree: 98%
    + [Aplicar políticas de uso de dados nos canais do Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Mascaramento de dados em mensagens](/help/privacy/mask-data-in-messages.md)
 + Assistente de IA {#ai-assistant}
-   + [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
-   + [Assistente de IA para geração de conteúdo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Assistente de IA](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [Assistente de IA para geração de conteúdo](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Journey Agent - Visão geral](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Agente de experimentação - Visão geral](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Casos de uso e práticas recomendadas{#use-cases}
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)
    + [Carrinho abandonado](/help/use-cases/abandoned-cart.md)

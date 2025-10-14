@@ -9,7 +9,7 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 9%
@@ -20,7 +20,7 @@ ht-degree: 9%
 
 As tags do Adobe Experience Platform são usadas para enviar o CRMID para o Adobe Experience Platform (AEP), pois fornecem um mecanismo flexível e orientado por eventos para transmitir dados de identidade diretamente do navegador. Enviar o CRMID após o logon do usuário permite que o AEP vincule o ECID anônimo ao perfil de CRM conhecido, permitindo a identificação precisa da identidade. Esse vínculo forma a base para a criação de perfis unificados de clientes, a qualificação de públicos e o fornecimento de experiências personalizadas em tempo real no Adobe Journey Optimizer (AJO).
 
-Uma propriedade de Marcas Experience Platform chamada _&#x200B;**FinWise**&#x200B;_ foi criada. As seguintes extensões foram adicionadas à propriedade Tags
+Uma propriedade de Marcas Experience Platform chamada _**FinWise**_ foi criada. As seguintes extensões foram adicionadas à propriedade Tags
 
 ![extensões-tags](assets/tags-extensions.png)
 
@@ -40,15 +40,15 @@ Crie os seguintes elementos de dados
 
 ## Criar regra
 
-Crie uma regra chamada userLoggedin com o seguinte evento e ações
+Crie uma regra chamada LoginEvent com os seguintes eventos e ações
 
 Evento
-![evento](assets/data-pushed-event.png)
+![evento](assets/data-pushed-event1.png)
 
 Atualizar ação de variável
-![variável-atualização](assets/update-variable.png)
+![variável-atualização](assets/update-variable1.png)
 Enviar ação do evento
-![enviar-evento](assets/send-event.png)
+![enviar-evento](assets/send-event1.png)
 
 ## Salvar e criar
 

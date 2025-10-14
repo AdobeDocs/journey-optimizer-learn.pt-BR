@@ -8,10 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-09-24T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-19287
-source-git-commit: c9d62ef509d557b2dfa49c698580df7c4942d299
+source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 1%
+source-wordcount: '283'
+ht-degree: 0%
 
 ---
 
@@ -21,8 +21,8 @@ Nesta extensão do tutorial de Compilação de identidade, a jornada do Adobe Jo
 
 ## Criar configuração de canal de email
 
-* Fazer logon no _&#x200B;**Journey Optimizer**&#x200B;_
-* Navegue até _&#x200B;**Administração -> Canais -> Criar configuração de canal**&#x200B;_
+* Fazer logon no _**Journey Optimizer**_
+* Navegue até _**Administração -> Canais -> Criar configuração de canal**_
 * Selecione **Email** na lista de canais. Forneça um nome e uma descrição significativos.
 * Preencha as configurações de email.
 * Forneça os detalhes da execução conforme mostrado abaixo. O email é enviado para o endereço de email do perfil armazenado no campo
@@ -31,25 +31,29 @@ Nesta extensão do tutorial de Compilação de identidade, a jornada do Adobe Jo
 
 ## Criar evento
 
-* Fazer logon no _&#x200B;**Journey Optimizer**&#x200B;_
-* Navegue até _&#x200B;**Administração -> Configurações**&#x200B;_
+* Fazer logon no _**Journey Optimizer**_
+* Navegue até _**Administração -> Configurações**_
 * Clique no botão Gerenciar do cartão Eventos e clique em Criar evento. Especifique os valores conforme mostrado abaixo
-* ![jornada-evento](assets/journey-event.png)
+* ![jornada-evento](assets/journey-event1.png)
 
-* Verifique se eventType do evento é igual a UserLoggedIn. Nesse caso, por questões de simplicidade, o nome e o tipo de evento são os mesmos.`in(@event{event1.eventType}, ['UserLoggedIn'])`
+* Verifique se eventType do evento é igual a LoginEvent. O tipo `LoginEvent` está definido na Marca Adobe Experience Platform.
 * Salvar o evento
 
 ## Criar jornada
 
-* Fazer logon no _&#x200B;**Journey Optimizer**&#x200B;_
-* Navegue até _&#x200B;**Gerenciamento de Jornadas > Jornadas > Criar Jornada**&#x200B;_
-* Arraste e solte o evento _&#x200B;**UserLoggedIn**&#x200B;_ na tela
-* Arraste e solte Email no menu de ações. Configurar a ação de email para usar a configuração de canal de email criada anteriormente
-* Publicar a jornada
+* Fazer logon no _**Journey Optimizer**_
+* Navegue até _**Gerenciamento de Jornadas > Jornadas > Criar Jornada**_
+* Arraste e solte o evento _**UserLoggedIn**_ na tela
+* Arraste e solte Email no menu de ações. Configure a ação de email para usar a configuração de canal de email criada anteriormente.
+* Publique a jornada.
 
 ## Como a jornada é acionada
 
-A jornada é acionada quando a carga do evento enviada via Web SDK corresponde ao que está configurado na jornada. Neste exemplo, o evento e o tipo de evento são **UserLoggedIn**
+A jornada é acionada quando a carga do evento enviada via Web SDK corresponde ao que está configurado na jornada. Neste exemplo, o tipo de evento é `UserLoggedIn` e é `LoginEvent`.
+
+* Verifique isso exibindo o relatório de jornada
+* ![relatório-jornada](assets/journey-triggered-report.png)
+
 
 
 

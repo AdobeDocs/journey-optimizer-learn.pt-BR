@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
-source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
+source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,5 @@ A captura de tela a seguir mostra a ID &quot;FIN001&quot; sendo transmitida corr
 * Navegue até Cliente -> Perfis ->Procurar
 * Procure por FinWise CRM ID = FIN001
 * Abra o perfil e verifique a seção Identidades. Você verá o CRMID e a ECID listados.   Isso confirma que as duas identidades foram compiladas em um único perfil.
-* A jornada também deve ser acionada. Verifique isso exibindo o relatório de jornada
-* ![relatório-jornada](assets/journey-triggered-report.png)
 
 

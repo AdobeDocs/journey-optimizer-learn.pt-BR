@@ -66,7 +66,7 @@ Saiba como o canal configura seus **canais móveis** usando a funcionalidade de 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="Configuração de canal guiada" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1755888511558" alt="Configuração de canal guiada"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449627/?captions=por_br&format=jpeg&nocache=1755888511558" alt="Configuração de canal guiada"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

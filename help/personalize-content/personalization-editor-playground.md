@@ -25,4 +25,4 @@ O [Playground do editor de personalização](https://experienceleague.adobe.com/
 
 Saiba como aproveitar amostras de código predefinidas, editar conteúdos de perfil fictícios e visualizar a saída do seu código de personalização em tempo real.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475957/?captions=por_br&learn=on&enablevpops)

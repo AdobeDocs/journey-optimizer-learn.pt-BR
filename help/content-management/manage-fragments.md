@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Saiba como gerenciar, criar e usar fragmentos no Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419932/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451187/?captions=por_br&learn=on){transcript=true}

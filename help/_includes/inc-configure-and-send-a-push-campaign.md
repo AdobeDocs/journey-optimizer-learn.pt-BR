@@ -9,4 +9,4 @@ ht-degree: 100%
 
 Saiba como configurar e enviar uma notificação por push com uma campanha.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422017/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452706/?captions=por_br&learn=on){transcript=true}

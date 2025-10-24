@@ -1,6 +1,6 @@
 ---
 title: Visão geral do Journey Agent
-description: O Journey Agent usa IA para criar, analisar e otimizar jornadas B2B/B2C por meio de uma interface conversacional.
+description: O Journey Agent usa a IA para criar, analisar e otimizar jornadas de B2B/B2C por meio de uma interface de conversa.
 feature: AI Assistant, Journeys
 feature-set: Journey Optimizer, Experience Platform
 role: User, Developer, Leader, Admin
@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2025-10-08T00:00:00Z
 jira: KT-19109
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 

@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 6366425e14dcadfad7ccf3522ac746ba752e432c
 workflow-type: tm+mt
 source-wordcount: '971'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 97%
       + [Noções básicas do armazenamento relacional](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + Jornadas {#journeys}
    + [Designer de jornada: visão geral](/help/journeys/journey-designer-overview.md)
-   + [Journey Agent - Visão geral](/help/ai-agents/journey-agent-overview.md)
+   + [Journey Agent: visão geral](/help/ai-agents/journey-agent-overview.md)
    + [Conheça o novo Journey Designer](/help/journeys/new-journey-designer.md)
    + [Introdução à criação de jornadas](/help/journeys/introduction-to-building-a-journey.md)
    + [Criar um perfil de teste](/help/journeys/test-a-journey.md)
@@ -57,7 +57,7 @@ ht-degree: 97%
    + [Identificar possíveis conflitos](/help/conflict-management/identify-potential-conflicts.md)
    + [Atribuir pontuações de prioridade](/help/conflict-management/assign-priority-score.md)
    + [Limite e priorização de frequência de jornada](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-   + [Horas de silêncio](/help/business-rules/configure-and-apply-quiet-hours.md)
+   + [Horário de silêncio](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Perfis, públicos-alvo e assinaturas {#profiles-audiences-subscriptions}
    + [Perfis e públicos-alvo: visão geral](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Perfil e segmentação unificados - visão geral](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
@@ -141,7 +141,7 @@ ht-degree: 97%
 + Experimentação {#experimentation}
    + [Introdução à experimentação](/help/experimentation/introduction-to-experimentation.md)
    + [Criar experimentos de conteúdo para campanhas de email](/help/experimentation/content-experiments-for-emails.md)
-   + [Agente de experimentação - Visão geral](/help/ai-agents/experimentation-agent-overview.md)
+   + [Agente de experimentação: visão geral](/help/ai-agents/experimentation-agent-overview.md)
 + Recursos de decisão{#decision-capabilities}
    + Decisão {#decisioning}
       + [Introdução ao serviço de decisão](/help/decisioning/introduction-to-decisioning.md)
@@ -221,8 +221,8 @@ ht-degree: 97%
 + Assistente de IA {#ai-assistant}
    + [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistente de IA para geração de conteúdo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent - Visão geral](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [Agente de experimentação - Visão geral](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [Journey Agent: visão geral](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Agente de experimentação: visão geral](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Casos de uso e práticas recomendadas{#use-cases}
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)
    + [Carrinho abandonado](/help/use-cases/abandoned-cart.md)

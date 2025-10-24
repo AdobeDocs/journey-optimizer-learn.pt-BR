@@ -1,6 +1,6 @@
 ---
-title: Configurar e aplicar horas de silêncio
-description: Saiba como usar o recurso de horários silenciosos no Adobe Journey Optimizer para impedir que mensagens (SMS, email, push, WhatsApp) sejam enviadas aos clientes durante janelas de tempo especificadas, ajudando os profissionais de marketing a evitar o envio de comunicações em momentos inadequados e melhorando o engajamento do cliente.
+title: Configurar e aplicar horário de silêncio
+description: Saiba como usar o recurso de horário de silêncio no Adobe Journey Optimizer para impedir que mensagens (SMS, email, push, WhatsApp) sejam enviadas aos clientes durante janelas de tempo especificadas, ajudando os profissionais de marketing a evitarem o envio de comunicações em momentos inapropriados e melhorando o engajamento dos clientes.
 feature: Business Rules
 role: Admin, User
 level: Beginner
@@ -14,13 +14,13 @@ index: true
 source-git-commit: c7ff1ad8ff2069295d65553022306cccaf8cbac6
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Configurar e aplicar horas de silêncio
+# Configurar e aplicar horário de silêncio
 
-Saiba como usar o recurso de horários silenciosos no Adobe Journey Optimizer para impedir que mensagens sejam enviadas aos clientes durante janelas de tempo especificadas, ajudando os profissionais de marketing a evitar o envio de comunicações em momentos inadequados e melhorando o engajamento do cliente.
+Saiba como usar o recurso de horário de silêncio no Adobe Journey Optimizer para impedir que mensagens sejam enviadas aos clientes durante janelas de tempo especificadas, ajudando os profissionais de marketing a evitarem o envio de comunicações em momentos inapropriados e melhorando o engajamento dos clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475857/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)

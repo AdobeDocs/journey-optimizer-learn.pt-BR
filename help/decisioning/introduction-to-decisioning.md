@@ -24,4 +24,4 @@ O serviço de decisão simplifica a personalização oferecendo um catálogo cen
 
 Este vídeo fornece uma breve visão geral dos recursos de decisão do Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3475868?captions=por_br&quality=12&learn=on){transcript=true}

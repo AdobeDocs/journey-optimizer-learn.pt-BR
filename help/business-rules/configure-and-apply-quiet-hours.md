@@ -12,7 +12,7 @@ hide: false
 hidefromtoc: false
 index: true
 source-git-commit: c7ff1ad8ff2069295d65553022306cccaf8cbac6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Saiba como usar o recurso de horário de silêncio no Adobe Journey Optimizer para impedir que mensagens sejam enviadas aos clientes durante janelas de tempo especificadas, ajudando os profissionais de marketing a evitarem o envio de comunicações em momentos inapropriados e melhorando o engajamento dos clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475857/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)

@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 8d6fce4d2605d44e9abb1c9003edbf759cf89316
 workflow-type: tm+mt
 source-wordcount: '965'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -177,7 +177,7 @@ ht-degree: 98%
    + [Monitore e analise a jornada com relatórios em tempo real](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [Monitorar e analisar a jornada com Relatórios de jornada](/help/report-and-monitor/journey-reports.md)
    + [Relatórios no nível do canal](/help/report-and-monitor/channel-level-reports.md)
-   + [Analise o desempenho geral de sua jornada com relatórios de todos os tempos](/help/report-and-monitor/all-time-reports.md)
+   + [Analise o desempenho geral da sua jornada com relatórios de todo o histórico](/help/report-and-monitor/all-time-reports.md)
    + [Exportar relatórios no formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Usar alertas](/help/administration/alerts.md)
    + [Relatórios aprimorados com o Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)

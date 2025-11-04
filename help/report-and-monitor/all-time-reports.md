@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Neste vídeo, você aprenderá a usar com eficácia o relatório de todo o histórico no Adobe Journey Optimizer para descobrir insights de desempenho de longo prazo em jornadas, campanhas e canais dos clientes. Ele aborda como navegar pelos principais painéis, interpretar os KPIs essenciais, aplicar filtros e intervalos de datas, e aproveitar ferramentas como os relatórios de jornada, relatórios de campanha e o Insight Builder para análises mais profundas e relatórios personalizados, permitindo que profissionais de marketing e gerentes transformem dados em ação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475653/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475792/?captions=por_br&learn=on&enablevpops)

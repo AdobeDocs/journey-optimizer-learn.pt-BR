@@ -20,4 +20,4 @@ Neste vídeo, saiba como criar um esquema de perfil, assimilar dados do cliente 
 
 Você aprende a definir campos principais, como nome, email, status de fidelidade e renda anual, carregar dados reais do cliente e usar esses dados para criar um público-alvo de clientes de alto valor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476421/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476443/?captions=por_br&learn=on)

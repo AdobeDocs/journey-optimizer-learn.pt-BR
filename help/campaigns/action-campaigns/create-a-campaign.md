@@ -21,6 +21,6 @@ ht-degree: 18%
 
 Saiba como criar e otimizar Campanhas de ação no Adobe Journey Optimizer para fornecer comunicações únicas ou recorrentes com precisão e impacto.
 
->[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414156/?captions=por_br&learn=on&enablevpops)
 
 Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/campaigns/get-started-with-campaigns) para obter mais informações sobre esse recurso.

@@ -1,6 +1,6 @@
 ---
-title: Criar uma campanha
-description: Saiba como entregar conteúdo único a um público-alvo específico executando ações imediatamente ou em um cronograma especificado.
+title: Criar uma campanha de ação
+description: Saiba como criar e otimizar Campanhas de ação no Adobe Journey Optimizer para fornecer comunicações únicas ou recorrentes com precisão e impacto.
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -8,22 +8,19 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
+last-substantial-update: 2025-11-14T00:00:00Z
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
-source-git-commit: 62c4ee2d5a3e6c71646ae4f92eeee0491846832b
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+source-git-commit: 5114ac4abcb6519e08b6aa170ed4ed6abf26ce6b
+workflow-type: tm+mt
+source-wordcount: '65'
+ht-degree: 18%
 
 ---
 
-# Criar uma campanha
+# Criar uma campanha de ação
 
->[!IMPORTANT]
->
->Esse recurso só está disponível para usuários com acesso a um perfil de produto relacionado à campanha, como administrador da campanha, aprovador da campanha, gerente da campanha e/ou visualizador da campanha. Para obter mais informações sobre como atribuir perfis de produto, consulte [este vídeo](/help/set-up-access/access-management.md).
+Saiba como criar e otimizar Campanhas de ação no Adobe Journey Optimizer para fornecer comunicações únicas ou recorrentes com precisão e impacto.
 
-Saiba como entregar conteúdo único a um público-alvo específico executando ações imediatamente ou em um cronograma especificado.
+>[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/3414156?quality=12&learn=on&captions=por_br){transcript=true}
-
-Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=pt-BR) para obter mais informações sobre esse recurso.
+Consulte a [documentação do produto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns) para obter mais informações sobre esse recurso.

@@ -4,16 +4,16 @@ description: Experience League LIVE é um programa de transmissão ao vivo produ
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: f08715113ae0ff327873da5f2b96709827b99aa9
+source-git-commit: d605287648957dbe8f25ce71326abc832d79f34a
 workflow-type: tm+mt
-source-wordcount: '1261'
-ht-degree: 91%
+source-wordcount: '1263'
+ht-degree: 90%
 
 ---
 
 # Programas Experience League LIVE
 
-Experience League LIVE é um programa de transmissão ao vivo produzido pela equipe da Experience League. É uma chance de se conectar com especialistas em produtos da Adobe e aprender dicas, truques e estratégias práticas que podem ser usados com os aplicativos da Adobe Experience Cloud.
+Experience League LIVE é um programa de streaming ao vivo produzido pela equipe de Ativação do produto Digital Experience. É uma chance de se conectar com especialistas em produtos da Adobe e aprender dicas, truques e estratégias práticas que podem ser usados com os aplicativos da Adobe Experience Cloud.
 
 ## Episódios recentes
 

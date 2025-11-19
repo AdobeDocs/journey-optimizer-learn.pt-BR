@@ -7,7 +7,7 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 69eed07e1759e2dfd30934d7ef2c16b1240704e2
+source-git-commit: 1d79a2f916017e5f40f1629f0d1f534a37607a23
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Jumpstart ou nivelamento com canais móveis no Adobe Journey Optimizer (AJO). Es
 
 Explore as práticas recomendadas, aprenda a promover a adoção e a dominar os relatórios, tudo em um só lugar, para que as equipes possam oferecer experiências móveis impactantes e orientadas por dados que se conectam com os usuários a qualquer hora, em qualquer lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432681?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Visão geral do canal móvel
@@ -66,7 +66,7 @@ Ao combinar esses canais, você pode criar uma experiência perfeita e eficaz pa
 
 ## Casos de uso do cliente
 
-* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=pt)
+* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
 
 
 ## Construa sua base

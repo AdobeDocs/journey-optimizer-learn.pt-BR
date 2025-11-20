@@ -20,7 +20,7 @@ Jumpstart ou nivelamento com canais móveis no Adobe Journey Optimizer (AJO). Es
 
 Explore as práticas recomendadas, aprenda a promover a adoção e a dominar os relatórios, tudo em um só lugar, para que as equipes possam oferecer experiências móveis impactantes e orientadas por dados que se conectam com os usuários a qualquer hora, em qualquer lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477003?captions=por_br&quality=12&learn=on){transcript=true}
 
 
 ## Visão geral do canal móvel

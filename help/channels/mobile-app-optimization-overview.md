@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Descubra como os recursos para aplicativos móveis do Adobe Journey Optimizer transformam o engajamento do cliente, usando experiências personalizadas em tempo real.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477003/?captions=por_br&learn=on)

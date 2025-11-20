@@ -18,37 +18,37 @@ ht-degree: 17%
 
 # Configurar e iniciar
 
-Configure os canais móveis no Adobe Systems Journey Optimizer e no Adobe Experience Platform, integrar a aplicativos móveis e garanta a prontidão para campanha de marketing execução.
+Configure os canais móveis no Adobe Journey Optimizer e no Adobe Experience Platform, integre-os aos aplicativos móveis e garanta a disponibilidade para a execução da campanha de marketing.
 
 > **Nota**\
-> Se você é novo no Journey Optimizer e no Experience Platform, familiarize-se com os conceitos principais ao seguir estes cursos:
-> - [Configurar e administrar o Adobe Journey Optimizer](https://experienceleague.adobe.com/pt-br/courses/ajo-configure-and-administrate-ajo-environment)
+> Se você é novo no Journey Optimizer e no Experience Platform, familiarize-se com os conceitos principais fazendo estes cursos:
+> - [Configurar e administrar o Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
 >*Neste curso, você aprenderá a configurar e gerenciar o ambiente do Journey Optimizer, incluindo funções de usuário, permissões, sandboxes e canais de email, garantindo operações eficientes e seguras.*
-> - [Dados do engenheiro para Ativação Inteligente de Jornada no Adobe Journey Optimizer](https://experienceleague.adobe.com/pt-br/courses/ajo-engineer-data-for-intelligent-journey-activation)
+> - [Dados do engenheiro para Ativação Inteligente de Jornada no Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation)
 >*Neste curso, você aprenderá a configurar e gerenciar dados de perfil do cliente em tempo real para o Journey Optimizer usando o Experience Platform. Entenda a modelagem de dados, o mapeamento de identidade e a assimilação de dados para criar perfis unificados para jornadas personalizadas de clientes.*
 
 
 ## Recursos para dispositivos móveis no Adobe Journey Optimizer
 
-Entenda quais recursos móveis Adobe Systems ofertas do Journey Optimizer para desenvolvedores, profissionais de marketing e equipes de produtos, incluindo mensagens push, mensagens no aplicativo e conteúdo personalização.
+Entenda quais recursos de publicações de conteúdo para dispositivos móveis a Adobe Journey Optimizer oferece para desenvolvedores, profissionais de marketing e equipes de produtos, incluindo mensagens por push, mensagens no aplicativo e personalização de conteúdo.
 
->[!VIDEO](https://video.tv.adobe.com/v/344619?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
 
 
-## Publicação de conteúdo para dispositivos móveis O SDK e a configuração do aplicativo
+## SDK para dispositivos móveis e configuração de aplicativos
 
-As implementações móveis no Journey Optimizer começam com a integração do **Adobe Experience Platform Mobile SDK** no seu aplicativo. Os SDKs são essenciais para coleção de dados e interação com a Adobe Experience Platform (AEP) e seus aplicativos, como Adobe Systems Journey Optimizer (AJO).
+As implementações móveis no Journey Optimizer começam com a integração do **Adobe Experience Platform Mobile SDK** no seu aplicativo. Os SDKs são essenciais para a coleta de dados e a interação com o Adobe Experience Platform (AEP) e seus aplicativos, como o Adobe Journey Optimizer (AJO).
 
 O SDK móvel:
 
 - Coleta eventos de aplicativo (exibições de tela, toques, compras, eventos de ciclo de vida etc.) e os envia para a **Adobe Experience Platform Edge Network**.
-- **Gerencia a identidade** e o **consentimento**, de modo que o Journey Optimizer possa build com segurança e usar perfis de clientes.
-- Registra e atualiza tokens **&#x200B;**&#x200B;de push e envia **os eventos** de rastreamento de push e no aplicativo para Adobe Experience Platform.
-- Integra-se com **extensões** móveis do Journey Optimizer (push, no aplicativo, conteúdo cartões, decisões) para que as mensagens possam ser entregues, renderizadas e medidas de ponta a ponta.
+- Gerencia a **identidade** e o **consentimento**, para que a Journey Optimizer possa criar e usar com segurança perfis de clientes.
+- Registra e atualiza os **tokens de push** e envia os **eventos de rastreamento por push e no aplicativo** de volta para a Adobe Experience Platform.
+- Integra-se às **extensões para dispositivos móveis do Journey Optimizer** (push, no aplicativo, cartões de conteúdo, decisão) para que as mensagens possam ser entregues, renderizadas e medidas de ponta a ponta.
 
-Sem o Publicação de conteúdo para dispositivos móveis SDK integrado ao seu aplicativo, o Journey Optimizer não pode ser confiável:
+Sem o Mobile SDK integrado ao seu aplicativo, o Journey Optimizer não pode:
 
-- Envie e faixa mensagens de push e no aplicativo móvel.
+- Entregar e rastrear mensagens por push e no aplicativo para dispositivos móveis.
 - Renderizar e rastrear cartões de conteúdo.
 - Use o comportamento no aplicativo em tempo real para acionar jornadas e personalizar experiências.
 
@@ -79,42 +79,42 @@ Para usar os canais móveis da Journey Optimizer (push, no aplicativo, cartões 
 | Hub de eventos e serviços | Núcleo móvel / Núcleo AEP, Serviços AEP | Base para todas as outras extensões. Fornece hub de eventos, rede, armazenamento e estado compartilhado. |
 | Edge Network | Adobe Experience Platform Edge Network | Envia eventos de aplicativo para o Adobe Experience Platform Edge Network. |
 | Identidade | Identidade do Edge Network | Gerencia a ECID e outras identidades usadas para perfil e segmentação. |
-| Consentimento | Consentimento para Edge Network | Coleta e aplica preferências de consentimento usuário. |
-| Assurance | Adobe Experience Platform Assurance | Usado para validar e depurar o SDK e canal configuração de ponta a ponta. |
+| Consentimento | Consentimento para Edge Network | Coleta e impõe preferências de consentimento do usuário. |
+| Assurance | Adobe Experience Platform Assurance | Usado para validar e depurar a configuração do SDK e do canal de ponta a ponta. |
 
->[!TAB Específico ao canal]
+>[!TAB Específico do canal]
 
-#### Extensões específicas de canal para o Journey Optimizer
+#### Extensões específicas de canal para Journey Optimizer
 
-| Canal/recurso | Extensões principais adicionais (além do principal) | O que eles habilitam |
+| Canal/recurso | Extensões principais adicionais (além do principal) | O que eles permitem |
 |------------------------|---------------------------------------------------------------------|------------------|
 | Notificações por push | Extensão móvel do Journey Optimizer (push) | Registre e atualize tokens de push, envie eventos de rastreamento de push e conecte-se à configuração de push do AJO. |
-| mensagens no aplicativo | Extensão móvel do Journey Optimizer (no aplicativo), Mensagens interface componentes | Buscar e exibir mensagens no aplicativo no contexto, enviar impressões e eventos de interação. |
-| Cartões de conteúdo | SDK de mensagens com conteúdo suporte cartão | Buscar, renderizar e rastrear cartões de conteúdo para obter relatórios precisos do Journey Optimizer. |
+| Mensagens no aplicativo | Extensão móvel do Journey Optimizer (no aplicativo), componentes da interface do usuário de mensagens | Busque e exiba mensagens no aplicativo em contexto, envie impressões e eventos de interação. |
+| Cartões de conteúdo | Mensagens no SDK com suporte a cartão de conteúdo | Buscar, renderizar e rastrear cartões de conteúdo para obter relatórios precisos do Journey Optimizer. |
 | Experiências baseadas em código | Journey Optimizer / extensões de decisão ou API do Edge Server | Procure decisões sobre &quot;superfícies&quot; específicas no seu aplicativo; seu aplicativo controla como o conteúdo é renderizado. |
 
 >[!ENDTABS]
 
 #### Propriedade e configuração da tag móvel
 
-Essas extensões são configuradas em um **[tag móvel propriedade](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)** na Coleta de dados (tags) do AEP. Essa propriedade controla:
+Você configura essas extensões em uma **[propriedade de marca móvel](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)** na Coleção de dados da AEP (marcas). Essa propriedade controla:
 
-- Quais Publicação de conteúdo para dispositivos móveis extensões do SDK estão instaladas.
+- Quais extensões do Mobile SDK estão instaladas.
 - Quais eventos no aplicativo acionam chamadas para a Edge Network.
 - Como os dados são mapeados no XDM e encaminhados para soluções da Adobe (Journey Optimizer, Analytics etc.).
 
-Você pode criar e configurar esta propriedade móvel manualmente ou usar a **[Configuração de Canal Guiada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** para criar automaticamente a propriedade de marca, a sequência de dados e a configuração de canal necessárias para o iOS ou Android.
+Você pode criar e configurar esta propriedade móvel manualmente ou usar a **[Configuração de Canal Guiada](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** para criar automaticamente a propriedade de marca, a sequência de dados e a configuração de canal necessárias para o iOS ou Android.
 
-> **Ponta**\
-> Para novas implementações, **[a Configuração](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** guiada de canal é o ponto de partida recomendado. Isso reduz o risco de fluxos de dados incorretos ou de extensões ausentes e o conduz pelos validação do SDK com o Assurance.
+> **Dica**\
+> Para novas implementações, a **[Configuração de Canal Guiada](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** é o ponto de partida recomendado. Ele reduz o risco de fluxos de dados configurados incorretamente ou de extensões ausentes e orienta você na validação do SDK com o Assurance.
 
-#### Comece com o Publicação de conteúdo para dispositivos móveis SDK:
+#### Introdução ao Mobile SDK:
 
 <!-- CARDS
-* https://experienceleague.adobe.com/pt-br/docs/platform-learn/data-collection/mobile-sdk/overview
+* https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview
     {description = Learn how Adobe Experience Platform Mobile SDK powers end-to-end engagement in your mobile applications.}
-* https://experienceleague.adobe.com/pt-br/docs/platform-learn/implement-mobile-sdk/overview
-* https://experienceleague.adobe.com/pt-br/docs/mobile
+* https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview
+* https://experienceleague.adobe.com/en/docs/mobile
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -122,8 +122,8 @@ Você pode criar e configurar esta propriedade móvel manualmente ou usar a **[C
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/platform-learn/data-collection/mobile-sdk/overview" title="Visão geral do Adobe Experience Platform Mobile SDK" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/33158?captions=por_br&format=jpeg&nocache=1763594622398" alt="Visão geral do Adobe Experience Platform Mobile SDK"
+                    <a href="https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview" title="Visão geral do Adobe Experience Platform Mobile SDK" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/28948?format=jpeg&nocache=1763594622398" alt="Visão geral do Adobe Experience Platform Mobile SDK"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -131,11 +131,11 @@ Você pode criar e configurar esta propriedade móvel manualmente ou usar a **[C
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" title="Visão geral Publicação de conteúdo para dispositivos móveis SDK Adobe Experience Platform">Visão geral Publicação de conteúdo para dispositivos móveis SDK Adobe Experience Platform</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" title="Visão geral do Adobe Experience Platform Mobile SDK">Visão geral do Adobe Experience Platform Mobile SDK</a>
                     </p>
-                    <p class="is-size-6">Saiba como Adobe Experience Platform Publicação de conteúdo para dispositivos móveis SDK alimenta envolvimento completos nos aplicativos móveis.</p>
+                    <p class="is-size-6">Saiba como o Adobe Experience Platform Mobile SDK capacita o engajamento completo em seus aplicativos móveis.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
                 </a>
             </div>
@@ -145,8 +145,8 @@ Você pode criar e configurar esta propriedade móvel manualmente ou usar a **[C
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/platform-learn/implement-mobile-sdk/overview" title="Tutorial Implementar o Adobe Experience Cloud em aplicativos para dispositivos móveis" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="Tutorial Implementar o Adobe Experience Cloud em aplicativos para dispositivos móveis"
+                    <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" title="Tutorial Implementar o Adobe Experience Cloud em aplicativos para dispositivos móveis" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="Tutorial Implementar o Adobe Experience Cloud em aplicativos para dispositivos móveis"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -154,11 +154,11 @@ Você pode criar e configurar esta propriedade móvel manualmente ou usar a **[C
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="Tutorial Implementar o Adobe Experience Cloud em aplicativos para dispositivos móveis">Tutorial: Implementar a Adobe Experience Cloud em aplicativos para dispositivos móveis</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="Tutorial Implementar o Adobe Experience Cloud em aplicativos para dispositivos móveis">Tutorial: Implementar a Adobe Experience Cloud em aplicativos para dispositivos móveis</a>
                     </p>
                     <p class="is-size-6">Saiba como implementar os aplicativos móveis do Adobe Experience Cloud. Este tutorial o orienta por uma implementação de aplicativos Experience Cloud em um aplicativo Swift ou Android de amostra.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
                 </a>
             </div>
@@ -168,7 +168,7 @@ Você pode criar e configurar esta propriedade móvel manualmente ou usar a **[C
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/mobile" title="Documentação do SDK móvel da Adobe Experience Platform" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/mobile" title="Documentação do SDK móvel da Adobe Experience Platform" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="Documentação do SDK móvel da Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -177,11 +177,11 @@ Você pode criar e configurar esta propriedade móvel manualmente ou usar a **[C
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/mobile" target="_blank" rel="referrer" title="Documentação do SDK móvel da Adobe Experience Platform">Documentação do Adobe Experience Platform Mobile SDK</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/mobile" target="_blank" rel="referrer" title="Documentação do SDK móvel da Adobe Experience Platform">Documentação do Adobe Experience Platform Mobile SDK</a>
                     </p>
                     <p class="is-size-6">Procure por artigos e tutoriais de autoatendimento sobre os SDKs móveis da Experience Platform. Conheça as estratégias e práticas recomendadas dos especialistas em eventos por vídeo ao vivo e sob demanda.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/docs/mobile" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/mobile" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
                 </a>
             </div>
@@ -190,39 +190,39 @@ Você pode criar e configurar esta propriedade móvel manualmente ou usar a **[C
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-Para obter mais informações, consulte também a [Documentação do Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/pt-br/docs/mobile)
+Para obter mais informações, consulte também a [Documentação do Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/en/docs/mobile)
 
 #### Referências do desenvolvedor:
 
-- [Publicação de conteúdo para dispositivos móveis portal do desenvolvedor do SDK (página inicial)](https://developer.adobe.com/client-sdks/home/)
+- [Portal para desenvolvedores do Mobile SDK (página inicial)](https://developer.adobe.com/client-sdks/home/)
 - [Versões atuais do SDK](https://developer.adobe.com/client-sdks/home/current-sdk-versions/)
-- [Introdução a um propriedade móvel (tags)](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)
-- [Obter o SDK (instalar no seu aplicativo)](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/)
-- [Rastrear eventos com o SDK Publicação de conteúdo para dispositivos móveis](https://developer.adobe.com/client-sdks/home/getting-started/track-events/)
+- [Introdução a uma propriedade móvel (marcas)](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)
+- [Obter o SDK (instalar no aplicativo)](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/)
+- [Rastrear eventos com o Mobile SDK](https://developer.adobe.com/client-sdks/home/getting-started/track-events/)
 - [Validar com o Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/)
 
-#### Lista de verificação Publicação de conteúdo para dispositivos móveis preparação para o SDK
+#### Lista de verificação de preparação para o Mobile SDK
 
-> - [ ] SDK principal instalado (Core, Edge, Identity, Consent, Assurance).
-> - [ ] Extensões móveis do Journey Optimizer adicionadas para os canais que você usará (push, no aplicativo, cartões conteúdo, baseados em código).
-> - [ ] Fluxo de dados configurado corretamente para conjuntos de dados de evento e perfil.
-> - [ ] Identidade e consentimento implementados e validados com controle.
+> - [ ] SDK principal instalado (Core, Edge, Identidade, Consentimento, Assurance).
+> - [ ] extensões móveis do Journey Optimizer adicionadas para os canais que você usará (push, no aplicativo, cartões de conteúdo, baseado em código).
+> - [ ] Sequência de dados configurada corretamente para eventos e conjuntos de dados de perfil.
+> - [ ] Identidade e consentimento implementados e validados com o Assurance.
 > - [ ] O registro do token de push e o rastreamento foram validados de ponta a ponta.
 > - [ ] Os cartões de conteúdo e/ou no aplicativo são exibidos validados em um dispositivo.
-> - [ ] Configuração guiada de canal usada para novas implementações ou configuração manualmente alinhada às etapas documentadas.
+> - [ ] Configuração de canal guiada usada para novas implementações ou configuração alinhada manualmente às etapas documentadas.
 
 
 
-## Configuração Adobe Systems canal do Journey Optimizer
+## Configuração de canal do Adobe Journey Optimizer
 
-### Aplicativo aplicativo, Push e WhatsApp
+### No aplicativo, push e WhatsApp
 
 Configure seus **canais móveis** usando a funcionalidade do canal guiado. Entenda como configurar o **canal do WhatsApp**:
 
 <!-- CARDS
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
  {description = Learn how to quickly set up and validate web and mobile channels across Experience Platform, Journey Optimizer, and Data Collection, and configure a push notification for a sample iOS marketing app.}
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -230,8 +230,8 @@ Configure seus **canais móveis** usando a funcionalidade do canal guiado. Enten
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="Configuração de canais guiada" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449627/?captions=por_br&format=jpeg&nocache=1763594622823" alt="Configuração de canais guiada"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="Configuração de canais guiada" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1763594622823" alt="Configuração de canais guiada"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -239,11 +239,11 @@ Configure seus **canais móveis** usando a funcionalidade do canal guiado. Enten
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" title="Configuração de canais guiada">Configuração de canais guiada</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" title="Configuração de canais guiada">Configuração de canais guiada</a>
                     </p>
                     <p class="is-size-6">Saiba como configurar e validar rapidamente canais da Web e móveis na Experience Platform, Journey Optimizer e Coleção de dados, e configurar uma notificação por push para um aplicativo de marketing de exemplo do iOS.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
                 </a>
             </div>
@@ -254,7 +254,7 @@ Configure seus **canais móveis** usando a funcionalidade do canal guiado. Enten
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Configurar o canal do WhatsApp" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470273/?captions=por_br&format=jpeg&nocache=1763594622814" alt="Configurar o canal do WhatsApp"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1763594622814" alt="Configurar o canal do WhatsApp"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -277,14 +277,14 @@ Configure seus **canais móveis** usando a funcionalidade do canal guiado. Enten
 
 ### SMS/MMS/RCS
 
-Configure **canais** SMS/MMS/RCS com os provedores padrão (Twilio, Synch ou Infobip) ou usando um provedor SMS personalizado:
+Configure **canais SMS/MMS/RCS** com os provedores padrão (Twilio, Synch ou Infobip) ou usando um provedor SMS personalizado:
 
 <!-- CARDS
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
 {description = Learn how to configure custom SMS providers in Journey Optimizer, set up API credentials and webhooks, manage opt-in/opt-out keywords, and launch personalized campaigns.}
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -292,7 +292,7 @@ Configure **canais** SMS/MMS/RCS com os provedores padrão (Twilio, Synch ou Inf
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="Configurar credenciais da API de SMS e superfícies de canal" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="Configurar credenciais da API de SMS e superfícies de canal" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413355?format=jpeg&nocache=1763594624036" alt="Configurar credenciais da API de SMS e superfícies de canal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -301,11 +301,11 @@ Configure **canais** SMS/MMS/RCS com os provedores padrão (Twilio, Synch ou Inf
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="Configurar credenciais da API de SMS e superfícies de canal">Configurar credenciais de API de SMS e superfícies de canal</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="Configurar credenciais da API de SMS e superfícies de canal">Configurar credenciais de API de SMS e superfícies de canal</a>
                     </p>
                     <p class="is-size-6">Saiba como conectar o Journey Optimizer a um provedor de serviços de SMS e como criar uma superfície de canal de SMS.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
                 </a>
             </div>
@@ -338,8 +338,8 @@ Configure **canais** SMS/MMS/RCS com os provedores padrão (Twilio, Synch ou Inf
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Configurar credenciais da API de MMS e superfícies de canal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438051/?captions=por_br&format=jpeg&nocache=1763594624083" alt="Configurar credenciais da API de MMS e superfícies de canal"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Configurar credenciais da API de MMS e superfícies de canal" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1763594624083" alt="Configurar credenciais da API de MMS e superfícies de canal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -347,11 +347,11 @@ Configure **canais** SMS/MMS/RCS com os provedores padrão (Twilio, Synch ou Inf
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="Configurar credenciais da API de MMS e superfícies de canal">Configurar credenciais da API de MMS e superfícies de canal</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="Configurar credenciais da API de MMS e superfícies de canal">Configurar credenciais da API de MMS e superfícies de canal</a>
                     </p>
                     <p class="is-size-6">Saiba como conectar o Journey Optimizer a um provedor de serviços de MMS e como criar uma superfície de canal de MMS.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
                 </a>
             </div>
@@ -362,7 +362,7 @@ Configure **canais** SMS/MMS/RCS com os provedores padrão (Twilio, Synch ou Inf
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Configurar RCS no Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464760/?captions=por_br&format=jpeg&nocache=1763594624043" alt="Configurar RCS no Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1763594624043" alt="Configurar RCS no Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -385,16 +385,16 @@ Configure **canais** SMS/MMS/RCS com os provedores padrão (Twilio, Synch ou Inf
 
 ## Publicações no blog
 
-- [Usando a personalização do lado do cliente baseada em CDN (ODD) em dispositivos móveis para personalizações mais rápidas.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=pt)
-- [Mobile Activation para Adobe Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595?profile.language=pt)
+- [Usando a personalização do lado do cliente baseada em CDN (ODD) em dispositivos móveis para personalizações mais rápidas.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
+- [Mobile Activation para Adobe Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
 
 ## Garanta a conformidade com as leis de privacidade e as diretrizes da plataforma.
 
 <!-- CARDS
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables{cta = Watch}
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables{cta = Watch}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -402,7 +402,7 @@ Configure **canais** SMS/MMS/RCS com os provedores padrão (Twilio, Synch ou Inf
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Recursos de privacidade do Adobe Journey Optimizer" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Recursos de privacidade do Adobe Journey Optimizer" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="../mobile-learning-hub/assets/privacy.webp" alt="Recursos de privacidade do Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -411,11 +411,11 @@ Configure **canais** SMS/MMS/RCS com os provedores padrão (Twilio, Synch ou Inf
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Recursos de privacidade do Adobe Journey Optimizer">Recursos de privacidade no Adobe Journey Optimizer</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Recursos de privacidade do Adobe Journey Optimizer">Recursos de privacidade no Adobe Journey Optimizer</a>
                     </p>
                     <p class="is-size-6">Saiba como processar solicitações de privacidade, auditar ações do usuário, gerenciar o consentimento, aplicar regras de governança e aproveitar opções avançadas de segurança, como Chaves gerenciadas pelo cliente.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
                 </a>
             </div>
@@ -426,7 +426,7 @@ Configure **canais** SMS/MMS/RCS com os provedores padrão (Twilio, Synch ou Inf
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="Visão geral da estrutura de governança de dados" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32683/?captions=por_br&format=jpeg&nocache=1763594624934" alt="Visão geral da estrutura de governança de dados"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1763594624934" alt="Visão geral da estrutura de governança de dados"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -449,7 +449,7 @@ Configure **canais** SMS/MMS/RCS com os provedores padrão (Twilio, Synch ou Inf
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="Classificar dados usando rótulos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422793?captions=por_br&format=jpeg&nocache=1763594624932" alt="Classificar dados usando rótulos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1763594624932" alt="Classificar dados usando rótulos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -472,7 +472,7 @@ Configure **canais** SMS/MMS/RCS com os provedores padrão (Twilio, Synch ou Inf
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="Criar políticas de uso de dados" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/37143/?captions=por_br&format=jpeg&nocache=1763594624933" alt="Criar políticas de uso de dados"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1763594624933" alt="Criar políticas de uso de dados"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -499,9 +499,9 @@ A maioria dos problemas de publicação de conteúdo para dispositivos móveis t
 
 ### Principais armadilhas
 
-| # | Problema/sintoma | Armadilha comum | Relance |
+| # | Problema/sintoma | Armadilha comum | Visão geral das correções |
 |---|----------------------------------------------|-----------------------------------------------------|------------------------------------------|
-| 1 | Falha na configuração do canal guiado; não ou baixo tráfego | [Versões ou extensões do SDK não alinhadas](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | Atualizar versões do SDK/extensões; validar no Assurance |
+| 1 | Falha na configuração do canal guiado; sem tráfego ou com tráfego baixo | [Versões ou extensões do SDK não alinhadas](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | Atualizar versões do SDK/extension; validar no Assurance |
 | 2 | Falha no rastreamento de lotes; erros no AEP | [Datastreams ou conjuntos de dados configurados incorretamente](#2-misconfigured-datastreams-or-datasets) | Mapear eventos para conjunto de dados de evento e perfis para conjunto de dados de perfil |
 | 3 | As jornadas não são acionadas; personalização estranha | [Identidade ou consentimento ausente/inconsistente](#3-missing-or-inconsistent-identity-and-consent) | Implementar a verificação de identidade e consentimento do Edge no Assurance |
 | 4 | Nenhuma entrega por push ou abertura em relatórios | [Registro do token de push ou rastreamento interrompido](#4-push-token-registration-and-tracking-not-wired-correctly) | Corrigir o registro de token e o rastreamento de interação por meio do SDK |
@@ -518,27 +518,27 @@ Abra a armadilha que corresponde aos seus sintomas para ver o que verificar e co
 
 - As atividades de push ou no aplicativo não chegam ao dispositivo.
 - Falha na Configuração de Canal Guiado ou na validação de canal.
-- O controle mostra extensões ausentes do Journey Optimizer, Edge ou Identity.
+- O Assurance mostra o Journey Optimizer, o Edge ou as extensões de identidade ausentes.
 
 **O que verificar**
 
-- Você está usando as versões mínimas **da extensão Publicação de conteúdo para dispositivos móveis Principal** e **Otimizador** de jornada necessárias pela Configuração guiada de canal?
+- Você está usando as versões mínimas de extensão do **Mobile Core** e do **Journey Optimizer** necessárias para a Configuração de Canal Guiado?
 - Em **Assurance**, em extensões e eventos:
    - Você vê as extensões esperadas carregadas?
    - Os eventos estão sendo enviados para a Edge Network e confirmados?
 
 **Como corrigir**
 
-- Atualize para as versões de Publicação de conteúdo para dispositivos móveis do SDK e da extensão Journey Optimizer suportadas.
-- Recrie o aplicativo, reconecte o Assurance e execute novamente a configuração de canal guiado.
+- Atualize para as versões compatíveis da extensão do Mobile SDK e do Journey Optimizer.
+- Recrie o aplicativo, reconecte-se ao Assurance e execute novamente a Configuração de canal guiada.
 
-Consulte: [Configurar dispositivos móveis e web](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
+Consulte: [Configurar dispositivos móveis e a Web](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
 
 </details>
 
 
 <details id="2-misconfigured-datastreams-or-datasets">
-<summary><strong>2. Fluxos de dados ou conjuntos de dados configurados incorretamente</strong></summary>
+<summary><strong>2. Sequências de dados ou conjuntos de dados configurados incorretamente</strong></summary>
 
 **O que você observará**
 
@@ -551,15 +551,15 @@ Consulte: [Configurar dispositivos móveis e web](https://experienceleague.adobe
 - Alguém alterou **esquemas do sistema ou conjuntos de dados** criados para rastreamento do Journey Optimizer?
 - Na sua **sequência de dados**:
    - Os eventos de experiência estão mapeados para um **conjunto de dados de evento**?
-   - Os atributos perfil são mapeados para um **perfil conjunto de dados**?
+   - Os atributos de perfil estão mapeados para um **conjunto de dados de perfil**?
 
 **Como corrigir**
 
-- Não edite conjuntos de dados/esquemas do sistema criados pelo AJO.
-- Correto o mapeamento da sequência de dados (de → de eventos conjunto de dados evento, perfis → perfil conjunto de dados).
-- Prefer Guided Channel Setup ou as etapas documentadas da sequência de dados em vez de alterações publicidade-hoc.
+- Não edite conjuntos de dados/esquemas do sistema criados pela AJO.
+- Corrija o mapeamento do fluxo de dados (eventos → conjunto de dados do evento, perfis → conjunto de dados do perfil).
+- Prefira a Configuração de canal guiada ou as etapas de sequência de dados documentadas em vez de alterações ad hoc.
 
-Consulte: [Fluxo de notificação por push no Adobe Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/channels/push/push-config/push-gs)
+Consulte: [Fluxo de notificação por push no Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
 
 </details>
 
@@ -571,23 +571,23 @@ Consulte: [Fluxo de notificação por push no Adobe Journey Optimizer](https://e
 
 - O Jornada não é acionado conforme esperado pelos usuários do aplicativo.
 - O Personalization não corresponde ao comportamento do usuário em outros canais.
-- Os eventos aparecem em Experience Platform, mas os perfis parecem fragmentados.
+- Os eventos aparecem no Experience Platform, mas os perfis parecem fragmentados.
 
 **O que verificar**
 
-- A identidade da rede **Edge é** implementada e o envio de uma ID primária estável (por exemplo, fazer logon ID)?
-- O Consentimento para a Rede **Edge é** implementado e atualizado quando as preferências são alteradas?
-- Na **garantia**:
+- A **Identidade do Edge Network** foi implementada e está enviando uma ID primária estável (por exemplo, ID de logon)?
+- O **Consentimento para o Edge Network** é implementado e atualizado quando as preferências são alteradas?
+- Em **Assurance**:
    - Os eventos de saída incluem valores de consentimento?
    - Eles incluem a ECID e suas IDs primárias de forma consistente?
 
 **Como corrigir**
 
-- Implemente ou corrija **a identidade da rede** Edge no aplicativo.
-- Implemente **o Consentimento para a Rede** Edge e conecte-o ao interface de consentimento do seu aplicativo.
+- Implemente ou corrija a **Identidade do Edge Network** no aplicativo.
+- Implemente o **Consentimento para o Edge Network** e conecte-o à interface do usuário de consentimento do seu aplicativo.
 - Repita o teste no Assurance até que a identidade e o consentimento apareçam em todos os eventos relevantes.
 
-Consulte: [Implementar consentimento para implementações do Platform Mobile SDK](https://experienceleague.adobe.com/pt-br/docs/platform-learn/implement-mobile-sdk/app-implementation/consent)
+Consulte: [Implementar consentimento para implementações do Platform Mobile SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent)
 
 </details>
 
@@ -615,7 +615,7 @@ Consulte: [Implementar consentimento para implementações do Platform Mobile SD
    - Envia eventos de interação de push (ações de abertura, descarte e personalizadas) por meio do Mobile SDK.
 - Use o Assurance para confirmar se os eventos de registro e rastreamento estão sendo acionados conforme esperado.
 
-Consulte: [Fluxo de notificação por push no Adobe Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/channels/push/push-config/push-gs)
+Consulte: [Fluxo de notificação por push no Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
 
 </details>
 
@@ -625,40 +625,40 @@ Consulte: [Fluxo de notificação por push no Adobe Journey Optimizer](https://e
 
 **O que você observará**
 
-- Mensagens no aplicativo ou cartões de conteúdo nunca aparecem, apesar de campanhas ou jornadas ativas.
+- As mensagens no aplicativo ou os cartões de conteúdo nunca aparecem, apesar das campanhas ou jornadas ativas.
 - Os relatórios mostram 0 impressões.
 
 **O que verificar**
 
-- O Journey Optimizer mobile mensagens / extensão **no aplicativo e** o **SDK** de mensagens estão instalados e registrados no aplicativo?
+- A **Journey Optimizer mobile messaging / extensão no aplicativo** e a **Messaging SDK** estão instaladas e registradas no aplicativo?
 - Na configuração de **tags**:
    - Você tem regras que acionam solicitações nos eventos corretos (por exemplo, exibições de tela ou eventos personalizados)?
-- Na **garantia**:
-   - Quando esses eventos são acionados, você vê as solicitações de decisão do conteúdo-cartão saindo?
-   - Você vê as respostas voltando da Rede Edge?
+- Em **Assurance**:
+   - Quando esses eventos são acionados, você vê solicitações de decisão no aplicativo ou no cartão de conteúdo sendo enviadas?
+   - Você vê respostas vindas da Edge Network?
 
 **Como corrigir**
 
 - Instale e registre as extensões de mensagens necessárias.
-- Adicione ou corrija regras que acionam decisões em seus eventos de Direcionamento (telas, eventos personalizados).
-- Para cartões conteúdo, verifique:
-   - Buscar cartões por meio das APIs do SDK de mensagens.
-   - Renderize-as na interface.
-   - Rastreie as interações através do SDK.
+- Adicione ou corrija regras que acionam decisões nos eventos de destino (telas, eventos personalizados).
+- Para cartões de conteúdo, certifique-se de:
+   - Busque cartões por meio das APIs do Messaging SDK.
+   - Renderizá-los na interface do usuário.
+   - Rastrear interações por meio da SDK.
 
 Consulte:
-- [Criar e enviar mensagens no aplicativo](https://experienceleague.adobe.com/pt-br/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp)
-- [Configurar o suporte conteúdo cartões no SDK Publicação de conteúdo para dispositivos móveis](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp)
+- [Criar e enviar mensagens no aplicativo](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp)
+- [Configurar suporte a cartões de conteúdo no Mobile SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp)
 
 </details>
 
 
-## Lista de verificação de prontidão de uma linha
+## Lista de verificação de disponibilidade em uma linha
 
 Antes de entregar o aplicativo aos profissionais de marketing, confirme no **[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/)** que:
 
 - As extensões principais do SDK + Journey Optimizer são carregadas,
-- Os eventos estão fluindo na sequência de dados e nos conjuntos de dados corretos,
-- Identidade e consentimento estão presentes em todos os eventos principais,
+- Os eventos estão fluindo no fluxo de dados e nos conjuntos de dados corretos,
+- A identidade e o consentimento estão presentes em todos os eventos principais,
 - Os tokens de push e as interações são rastreados e
 - Pelo menos uma mensagem no aplicativo de teste ou cartão de conteúdo foi exibido e gravado como

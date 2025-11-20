@@ -20,7 +20,7 @@ ht-degree: 17%
 
 Configure os canais móveis no Adobe Journey Optimizer e no Adobe Experience Platform, integre-os aos aplicativos móveis e garanta a disponibilidade para a execução da campanha de marketing.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > Se você é novo no Journey Optimizer e no Experience Platform, familiarize-se com os conceitos principais fazendo estes cursos:
 > - [Configurar e administrar o Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
 >*Neste curso, você aprenderá a configurar e gerenciar o ambiente do Journey Optimizer, incluindo funções de usuário, permissões, sandboxes e canais de email, garantindo operações eficientes e seguras.*

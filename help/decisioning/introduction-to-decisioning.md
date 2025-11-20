@@ -12,7 +12,7 @@ jira: KT-17486
 thumbnail: KT-17486.jpeg
 exl-id: d5219ce1-ea44-4c41-b557-b094978e37cc
 source-git-commit: b9a223a583a2ceb7c6c55a144ab78c7963ae2969
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ O serviço de decisão simplifica a personalização oferecendo um catálogo cen
 
 Este vídeo fornece uma breve visão geral dos recursos de decisão do Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3475868?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}

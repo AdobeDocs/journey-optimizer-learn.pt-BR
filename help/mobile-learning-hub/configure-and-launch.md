@@ -107,7 +107,7 @@ Essa propriedade controla:
 
 Você pode [criar e configurar esta propriedade móvel manualmente](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property) ou, para Push e In-App para Dispositivos Móveis, pode usar a **[Configuração de Canal Guiada](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** para criar automaticamente a propriedade de marca, a sequência de dados e a configuração de canal necessárias para o iOS e o Android.
 
-> [!TIP]
+&#x200B;> [!TIP]
 >  
 > Para novas implementações, a **[Configuração de Canal Guiada](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** é o ponto de partida recomendado. Ele reduz o risco de fluxos de dados configurados incorretamente ou de extensões ausentes e orienta você na validação do SDK com o Assurance.
 

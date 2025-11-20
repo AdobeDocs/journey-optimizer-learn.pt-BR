@@ -43,7 +43,7 @@ O SDK móvel:
 
 - Coleta eventos de aplicativo (exibições de tela, toques, compras, eventos de ciclo de vida etc.) e os envia para a **Adobe Experience Platform Edge Network**.
 - **Gerencia a identidade** e o **consentimento**, de modo que o Journey Optimizer possa build com segurança e usar perfis de clientes.
-- Registra e atualiza tokens **** de push e envia **os eventos** de rastreamento de push e no aplicativo para Adobe Experience Platform.
+- Registra e atualiza tokens **&#x200B;**&#x200B;de push e envia **os eventos** de rastreamento de push e no aplicativo para Adobe Experience Platform.
 - Integra-se com **extensões** móveis do Journey Optimizer (push, no aplicativo, conteúdo cartões, decisões) para que as mensagens possam ser entregues, renderizadas e medidas de ponta a ponta.
 
 Sem o Publicação de conteúdo para dispositivos móveis SDK integrado ao seu aplicativo, o Journey Optimizer não pode ser confiável:

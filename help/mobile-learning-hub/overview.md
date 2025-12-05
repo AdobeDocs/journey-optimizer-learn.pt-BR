@@ -1,15 +1,15 @@
 ---
 title: Hub de aprendizagem móvel
-description: Esse é o espaço para desenvolvedores, administradores, profissionais de marketing e analistas de dados descobrirem tudo, desde configurar canais móveis de entrada e saída até transformá-los em campanhas eficientes. Explore as práticas recomendadas, aprenda a promover a adoção e a dominar os relatórios, tudo em um só lugar, para que as equipes possam oferecer experiências móveis impactantes e orientadas por dados que se conectam com os usuários a qualquer hora, em qualquer lugar.
+description: Impulsione ou aumente sua estratégia de envolvimento móvel com o Adobe Journey Optimizer. Esse hub de aprendizagem móvel equipe desenvolvedores, administradores, profissionais de marketing e analistas com tudo o que é necessário para configurar canais móveis de entrada e saída e integrá-los perfeitamente a campanhas e jornadas avançadas em vários canais. Explore as práticas recomendadas, aprenda a impulsionar a adoção e a configurar fluxos de trabalho de relatórios centralizados — tudo em um só lugar — para fornecer experiências móveis impactantes e orientadas por dados que chegam aos clientes a qualquer hora, em qualquer lugar.
 feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-last-substantial-update: 2025-08-22T00:00:00Z
+last-substantial-update: 2025-12-05T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
+source-git-commit: 6faf1e92516a54afa9c987b693a27d2284726fff
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '928'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Impulsione ou aumente sua estratégia de envolvimento móvel com o Adobe Journey
 
 Explore as práticas recomendadas, aprenda a impulsionar a adoção e a configurar fluxos de trabalho de relatórios centralizados — tudo em um só lugar — para fornecer experiências móveis impactantes e orientadas por dados que chegam aos clientes a qualquer hora, em qualquer lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477003?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Visão geral do canal móvel
@@ -98,4 +98,4 @@ Saiba mais sobre os conceitos e como
 
 ## Casos de uso do cliente
 
-* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=pt)
+* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)

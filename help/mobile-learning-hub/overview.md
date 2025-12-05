@@ -20,7 +20,7 @@ Impulsione ou aumente sua estratégia de envolvimento móvel com o Adobe Journey
 
 Explore as práticas recomendadas, aprenda a impulsionar a adoção e a configurar fluxos de trabalho de relatórios centralizados — tudo em um só lugar — para fornecer experiências móveis impactantes e orientadas por dados que chegam aos clientes a qualquer hora, em qualquer lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477003?captions=por_br&quality=12&learn=on){transcript=true}
 
 
 ## Visão geral do canal móvel

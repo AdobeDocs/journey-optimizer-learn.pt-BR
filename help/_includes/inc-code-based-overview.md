@@ -1,16 +1,17 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 3%
+source-wordcount: '301'
+ht-degree: 2%
 
 ---
 # Experiência baseada em código - Visão geral
 
 ## O que é
 
-**Experiências baseadas em código** referem-se a conteúdo dinâmico personalizado ou mensagens criadas com o uso de código personalizado (JavaScript, APIs ou linguagens de modelos) em plataformas como o Adobe Journey Optimizer.\
-Isso permite criar jornadas e mensagens altamente personalizadas e orientadas por dados do cliente, além das ferramentas padrão de arrastar e soltar.
+Experiências baseadas em código permitem fornecer conteúdo e mensagens personalizados e dinâmicos usando código personalizado — como JavaScript, APIs ou linguagens de modelo — no Adobe Journey Optimizer.
+
+Esse canal é ideal para criar interações orientadas por dados altamente personalizadas que se estendem além das ferramentas de criação visual padrão (editores do WYSIWYG), proporcionando aos desenvolvedores e gerentes de otimização total flexibilidade para projetar lógica de personalização personalizada e layouts de conteúdo.
 
 Exemplos:
 

@@ -1,20 +1,19 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
 # Cartões de conteúdo - Visão geral
 
->[!VIDEO](https://video.tv.adobe.com/v/3460088/?learn=on&enablevpops&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## O que é?
 
-**Cartões de conteúdo** são mensagens persistentes no aplicativo que residem em uma caixa de entrada ou feed dedicado no aplicativo. Diferentemente das notificações por push, elas não interrompem o usuário e podem ser visualizadas conforme a conveniência do usuário.\
-Eles são ideais para fornecer **conteúdo não urgente**, **informativo** ou **promocional** que se beneficie da visibilidade ao longo do tempo.
+**Cartões de conteúdo** são mensagens persistentes no aplicativo exibidas em uma caixa de entrada ou feed dedicado dentro do aplicativo. Diferentemente das notificações por push, elas não interrompem o usuário e podem ser visualizadas sempre que o usuário escolher.
 
-Pense nos Cartões de conteúdo como um &quot;centro de mensagens&quot; no aplicativo ou feed de notícias personalizado.
+Eles são ideais para **conteúdo não urgente**, **informativo** ou **promocional** que se beneficie de maior visibilidade e exposição repetida. Pense nos Cartões de conteúdo como um &quot;centro de mensagens&quot; no aplicativo ou feed de conteúdo personalizado em que os usuários podem navegar pelas atualizações em seu próprio ritmo.&quot;
 
 ### Exemplos:
 

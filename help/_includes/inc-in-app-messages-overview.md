@@ -1,7 +1,7 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -9,16 +9,16 @@ ht-degree: 0%
 
 ## O que são mensagens no aplicativo?
 
-As mensagens no aplicativo são mensagens que aparecem dentro de um aplicativo enquanto o usuário o está usando ativamente. São mensagens do tipo sobreposição que ficam na parte superior do aplicativo. Eles não aparecem na tela de bloqueio ou fora do aplicativo; em vez disso, são exibidos como banners, pop-ups ou pequenos cartões enquanto o usuário está explorando o aplicativo.
+As mensagens no aplicativo aparecem dentro do aplicativo móvel enquanto o usuário está ativamente envolvido. Essas mensagens no estilo de sobreposição são exibidas como banners, pop-ups ou cartões diretamente na interface do aplicativo. Eles não aparecem na tela de bloqueio ou fora do ambiente do aplicativo.
 
-As mensagens no aplicativo são acionadas por ações ou condições específicas do usuário, como visualizar determinada página, concluir uma compra ou fazer parte de um segmento de público-alvo direcionado.
+As mensagens no aplicativo são acionadas por ações ou condições específicas do usuário, como visualizar uma tela específica, concluir uma compra ou se qualificar para um segmento de público-alvo direcionado.
 
 
-Por exemplo:
+São exemplos:
 
-* Um jogo pode mostrar um pop-up explicando um novo recurso no momento em que o usuário o desbloqueia.
-* Um aplicativo de compras pode exibir um banner com um código de cupom enquanto o usuário navega pelos itens.
-* Um aplicativo de mídia social pode mostrar uma mensagem sugerindo que o usuário siga novas contas.
+* Um jogo que mostra um pop-up introduzindo um novo recurso no momento em que o usuário o desbloqueia.
+* Um aplicativo de compras que exibe um banner com um código de cupom enquanto o usuário navega pelos produtos.
+* Um aplicativo social sugerindo novas contas a serem seguidas com base na atividade atual
 
 ## Casos de uso
 

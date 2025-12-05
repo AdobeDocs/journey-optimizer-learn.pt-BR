@@ -7,20 +7,20 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 37ef25f7652c59378c2387cdb1763c8e52e4a681
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
 
 # Journey Optimizer - Hub de aprendizagem móvel
 
-Jumpstart ou nivelamento com canais móveis no Adobe Journey Optimizer (AJO). Esse é o espaço para desenvolvedores, administradores, profissionais de marketing e analistas de dados descobrirem tudo, desde configurar canais móveis de entrada e saída até transformá-los em campanhas eficientes.
+Impulsione ou aumente sua estratégia de envolvimento móvel com o Adobe Journey Optimizer. Esse hub de aprendizagem móvel equipe desenvolvedores, administradores, profissionais de marketing e analistas com tudo o que é necessário para configurar canais móveis de entrada e saída e integrá-los perfeitamente a campanhas e jornadas avançadas em vários canais.
 
-Explore as práticas recomendadas, aprenda a promover a adoção e a dominar os relatórios, tudo em um só lugar, para que as equipes possam oferecer experiências móveis impactantes e orientadas por dados que se conectam com os usuários a qualquer hora, em qualquer lugar.
+Explore as práticas recomendadas, aprenda a impulsionar a adoção e a configurar fluxos de trabalho de relatórios centralizados — tudo em um só lugar — para fornecer experiências móveis impactantes e orientadas por dados que chegam aos clientes a qualquer hora, em qualquer lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477003?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Visão geral do canal móvel
@@ -29,9 +29,9 @@ O Journey Optimizer é compatível com canais móveis de entrada e saída:
 
 ### Canais de saída
 
-Os canais de saída são usados para **entregar mensagens** de forma proativa aos clientes sem exigir interação prévia. Eles são ideais para campanhas, promoções e comunicações transacionais.
+Os canais de saída permitem que você forneça mensagens de forma proativa aos clientes sem exigir uma interação prévia. Essas interações são ideais para campanhas, promoções ou eventos transacionais.
 
-Esses canais impõem **Políticas de consentimento personalizadas** no momento do envio da mensagem. Se o consentimento não for concedido para uma ação de marketing específica, a mensagem será bloqueada para delivery.
+Todos os canais de saída no Adobe Journey Optimizer impõem Políticas de consentimento personalizadas no momento do envio da mensagem. Se o consentimento não for concedido para uma ação de marketing específica, a mensagem será automaticamente suprimida para garantir o delivery em conformidade.
 
 | ![Notificações por push](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Notificações por push](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
@@ -39,7 +39,7 @@ Esses canais impõem **Políticas de consentimento personalizadas** no momento d
 
 ### Canais de entrada
 
-Os canais de entrada foram projetados para **interações iniciadas pelo cliente**, permitindo experiências personalizadas quando os usuários interagem com sua marca. Eles oferecem suporte à **personalização em tempo real** e à **captura de dados**, como formulários de página de aterrissagem que são alimentados no Adobe Experience Platform (AEP) para segmentação e direcionamento.
+Os canais de entrada oferecem suporte a interações iniciadas pelo cliente, permitindo que você forneça experiências personalizadas no momento em que os usuários se envolvem com sua marca. Eles permitem personalização e captura de dados em tempo real, como formulários de página de aterrissagem ou comportamentos no site, que são alimentados diretamente no Adobe Experience Platform (AEP) para segmentação, direcionamento e ativação em jornadas.
 
 
 | ![Mensagens no Aplicativo](/help/mobile-learning-hub/assets/frescopa-in-app.png){width=&quot;250&quot;,height=&quot;50%&quot;}<br> **[Mensagens no aplicativo](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![Cartões de Conteúdo](/help/mobile-learning-hub/assets/content-card.jpeg){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Cartões de conteúdo](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![Experiência Baseada em Código](/help/mobile-learning-hub/assets/code-based.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Experiência Baseada Em Código](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
@@ -98,4 +98,4 @@ Saiba mais sobre os conceitos e como
 
 ## Casos de uso do cliente
 
-* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=pt)
+* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)

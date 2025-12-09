@@ -1,6 +1,6 @@
 ---
 title: Relatórios aprimorados com o Customer Journey Analytics
-description: Os relatórios do Journey Optimizer agora estão totalmente integrados aos recursos do Customer Journey Analytics, padronizando os relatórios em ambas as plataformas e melhorando a consistência e confiabilidade dos dados. Essa integração perfeita entre o Journey Optimizer e o Customer Journey Analytics fornece uma visão mais clara das métricas de desempenho, permitindo que os usuários tomem decisões mais conscientes.
+description: Saiba mais sobre como navegar pelas ferramentas de relatório aprimoradas do Adobe Journey Optimizer, desde métricas unificadas e visualização de jornada até insights personalizados e análise avançada
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -9,16 +9,17 @@ duration: 22500
 last-substantial-update: 2025-01-27T00:00:00Z
 jira: KT-15774
 exl-id: 385f2f89-bef9-4a32-9ca1-4a2f4afb2c6a
-source-git-commit: 55205636bb73af692c24ebabe4168a514b547b6f
-workflow-type: ht
-source-wordcount: '116'
-ht-degree: 100%
+source-git-commit: d869245cb8d9482776d901b9ad298914b3fa0c95
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 19%
 
 ---
 
 # Relatórios aprimorados com o Customer Journey Analytics
 
-Os relatórios do Journey Optimizer agora estão totalmente integrados aos recursos do Customer Journey Analytics, padronizando os relatórios em ambas as plataformas e melhorando a consistência e confiabilidade dos dados. Essa integração perfeita entre o Journey Optimizer e o Customer Journey Analytics fornece uma visão mais clara das métricas de desempenho, permitindo que os usuários tomem decisões mais conscientes.
-Para obter a documentação detalhada, consulte [Análise no Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.
+Saiba mais sobre como navegar pelas ferramentas de relatório aprimoradas do Adobe Journey Optimizer, desde métricas unificadas e visualização de jornada até insights personalizados e análise avançada
 
->[!VIDEO](https://video.tv.adobe.com/v/3443156/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+
+Para obter a documentação detalhada, consulte [Analisar no Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.

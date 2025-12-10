@@ -39,7 +39,7 @@ O quarto ponto de falha é **experiências de fidelidade que não estão inserid
 
 A combinação dessas falhas leva ao que pode ser chamado de **dissonância de fidelidade** — a lacuna psicológica entre o que o cliente espera e o que a marca oferece. A fidelidade omnicanal resolve isso alinhando identidade, dados, decisões, orquestração de jornadas e experiência do usuário em torno de uma única narrativa contínua.
 
----
+&#x200B;---
 
 ## &#x200B;2. O Que A Fidelidade Omnicanal Realmente Significa
 

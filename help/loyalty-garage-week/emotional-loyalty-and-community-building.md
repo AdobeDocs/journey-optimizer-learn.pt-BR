@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '2156'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Fidelidade emocional e construção da comunidade
 
-Como as marcas criam identidade, pertencimento e defesa por meio de fidelidade baseada em experiência
+## Como as marcas criam identidade, pertencimento e defesa por meio de fidelidade baseada em experiência
 
-## Resumo executivo
+### Resumo executivo
 
 Fidelidade emocional — o grau em que os clientes se sentem conectados à identidade, aos valores e à comunidade de uma marca — está se tornando o principal diferencial competitivo na estratégia de fidelidade moderna. Os programas de fidelidade transacional tradicionais, criados com base em pontos, descontos e mecanismos básicos de ganho/gravação, continuam sendo importantes, mas não criam mais uma diferenciação significativa em mercados saturados. À medida que a transparência de preços aumenta, o atrito entre comutadores diminui e os consumidores se tornam mais capacitados, os programas transacionais por si só não conseguem sustentar a fidelidade ou a defesa de longo prazo. Em vez disso, as marcas que atingem um desempenho de fidelidade desmedido são aquelas que criam **comunidades**, não programas—marcas que ajudam os clientes a expressar identidade, perseguir objetivos de aspiração, interagir com outros membros e participar de rituais compartilhados que criam apego emocional.
 

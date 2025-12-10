@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -13,10 +13,11 @@ ht-degree: 0%
 ---
 
 
+# Fidelidade em um mundo omnicanal
 
-# Fidelidade em um mundo omnicanal - construindo uma experiência de fidelidade unificada, preditiva e em tempo real em todos os pontos de contato do cliente
+## Desenvolvendo uma experiência de fidelidade unificada, preditiva e em tempo real em todos os pontos de contato do cliente
 
-## Resumo executivo
+### Resumo executivo
 
 A jornada moderna do cliente é fraturada, não linear e intensamente entre canais. Os consumidores fazem uma transição fluida entre aplicativos móveis, navegadores de desktop, experiências na loja, call centers, email, SMS, notificações por push, canais sociais, dispositivos conectados e redirecionamento de mídia paga. No entanto, a maioria dos programas de fidelidade ainda opera usando sistemas em silos, incentivos centrados em canais e processamento baseado em lote que não conseguem acompanhar as expectativas do cliente quanto à rapidez, continuidade e personalização. O resultado é uma experiência de fidelidade desarticulada: o email diz que uma recompensa está disponível, enquanto o aplicativo exibe informações desatualizadas; a equipe da loja não pode ver a elegibilidade de nível ou benefício; as notificações por push são acionadas fora de sincronia com as jornadas de email; os clientes recebem ofertas conflitantes; as incompatibilidades de identidade causam perda de progresso; e o valor de fidelidade é visível de forma inconsistente nas superfícies da marca.
 

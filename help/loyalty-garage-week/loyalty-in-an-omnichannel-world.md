@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 1cdf8be6fc76e3e67f0180fad6a0979ab2e6b07b
+source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -38,8 +38,6 @@ O terceiro ponto de falha é **sincronização de dados baseada em lote**. Muito
 O quarto ponto de falha é **experiências de fidelidade que não estão inseridas em todos os pontos de contato do cliente**. Muitos programas exibem fidelidade somente no aplicativo ou em comunicações por email. Mas os clientes se envolvem em todos os lugares. O valor de fidelidade deve estar visível na página inicial, nas páginas de detalhes do produto, no carrinho, nas notificações por push, nos threads de SMS, nos recibos digitais, nas interfaces da central de atendimento e na sinalização de loja física. Quando a fidelidade é invisível ou exibida de forma inconsistente, os clientes percebem menos valor e se envolvem com menos frequência.
 
 A combinação dessas falhas leva ao que pode ser chamado de **dissonância de fidelidade** — a lacuna psicológica entre o que o cliente espera e o que a marca oferece. A fidelidade omnicanal resolve isso alinhando identidade, dados, decisões, orquestração de jornadas e experiência do usuário em torno de uma única narrativa contínua.
-
-&#x200B;---
 
 ## &#x200B;2. O Que A Fidelidade Omnicanal Realmente Significa
 

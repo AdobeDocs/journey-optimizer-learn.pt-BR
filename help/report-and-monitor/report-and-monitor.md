@@ -1,6 +1,6 @@
 ---
 title: Relatar e monitorar
-description: Descubra como os relatórios do Adobe Journey Optimizer (AJO) ajudam a rastrear, analisar e agir com facilidade nas jornadas do cliente. Esses tutoriais fornecem aos profissionais de marketing e analistas as ferramentas para monitorar o desempenho em tempo real, mergulhar em insights detalhados de jornada e canal, exportar dados, definir alertas e aproveitar análises avançadas para decisões mais inteligentes.
+description: Descubra como os relatórios do Adobe Journey Optimizer (AJO) ajudam a rastrear, analisar e agir com facilidade nas jornadas do cliente. Esses tutoriais fornecem aos profissionais de marketing e analistas as ferramentas para monitorar o desempenho em tempo real, se aprofundar em insights detalhados de jornada e canal, exportar dados, definir alertas e aproveitar análises avançadas para decisões mais inteligentes.
 feature: Reporting
 role: User
 level: Beginner, Intermediate
@@ -9,30 +9,30 @@ duration: 395
 last-substantial-update: 2025-08-28T00:00:00Z
 exl-id: 5bac9b73-9c68-4901-90f8-07949639bd69
 source-git-commit: b27e35e3dc07014caf115ec8cc057266858ddf7c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '585'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 # Relatar e monitorar
 
-Descubra como os relatórios do Adobe Journey Optimizer ajudam você a rastrear, analisar e agir com facilidade nas jornadas do cliente.
+Descubra como os relatórios do Adobe Journey Optimizer ajudam a rastrear, analisar e agir com facilidade nas jornadas do cliente.
 
-Esses tutoriais fornecem aos profissionais de marketing as ferramentas para monitorar o desempenho em tempo real, mergulhar em insights detalhados de jornada e canal, exportar dados, definir alertas e aproveitar análises avançadas para decisões mais inteligentes.
+Esses tutoriais fornecem aos profissionais de marketing as ferramentas para monitorar o desempenho em tempo real, se aprofundar em insights detalhados de jornada e canal, exportar dados, definir alertas e aproveitar análises avançadas para decisões mais inteligentes.
 
 
 ## Tutoriais
 
 <!-- CARDS
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -49,7 +49,7 @@ Esses tutoriais fornecem aos profissionais de marketing as ferramentas para moni
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" title="Introdução aos relatórios no Adobe Journey Optimizer (AJO)">Introdução aos relatórios no Adobe Journey Optimizer(AJO)</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" title="Introdução aos relatórios no Adobe Journey Optimizer (AJO)">Introdução aos relatórios no Adobe Journey Optimizer (AJO)</a>
                     </p>
                     <p class="is-size-6">Saiba mais sobre relatórios no Adobe Journey Optimizer (AJO).</p>
                 </div>
@@ -64,7 +64,7 @@ Esses tutoriais fornecem aos profissionais de marketing as ferramentas para moni
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="Monitore e analise a jornada com relatórios em tempo real" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470840/?captions=por_br&format=jpeg&nocache=1764706279498" alt="Monitore e analise a jornada com relatórios em tempo real"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1764706279498" alt="Monitore e analise a jornada com relatórios em tempo real"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +87,7 @@ Esses tutoriais fornecem aos profissionais de marketing as ferramentas para moni
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" title="Monitorar e analisar a jornada com Relatórios de jornada" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471468/?captions=por_br&format=jpeg&nocache=1764706279432" alt="Monitorar e analisar a jornada com Relatórios de jornada"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470710/?format=jpeg&nocache=1764706279432" alt="Monitorar e analisar a jornada com Relatórios de jornada"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Esses tutoriais fornecem aos profissionais de marketing as ferramentas para moni
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" target="_blank" rel="referrer" title="Monitorar e analisar a jornada com Relatórios de jornada">Monitorar e analisar a jornada com Relatórios de jornada</a>
                     </p>
-                    <p class="is-size-6">Entenda como rastrear o desempenho da jornada individual como os usuários interagem com diferentes etapas em uma jornada, incluindo estatísticas de entrada e saída, erros e ações executadas.</p>
+                    <p class="is-size-6">Entenda como rastrear o desempenho de uma jornada individual e como os usuários interagem com diferentes etapas em uma jornada, incluindo estatísticas de entrada e saída, erros e ações executadas.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
@@ -110,7 +110,7 @@ Esses tutoriais fornecem aos profissionais de marketing as ferramentas para moni
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="Relatórios no nível do canal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448044/?captions=por_br&format=jpeg&nocache=1764706279481" alt="Relatórios no nível do canal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1764706279481" alt="Relatórios no nível do canal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +133,7 @@ Esses tutoriais fornecem aos profissionais de marketing as ferramentas para moni
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" title="Analise o desempenho geral da jornada com relatórios históricos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475792/?captions=por_br&format=jpeg&nocache=1764706279437" alt="Analise o desempenho geral da jornada com relatórios históricos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475653/?format=jpeg&nocache=1764706279437" alt="Analise o desempenho geral da jornada com relatórios históricos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -141,7 +141,7 @@ Esses tutoriais fornecem aos profissionais de marketing as ferramentas para moni
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" title="Analise o desempenho geral da jornada com relatórios históricos">Analise o desempenho geral de sua jornada com todos os relatórios de tempo</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" title="Analise o desempenho geral da jornada com relatórios históricos">Analise o desempenho geral da jornada com relatórios históricos</a>
                     </p>
                     <p class="is-size-6">Neste vídeo, você aprenderá a usar com eficácia relatórios históricos no Adobe Journey Optimizer para revelar insights de desempenho de longo prazo em jornadas, campanhas e canais do cliente. Ele aborda como navegar pelos principais painéis, interpretar os KPIs essenciais, aplicar filtros e intervalos de datas e usar ferramentas como os relatórios de jornada, relatórios de campanha e o construtor de insights para análises mais profundas e relatórios personalizados, permitindo que profissionais de marketing e gerentes transformem dados em ação.</p>
                 </div>
@@ -156,7 +156,7 @@ Esses tutoriais fornecem aos profissionais de marketing as ferramentas para moni
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="Exportar relatórios no formato CSV" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439614/?captions=por_br&format=jpeg&nocache=1764706279503" alt="Exportar relatórios no formato CSV"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1764706279503" alt="Exportar relatórios no formato CSV"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +202,7 @@ Esses tutoriais fornecem aos profissionais de marketing as ferramentas para moni
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Relatórios aprimorados com o Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443156/?captions=por_br&format=jpeg&nocache=1764706279442" alt="Relatórios aprimorados com o Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1764706279442" alt="Relatórios aprimorados com o Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

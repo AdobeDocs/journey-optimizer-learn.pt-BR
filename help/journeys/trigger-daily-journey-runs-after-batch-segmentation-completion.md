@@ -1,6 +1,6 @@
 ---
 title: Acionar execuções diárias da jornada após a conclusão da segmentação em lotes
-description: Saiba como configurar as jornadas de públicos-alvo de leitura, de modo que sejam iniciadas somente após a conclusão dos trabalhos de segmentação, garantindo a precisão e a conformidade dos dados.
+description: Saiba como configurar as jornadas de públicos-alvo de leitura, de modo que sejam iniciadas somente após a conclusão dos processos de segmentação, garantindo a precisão e a conformidade dos dados.
 feature: Audiences, Journeys
 role: User
 level: Beginner, Intermediate
@@ -11,7 +11,7 @@ jira: KT-18066
 exl-id: 0ea0c787-e18b-489d-8b27-1f4e528cc0bc
 badge: label="Disponibilidade limitada" type="Informative"
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 
 
-Saiba como configurar as jornadas de públicos-alvo de leitura, de modo que sejam iniciadas somente após a conclusão dos trabalhos de segmentação, garantindo a precisão e a conformidade dos dados.
+Saiba como configurar as jornadas de públicos-alvo de leitura, de modo que sejam iniciadas somente após a conclusão dos processos de segmentação, garantindo a precisão e a conformidade dos dados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458146/?learn=on&enablevpops)

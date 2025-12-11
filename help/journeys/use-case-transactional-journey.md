@@ -13,7 +13,7 @@ last-substantial-update: 2023-06-15T00:00:00Z
 hidefromtoc: false
 hide: false
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Saiba como criar jornadas transacionais e entenda os casos de uso que lhes são aplicáveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422702?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}

@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: e7626542-1399-4fcd-966a-cd9b3c7cd454
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Entenda os casos de uso aplicáveis para jornadas de qualificação de público-alvo. Saiba como criar uma jornada com qualificação de público-alvo e quais práticas recomendadas devem ser aplicadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446209?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3425028?quality=12&learn=on){transcript=true}

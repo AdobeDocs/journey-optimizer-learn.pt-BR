@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como copiar uma jornada e seus objetos dependentes de uma sandbox para outra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409593?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415828?captions=por_br&quality=12&learn=on){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como criar um perfil de teste.
 
->[!VIDEO](https://video.tv.adobe.com/v/334236?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417594?captions=por_br&quality=12&learn=on){transcript=true}

@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '699'
 ht-degree: 2%
@@ -34,7 +34,7 @@ Neste exercício, você cria a campanha e define em qual página da Web a mensag
 
 1. Clique em **Criar campanha**.
 
-   ![CriarCampanha](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
+   ![CriarCampanha](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
 
 1. Na página **Criar campanha**, na seção **Ação**, marque a caixa de seleção **Mensagem no aplicativo**.
 
@@ -42,7 +42,7 @@ Neste exercício, você cria a campanha e define em qual página da Web a mensag
 
 1. Insira a seguinte URL: **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *Esta é a página da Web em que sua mensagem aparecerá.*
 
-   ![URL no aplicativo](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+   ![URL no aplicativo](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 1. Clique em **[!UICONTROL Criar]**.
 
@@ -60,7 +60,7 @@ Nesta página, você define as propriedades da campanha e o evento que aciona a 
    > 
    > Por exemplo, se o número da sua cadeira for 99: 
    >
-   > ![Nome das Propriedades](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
+   > ![Nome das Propriedades](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
 ### 3.2.2 Configurar a regra de acionador personalizada
@@ -69,18 +69,18 @@ Nesta seção, você define quais acionadores a mensagem deverá aparecer no sit
 
 1. Role para baixo até a **[!UICONTROL seção Triggers]**, e clique em **[!UICONTROL Editar acionadores]**.
 
-   ![modificar](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+   ![modificar](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
 1. No construtor de regras, clique em **[!UICONTROL Inicialização do Aplicativo]** e, na lista suspensa, selecione *Dados enviados para a Platform*.
-   ![menu suspenso de eventos de acionador](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+   ![menu suspenso de eventos de acionador](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. Adicione uma condição clicando em **[!UICONTROL + Adicionar condição]**.
 
-   ![botão adicionar condição](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![botão adicionar condição](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
 1. No menu suspenso **[!UICONTROL Selecionar uma característica]**, selecione **[!UICONTROL tipo de evento XDM]**.
 
-   ![Tipo de evento XDM](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![Tipo de evento XDM](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
 1. No campo de texto a seguir, adicione um *`<custom string value>`* do qual você possa se lembrar e pressione **[!UICONTROL Adicionar]** `<custom string value>` para salvar o valor.
@@ -93,7 +93,7 @@ Nesta seção, você define quais acionadores a mensagem deverá aparecer no sit
    > Por exemplo: `99web`
    > 
 
-   ![adicionar valor de cadeia de caracteres de gatilho personalizado](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
+   ![adicionar valor de cadeia de caracteres de gatilho personalizado](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
 1. Pressione o botão **[!UICONTROL Concluído]** no canto superior direito.
 
@@ -101,7 +101,7 @@ Nesta seção, você define quais acionadores a mensagem deverá aparecer no sit
 >
 >Agora você definiu sua mensagem no aplicativo da Web com um evento de acionador personalizado.
 >
->![Campanha da Web com gatilho personalizado definido](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
+>![Campanha da Web com gatilho personalizado definido](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
 
 ### 3.2.3 Editar o conteúdo da mensagem no aplicativo
@@ -110,7 +110,7 @@ Nesta seção, você define o conteúdo, o design e o layout da mensagem.
 
 1. Clique no botão **Editar conteúdo** na seção **Ação** para acessar a construção de criação.
 
-   ![Botão Editar conteúdo](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+   ![Botão Editar conteúdo](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 1. O processo de criação é o mesmo que você concluiu nos exercícios no aplicativo móvel acima. Edite livremente a mensagem com seu próprio título, corpo e conteúdo de mídia.
 
@@ -128,13 +128,13 @@ Nesta seção, você define o conteúdo, o design e o layout da mensagem.
 
 1. Vá para o site da Fréscopa e navegue até a página **Exercício** no navegador.
 
-   ![Link de exercícios da Web](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
+   ![Link de exercícios da Web](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
 1. Atualize a página da Web.
 
 1. Digite o valor exclusivo da sequência de caracteres que você definiu na campanha.
 
-   ![página de exercícios](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
+   ![página de exercícios](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
 
 1. Clique em **[!UICONTROL Enviar]**.
 
@@ -154,7 +154,7 @@ Nesta seção, você define o conteúdo, o design e o layout da mensagem.
 
 **Documentação do produto:**
 
-* [Introdução ao canal no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Criar uma mensagem no aplicativo da Web](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [Projete seu conteúdo no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/design-in-app)
-* [Verifique e envie sua notificação no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/send-in-app)
+* [Introdução ao canal no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Criar uma mensagem no aplicativo da Web](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Projete seu conteúdo no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Verifique e envie sua notificação no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

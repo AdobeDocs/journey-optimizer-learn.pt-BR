@@ -9,7 +9,7 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '778'
 ht-degree: 2%
@@ -37,7 +37,7 @@ Neste exercício, você cria a campanha por push, projeta e personaliza a notifi
 
 1. Clique em **[!UICONTROL Criar campanha]**.
 
-   ![Criar campanha](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
+   ![Criar campanha](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
 1. Na página **[!UICONTROL Criar campanha]**, na seção **[!UICONTROL Ação]**, marque a caixa de seleção **[!UICONTROL Notificação por push]**.
 
@@ -45,12 +45,12 @@ Neste exercício, você cria a campanha por push, projeta e personaliza a notifi
 
 1. Clique em **[!UICONTROL Criar]** para criar uma campanha por push.
 
-   ![Superfície do aplicativo](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
+   ![Superfície do aplicativo](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
 
 >[!SUCCESS]
 >
 >Agora você deve estar na página de propriedades do Campaign:
-> ![Propriedades da campanha](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+> ![Propriedades da campanha](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## Exercício 4.2 - Configurar a campanha
 
@@ -66,7 +66,7 @@ Por exemplo, se o número da sua cadeira for 99: `99 - 10% Discount Campaign`.
 
 1. Na seção de público, clique em **[!UICONTROL Selecionar público-alvo]**.
 
-   ![seção de público-alvo](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
+   ![seção de público-alvo](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
 
 1. Na tela **[!UICONTROL Selecionar público-alvo]**, pesquise pelo público-alvo:
 
@@ -74,7 +74,7 @@ Por exemplo, se o número da sua cadeira for 99: `99 - 10% Discount Campaign`.
 
 1. Selecione o público e clique em **[!UICONTROL Salvar]**.
 
-   ![seleção de público-alvo](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
+   ![seleção de público-alvo](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
 ### 4.2.3 Editar o conteúdo da notificação por push
 
@@ -82,7 +82,7 @@ Neste exercício, você projeta e personaliza a notificação por push.
 
 1. Na seção **[!UICONTROL Ação]**, clique no botão **[!UICONTROL Editar Conteúdo]**.
 
-   ![Botão Editar conteúdo](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
+   ![Botão Editar conteúdo](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
 
 1. Na próxima tela, dependendo do dispositivo móvel que você tiver, selecione a guia [!DNL iOS™] ou [!DNL Android™] para configurar o seu conteúdo.
 
@@ -90,11 +90,11 @@ Neste exercício, você projeta e personaliza a notificação por push.
 
 >[!TAB iOS]
 
-![guia iOS](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
+![guia iOS](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
 
 >[!TAB Android]
 
-![guia Android](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
+![guia Android](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
 
 >[!ENDTABS]
 
@@ -105,7 +105,7 @@ Neste exercício, você projeta e personaliza a notificação por push.
    * Título: `Get 10% off today!`
    * Corpo de texto: `Today only! Get 10% off on your House Blend coffee purchase!`
 
-     ![Compor mensagem](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png)
+     ![Compor mensagem](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png)
 
 #### 4.2.3.2 Altere o comportamento da mensagem ao clicar para **abrir uma página de produto**
 
@@ -115,13 +115,13 @@ Neste exercício, você projeta e personaliza a notificação por push.
 
    `dxdemo://exoticVibes`
 
-   ![deep link](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-deeplink.png)
+   ![deep link](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-deeplink.png)
 
 #### 4.2.3.3 Adicionar uma imagem à mensagem
 
 1. Na seção **[!UICONTROL Adicionar mídia]**, clique em **[!UICONTROL Adicionar mídia]**.
 
-   ![adicionar botões de mídia](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
+   ![adicionar botões de mídia](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
 
 1. Na tela **[!UICONTROL Selecionar Assets]**, na navegação à esquerda, abra a **pasta Fréscopa** e selecione uma imagem dessa pasta.
 
@@ -129,7 +129,7 @@ Neste exercício, você projeta e personaliza a notificação por push.
 
 1. Clique na imagem e no botão **[!UICONTROL Selecionar]** para adicionar a imagem à sua notificação por push.
 
-   ![selecionar imagem](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
+   ![selecionar imagem](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
    >[!SUCCESS]
    >
@@ -137,7 +137,7 @@ Neste exercício, você projeta e personaliza a notificação por push.
    > 1. Pré-visualize a mensagem.
    > <br>
    >
-   > ![expandir exibição](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
+   > ![expandir exibição](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 ### Exercício de bônus
 
@@ -149,25 +149,25 @@ Se você concluiu esta parte do exercício e ainda tem algum tempo, tente o exer
 
 1. Clique em **caixa de diálogo de personalização** ao lado do campo **[!UICONTROL Corpo]**.
 
-   ![botão de personalização](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
+   ![botão de personalização](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
 
 1. Na tela da **caixa de diálogo de personalização**, coloque o cursor onde deseja adicionar o nome no texto.
 
 1. Verifique se os **Atributos do perfil** estão selecionados na navegação à esquerda.
 
-   ![Atributo de perfil](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
+   ![Atributo de perfil](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
 
 1. No **campo de Pesquisa**, pesquise por: `first name`.
 
 1. Clique em **+** ao lado de **Nome (Atributos do perfil>Pessoa>Nome completo)** para adicionar o campo de personalização ao seu texto.
 
-   ![Pesquisar nome](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
+   ![Pesquisar nome](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
 
    >[!SUCCESS]
    >
    > Esta deve ser a aparência do seu texto:
    > 
-   >![token do Personalization](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
+   >![token do Personalization](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
 
 1. Clique em **[!UICONTROL Salvar]** para salvar a personalização.
 
@@ -177,7 +177,7 @@ Se você concluiu esta parte do exercício e ainda tem algum tempo, tente o exer
    > 1. Na tela de visualização, clique em **[!UICONTROL Expandir Exibição]**.
    > 1. Pré-visualize a mensagem.
    > 
-   > ![expandir exibição](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
+   > ![expandir exibição](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 +++
 
@@ -187,21 +187,21 @@ Se estiver satisfeito com o conteúdo da mensagem, você poderá ativá-la:
 
 1. Clique em **[!UICONTROL Revisar para ativar]**.
 
-   ![botão Revisar e ativar](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
+   ![botão Revisar e ativar](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
 
 1. Na tela **[!UICONTROL Revisar para ativar]**, clique em **[!UICONTROL Ativar]**.
 
-   ![revisar para ativar a tela](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
+   ![revisar para ativar a tela](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
 
 >[!SUCCESS]
 > Na **página de visão geral das campanhas**, encontre sua campanha e verifique o status.
 >
-> ![status da campanha](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
+> ![status da campanha](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > O status muda de processando para ativo, para concluído - isso pode levar alguns minutos.
 > Quando o status for alterado para concluído:
 >
-> ![resultados de push](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
+> ![resultados de push](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
 ## Recursos adicionais
 
@@ -211,7 +211,7 @@ Se estiver satisfeito com o conteúdo da mensagem, você poderá ativá-la:
 
 **Documentação do produto:**
 
-* [Introdução à notificação por push](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/push/get-started-push)
-* [Criar uma notificação por push](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/push/create-push)
-* [Criar uma notificação por push](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/push/design-push)
-* [Verificar e enviar sua notificação por push](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/push/send-push)
+* [Introdução à notificação por push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [Criar uma notificação por push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [Criar uma notificação por push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [Verificar e enviar sua notificação por push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

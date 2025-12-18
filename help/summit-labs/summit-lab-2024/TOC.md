@@ -1,13 +1,13 @@
 ---
 user-guide-title: Laboratório Adobe Summit 2024 - Crie Momentos Móveis Personalizados - PASTA DE TRABALHO
+breadcrumb-title: 'Laboratório Adobe Summit 2024: Criar momentos móveis personalizados - PASTA DE TRABALHO'
 role: User
 level: Beginner,Intermediate
-breadcrumb-title: 'Crie Momentos Móveis Personalizados'
 breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/summit-lab-2024/build-personalized-mobile-moments/lab-overview
 auto-video-transcripts: true
-source-git-commit: 654d7a7f66a75bf76f679eb18a441510eff7b56d
+source-git-commit: fd1029d1c3f9f1adaad2d76b87d81583d0354dc3
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---

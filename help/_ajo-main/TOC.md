@@ -63,7 +63,7 @@ ht-degree: 99%
    + [Criação de públicos-alvo por meio do construtor de regras](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Criar um público-alvo através do envio de um arquivo CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Criar públicos-alvo com o SDK da web (tutorial)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [Avaliar públicos-alvo sob demanda](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [Avaliar públicos-alvo sob demanda](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [Páginas de assinaturas e de destino](/help/subscriptions-and-landing-pages.md)
 + Canais {#channels}
    + [Otimização do aplicativo móvel: visão geral](/help/channels/mobile-app-optimization-overview.md)

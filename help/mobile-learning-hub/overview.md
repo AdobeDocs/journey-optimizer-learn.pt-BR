@@ -1,15 +1,15 @@
 ---
 title: Hub de aprendizagem móvel
-description: Impulsione ou aumente sua estratégia de envolvimento móvel com o Adobe Journey Optimizer. Esse hub de aprendizagem móvel equipe desenvolvedores, administradores, profissionais de marketing e analistas com tudo o que é necessário para configurar canais móveis de entrada e saída e integrá-los perfeitamente a campanhas e jornadas avançadas em vários canais. Explore as práticas recomendadas, aprenda a impulsionar a adoção e a configurar fluxos de trabalho de relatórios centralizados — tudo em um só lugar — para fornecer experiências móveis impactantes e orientadas por dados que chegam aos clientes a qualquer hora, em qualquer lugar.
+description: O hub de aprendizagem móvel equipe desenvolvedores, administradores, profissionais de marketing e analistas com tudo o que é necessário para configurar canais móveis de entrada e saída e integrá-los perfeitamente a poderosas campanhas e jornadas entre canais no Journey Optimizer.
 feature: Overview
 role: User, Admin, Developer
 hide: false
 index: true
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: eab42c39d0e7b105ef36e2e2337539511f91440d
+source-git-commit: c2f3040358442ac2bb78d02b2a210d93b327c3ee
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '892'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Impulsione ou aumente sua estratégia de envolvimento móvel com o Adobe Journey
 
 Explore as práticas recomendadas, aprenda a impulsionar a adoção e a configurar fluxos de trabalho de relatórios centralizados — tudo em um só lugar — para fornecer experiências móveis impactantes e orientadas por dados que chegam aos clientes a qualquer hora, em qualquer lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477003?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Visão geral do canal móvel
@@ -98,4 +98,4 @@ Saiba mais sobre os conceitos e como
 
 ## Casos de uso do cliente
 
-* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=pt)
+* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)

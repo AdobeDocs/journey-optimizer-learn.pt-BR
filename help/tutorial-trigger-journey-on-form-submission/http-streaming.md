@@ -19,7 +19,7 @@ ht-degree: 0%
 Configure o formulário para enviar dados de envio para o Adobe Experience Platform em tempo real usando uma integração baseada em HTTP, garantindo que a carga do evento se alinhe ao esquema.
 
 Definir ponto de extremidade de transmissão HTTP
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478501?captions=por_br)
 
 
 

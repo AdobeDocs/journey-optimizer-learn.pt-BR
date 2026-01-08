@@ -21,7 +21,7 @@ Crie uma jornada no Adobe Journey Optimizer que começa quando o evento **_Asset
 A criação de uma jornada envolve a criação das seguintes configurações
 
 Criação da configuração de canal de email
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478515?captions=por_br)
 
 
 

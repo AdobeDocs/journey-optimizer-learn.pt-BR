@@ -18,7 +18,7 @@ ht-degree: 0%
 
 
 Testar a solução
->[!VIDEO](https://video.tv.adobe.com/v/3478546)
+>[!VIDEO](https://video.tv.adobe.com/v/3478551?captions=por_br)
 
 ## Implantar os ativos de amostra
 

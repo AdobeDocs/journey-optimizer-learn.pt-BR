@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 
 Testar a solução
->[!VIDEO](https://video.tv.adobe.com/v/3478551?captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3478546)
 
 ## Implantar os ativos de amostra
 
@@ -51,8 +51,8 @@ Crie um novo diretório para o aplicativo de amostra usando os seguintes comando
 * Descompacte e coloque o conteúdo de [project-root.zip](assets/project-root.zip) na pasta `trigger-journey`.
 
 * Crie uma pasta chamada `public` na pasta `trigger-journey`
-* Descompacte o conteúdo de [index.zip] na pasta pública
-* atualize o arquivo `.env` com os valores apropriados. Esses valores estão disponíveis no comando cURL baixado ao criar a conexão HTTP Source
+* atualize o arquivo `.env` com os valores apropriados. Esses valores estão disponíveis no comando cURL baixado ao criar a conexão HTTP Source.
+* Descompacte o conteúdo de [index.zip](assets/index.zip) na pasta `public`
 
 ## Executar o servidor
 

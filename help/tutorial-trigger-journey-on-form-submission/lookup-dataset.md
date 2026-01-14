@@ -20,7 +20,7 @@ Uma Pesquisa de conjunto de dados permite que o Adobe Journey Optimizer recupere
 
 Nesse caso de uso, quando um usuário envia um formulário de Preferência de investimento (Ações, Títulos ou CDs), a jornada pesquisa dinamicamente os detalhes de investimento correspondentes de um conjunto de dados de referência e usa essas informações para personalizar um email.
 Criando conjunto de dados de pesquisa
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478765?captions=por_br)
 
 Teste os campos de pesquisa do conjunto de dados enviando a configuração do formulário na etapa anterior
 

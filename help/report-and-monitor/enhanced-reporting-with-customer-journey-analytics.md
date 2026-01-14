@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Saiba mais sobre como navegar pelas ferramentas de relatório avançadas do Adobe Journey Optimizer, desde métricas unificadas e visualização de jornada até insights personalizados e análise avançada
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443156/?captions=por_br&learn=on)
 
 Para obter a documentação detalhada, acesse [Análise no Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.

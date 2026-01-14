@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '971'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [Recursos de publicações de conteúdo para dispositivos móveis para profissionais de marketing](/help/channels/mobile-capabilities.md)
    + [Recursos móveis para desenvolvedores](/help/channels/mobile-capabilities-for-developers.md)
    + [Obter ajuda com o assistente de IA](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - Hub de aprendizagem móvel](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
++ [Journey Optimizer – Hub de aprendizagem móvel](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + Campanhas {#create-campaigns}
    + Campanhas de ações {#action-campaigns}
       + [Criar uma campanha](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -73,7 +73,7 @@ ht-degree: 99%
       + [Adicionar campos de formulário a modelos de canal de experiência baseada em código](/help/channels/form-fields-in-code-based-experiences.md)
       + [Usar o serviço de decisão no canal baseado em código](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canal de correspondência direta{#direct-mail-channel}
-      + [Criação de uma correspondência direta](/help/channels/direct-mail.md)
+      + [Criar uma correspondência direta](/help/channels/direct-mail.md)
    + Canal de email{#email-channel}
       + [Canal de email: visão geral](/help/channels/email-channel-overview.md)
       + [Design e personalização de email: visão geral](/help/channels/email-design-and-personalization-overview.md)
@@ -181,7 +181,7 @@ ht-degree: 99%
    + [Analise o desempenho geral da sua jornada com relatórios de todo o histórico](/help/report-and-monitor/all-time-reports.md)
    + [Exportar relatórios no formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Usar alertas](/help/administration/alerts.md)
-   + [Relatórios aprimorados com o Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
+   + [Relatórios avançados com o Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + Configuração {#configuration}
    + Configurar canais {#channel-configuration}
       + [Configurar canais](/help/set-up-channels/configure-channels.md)

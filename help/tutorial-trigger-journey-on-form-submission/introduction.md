@@ -37,7 +37,7 @@ Este caso de uso demonstra como o envio de um formulário de cliente aciona uma 
 * Configurar pesquisa de conjunto de dados para incluir dados de referência no email
 
 Introdução ao caso de uso e criação de esquema de evento
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478476?captions=por_br)
 
 
 

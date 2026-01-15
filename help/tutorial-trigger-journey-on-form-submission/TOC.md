@@ -6,7 +6,7 @@ level: Beginner
 breadcrumb-title: acionador-jornada-no-envio-formulário
 breadcrumb-url: /docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction
 auto-video-transcripts: true
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 2%
@@ -22,4 +22,5 @@ ht-degree: 2%
 + [Criar jornada](./create-journey.md)
 + [Testar a solução](./test-solution.md)
 + [Criar conjunto de dados de pesquisa](./lookup-dataset.md)
+
 

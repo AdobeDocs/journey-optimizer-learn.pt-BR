@@ -7,10 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 4%
+source-wordcount: '126'
+ht-degree: 3%
 
 ---
 
@@ -34,9 +34,10 @@ Este caso de uso demonstra como o envio de um formulário de cliente aciona uma 
 * Configurar canal de email
 * Criar uma Jornada acionada pelo evento personalizado
 * Enviar dados de envio de formulário para o Adobe Experience Platform
+* Configurar pesquisa de conjunto de dados para incluir dados de referência no email
 
 Introdução ao caso de uso e criação de esquema de evento
->[!VIDEO](https://video.tv.adobe.com/v/3478476?captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 

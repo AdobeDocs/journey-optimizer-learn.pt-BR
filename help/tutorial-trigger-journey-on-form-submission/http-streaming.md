@@ -20,7 +20,7 @@ Configure o formulário para enviar dados de envio para o Adobe Experience Platf
 
 **Definir ponto de extremidade de transmissão HTTP**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478501?captions=por_br)
 
 
 

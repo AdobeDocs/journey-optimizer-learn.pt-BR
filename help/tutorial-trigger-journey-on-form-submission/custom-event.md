@@ -20,7 +20,7 @@ Usando o schema do evento, defina um evento personalizado no Adobe Journey Optim
 
 Defina um evento personalizado chamado **_InvestmentPreference_**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478488?captions=por_br)
 
 
 

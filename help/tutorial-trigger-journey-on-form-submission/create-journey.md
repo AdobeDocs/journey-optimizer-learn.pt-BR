@@ -22,7 +22,7 @@ A criação de uma jornada envolve a criação das seguintes configurações
 
 **Criando configuração de canal de email**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478515?captions=por_br)
 
 
 

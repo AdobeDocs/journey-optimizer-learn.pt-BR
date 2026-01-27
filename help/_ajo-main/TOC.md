@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 05fc150f0e8463def80766bd0c64bad5541d9067
+source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
 workflow-type: tm+mt
-source-wordcount: '986'
-ht-degree: 99%
+source-wordcount: '998'
+ht-degree: 98%
 
 ---
 
@@ -151,8 +151,10 @@ ht-degree: 99%
       + [Passo a passo completo do serviço de decisão](/help/decisioning/decisioning-end-to-end.md)
       + [Navegação na interface do Construtor de fórmulas](/help/decisioning/formula-builder-ui.md)
       + [Regras reutilizáveis](/help/decisioning/reusable-targeting-rules.md)
+      + [Acionar jornada no envio do formulário](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [Como personalizar ofertas com dados meteorológicos em tempo real](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Usar a fórmula de classificação para fornecer ofertas personalizadas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [Usar decisão no canal de email](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
    + Gestão de decisões {#decision-management}
       + [Introdução à gestão de decisões](/help/decision-management/introduction-to-decision-management.md)
       + [Demonstração dos recursos de gestão de decisões](/help/decision-management/demo-of-decision-management-capabilities.md)

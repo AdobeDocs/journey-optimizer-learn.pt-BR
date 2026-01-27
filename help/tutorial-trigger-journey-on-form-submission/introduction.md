@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
+source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%
@@ -36,8 +36,9 @@ Este caso de uso demonstra como o envio de um formulário de cliente aciona uma 
 * Enviar dados de envio de formulário para o Adobe Experience Platform
 * Configurar pesquisa de conjunto de dados para incluir dados de referência no email
 
-Introdução ao caso de uso e criação de esquema de evento
->[!VIDEO](https://video.tv.adobe.com/v/3478476?captions=por_br)
+**Introdução ao caso de uso e criação de esquema de evento**
+
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 

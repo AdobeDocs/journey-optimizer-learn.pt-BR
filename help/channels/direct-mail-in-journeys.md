@@ -22,6 +22,6 @@ ht-degree: 20%
 
 Saiba como aproveitar o canal de correspondência direta no Adobe Journey Optimizer para automatizar e agendar entregas de correspondência direta em suas jornadas. Descubra a configuração de roteamento de arquivos, configure a frequência de criação e utilize ações de correspondência direta na tela de Jornada. Este vídeo demonstra como o AJO enfileira participantes, gera arquivos com carimbo de data e hora em intervalos e os envia automaticamente depois de ativados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479167/?captions=por_br&learn=on&enablevpops)
 
 Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys) para obter mais informações.

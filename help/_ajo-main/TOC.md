@@ -3,7 +3,7 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 892d3dac70be68ddedb51b8326c63b53f544b897
+source-git-commit: 90ee8c4fb752538b138ac1931041358ee336dd25
 workflow-type: tm+mt
 source-wordcount: '1001'
 ht-degree: 97%
@@ -151,10 +151,10 @@ ht-degree: 97%
       + [Passo a passo completo do serviço de decisão](/help/decisioning/decisioning-end-to-end.md)
       + [Navegação na interface do Construtor de fórmulas](/help/decisioning/formula-builder-ui.md)
       + [Regras reutilizáveis](/help/decisioning/reusable-targeting-rules.md)
-      + [Acionar jornada no envio do formulário](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [Acionar jornada no envio do formulário](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [Como personalizar ofertas com dados meteorológicos em tempo real](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Usar a fórmula de classificação para fornecer ofertas personalizadas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [Usar decisão no canal de email](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Usar decisão no canal de email](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [Usar a decisão em notificações por push](/help/decisioning/decisioning-in-push-notifications.md)
    + Gestão de decisões {#decision-management}
       + [Introdução à gestão de decisões](/help/decision-management/introduction-to-decision-management.md)

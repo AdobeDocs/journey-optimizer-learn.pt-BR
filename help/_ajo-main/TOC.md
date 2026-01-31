@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 90ee8c4fb752538b138ac1931041358ee336dd25
+source-git-commit: c0b8e392d176d48550d71edae1dbea0c4f2ce028
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '1007'
 ht-degree: 97%
 
 ---
@@ -151,11 +151,12 @@ ht-degree: 97%
       + [Passo a passo completo do serviço de decisão](/help/decisioning/decisioning-end-to-end.md)
       + [Navegação na interface do Construtor de fórmulas](/help/decisioning/formula-builder-ui.md)
       + [Regras reutilizáveis](/help/decisioning/reusable-targeting-rules.md)
-      + [Acionar jornada no envio do formulário](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [Acionar jornada no envio do formulário](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [Como personalizar ofertas com dados meteorológicos em tempo real](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Usar a fórmula de classificação para fornecer ofertas personalizadas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [Usar decisão no canal de email](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Usar decisão no canal de email](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [Usar a decisão em notificações por push](/help/decisioning/decisioning-in-push-notifications.md)
+      + [Usar decisão no e mensagem SMS](/help/decisioning/use-decisioning-in-an-SMS-message.md)
    + Gestão de decisões {#decision-management}
       + [Introdução à gestão de decisões](/help/decision-management/introduction-to-decision-management.md)
       + [Demonstração dos recursos de gestão de decisões](/help/decision-management/demo-of-decision-management-capabilities.md)

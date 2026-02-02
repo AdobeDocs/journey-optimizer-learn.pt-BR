@@ -11,7 +11,7 @@ jira: KT-20141
 hide: true
 hidefromtoc: true
 source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
@@ -22,5 +22,5 @@ ht-degree: 100%
 
 Saiba como a atividade de decisão de conteúdo na tela “Jornada” permite que os usuários utilizem a tomada de decisão do AJO para ofertas de conteúdo personalizado. Use este recurso para rotear perfis com base em ofertas recuperadas ou enviar ofertas a sistemas externos, melhorando a eficácia e a personalização da sua jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479112/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 

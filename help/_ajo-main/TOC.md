@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 35b3b53670af62bb4f52c6df06834038ae9f7eba
 workflow-type: tm+mt
 source-wordcount: '1007'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -93,7 +93,7 @@ ht-degree: 97%
    + Canal de push{#push-channel}
       + [Notificações por push: visão geral](/help/channels/push-notifications-overview.md)
       + [Configurar e enviar uma campanha por push](/help/channels/create-a-push-campaign.md)
-      + [Criar notificações por push da Web](/help/channels/create-web-push-notifications.md)
+      + [Criar uma notificação por push na web](/help/channels/create-web-push-notifications.md)
    + Canal de SMS/MMS{#sms-channel}
       + [Mensagens SMS/MMS: visão geral](/help/channels/sms-mms-messages-overview.md)
       + [Configurar, criar e entregar mensagens SMS](/help/channels/author-sms-messages.md)
@@ -154,7 +154,7 @@ ht-degree: 97%
       + [Acionar jornada no envio do formulário](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [Como personalizar ofertas com dados meteorológicos em tempo real](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Usar a fórmula de classificação para fornecer ofertas personalizadas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [Usar decisão no canal de email](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Usar a decisão no canal de email](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [Usar a decisão em notificações por push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Usar a decisão em uma mensagem SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + Gestão de decisões {#decision-management}

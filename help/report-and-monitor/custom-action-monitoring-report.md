@@ -22,6 +22,6 @@ Saiba como monitorar com eficiência a integridade operacional e o desempenho de
 
 Este relatório ajuda a identificar problemas, melhorar o desempenho da jornada e garantir uma operação tranquila.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479546/?captions=por_br&learn=on&enablevpops)
 
 Consulte a[documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) para obter mais informações sobre este recurso.

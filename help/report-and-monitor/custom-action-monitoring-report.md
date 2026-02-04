@@ -24,5 +24,5 @@ Este relatório ajuda a identificar problemas, melhorar o desempenho da jornada 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
-Consulte a [documentação do produto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) para mais informações sobre esse recurso.
+Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) para mais informações sobre esse recurso.
 

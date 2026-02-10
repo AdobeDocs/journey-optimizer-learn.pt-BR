@@ -11,18 +11,18 @@ jira: KT-16264
 hide: false
 hidefromtoc: false
 badgePrivateBeta: label="Private Beta" type="Informative"
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: ht
+exl-id: e5eee841-77a6-4001-8192-6e34bc745ce1
+source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
+workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
-
 
 # Aplicar políticas de uso de dados nos canais do Journey Optimizer
 
 Saiba como as políticas de uso de dados são aplicadas nos canais do Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434910/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-Consulte a documentação do produto para mais informações sobre [governança de dados](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/privacy/action-privacy-restricted) e como [trabalhar com políticas de consentimento](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/privacy/consent/consent-restricted) no Journey Optimizer.
+Consulte a documentação do produto para mais informações sobre [governança de dados](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/privacy/action-privacy-restricted) e como [trabalhar com políticas de consentimento](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) no Journey Optimizer.

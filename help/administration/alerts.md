@@ -30,4 +30,4 @@ Saiba como assinar alertas predefinidos para comportamentos de jornada inesperad
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-Consulte a [documentação do produto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"} para obter mais informações.
+Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"} para obter mais informações.

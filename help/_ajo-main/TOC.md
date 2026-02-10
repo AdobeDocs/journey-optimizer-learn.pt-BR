@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estes são tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
-source-wordcount: '1009'
+source-wordcount: '1001'
 ht-degree: 98%
 
 ---
@@ -235,7 +235,6 @@ ht-degree: 98%
    + [Carrinho abandonado](/help/use-cases/abandoned-cart.md)
    + [Reengajamento inteligente: navegação abandonada](https://experienceleague.adobe.com/pt-br/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Como personalizar ofertas com dados meteorológicos em tempo real no Adobe Journey Optimizer, usando o SDK da web](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Gerar relatórios sobre impressões e cliques de ofertas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Usar a fórmula de classificação para fornecer ofertas personalizadas no Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Aprimorar o engajamento dos clientes](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Dimensionamento de orquestração para engajamento onicanal](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}

@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
+exl-id: 52a506d0-cc1b-4d8d-a634-b66c7c7673ed
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%
@@ -22,9 +23,7 @@ Este caso de uso demonstra como o envio de um formulário de cliente aciona uma 
 ## Pré-requisitos para este tutorial
 
 * Acesso ao Experience Platform
-
 * Noções básicas sobre conceitos do Experience Platform (Perfis, Públicos-alvo, Conjuntos de dados)
-
 * Familiaridade com o Journey Optimizer
 
 ## Etapas de implementação
@@ -38,7 +37,4 @@ Este caso de uso demonstra como o envio de um formulário de cliente aciona uma 
 
 **Introdução ao caso de uso e criação de esquema de evento**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478476?captions=por_br)
-
-
-
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)

@@ -96,11 +96,11 @@ O JavaScript busca dinamicamente informações meteorológicas com base na local
 
 6. **Recupera e renderiza ofertas**
 
-* Recebe ofertas retornadas pelo AJO Decisioning.
+&#x200B;* Recebe ofertas retornadas pelo AJO Decisioning.
 
-* Decodifica o conteúdo do HTML.
+&#x200B;* Decodifica o conteúdo do HTML.
 
-* Injeta dinamicamente as ofertas na variável <div id="offerContainer"> direcionado.
+&#x200B;* Injeta dinamicamente as ofertas na variável <div id="offerContainer"> direcionado.
 
 ## Próximas etapas
 

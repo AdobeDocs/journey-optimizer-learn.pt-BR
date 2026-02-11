@@ -22,5 +22,5 @@ ht-degree: 56%
 
 Saiba como a atividade de decisão de conteúdo na Tela de Jornada permite que os usuários aproveitem o Adobe Journey Optimizer Decisioning para ofertas de conteúdo personalizado. Use este recurso para rotear perfis com base em ofertas recuperadas ou enviar ofertas a sistemas externos, melhorando a eficácia e a personalização da sua jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479112/?captions=por_br&learn=on&enablevpops)
 

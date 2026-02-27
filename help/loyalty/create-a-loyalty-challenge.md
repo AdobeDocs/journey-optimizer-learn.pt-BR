@@ -1,7 +1,7 @@
 ---
 title: Criar um desafio de fidelidade
 description: Saiba como criar um desafio de fidelidade configurando tarefas, recompensas e agendamentos. Entenda como configurar conteúdo, mensagens e públicos-alvo enquanto uma jornada completa do cliente é gerada automaticamente em segundo plano.
-feature: Setup
+feature: Get Started
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -12,7 +12,7 @@ hide: true
 hidefromtoc: true
 index: false
 badgeBet: label="Beta" type="Informative"
-source-git-commit: 84f0f50b5ba68f3fa53d2ccedf9de3f84ca01e2f
+source-git-commit: f50005a1ce6e4f61986cdebd0acdd344eeb427c4
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 1%

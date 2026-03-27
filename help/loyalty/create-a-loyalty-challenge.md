@@ -24,4 +24,4 @@ ht-degree: 1%
 
 Saiba como criar um desafio de fidelidade configurando tarefas, recompensas e agendamentos. Entenda como configurar conteúdo, mensagens e públicos-alvo enquanto uma jornada completa do cliente é gerada automaticamente em segundo plano.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480331/?captions=por_br&learn=on&enablevpops)

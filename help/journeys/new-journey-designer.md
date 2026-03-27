@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Conheça a nova tela de jornada reprojetada e como aproveitar os relatórios em tempo real em jornadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443600/?captions=por_br&learn=on){transcript=true}

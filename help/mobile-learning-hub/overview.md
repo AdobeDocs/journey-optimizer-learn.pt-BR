@@ -8,20 +8,20 @@ index: true
 jira: KT-19860
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 8a6ae2fa80db47751a864cc983446b306b6d8e7a
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '892'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # Journey Optimizer - Hub de aprendizagem móvel
 
-Impulsione ou aumente sua estratégia de envolvimento móvel com o Adobe Journey Optimizer. Esse hub de aprendizagem móvel equipe desenvolvedores, administradores, profissionais de marketing e analistas com tudo o que é necessário para configurar canais móveis de entrada e saída e integrá-los perfeitamente a campanhas e jornadas avançadas em vários canais.
+Acelere ou aprimore sua estratégia de engajamento móvel com o Adobe Journey Optimizer. Este centro de aprendizagem para dispositivos móveis fornece a desenvolvedores, admins, profissionais de marketing e analistas tudo o que é necessário para configurar canais móveis de entrada e saída e integrá-los perfeitamente a campanhas e jornadas avançadas entre canais.
 
 Explore as práticas recomendadas, aprenda a impulsionar a adoção e a configurar fluxos de trabalho de relatórios centralizados — tudo em um só lugar — para fornecer experiências móveis impactantes e orientadas por dados que chegam aos clientes a qualquer hora, em qualquer lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477003?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Visão geral do canal móvel
@@ -99,4 +99,4 @@ Saiba mais sobre os conceitos e como
 
 ## Casos de uso do cliente
 
-* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=pt)
+* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)

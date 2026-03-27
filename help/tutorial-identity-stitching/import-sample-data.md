@@ -9,7 +9,7 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 4%
@@ -51,7 +51,7 @@ Atualize os endereços de email fictícios para os reais. Eles serão usados pos
 * Crie um conjunto de dados chamado **_FinWiseCustomerDataSetWithAnnualIncome_** com base no **_FinWiseProfileSchema_** criado no anterior. Verifique se o conjunto de dados está habilitado para o perfil.
 
 * Navegue até Conexões -> Fontes -> Sistema local
-* Selecione o **_Adicionar dados_** em Carregamento de arquivo local. Selecione o _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ como o conjunto de dados de destino.
+* Selecione o **_Adicionar dados_** em Carregamento de arquivo local. Selecione o _**FinWiseCustomerDataSetWithAnnualIncome**_ como o conjunto de dados de destino.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Navegue até a próxima tela. Carregue o [arquivo csv](assets/finwise_profiles.csv) e verifique os mapeamentos
   ![mapeamentos](assets/mappings.png)

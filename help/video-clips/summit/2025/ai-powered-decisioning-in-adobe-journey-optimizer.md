@@ -7,17 +7,17 @@ index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: 28e2477974df6d22cff87eb9c242657e23569b15
+exl-id: 68e01fc1-d4b5-47b6-abb1-630406679cb7
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-
 # Decisão baseada em IA no Adobe Journey Optimizer
 
 Saiba como o Adobe Journey Optimizer usa a IA e o aprendizado de máquina para as próximas melhores ações, a otimização de jornada e a tomada de decisões para fornecer experiências personalizadas aos clientes.
 
 <!-- 62_S520_3442520_184_aipowered-decisioning-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460269/?learn=on&enablevpops=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3458219/?learn=on&enablevpops=true)

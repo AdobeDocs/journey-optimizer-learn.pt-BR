@@ -8,7 +8,7 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 78a6ac9b-0a5c-4e07-9877-330098b8dbb9
-source-git-commit: 5ec9aa524723f15e90ea22e5f93c9f9153c82069
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra como o Assistente de IA no Adobe Journey Optimizer revoluciona os fluxos de trabalho fornecendo insights de dados instantâneos e recursos de solução de problemas, economizando horas de esforço manual.
 
 <!-- 65_S653_3442539_33_transforming-workflows-with-ai-assistant-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460440/?learn=on&enablevpops=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3458195/?learn=on&enablevpops=true)

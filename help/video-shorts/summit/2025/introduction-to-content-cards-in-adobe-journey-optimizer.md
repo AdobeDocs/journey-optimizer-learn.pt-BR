@@ -7,17 +7,17 @@ index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: e52cdba2a9203497d97cbd1e75c81e3e4e556ac4
+exl-id: 63994b8e-6e0d-4e56-81fd-a080af6545bd
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
-
 
 # Introdução aos Cartões de conteúdo no Adobe Journey Optimizer
 
 Saiba como os Cartões de conteúdo no Adobe Journey Optimizer podem fornecer conteúdo personalizado e envolvente diretamente no seu aplicativo móvel.
 
 <!-- 62_S603_3442534_62_introduction-to-content-cards-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460391/?learn=on&enablevpops=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3458206/?learn=on&enablevpops=true)

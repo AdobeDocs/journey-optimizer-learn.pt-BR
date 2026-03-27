@@ -7,17 +7,17 @@ index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: e52cdba2a9203497d97cbd1e75c81e3e4e556ac4
+exl-id: d6fbe5e7-69d4-461e-b27d-630278f348b0
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
-
 
 # Human-AI Collaboration: agentes da Adobe aumentam a produtividade
 
 Explore como os agentes do Adobe colaboram com os profissionais para fornecer insights acionáveis, otimizar fluxos de trabalho e enfrentar desafios de forma proativa em tempo real.
 
 <!-- 62_S653_3442539_98_humanai-collaboration-adobe-agents-enhancing-productivity -->
->[!VIDEO](https://video.tv.adobe.com/v/3460402/?learn=on&enablevpops=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3458189/?learn=on&enablevpops=true)

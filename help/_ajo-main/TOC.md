@@ -3,7 +3,7 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
+source-git-commit: 104f7ca9f80139719b42d49b96ea5c2ea34570bc
 workflow-type: tm+mt
 source-wordcount: '1020'
 ht-degree: 97%
@@ -41,6 +41,7 @@ ht-degree: 97%
    + [Journey Agent: visão geral](/help/ai-agents/journey-agent-overview.md)
    + [Conheça o novo Journey Designer](/help/journeys/new-journey-designer.md)
    + [Introdução à criação de jornadas](/help/journeys/introduction-to-building-a-journey.md)
+   + [Uso da pesquisa de conjunto de dados em uma jornada](/help/journeys/lookup-dataset.md)
    + [Criar um perfil de teste](/help/journeys/test-a-journey.md)
    + [Publicar uma jornada](/help/journeys/publish-a-journey.md)
    + [Atividade de decisão de conteúdo](/help/journeys/content-decision-activity.md)
@@ -60,7 +61,7 @@ ht-degree: 97%
    + [Identificar possíveis conflitos](/help/conflict-management/identify-potential-conflicts.md)
    + [Atribuir pontuações de prioridade](/help/conflict-management/assign-priority-score.md)
    + [Limite e priorização de frequência de jornada](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-   + [Uso da pesquisa de conjunto de dados em uma jornada](/help/journeys/lookup-dataset.md)
+
    + [Horário de silêncio](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Perfis, públicos-alvo e assinaturas {#profiles-audiences-subscriptions}
    + [Perfis e públicos-alvo: visão geral](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)

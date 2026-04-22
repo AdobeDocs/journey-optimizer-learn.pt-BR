@@ -54,7 +54,7 @@ Adicione uma combinação de conteúdo estático e dinâmico à notificação po
 Para começar a compor a mensagem, clique em `Content` para abrir a guia de conteúdo, onde é possível definir o texto fixo e os campos dinâmicos derivados dos dados do evento.
 ![content-push](assets/compose-message.png)
 
-Especifique o título da mensagem de push e abra o editor de personalização para compor o corpo da mensagem. O conteúdo incluirá dinamicamente os nomes dos produtos cujos preços caíram. Para fazer isso, use cada [função auxiliar](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+Especifique o título da mensagem de push e abra o editor de personalização para compor o corpo da mensagem. O conteúdo incluirá dinamicamente os nomes dos produtos cujos preços caíram. Para fazer isso, use cada [função auxiliar](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 para iterar sobre a lista de produtos e renderizar seus nomes na mensagem.
 
 ## Compor o corpo da mensagem

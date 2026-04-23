@@ -57,4 +57,4 @@ Por fim, ative a campanha.
 
 ## Testar a campanha
 
-Para testar a campanha, primeiro habilite as notificações na [página da Web optando por ](http://localhost:3000) quando solicitado. Depois de aceitar, aguarde a campanha ser executada no horário agendado. Quando a campanha for executada, você deverá receber a notificação por push em seu navegador.
+Para testar a campanha, primeiro habilite as notificações na [página da Web optando por &#x200B;](http://localhost:3000) quando solicitado. Depois de aceitar, aguarde a campanha ser executada no horário agendado. Quando a campanha for executada, você deverá receber a notificação por push em seu navegador.

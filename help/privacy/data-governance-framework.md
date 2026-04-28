@@ -11,9 +11,9 @@ jira: KT-16263
 hide: false
 hidefromtoc: false
 exl-id: e78350c0-543e-4a68-9551-df0c7d9a7be0
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Compreenda a estrutura de governança de dados da Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/32683/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
 Consulte a documentação para mais informações sobre [governança de dados](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/privacy/action-privacy-restricted) no Journey Optimizer.
 

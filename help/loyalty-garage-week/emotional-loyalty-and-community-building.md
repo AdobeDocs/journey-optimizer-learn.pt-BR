@@ -6,9 +6,9 @@ role: User
 hide: true
 index: false
 exl-id: 3706c5ad-9a80-4799-8880-c45eda082f22
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '2156'
+source-wordcount: '2205'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Há também o princípio de **doação emocional**, onde o esforço aumenta a pr
 
 Finalmente, o **reconhecimento** é crítico. Os humanos anseiam por reconhecimento. Quando conquistas, aniversários de casamento, marcos e contribuições são celebrados — por meio de mensagens personalizadas, medalhas ou destaques da comunidade — os clientes se sentem vistos, respeitados e conectados. O reconhecimento aumenta dramaticamente a lealdade emocional e a defesa.
 
-## &#x200B;3. Os pilares estruturais da lealdade emocional
+## &#x200B;3. Os pilares estruturais da Fidelidade Emocional
 
 A lealdade emocional não emerge de uma única tática; emerge de um sistema. Este sistema assenta em quatro pilares principais: identidade, envolvimento, reconhecimento e comunidade.
 
@@ -76,7 +76,7 @@ Uma marca não pode fabricar comunidades — os clientes criam comunidades quand
 
 A comunidade aprofunda a fidelidade porque incorpora o programa na estrutura social dos clientes. Um cliente pode deixar um programa de pontos, mas é muito menos provável que saia de uma comunidade onde sinta conexão, reconhecimento e propósito compartilhado.
 
-## &#x200B;4. Operacionalizar a fidelidade emocional em todo o ciclo de vida do cliente
+## &#x200B;4. Operacionalizando a fidelidade emocional em todo o ciclo de vida do cliente
 
 A criação de fidelidade emocional requer a incorporação de identidade, engajamento, reconhecimento e comunidade em todo o ciclo de vida do cliente.
 
@@ -100,7 +100,7 @@ Os exemplos mais convincentes de lealdade emocional vêm de marcas que entendem 
 
 Essas marcas ilustram como a fidelidade emocional transcende as transações, tornando-se parte da identidade diária dos clientes.
 
-## &#x200B;6. Possibilitando a fidelidade emocional com tecnologia moderna
+## &#x200B;6. Permitindo fidelidade emocional com tecnologia moderna
 
 Programas de fidelidade emocional modernos dependem fortemente dos recursos de orquestração de plataformas como Adobe Journey Optimizer, Salesforce Loyalty Management, Braze e plataformas de comunidade, como Khoros ou ecossistemas de aplicativos personalizados. A infraestrutura de dados e identidade desempenha funções essenciais. Um perfil de cliente unificado deve rastrear não apenas o comportamento transacional, mas também sinais emocionais: participação de desafio, interações de conteúdo, atividade da comunidade, sentimento, preferências, envios criativos ou duração da sequência.
 
@@ -110,7 +110,7 @@ As plataformas comunitárias são igualmente essenciais. Integradas ao aplicativ
 
 Em última análise, a tecnologia não é o motor da lealdade emocional — identidade, pertencimento e comunidade são — mas a tecnologia é o que permite que a lealdade emocional funcione em escala.
 
-## &#x200B;7. O futuro da lealdade emocional: Pertença orientada por IA
+## &#x200B;7. O futuro da fidelidade emocional: pertencimento impulsionado por IA
 
 A IA vai acelerar a lealdade emocional de três maneiras principais.
 

@@ -1,6 +1,6 @@
 ---
 title: Criar um desafio de fidelidade
-description: Saiba como criar um desafio de fidelidade configurando tarefas, recompensas e agendamentos. Entenda como configurar conteúdo, mensagens e públicos-alvo enquanto uma jornada completa do cliente é gerada automaticamente em segundo plano.
+description: Learn how to create a loyalty challenge by setting up tasks, rewards, and schedules. Understand how to configure content, messaging, and audiences while a complete customer journey is generated automatically in the background.
 feature: Get Started
 role: Leader, User
 level: Beginner
@@ -13,7 +13,7 @@ hidefromtoc: true
 index: false
 badgeBet: label="Beta" type="Informative"
 exl-id: f6c373be-aeae-4d52-a4b1-84a312399f5e
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 1%
@@ -22,6 +22,6 @@ ht-degree: 1%
 
 # Criar um desafio de fidelidade
 
-Saiba como criar um desafio de fidelidade configurando tarefas, recompensas e agendamentos. Entenda como configurar conteúdo, mensagens e públicos-alvo enquanto uma jornada completa do cliente é gerada automaticamente em segundo plano.
+Learn how to create a loyalty challenge by setting up tasks, rewards, and schedules. Understand how to configure content, messaging, and audiences while a complete customer journey is generated automatically in the background.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480331/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)

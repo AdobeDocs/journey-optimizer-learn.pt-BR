@@ -13,9 +13,9 @@ hidefromtoc: false
 hide: false
 index: true
 exl-id: c42fca4f-bc31-43ad-9e3a-9936a6623051
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Saiba como editar os seus ativos no Adobe Journey Optimizer com as ferramentas do Adobe Express.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455528/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
 Consulte a [documentação do produto Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/assets-images/express) para mais informações sobre como acessar esse recurso a partir do editor de conteúdo. Para saber mais sobre o Adobe Express, consulte [esta documentação](https://helpx.adobe.com/br/express/user-guide.html).

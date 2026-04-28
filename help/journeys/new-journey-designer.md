@@ -12,7 +12,7 @@ hidefromtoc: true
 hide: true
 index: false
 exl-id: e481336c-eaf2-4fbc-8803-9ba109559dd4
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 100%
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Conheça a nova tela de jornada reprojetada e como aproveitar os relatórios em tempo real em jornadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443600/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}

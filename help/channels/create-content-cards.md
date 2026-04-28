@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Saiba como criar cartões de conteúdo para seu aplicativo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434788/?captions=por_br&learn=on)

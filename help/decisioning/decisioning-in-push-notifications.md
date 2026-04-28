@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Saiba como usar o serviço de decisão do AJO para personalizar notificações por push para seu público-alvo. Crie ofertas atraentes com base em perfis de destinatário para impulsionar as vendas. Entenda as estratégias de decisão, teste campanhas e analise métricas para ter uma comunicação eficaz. Melhore o engajamento e forneça as promoções mais relevantes aos seus clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479215/?captions=por_br&learn=on&enablevpops)

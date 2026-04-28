@@ -25,4 +25,4 @@ Saiba como aplicar rótulos a esquemas e conjuntos de dados. Os rótulos de uso 
 >
 >O vídeo demonstra esse recurso na interface da Adobe Experience Platform. A mesma funcionalidade está disponível na interface do Journey Optimizer, na seção GERENCIAMENTO DE DADOS, na navegação à esquerda.
 
->[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422793?captions=por_br&learn=on)

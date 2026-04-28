@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Saiba como criar jornadas transacionais e entenda os casos de uso que lhes são aplicáveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422702?captions=por_br&quality=12&learn=on){transcript=true}

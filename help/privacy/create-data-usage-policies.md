@@ -30,4 +30,4 @@ Saiba como criar e gerenciar políticas de uso de dados. As políticas de uso de
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-Consulte a documentação do produto para mais informações sobre como [trabalhar com políticas de consentimento](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) no Journey Optimizer.
+Consulte a documentação do produto para mais informações sobre como [trabalhar com políticas de consentimento](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/privacy/consent/consent) no Journey Optimizer.

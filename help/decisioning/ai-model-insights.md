@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Entenda como analisar o status do treinamento do modelo de IA, a alocação de tráfego e o desempenho para otimizar a decisão personalizada no Journey Optimizer. Saiba como identificar problemas, solucionar problemas de modelos e aprimorar as taxas de conversão usando os recursos de IA. Este vídeo oferece orientações sobre como gerenciar modelos de IA de forma eficaz para gerar impacto nos negócios.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479854/?captions=por_br&learn=on&enablevpops)

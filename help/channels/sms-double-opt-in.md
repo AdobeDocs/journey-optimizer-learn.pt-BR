@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como configurar a aceitação dupla para SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427129/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440282/?captions=por_br&learn=on)

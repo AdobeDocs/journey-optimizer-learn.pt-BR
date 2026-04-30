@@ -7,8 +7,8 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
-source-wordcount: '411'
+workflow-type: ht
+source-wordcount: '547'
 ht-degree: 100%
 
 ---
@@ -56,13 +56,13 @@ A Luma pretende promover sua coleção de roupas e equipamentos mais recentes e 
 <td>
  <div>
       <a href="summer-collection-announcement-challenge.md">
-        <img alt="Imagem para o Anúncio da Coleção de verão" src="./assets/email-assets/luma-transactional-onboarding-3.png"/>
+        <img alt="Imagem para o anúncio da coleção de Verão" src="./assets/email-assets/luma-transactional-onboarding-3.png"/>
       </a>
       </div>
   </td>
   <td>
    <strong><a href="summer-collection-announcement-challenge.md">Criar um anúncio de coleção de verão </strong>
- </a>
+    </a>
       <p>
       <em>Crie uma jornada que envia um email de anúncio da coleção de verão para um público-alvo de clientes já existentes. </em>
       <p>
@@ -82,11 +82,11 @@ A Luma pretende promover sua coleção de roupas e equipamentos mais recentes e 
     <td>
     <div >
       <a>
- <strong><a href="loyalty-status-welcome-email-challenge.md">Criar um email de boas-vindas do status de fidelidade </strong>
- </a>
+    <strong><a href="loyalty-status-welcome-email-challenge.md">Criar um email de boas-vindas para o status de fidelidade </strong>
+    </a>
     </div>
     <p>
-    <em>Envie um email quando um cliente de fidelidade mudar para um novo nível, a fim de parabenizá-lo e informá-lo sobre seus novos benefícios.</em>
+    <em>Envie um email quando um cliente no programa de fidelidade mudar para um novo nível, a fim de parabenizá-lo e informá-lo sobre seus novos benefícios.</em>
     <p>
     <b>Competências necessárias:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=pt-BR"> Criar segmentos</li>
@@ -103,12 +103,12 @@ A Luma pretende promover sua coleção de roupas e equipamentos mais recentes e 
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
- <strong><a href="order-confirmation-challenge.md">Criar uma confirmação do pedido</strong>
- </a>
+    <strong><a href="order-confirmation-challenge.md">Criar uma confirmação de pedido</strong>
+    </a>
     <div>
     <p>
-    <em>Teste seu conhecimento sobre como criar e personalizar mensagens transacionais
- </em>
+    <em>Teste seus conhecimentos sobre como criar e personalizar mensagens transacionais
+    </em>
     <p>
     <b>Competências necessárias:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=pt-BR"> Criar conteúdo de email com o editor de mensagens</li>

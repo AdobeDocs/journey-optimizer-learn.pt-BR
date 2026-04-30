@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 98%
+workflow-type: ht
+source-wordcount: '688'
+ht-degree: 100%
 
 ---
 
@@ -71,7 +71,7 @@ O email deve ser estruturado da seguinte maneira:
   <td>
   <div>
     <strong>Seção de confirmação de pedido
- </strong>
+    </strong>
   </td>
   <td>
     <p>
@@ -80,7 +80,7 @@ O email deve ser estruturado da seguinte maneira:
    <div>
     <p>
      <em>Seu pedido foi feito.
-    <p>Quando o pacote for enviado, enviaremos um email com um número de rastreamento para que você possa rastrear seu pedido.</p></em>
+    <p>Quando o pacote for enviado, você receberá um email com um número de rastreamento para que possa rastreá-lo.</p></em>
     </strong>
     </tr>
   </td>
@@ -119,20 +119,20 @@ O email deve ser estruturado da seguinte maneira:
   Pedido: <em>{purchaseOrderNumber}</em>
     </p>
     <strong>Lista de produtos encomendados:
- </strong>
+  </strong>
   <p>Liste cada produto do pedido com uma imagem, o preço e o nome.
   <p>O layout de cada item deve ter esta aparência:
- <img alt="pedido" src="./assets/c2-order.png"> 
+   <img alt="pedido" src="./assets/c2-order.png"> 
 <p><b>Adicione o link para o carrinho</b>
-<p>Substitua a ID do pedido no URL pelo número do pedido de compra:
- <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
+<p>Substitua a ID do pedido no URL pelo número da ordem de compra:
+   <i>https://luma.enablementadobe.com/content/luma/br/pt/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
 </table>
 
 >[!TIP]
 >
->Para permitir solucionar problemas em suas jornadas, a prática recomendada é adicionar um caminho alternativo a todas as ações de mensagem se houver um tempo limite ou ocorrer um erro.
+>Para permitir solucionar problemas em suas jornadas, a prática recomendada é adicionar um caminho alternativo a todas as ações de mensagem se houver um tempo-limite ou ocorrer um erro.
 
 >[!TAB Critérios de sucesso]
 
@@ -203,7 +203,7 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 
 **Lista de produtos:**
 
-Use a função auxiliar “cada” para criar a lista de produtos. Mostre-lhes em uma tabela. O seu código deve ter esta aparência (com suas variáveis específicas, como a ID do evento em vez de `454181416` e sua organização em vez de `techmarketingdemos`):
+Use a função auxiliar “cada” para criar a lista de produtos. Exiba-os em uma tabela. O seu código deve ter esta aparência (com suas variáveis específicas, como a ID do evento em vez de `454181416` e sua organização em vez de `techmarketingdemos`):
 
 ```javascript
 {{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}

@@ -9,7 +9,7 @@ last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: ht
-source-wordcount: '1108'
+source-wordcount: '1154'
 ht-degree: 100%
 
 ---
@@ -84,7 +84,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >[!ENDTABS]
 
 
-### Etapa 2: Criação da Jornada - anúncio da Coleção de Verão
+### Etapa 2: Criação da Jornada – anúncio da Coleção de Verão
 
 >[!BEGINTABS]
 
@@ -151,7 +151,7 @@ Envie uma prova para si mesmo:
 3. Envie uma prova para si mesmo.
 
 Resultado:\
-Você deve receber um email. A linha de assunto deve ficar *&quot;Stanleigh, descubra os novos equipamentos atléticos masculinos!&quot;* e o corpo do email devem corresponder aos valores exibidos na visualização.
+Você deve receber um email. O assunto do email deve ser *Stanleigh, confira os novos equipamentos esportivos masculinos.* e o corpo do email deve corresponder ao que você viu na pré-visualização.
 
 >[!NOTE]
 >Pode levar alguns minutos para você receber a prova.
@@ -199,8 +199,8 @@ Teste a jornada e envie os emails para sua própria conta:
 1. Depois de acionar a entrada do perfil, você deve receber o primeiro email. O cabeçalho deve ser personalizado de acordo com o perfil escolhido.
 1. A jornada deve continuar na respectiva ramificação e você deve receber o email relacionado (por exemplo, se escolher *Jenna*, deverá receber o email *Coleção Luma para mulheres*).
 1. Abra o segundo email e a jornada deve terminar.
-1. Você pode repetir as etapas 4 a 7 em todos os três perfis para verificar se suas ramificações estão funcionando corretamente.
-1. Para testar o tempo limite, defina o tempo de espera como 30 segundos e acione a entrada novamente.
+1. Você pode repetir as etapas 4 - 7. em todos os três perfis para verificar se suas ramificações estão funcionando corretamente.
+1. Para testar o tempo-limite, defina o tempo de espera como 30 segundos e acione a entrada novamente.
 1. Não abra os emails recebidos (não pré-visualize o email (!)) e deixe o tempo de espera passar.
 
 Você deve receber os seguintes emails:

@@ -9,8 +9,8 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
-source-wordcount: '162'
+workflow-type: ht
+source-wordcount: '158'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ Nesta seção, você configurará os três eventos necessários para os exercíc
 
 O vídeo a seguir explica como criar eventos:
 
->[!VIDEO](https://video.tv.adobe.com/v/3431510?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
 
 ## Criar o evento de compra online da Luma
 

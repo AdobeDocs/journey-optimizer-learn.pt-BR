@@ -1,6 +1,6 @@
 ---
-title: Atividades do iOS Live
-description: Descubra como configurar as atividades do iOS Live com o Adobe Journey Optimizer para fornecer atualizações avançadas em tempo real na Tela de bloqueio do iPhone e no Dynamic Island.
+title: Atividades ao vivo no iOS
+description: Descubra como configurar as atividades ao vivo no iOS com o Adobe Journey Optimizer para fornecer atualizações avançadas em tempo real na tela de bloqueio do iPhone e no Dynamic Island.
 feature: Channel Configuration
 topic: Mobile
 role: Admin, Developer, User
@@ -15,12 +15,12 @@ exl-id: f474f1bb-efeb-44fd-9c62-09afdf81ee03
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Atividades do iOS Live
+# Atividades ao vivo no iOS
 
-Descubra como configurar as atividades do iOS Live com o Adobe Journey Optimizer para fornecer atualizações avançadas em tempo real na Tela de bloqueio do iPhone e no Dynamic Island.
+Descubra como configurar as atividades ao vivo no iOS com o Adobe Journey Optimizer para fornecer atualizações avançadas em tempo real na tela de bloqueio do iPhone e no Dynamic Island.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479869/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479864/?learn=on&enablevpops)

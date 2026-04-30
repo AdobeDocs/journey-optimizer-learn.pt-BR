@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: c6f5a9c78193f6540456ff0e1062970000f832b7
 workflow-type: tm+mt
 source-wordcount: '1380'
-ht-degree: 93%
+ht-degree: 99%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 93%
    + [Journey Agent: visão geral](/help/ai-agents/journey-agent-overview.md)
    + [Conheça o novo Journey Designer](/help/journeys/new-journey-designer.md)
    + [Introdução à criação de jornadas](/help/journeys/introduction-to-building-a-journey.md)
-   + [Uso da pesquisa de conjunto de dados em uma jornada](/help/journeys/lookup-dataset.md)
+   + [Uso de pesquisa de conjunto de dados em uma jornada](/help/journeys/lookup-dataset.md)
    + [Criar um perfil de teste](/help/journeys/test-a-journey.md)
    + [Publicar uma jornada](/help/journeys/publish-a-journey.md)
    + [Atividade de decisão de conteúdo](/help/journeys/content-decision-activity.md)
@@ -76,7 +76,7 @@ ht-degree: 93%
    + Canal de experiência baseada em código{#code-based-experience-channel}
       + [Criar uma campanha de experiência baseada em código](/help/channels/create-a-code-based-experience-campaign.md)
       + [Adicionar campos de formulário a modelos de canal de experiência baseada em código](/help/channels/form-fields-in-code-based-experiences.md)
-      + [Use decisioning in the code based channel](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
+      + [Usar a decisão no canal baseado em código](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canal de correspondência direta{#direct-mail-channel}
       + [Criar uma correspondência direta](/help/channels/direct-mail.md)
       + [Enviar mensagens de correspondência direta com jornadas](/help/channels/direct-mail-in-journeys.md)
@@ -94,8 +94,8 @@ ht-degree: 93%
       + [Criar uma mensagem no aplicativo em uma jornada](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Criar uma mensagem no aplicativo](/help/channels/author-in-app-messages.md)
       + [Configurar experimentos de conteúdo para mensagens no aplicativo](/help/experimentation/content-experiments-for-in-app-messages.md)
-   + Atividades ativas {#live-activities}
-      + [iOS live activities](/help/channels/ios-live-activities.md)
+   + Atividades ao vivo {#live-activities}
+      + [Atividades ao vivo no iOS](/help/channels/ios-live-activities.md)
    + Canal de push{#push-channel}
       + [Notificações por push: visão geral](/help/channels/push-notifications-overview.md)
       + [Configurar e enviar uma campanha por push](/help/channels/create-a-push-campaign.md)
@@ -137,7 +137,7 @@ ht-degree: 93%
       + [Criar conteúdo com o Assistente de IA para geração de conteúdo](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [Criação e gerenciamento de diretrizes da marca](/help/content-management/brand-guideline-creation-and-management.md)
    + [Criar um email usando o GenStudio](/help/content-management/create-an-email-using-genstudio.md)
-   + [Enable external data integrations in channel authoring](/help/content-management/external-data-integrations-in-channel-authoring.md)
+   + [Ativar integrações de dados externos na criação de canais](/help/content-management/external-data-integrations-in-channel-authoring.md)
 + Personalizar conteúdo {#personalize-content}
    + [Editor de personalização: visão geral](/help/personalize-content/personalization-editor-overview.md)
    + [Personalização baseada em perfil e associação de público-alvo](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -150,18 +150,18 @@ ht-degree: 93%
 + Experimentação {#experimentation}
    + [Introdução à experimentação](/help/experimentation/introduction-to-experimentation.md)
    + [Criar experimentos de conteúdo para campanhas de email](/help/experimentation/content-experiments-for-emails.md)
-   + [Agente de experimentação: visão geral](/help/ai-agents/experimentation-agent-overview.md)
+   + [Experimentation Agent: visão geral](/help/ai-agents/experimentation-agent-overview.md)
 + Recursos de decisão{#decision-capabilities}
    + Tomada de decisão {#decisioning}
       + [Introdução ao serviço de decisão](/help/decisioning/introduction-to-decisioning.md)
       + [Passo a passo completo do serviço de decisão](/help/decisioning/decisioning-end-to-end.md)
       + [Navegação na interface do Construtor de fórmulas](/help/decisioning/formula-builder-ui.md)
       + [Regras reutilizáveis](/help/decisioning/reusable-targeting-rules.md)
-      + [Trigger journey on form submission](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-      + [Personalizing offers with real time weather data](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [Use ranking formula to deliver personalized offers](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [Acionar jornada no envio do formulário](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [Como personalizar ofertas com dados meteorológicos em tempo real](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [Usar a fórmula de classificação para fornecer ofertas personalizadas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
       + [Insights do modelo de IA](/help/decisioning/ai-model-insights.md)
-      + [Use decisioning in email channel](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Usar a decisão no canal de email](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [Usar a decisão em notificações por push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Usar a decisão em uma mensagem SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + Gestão de decisões {#decision-management}
@@ -237,19 +237,19 @@ ht-degree: 93%
    + [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistente de IA para geração de conteúdo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
    + [Journey Agent: visão geral](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [Agente de experimentação: visão geral](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [Experimentation Agent: visão geral](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Casos de uso e práticas recomendadas{#use-cases}
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)
    + [Carrinho abandonado](/help/use-cases/abandoned-cart.md)
    + [Reengajamento inteligente: navegação abandonada](https://experienceleague.adobe.com/pt-br/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
-   + [Personalizing offers with real-time weather data in Adobe Journey Optimizer using Web SDK](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Personalização de ofertas com dados meteorológicos em tempo real no Adobe Journey Optimizer usando o SDK da web](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [Usar a fórmula de classificação para fornecer ofertas personalizadas no Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Aprimorar o engajamento dos clientes](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Dimensionamento de orquestração para engajamento onicanal](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + Manuais de estratégia de casos de uso {#use-case-playbooks}
       + [Visão geral](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-      + [Configure a playbook sandbox](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-      + [Create and publish playbook instances](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+      + [Configurar uma sandbox de manual de estratégia](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+      + [Criar e publicar instâncias do manual de estratégia](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Exercícios, laboratórios e desafios {#exercises-and-challenges}
    + [Configurar uma sandbox de treinamento](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Desafios](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)

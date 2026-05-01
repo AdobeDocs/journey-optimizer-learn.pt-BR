@@ -24,4 +24,4 @@ O processo envolve a criação de uma coleção de ofertas, a atribuição de re
 
 Essa poderosa ferramenta melhora a participação do cliente e impulsiona resultados de negócios impactantes. Assista ao vídeo incorporado para obter uma apresentação detalhada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486201/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486206/?captions=por_br&learn=on&enablevpops)

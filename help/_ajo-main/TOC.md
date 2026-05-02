@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 1a5852226764c45bbcc4c7e2a9c698d3d6447e9b
+source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1434'
 ht-degree: 96%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 96%
    + Campanhas orquestradas {#orchestrated-campaigns}
       + [Introdução às campanhas orquestradas](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [Noções básicas do armazenamento relacional](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
+      + [Configurar esquemas e conjuntos de dados para campanhas orquestradas](/help/campaigns/orchestrated-campaigns/set-up-schemas-and-datasets-for-orchestrated-campaigns.md)
+      + [Criar uma campanha orquestrada](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + Jornadas {#journeys}
    + [Designer de jornada: visão geral](/help/journeys/journey-designer-overview.md)
    + [Journey Agent: visão geral](/help/ai-agents/journey-agent-overview.md)
@@ -168,7 +170,7 @@ ht-degree: 96%
          + [Usar a decisão em notificações por push](/help/decisioning/decisioning-in-push-notifications.md)
          + [Usar a decisão em uma mensagem SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [Usar a tomada de decisão para personalizar ofertas da web (tutorial)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
-      + Decisões de acionador de acionadores e interações externos {#triggers}
+      + Decisões de acionador de acionadores e interações externos {#trigger}
          + [Acionar jornada no envio do formulário](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
          + [Personalizar ofertas com dados do tempo real](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
    + Gestão de decisões {#decision-management}

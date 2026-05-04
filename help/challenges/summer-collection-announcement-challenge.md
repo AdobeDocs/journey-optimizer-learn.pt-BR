@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
 
@@ -117,9 +117,9 @@ Uma agência forneceu quatro arquivos HTML com o design para os emails:
          * Linha de assunto: *(nome do destinatário), descubra coleção feminina da Luma!*
          * Corpo do email: `WomensCollectionEmail.html`
       * Outros clientes devem receber o email **Luma - Coleção com 20% de desconto**.
-      * Título da mensagem: *Luma - Coleção com 20% de desconto*
-      * Linha de assunto: *(nome do destinatário), aproveite a liquidação com 20% de desconto!*
-      * Corpo do email: `20OOffCollectionEmail.html`
+         * Título da mensagem: *Luma - Coleção com 20% de desconto*
+         * Linha de assunto: *(nome do destinatário), aproveite a liquidação com 20% de desconto!*
+         * Corpo do email: `20OOffCollectionEmail.html`
    1. Depois de enviar os emails direcionados acima, aguarde mais dois dias para que eles sejam abertos
    1. Se o email direcionado não for aberto em 2 dias, envie o email **Luma - Coleção com 20% de desconto** como uma tentativa final de redirecionamento
 

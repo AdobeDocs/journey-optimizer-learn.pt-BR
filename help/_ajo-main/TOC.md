@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0a4f552baab06a7d8269692269ba23010bb71fda
+source-git-commit: c5adf39e71b3f7cfa7d15a8fe2e77aef5d9a4cd1
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1429'
 ht-degree: 95%
 
 ---
@@ -241,10 +241,10 @@ ht-degree: 95%
    + [Criar políticas de uso de dados](/help/privacy/create-data-usage-policies.md)
    + [Aplicar políticas de uso de dados nos canais do Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Mascaramento de dados em mensagens](/help/privacy/mask-data-in-messages.md)
-+ Assistente de IA {#ai-assistant}
++ Assistentes e agentes de IA {#ai-assistant}
    + [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistente de IA para geração de conteúdo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent](/help/ai-agents/journey-agent-overview.md)
+   + [Analisar e criar Jornadas com a Journey Agent](/help/ai-agents/journey-agent-overview.md)
    + [Experimentation Agent: visão geral](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Casos de uso e práticas recomendadas{#use-cases}
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)

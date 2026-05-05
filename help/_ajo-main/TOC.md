@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: c5adf39e71b3f7cfa7d15a8fe2e77aef5d9a4cd1
+source-git-commit: 1ac487c9207703fb89cbc0bd1f1b7113f2ee18e8
 workflow-type: tm+mt
-source-wordcount: '1429'
-ht-degree: 95%
+source-wordcount: '1448'
+ht-degree: 93%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 95%
       + [Criar uma campanha orquestrada](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + Jornadas {#journeys}
    + [Designer de jornada: visão geral](/help/journeys/journey-designer-overview.md)
-   + [Journey Agent: visão geral](/help/ai-agents/journey-agent-overview.md)
+   + [Analisar e criar Jornadas com a Journey Agent](/help/ai-agents/journey-agent-overview.md)
    + [Conheça o novo Journey Designer](/help/journeys/new-journey-designer.md)
    + [Introdução à criação de jornadas](/help/journeys/introduction-to-building-a-journey.md)
    + [Uso de pesquisa de conjunto de dados em uma jornada](/help/journeys/lookup-dataset.md)
@@ -244,7 +244,7 @@ ht-degree: 95%
 + Assistentes e agentes de IA {#ai-assistant}
    + [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistente de IA para geração de conteúdo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analisar e criar Jornadas com a Journey Agent](/help/ai-agents/journey-agent-overview.md)
+   + [Analisar e criar Jornadas com a Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent: visão geral](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Casos de uso e práticas recomendadas{#use-cases}
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)

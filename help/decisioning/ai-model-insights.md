@@ -7,12 +7,11 @@ role: Admin, User
 level: Intermediate, Experienced
 doc-type: Feature Video
 duration: 149
-hidefromtoc: false
 hide: false
 last-substantial-update: 2026-02-18T00:00:00Z
 jira: KT-20313
 exl-id: cd486a89-f97a-4d53-86f1-f66dc64d5f5e
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
@@ -23,4 +22,4 @@ ht-degree: 100%
 
 Entenda como analisar o status do treinamento do modelo de IA, a alocação de tráfego e o desempenho para otimizar a decisão personalizada no Journey Optimizer. Saiba como identificar problemas, solucionar problemas de modelos e aprimorar as taxas de conversão usando os recursos de IA. Este vídeo oferece orientações sobre como gerenciar modelos de IA de forma eficaz para gerar impacto nos negócios.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479854/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)

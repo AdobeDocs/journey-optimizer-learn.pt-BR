@@ -10,8 +10,7 @@ level: Beginner
 last-substantial-update: 2025-06-11T00:00:00Z
 exl-id: 8b96e3b0-84f4-4aa8-b2f5-1bf30e3e4106
 hide: false
-hidefromtoc: false
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
@@ -22,4 +21,4 @@ ht-degree: 100%
 
 Saiba como configurar o canal de email no Adobe Journey Optimizer. O vídeo aborda as configurações de email, incluindo subdomínios, pools de IP, gerenciamento de cancelamento de inscrições, personalização do remetente, emails com cópia oculta (CCO) e listas de seeds, lógica de repetição e parâmetros de rastreamento. Ele enfatiza a conformidade, a capacidade de entrega e a personalização para otimizar o desempenho dos emails de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463862?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}

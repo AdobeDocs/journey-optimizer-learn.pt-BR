@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como usar a decisão do AJO para personalizar e otimizar o conteúdo de SMS. Aprimore as mensagens SMS para melhorar o engajamento e atender às metas comerciais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479534/?captions=por_br&learn=on&enablevpops)

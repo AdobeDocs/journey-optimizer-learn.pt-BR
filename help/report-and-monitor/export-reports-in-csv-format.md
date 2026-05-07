@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Entenda como baixar um relatório CSV para um relatório e um único widget.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439614/?captions=por_br&learn=on)

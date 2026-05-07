@@ -1,23 +1,22 @@
 ---
-title: Dynamic Media Personalization in AJO
-description: Learn how Adobe Journey Optimizer integrates with Experience Manager's Dynamic Media to enable personalized, composite images for marketing campaigns.
+title: Dynamic Media Personalization no AJO
+description: Saiba como o Adobe Journey Optimizer se integra ao Dynamic Media da Experience Manager para permitir imagens personalizadas e compostas para campanhas de marketing.
 doc-type: Short Video
 duration: 49
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 032316ab-8d8f-4a4f-bc8c-fc2ccc6ea70f
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Dynamic Media Personalization in AJO
+# Dynamic Media Personalization no AJO
 
-Learn how Adobe Journey Optimizer integrates with Experience Manager&#39;s Dynamic Media to enable personalized, composite images for marketing campaigns.
+Saiba como o Adobe Journey Optimizer se integra ao Dynamic Media da Experience Manager para permitir imagens personalizadas e compostas para campanhas de marketing.
 
 <!-- 62_S520_3442520_48_dynamic-media-personalization-in-ajo -->
 >[!VIDEO](https://video.tv.adobe.com/v/3460314/?captions=por_br&learn=on&enablevpops=true)

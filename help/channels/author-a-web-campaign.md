@@ -31,4 +31,4 @@ Saiba como criar uma experiência online usando o editor visual da Web nas campa
 >[!NOTE]
 > Você precisa instalar a [extensão Auxiliar de edição visual da Adobe Experience Cloud para Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca) para poder carregar seu site no Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452640/?captions=por_br&quality=12&learn=on){transcript=true}

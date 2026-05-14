@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Saiba como configurar o controle de acesso baseado em atributos para limitar o acesso a recursos específicos da Experience Platform. Para mais informações, consulte a [documentação do controle de acesso](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html?lang=pt-BR).
 
->[!VIDEO](https://video.tv.adobe.com/v/345641?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451835?captions=por_br&learn=on)

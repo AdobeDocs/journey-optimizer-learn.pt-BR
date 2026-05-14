@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Saiba como ofertas, coleções e regras de qualificação são configuradas no Adobe Journey Optimizer Decisioning para controlar quais clientes se qualificam para qual oferta de produto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491095/?captions=por_br&learn=on&enablevpops)

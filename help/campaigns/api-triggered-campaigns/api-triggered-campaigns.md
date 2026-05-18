@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Saiba como criar uma campanha e acioná-la a partir de um sistema externo com base nas interações do usuário, usando a [API REST de execução de mensagem interativa](https://developer.adobe.com/journey-optimizer-apis/references/messaging/#tag/execution).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425358/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452730/?captions=por_br&learn=on)

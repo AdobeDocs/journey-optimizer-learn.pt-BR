@@ -18,7 +18,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 84eae8147c58bd7ccb4a61cbdfcf7eaf336d114e
+source-git-commit: 3defd5900b460509d7dd859aab09d32778db5551
 workflow-type: tm+mt
 source-wordcount: 84
 ht-degree: 0%
@@ -31,3 +31,4 @@ ht-degree: 0%
 Saiba como criar fragmentos de jornada reutilizáveis no Adobe Journey Optimizer. Esse recurso permite que os usuários salvem um conjunto de nós de jornada como fragmentos, permitindo a reutilização rápida em outras jornadas. Ao usar fragmentos, você economiza tempo, simplifica fluxos de trabalho e garante a consistência em várias jornadas. Assista ao vídeo incorporado para obter uma apresentação detalhada e exemplos práticos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491392/?captions=por_br&learn=on&enablevpops)
+

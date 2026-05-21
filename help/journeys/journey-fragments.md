@@ -1,5 +1,5 @@
 ---
-title: Explicação dos fragmentos de jornada
+title: Salvar nós de jornada como fragmentos
 description: Saiba como salvar nós de jornada como fragmentos reutilizáveis no Adobe Journey Optimizer. Simplifique os fluxos de trabalho e garanta a consistência em várias jornadas.
 feature: Journeys
 role: User
@@ -18,9 +18,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 1c3f167bb1a734802d705ebce7ca3f9833b9ca5a
+source-git-commit: 84eae8147c58bd7ccb4a61cbdfcf7eaf336d114e
 workflow-type: tm+mt
-source-wordcount: 82
+source-wordcount: 84
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Saiba como criar fragmentos de jornada reutilizáveis no Adobe Journey Optimizer. Esse recurso permite que os usuários salvem um conjunto de nós de jornada como fragmentos, permitindo a reutilização rápida em outras jornadas. Ao usar fragmentos, você economiza tempo, simplifica fluxos de trabalho e garante a consistência em várias jornadas. Assista ao vídeo incorporado para obter uma apresentação detalhada e exemplos práticos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491387/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491392/?captions=por_br&learn=on&enablevpops)

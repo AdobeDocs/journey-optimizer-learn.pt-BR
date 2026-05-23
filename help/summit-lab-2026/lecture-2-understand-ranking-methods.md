@@ -24,7 +24,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: cb02fd66d9e499a6c7031684c946a19492cf0788
+source-git-commit: 72df947889d1727ae571c9fb82d68060744ca360
 workflow-type: tm+mt
 source-wordcount: 52
 ht-degree: 0%
@@ -34,6 +34,6 @@ ht-degree: 0%
 
 # Palestra 2 - Entender os métodos de classificação
 
-Saiba mais sobre os diferentes métodos de classificação disponíveis no Adobe Journey Optimizer Decisioning, incluindo modelos de otimização de IA e fórmulas de classificação baseadas em regras.
+Saiba mais sobre os diferentes métodos de classificação disponíveis no Adobe Journey Optimizer Decisioning, incluindo fórmulas de classificação baseadas em regras e modelos de otimização de IA.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491465/?learn=on&enablevpops)

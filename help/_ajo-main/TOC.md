@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 1c3f167bb1a734802d705ebce7ca3f9833b9ca5a
+source-git-commit: debae556440c9bd902b0adb7590db960f42b3bf2
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1459'
 ht-degree: 91%
 
 ---
@@ -245,8 +245,9 @@ ht-degree: 91%
 + Assistentes e agentes de IA {#ai-assistant}
    + [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistente de IA para geração de conteúdo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analisar e criar Jornadas com a Journey Agent](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Analisar e criar Jornadas com a Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent: visão geral](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [Planejar públicos-alvo usando o Adobe Marketing Agent](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + Casos de uso e práticas recomendadas{#use-cases}
    + [Integração de clientes](/help/use-cases/customer-onboarding.md)
    + [Carrinho abandonado](/help/use-cases/abandoned-cart.md)

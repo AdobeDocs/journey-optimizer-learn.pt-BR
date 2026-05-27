@@ -9,9 +9,9 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 04fad076-e897-4831-9147-768721858a80
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -22,18 +22,20 @@ As Tags do Adobe Experience Platform (antigo Adobe Launch) ajudam a gerenciar e 
 
 Este [vídeo descreve o processo de criação de Tags de Experiência do Adobe](https://experienceleague.adobe.com/pt-br/playlists/experience-platform-get-started-with-tags)
 
-- Fazer logon na Coleção de dados
-- Clique em _&#x200B;**Marcas -> Nova propriedade**&#x200B;_
+* Fazer logon na Coleção de dados
+* Clique em _&#x200B;**Marcas -> Nova propriedade**
+* Crie uma Marca do Adobe Experience Platform chamada _&#x200B;**personalization-on-weather**&#x200B;_.
+* Adicionar as seguintes extensões à tag
 
-- Crie uma Marca do Adobe Experience Platform chamada _&#x200B;**personalization-on-weather**&#x200B;_.
+![extensões-tags](assets/tags-extensions1.png)
 
-- Adicionar as seguintes extensões à tag
-  ![extensões-tags](assets/tags-extensions1.png)
-- Adicione um elemento de dados chamado &quot;ECID&quot;, como mostrado abaixo. Esse elemento de dados é usado posteriormente nos relatórios
-  ![ecid-data-element](assets/ecid-data-element.png)
+* Adicione um elemento de dados chamado &quot;ECID&quot;, como mostrado abaixo. Esse elemento de dados é usado posteriormente nos relatórios
 
-- Certifique-se de configurar o Adobe Experience Platform Web SDK para usar o ambiente correto e o **datastream relacionado ao clima** criado na etapa anterior.
-  ![web-sdk-configuration](assets/tags-extensions.png)
+![ecid-data-element](assets/ecid-data-element.png)
+
+* Certifique-se de configurar o Adobe Experience Platform Web SDK para usar o ambiente correto e o **datastream relacionado ao clima** criado na etapa anterior.
+
+![web-sdk-configuration](assets/tags-extensions.png)
 
 
 
@@ -57,10 +59,8 @@ Clique no botão Salvar e criar no desenvolvimento para criar a biblioteca
 
 ## Incluir tags do AEP na página do HTML
 
-Ao publicar uma propriedade de Marcas do AEP, a Adobe fornece uma marca de script que você deve colocar dentro da HTML ``` <head>``` ou na parte inferior das marcas ``` <body>```.
+Ao publicar uma propriedade de Marcas do AEP, a Adobe fornece uma marca de script que você deve colocar dentro da HTML ` <head>` ou na parte inferior das marcas ` <body>`.
 
-- Vá para a propriedade Tags (personalização no clima).
-
-- Clique em Ambientes e clique no ícone de instalação do ambiente desejado (por exemplo, Desenvolvimento, Armazenamento temporário, Produção).
-
-- Anote o código incorporado. Ela é necessária em um estágio posterior deste tutorial.
+1. Vá para a propriedade Tags (personalização no clima).
+2. Clique em Ambientes e clique no ícone de instalação do ambiente desejado (por exemplo, Desenvolvimento, Armazenamento temporário, Produção).
+3. Anote o código incorporado. Ela é necessária em um estágio posterior deste tutorial.

@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-05T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 6823ce13-bc77-4e2b-89e0-606e403c15f2
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ O elemento de dados da ECID nas tags do Experience Platform é criado apenas par
 
 Crie e publique as Tags do Adobe Experience Platform.
 
-Quando uma propriedade de Tags do AEP é publicada, o Adobe fornece uma tag de script que você deve colocar dentro da HTML ``` <head>``` ou na parte inferior das tags ``` <body>```.
+Quando uma propriedade de Tags do AEP é publicada, o Adobe fornece uma tag de script que você deve colocar dentro da HTML `<head>` ou na parte inferior das tags `<body>`.
 
 1. Vá para a propriedade Tags (ECID Service).
 
@@ -52,4 +52,4 @@ Quando uma propriedade de Tags do AEP é publicada, o Adobe fornece uma tag de s
 
 1. Observe o código incorporado.
 
-   Esse código precisa ser colocado antes da marca de fechamento ```</body>``` na página do HTML.
+   Este código precisa ser colocado antes da tag `</body>` de fechamento na página do HTML.

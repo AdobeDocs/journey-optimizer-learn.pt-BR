@@ -9,10 +9,10 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 244fcb09-3b16-4e3b-b335-4e84bc93095e
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 3%
+source-wordcount: '514'
+ht-degree: 2%
 
 ---
 
@@ -80,14 +80,17 @@ O Construtor de regras em Tags do Adobe Experience Platform permite definir quan
 
 
 * Crie uma configuração de evento chamada Classe de ativo preferencial selecionada, conforme mostrado abaixo. Esse evento escuta os eventos assetClassSelection.
-  ![evento-regra](assets/rule-event.png)
+
+![evento-regra](assets/rule-event.png)
 
 
 * Criar uma ação para enviar o esquema XDM atualizado para o AEP
-  ![enviar-evento](assets/rule-send-event.png)
+
+![enviar-evento](assets/rule-send-event.png)
 
 * A regra final deve parecer com a abaixo
-  ![regra final](assets/final-rule.png)
+
+![regra final](assets/final-rule.png)
 
 ## Criar e implantar as tags do AEP
 
@@ -108,7 +111,7 @@ Clique no botão Salvar e criar no desenvolvimento para criar a biblioteca
 
 ## Incluir tags do AEP na página do HTML
 
-Ao publicar uma propriedade de Marcas do AEP, a Adobe fornece uma marca de script que você deve colocar dentro da HTML ``` <head>``` ou na parte inferior das marcas ``` <body>```.
+Ao publicar uma propriedade de Marcas do AEP, a Adobe fornece uma marca de script que você deve colocar dentro da HTML ` <head>` ou na parte inferior das marcas `<body>`.
 
 * Vá para a propriedade Tags(Financial Advisors).
 

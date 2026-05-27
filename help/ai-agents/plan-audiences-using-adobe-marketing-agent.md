@@ -35,7 +35,7 @@ Este vídeo demonstra o processo de seleção, análise e preparação de públi
 
 Assista ao vídeo incorporado abaixo para ver uma demonstração ao vivo do Adobe Marketing Agent em ação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491171/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491188/?captions=por_br&learn=on&enablevpops)
 
 Para obter mais informações sobre como começar, assista [Introdução ao Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}.
 Para ver como os profissionais de marketing usam o Adobe Marketing Agent for Microsoft 365 Copilot para planejar campanhas, revisar o desempenho e monitorar jornadas em andamento, assista aos [Fluxos de trabalho de marketing com o Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}.

@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-01-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 3d342c5c4de4dda221ce4427b1e4aef7ef8c22cc
+exl-id: 0a8be7eb-9962-466a-9fcc-022cb84c7b0a
+source-git-commit: 108686aa75358f940b5d7d83e7f04bf55f72978f
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -20,18 +21,19 @@ A primeira etapa é criar um Canal por push no Adobe Journey Optimizer. Como par
 
 ## Gerar chaves VAPID
 
-VAPID (Voluntary Application Server Identification, Identificação voluntária do servidor de aplicações) é um padrão de push da Web que permite que o servidor se identifique para enviar serviços (como Chrome, Edge etc.) usando pares de chaves públicas/privadas, para que o provedor de push saiba quem está enviando a notificação.
+VAPID (Voluntary Application Server Identification, identificação voluntária do servidor de aplicativos) é um padrão de push da Web que permite que o servidor se identifique para enviar serviços (como Chrome, Edge etc.) usando pares de chaves públicas/privadas, para que o provedor de push saiba quem está enviando a notificação.
 
 Ele é gerado usando uma ferramenta como web-push generate-vapid-keys, que cria uma chave pública (compartilhada com o navegador) e uma chave privada (mantida em seu servidor) usadas juntas para autenticar e enviar mensagens de push com segurança.
 
 Para este tutorial, usamos Node.js para gerar as chaves VAPID.
 
 Verifique se o Node.js está instalado. Em seguida, execute o seguinte comando
-```npm install web-push -g ```
+
+`npm install web-push -g `
 
 ![push-da-Web](assets/install-web-push.png)
 
-```web-push generate-vapid-keys```
+`web-push generate-vapid-keys`
 
 ![vapid](assets/vapid-keys.png)
 
@@ -39,7 +41,7 @@ Verifique se o Node.js está instalado. Em seguida, execute o seguinte comando
 
 * Fazer logon no Journey Optimizer
 
-* Navegue até Administração | Canais | CONFIGURAÇÕES DE PUSH | Credenciais de push | Criar credencial de push
+* Navegue até Administração | Canais | CONFIGURAÇÕES DE PUSH | Credenciais por push| Criar credencial por push
 
 * ![credencial de push](assets/push-credential.png)
 

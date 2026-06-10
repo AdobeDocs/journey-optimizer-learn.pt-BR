@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
+source-git-commit: 8d3931426cb20a64fabf3f4cb61b1ee9e3d2eba7
 workflow-type: tm+mt
-source-wordcount: '1468'
+source-wordcount: '1475'
 ht-degree: 90%
 
 ---
@@ -172,6 +172,7 @@ ht-degree: 90%
          + [Usar a decisão em notificações por push](/help/decisioning/decisioning-in-push-notifications.md)
          + [Usar a decisão em uma mensagem SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [Usar a tomada de decisão para personalizar ofertas da web (tutorial)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+         + [Usar fragmentos de conteúdo do Experience Manager com decisão](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
       + Decisões de acionador de acionadores e interações externos {#trigger}
          + [Acionar jornada no envio do formulário](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
          + [Personalizar ofertas com dados do tempo real](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
@@ -246,7 +247,7 @@ ht-degree: 90%
 + Assistentes e agentes de IA {#ai-assistant}
    + [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistente de IA para geração de conteúdo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analisar e criar Jornadas com a Journey Agent](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Analisar e criar Jornadas com a Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent: visão geral](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
    + [Planejar públicos-alvo usando o Adobe Marketing Agent](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + Casos de uso e práticas recomendadas{#use-cases}

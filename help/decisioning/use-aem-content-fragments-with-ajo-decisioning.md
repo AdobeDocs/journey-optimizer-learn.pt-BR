@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Saiba como usar os Fragmentos de conteúdo dos Adobe Experience Manager com o Adobe Jornada para personalizar e otimizar o conteúdo em suas comunicações ágeis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492219/?captions=por_br&learn=on&enablevpops)

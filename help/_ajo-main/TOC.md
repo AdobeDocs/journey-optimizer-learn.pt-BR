@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 8d3931426cb20a64fabf3f4cb61b1ee9e3d2eba7
+source-git-commit: df7a7efd87137cd9bca0e3efca39f12a18b7990c
 workflow-type: tm+mt
-source-wordcount: '1475'
-ht-degree: 90%
+source-wordcount: '1484'
+ht-degree: 89%
 
 ---
 
@@ -142,6 +142,7 @@ ht-degree: 90%
       + [Assistente de IA para geração de conteúdo: Visão geral](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [Criar conteúdo com o Assistente de IA para geração de conteúdo](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [Criação e gerenciamento de diretrizes da marca](/help/content-management/brand-guideline-creation-and-management.md)
+   + {hide-from-toc}[Otimizar canais com base na preferência de perfil ou nas pontuações de propensão](/help/channels/channel-optimization.md)
    + [Criar um email usando o GenStudio](/help/content-management/create-an-email-using-genstudio.md)
    + [Ativar integrações de dados externos na criação de canais](/help/content-management/external-data-integrations-in-channel-authoring.md)
 + Personalizar conteúdo {#personalize-content}

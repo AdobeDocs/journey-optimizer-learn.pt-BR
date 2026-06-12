@@ -39,4 +39,4 @@ ht-degree: 2%
 
 Saiba como o recurso de otimização de canal da Adobe Journey Optimizer ajuda você a alcançar clientes no canal mais eficiente, seja por meio de prioridade manual, atributos de perfil ou modelo de IA da Adobe, garantindo que sua mensagem seja entregue onde cada cliente tem maior probabilidade de se envolver.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492132/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492136/?captions=por_br&learn=on&enablevpops)

@@ -1,5 +1,5 @@
 ---
-title: Publicar uma jornada e entender seus status
+title: Publicar uma jornada e entender os status da jornada
 description: Entenda os diferentes estados de uma jornada e o impacto da publicação.
 jira: KT-7528
 thumbnail: 3424998.jpeg
@@ -11,13 +11,13 @@ level: Beginner
 last-substantial-update: 2024-01-29T00:00:00Z
 exl-id: cf7fe165-b6eb-49f0-adb9-32d43efa43ca
 source-git-commit: 4a615013f64252e66932a8d93d0d2cc30b005334
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
-# Publicar uma jornada e entender seus status
+# Publicar uma jornada e entender os status da jornada
 
 Entenda os diferentes estados de uma jornada e o impacto da publicação.
 

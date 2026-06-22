@@ -1,6 +1,6 @@
 ---
-title: Direcionamento de várias entidades com públicos federados no AJO
-description: Saiba como usar o direcionamento de várias entidades no Adobe Journey Optimizer com públicos federados para direcionar jornadas por ID de assinatura, ID de conta ou ID de pedido.
+title: Direcionamento de várias entidades com públicos-alvo federados no AJO
+description: Saiba como usar o direcionamento de várias entidades com públicos-alvo federados no Adobe Journey Optimizer para direcionar jornadas por ID de assinatura, ID de conta ou ID de pedido.
 feature: Audiences
 role: User
 level: Beginner
@@ -17,19 +17,19 @@ feature_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: 324d5fdbb23e15e2977ed8f4625248b9972ff583
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 120
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
-# Usar o direcionamento de várias entidades com Federated Audiences no jornada
+# Usar o direcionamento de várias entidades com públicos-alvo federados em jornadas
 
-Saiba como usar o direcionamento de várias entidades para ir além dos públicos-alvo baseados em perfil e fornecer experiências do cliente mais relevantes usando públicos-alvo federados.
+Saiba como usar o direcionamento de várias entidades para ir além dos públicos-alvo baseados em perfil e fornecer experiências ao cliente mais relevantes com públicos-alvo federados.
 
-Este vídeo demonstra como direcionar jornadas por ID de assinatura, ID de conta ou ID de pedido, permitindo uma ativação de público-alvo mais precisa e envolvimento personalizado quando um único cliente é associado a várias entidades comerciais.
+Este vídeo demonstra como direcionar jornadas por ID de assinatura, ID de conta ou ID de pedido, permitindo uma ativação de público-alvo mais precisa e engajamento personalizado quando um único cliente é associado a várias entidades comerciais.
 
-Para obter mais informações sobre este recurso, visite [a documentação](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}.
+Para mais informações sobre esse recurso, consulte [a documentação](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491839/?captions=por_br&learn=on)
 

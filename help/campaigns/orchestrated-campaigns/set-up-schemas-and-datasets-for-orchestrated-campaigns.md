@@ -1,6 +1,6 @@
 ---
 title: Configurar esquemas e conjuntos de dados para campanhas
-description: Saiba como definir esquemas, assimilar dados e validar conjuntos de dados para campanhas do Adobe Journey Optimizer. Obtenha insights sobre personalização e execução em minutos.
+description: Saiba como definir esquemas, ingerir dados e validar conjuntos de dados para campanhas do Adobe Journey Optimizer. Obtenha insights sobre personalização e execução em minutos.
 feature: Campaigns
 role: Developer
 level: Beginner
@@ -23,14 +23,14 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 105
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Configurar esquemas e conjuntos de dados para campanhas
 
-Saiba como configurar esquemas relacionais e conjuntos de dados para campanhas orquestradas no Adobe Journey Optimizer. Este guia aborda como definir chaves, relacionamentos e usar arquivos DDL para criar esquemas com eficiência. Você também aprenderá sobre a assimilação de dados por meio de uploads de CSV e Change Data Capture (CDC), validação de conjuntos de dados e preparação para consulta, personalização e execução de campanha. Assista ao vídeo incorporado para obter instruções passo a passo para simplificar os fluxos de trabalho da campanha.
+Saiba como configurar esquemas relacionais e conjuntos de dados em campanhas orquestradas no Adobe Journey Optimizer. Este guia aborda como definir chaves, relacionamentos e usar arquivos DDL para criar esquemas com eficiência. Você também aprenderá sobre ingestão de dados por meio de uploads de arquivos CSV e Captura de dados de alteração (CDC), validação de conjuntos de dados e preparação deles para consulta, personalização e execução de campanha. Assista ao vídeo incorporado e obtenha instruções passo a passo para simplificar os fluxos de trabalho da campanha.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484901/?learn=on&enablevpops)

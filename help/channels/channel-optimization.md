@@ -1,6 +1,6 @@
 ---
-title: Otimizar canais com base na preferência de perfil ou nas pontuações de propensão
-description: Saiba como o recurso de otimização de canal da Adobe Journey Optimizer ajuda você a alcançar clientes no canal mais eficiente usando prioridade manual, atributos de perfil ou modelo de IA da Adobe, para que sua mensagem chegue onde cada cliente tem maior probabilidade de se envolver.
+title: Otimizar canais com base na preferência do perfil ou nas pontuações de propensão
+description: Saiba como o recurso de otimização de canais do Adobe Journey Optimizer ajuda a alcançar clientes no canal mais eficaz, usando prioridade manual, atributos de perfil ou o modelo de IA da Adobe, para que sua mensagem chegue aonde cada cliente tem maior probabilidade de engajar.
 feature: Channels
 role: Developer
 level: Beginner, Intermediate, Experienced
@@ -26,17 +26,17 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 96
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Otimizar canais com base na preferência de perfil ou nas pontuações de propensão
+# Otimizar canais com base na preferência do perfil ou nas pontuações de propensão
 
 {{limited-availability}}
 
-Saiba como o recurso de otimização de canal da Adobe Journey Optimizer ajuda você a alcançar clientes no canal mais eficiente usando prioridade manual, atributos de perfil ou modelo de IA da Adobe, para que sua mensagem chegue onde cada cliente tem maior probabilidade de se envolver.
+Saiba como o recurso de otimização de canais do Adobe Journey Optimizer ajuda a alcançar clientes no canal mais eficaz, usando prioridade manual, atributos de perfil ou o modelo de IA da Adobe, para que sua mensagem chegue aonde cada cliente tem maior probabilidade de engajar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492136/?captions=por_br&learn=on&enablevpops)

@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Saiba como usar os Fragmentos de conteúdo do Adobe Experience Manager com o Adobe Journey Optimizer para personalizar e otimizar o conteúdo nas comunicações ágeis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492219/?captions=por_br&learn=on&enablevpops)

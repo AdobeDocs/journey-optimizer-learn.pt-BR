@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Saiba como usar o Journey Agent, um assistente viabilizado por IA integrado ao Adobe Journey Optimizer, para analisar jornadas em tempo real, identificar conflitos de público-alvo e fallout de perfis e criar jornadas completas em várias etapas com linguagem natural. Neste vídeo, você verá como o Journey Agent fornece insights transparentes, recomendações acionáveis e aprovações guiadas, ajudando a solucionar problemas de jornadas existentes e a criar novas mais rapidamente, tudo sem sair do assistente de IA
 
->[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486299/?captions=por_br&learn=on&enablevpops)

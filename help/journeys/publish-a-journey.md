@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Entenda os diferentes estados de uma jornada e o impacto da publicação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427939?captions=por_br&quality=12&learn=on){transcript=true}

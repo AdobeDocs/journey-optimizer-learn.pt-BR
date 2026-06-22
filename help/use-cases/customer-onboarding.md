@@ -10,9 +10,9 @@ last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16344
 exl-id: 9237122b-cd98-4ad0-bd64-7a3407116f86
 source-git-commit: 3ed6505fc7ecdb073d8f365d49eeadc0d934e6bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 95%
 
 Saiba como implementar uma jornada de integração do cliente no Journey Optimizer. O processo é direcionado a novos membros de fidelidade, fornecendo emails personalizados e SMS para incentivar os downloads de aplicativos. Inclui o envio de um email de boas-vindas, a verificação da instalação do aplicativo e o acompanhamento com lembretes. Este tutorial também mostra como usar o assistente de conteúdo de IA para criar e personalizar conteúdo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440655/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)

@@ -34,4 +34,4 @@ Saiba como configurar e usar integrações do Adobe Experience Manager (AEM) Man
 
 Este tutorial o orienta por meio da configuração de conexões de repositório, validação de configurações com o Supervisor de conteúdo e seleção de fragmentos de conteúdo diretamente no editor de personalização, permitindo que os profissionais de marketing reutilizem e visualizem o conteúdo do AEM de maneira eficiente em suas campanhas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492533/?captions=por_br&learn=on&enablevpops)

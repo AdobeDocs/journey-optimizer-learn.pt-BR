@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
+source-git-commit: 776a68854ccfb6b0f170d1f984e89809493a9fef
 workflow-type: tm+mt
-source-wordcount: '1490'
-ht-degree: 99%
+source-wordcount: '1507'
+ht-degree: 98%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 99%
       + [Notificações por push: visão geral](/help/channels/push-notifications-overview.md)
       + [Configurar e enviar uma campanha por push](/help/channels/create-a-push-campaign.md)
       + [Criar uma notificação por push na web](/help/channels/create-web-push-notifications.md)
+      + [Tutorial completo sobre push da Web](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + Canal de SMS/MMS{#sms-channel}
       + [Mensagens SMS/MMS: visão geral](/help/channels/sms-mms-messages-overview.md)
       + [Configurar, criar e entregar mensagens SMS](/help/channels/author-sms-messages.md)

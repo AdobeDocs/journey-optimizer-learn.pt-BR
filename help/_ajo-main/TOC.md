@@ -3,7 +3,7 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 776a68854ccfb6b0f170d1f984e89809493a9fef
+source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
 workflow-type: tm+mt
 source-wordcount: '1507'
 ht-degree: 98%
@@ -106,7 +106,7 @@ ht-degree: 98%
       + [Notificações por push: visão geral](/help/channels/push-notifications-overview.md)
       + [Configurar e enviar uma campanha por push](/help/channels/create-a-push-campaign.md)
       + [Criar uma notificação por push na web](/help/channels/create-web-push-notifications.md)
-      + [Tutorial completo sobre push da Web](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/ajo-web-push/introduction)
+      + [Tutorial completo sobre push da Web](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + Canal de SMS/MMS{#sms-channel}
       + [Mensagens SMS/MMS: visão geral](/help/channels/sms-mms-messages-overview.md)
       + [Configurar, criar e entregar mensagens SMS](/help/channels/author-sms-messages.md)
@@ -272,4 +272,4 @@ ht-degree: 98%
       + [Crie momentos personalizados em dispositivos móveis com o Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [Dimensionamento da orquestração para engajamento onicanal no Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Sessões ao vivo e aprofundamentos {#live-sessions-and-deep-dives}
-   + [Gravações do show ao vivo da Experience League](/help/_ajo-main/experience-league-live-show-recordings.md)
+   + [Gravações do programa Experience League LIVE](/help/_ajo-main/experience-league-live-show-recordings.md)

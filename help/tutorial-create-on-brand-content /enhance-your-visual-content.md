@@ -23,4 +23,4 @@ Saiba como aprimorar e personalizar conteúdo visual usando ferramentas alimenta
 
 Este vídeo mostra como gerar infográficos, adicionar sobreposições e refinar imagens diretamente no fluxo de trabalho. Você também verá como aproveitar integrações para estender seus recursos de edição. Em seguida, saiba como aplicar elementos de marca como logotipos, cores e fontes e como alternar perfeitamente entre as ferramentas para manter a consistência e o controle. Isso garante que cada ativo visual se alinhe à identidade da sua marca, desde a criação até o design final.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494640/?captions=por_br&learn=on&enablevpops)

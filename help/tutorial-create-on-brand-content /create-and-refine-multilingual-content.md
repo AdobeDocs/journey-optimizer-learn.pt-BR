@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Saiba como traduzir e adaptar seu conteúdo em vários idiomas, mantendo a consistência da marca. Esta visão geral mostra como criar versões multilíngues de suas campanhas e usar a tradução assistida por IA para gerar rapidamente conteúdo localizado. Você também verá como refinar o tom e as mensagens para corresponder às diretrizes da sua marca, e como combinar fluxos de trabalho automatizados com traduções instantâneas para dimensionar com eficiência as comunicações globais entre canais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494630/?captions=por_br&learn=on&enablevpops)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Saiba como configurar as diretrizes da marca no Adobe Journey Optimizer para garantir comunicação consistente e na marca em todos os canais. Este guia aborda o upload de documentos da marca e a estruturação dos principais elementos da marca, incluindo estilos de escrita, visuais e detalhes de identidade. Você também verá como refinar essas diretrizes para aprimorar a geração de conteúdo e automatizar as verificações de qualidade, mantendo a identidade da sua marca forte e eficaz. Assista ao vídeo abaixo para obter uma apresentação passo a passo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494371/?captions=por_br&learn=on&enablevpops)

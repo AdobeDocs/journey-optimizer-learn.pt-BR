@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Saiba como avaliar e melhorar a qualidade do conteúdo enquanto mantém um forte alinhamento da marca usando ferramentas alimentadas por IA.Esta visão geral mostra como aplicar as diretrizes da marca ao conteúdo gerado e criado manualmente. Você também verá como automatizar verificações de qualidade e identificar oportunidades de melhoria no estilo de escrita e elementos visuais. Por fim, saiba como usar a pontuação em tempo real e recomendações acionáveis para manter cada ativo em conformidade, consistente e pronto para entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494649/?captions=por_br&learn=on&enablevpops)

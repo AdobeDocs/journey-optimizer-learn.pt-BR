@@ -4,11 +4,11 @@ user-guide-description: Este tutorial o orienta por tudo, desde a criação e co
 role: User
 level: Internediate
 breadcrumb-title: criar conteúdo na marca
-breadcrumb-url: /docs/journey-optimizer-learn/reate-on-brand-content/introduction
+breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
-source-git-commit: 8a5f2a79a6f7ad8e0d42d5d148ea5a2434e67b26
+source-git-commit: f9fe2ea192af9c163f032f9161002a6577b06d2d
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 
 # Criar conteúdo na marca no Journey Optimizer {#create-on-brand-content}
 
++ [Criar conteúdo na marca no Journey Optimizer](./overview.md)
 + Introdução e configuração da marca {#introduction-and-brand-setup}
    + [Introdução](./introduction.md)
    + [Configurar marcas](./configure-brands.md)
@@ -26,6 +27,4 @@ ht-degree: 0%
    + [Melhore seu conteúdo visual](./enhance-your-visual-content.md)
    + [Criar e refinar versões multilíngues do conteúdo](./create-and-refine-multilingual-content.md)
 + [Garantir qualidade, alinhamento e governança da marca](./quality-brand-alignment-and-governance.md)
-
-
 

@@ -7,9 +7,9 @@ role: User
 level: Intermediate
 doc-type: overview-page
 last-substantial-update: 2026-07-08T00:00:00Z
-source-git-commit: f9fe2ea192af9c163f032f9161002a6577b06d2d
+source-git-commit: 9181c5a4999ee49eb86b33eebf8083a460e527c1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 Saiba como usar IA no Adobe Journey Optimizer para criar, refinar e dimensionar conteúdo na marca em toda a jornada do cliente.
 
-Este curso orienta você em tudo, desde a criação e configuração das diretrizes da marca até a geração de campanhas completas, edição de componentes de conteúdo individuais, melhoria das visualizações e ativação de experiências multilíngues.
-
-Você também descobrirá como aplicar verificações de qualidade automatizadas, garantir o alinhamento da marca e manter a governança em todas as comunicações. Ao final, você estará equipado para simplificar a criação de conteúdo, melhorar a consistência e fornecer experiências personalizadas de alta qualidade em todos os canais.
+Este curso orienta você em tudo, desde a criação e configuração das diretrizes da marca até a geração de campanhas completas, edição de componentes de conteúdo individuais, melhoria das visualizações e ativação de experiências multilíngues.Você também descobrirá como aplicar verificações de qualidade automatizadas, garantir o alinhamento da marca e manter a governança em todas as comunicações. Ao final, você estará equipado para simplificar a criação de conteúdo, melhorar a consistência e fornecer experiências personalizadas de alta qualidade em todos os canais.
 
 ## O que você vai aprender
 

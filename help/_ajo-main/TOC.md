@@ -147,7 +147,7 @@ ht-degree: 98%
    + [Otimizar canais com base na preferência do perfil ou nas pontuações de propensão](/help/channels/channel-optimization.md)
    + [Criar um email usando o GenStudio](/help/content-management/create-an-email-using-genstudio.md)
    + [Habilitar integrações de dados externos na criação de canais](/help/content-management/external-data-integrations-in-channel-authoring.md)
-   + [Criar conteúdo na marca no Journey Optimizer - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
+   + [Criar conteúdo na marca no Journey Optimizer - Tutorial](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalizar conteúdo {#personalize-content}
    + [Editor de personalização: visão geral](/help/personalize-content/personalization-editor-overview.md)
    + [Personalização baseada em perfil e associação de público-alvo](/help/personalize-content/profile-and-audience-membership-based-personalization.md)

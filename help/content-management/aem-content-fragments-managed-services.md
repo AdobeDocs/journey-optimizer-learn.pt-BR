@@ -1,6 +1,6 @@
 ---
 title: Usar fragmentos de conteúdo do AEM (Managed Services) no Journey Optimizer
-description: Saiba como configurar e usar integrações do Adobe Experience Manager (AEM) Managed Services no Journey Optimizer para integrar fragmentos de conteúdo aos workflows de criação. Este tutorial o orienta por meio da configuração de conexões de repositório, validação de configurações com o Supervisor de conteúdo e seleção de fragmentos de conteúdo diretamente no editor de personalização, permitindo que os profissionais de marketing reutilizem e visualizem o conteúdo do AEM de maneira eficiente em suas campanhas.
+description: Saiba como configurar e usar integrações do Adobe Experience Manager (AEM) Managed Services no Journey Optimizer para integrar fragmentos de conteúdo aos fluxos de trabalho de criação. Este tutorial oferece orientações sobre como configurar conexões de repositório, validar configurações com o Assessor de conteúdo e selecionar fragmentos de conteúdo diretamente no editor de personalização, permitindo que os profissionais de marketing reutilizem e visualizem o conteúdo do AEM de forma eficiente nas campanhas.
 feature: Integrations, Fragments
 topic: Content Management, Integrations
 role: User
@@ -22,16 +22,16 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 136
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Usar fragmentos de conteúdo do AEM (Managed Services) no Journey Optimizer
 
-Saiba como configurar e usar integrações do Adobe Experience Manager (AEM) Managed Services no Journey Optimizer para integrar fragmentos de conteúdo aos workflows de criação.
+Saiba como configurar e usar integrações do Adobe Experience Manager (AEM) Managed Services no Journey Optimizer para integrar fragmentos de conteúdo aos fluxos de trabalho de criação.
 
-Este tutorial o orienta por meio da configuração de conexões de repositório, validação de configurações com o Supervisor de conteúdo e seleção de fragmentos de conteúdo diretamente no editor de personalização, permitindo que os profissionais de marketing reutilizem e visualizem o conteúdo do AEM de maneira eficiente em suas campanhas.
+Este tutorial oferece orientações sobre como configurar conexões de repositório, validar configurações com o Assessor de conteúdo e selecionar fragmentos de conteúdo diretamente no editor de personalização, permitindo que os profissionais de marketing reutilizem e visualizem o conteúdo do AEM de forma eficiente nas campanhas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492533/?captions=por_br&learn=on&enablevpops)

@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1507'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -106,7 +106,7 @@ ht-degree: 98%
       + [Notificações por push: visão geral](/help/channels/push-notifications-overview.md)
       + [Configurar e enviar uma campanha por push](/help/channels/create-a-push-campaign.md)
       + [Criar uma notificação por push na web](/help/channels/create-web-push-notifications.md)
-      + [Tutorial completo sobre push da Web](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
+      + [Tutorial completo de notificações por push na web](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + Canal de SMS/MMS{#sms-channel}
       + [Mensagens SMS/MMS: visão geral](/help/channels/sms-mms-messages-overview.md)
       + [Configurar, criar e entregar mensagens SMS](/help/channels/author-sms-messages.md)
@@ -133,7 +133,7 @@ ht-degree: 98%
       + [Criar fragmentos de expressão](/help/content-management/expression-fragments.md)
       + [Adicionar rich text a um fragmento editável](/help/content-management/add-rich-text-to-editable-fragments.md)
       + [Usar Fragmentos de conteúdo do AEM](/help/content-management/aem-content-fragments.md)
-      + [Usar fragmentos de conteúdo do AEM (Managed Services)](/help/content-management/aem-content-fragments-managed-services.md)
+      + [Usar os fragmentos de conteúdo do AEM (Managed Services)](/help/content-management/aem-content-fragments-managed-services.md)
    + Modelos de conteúdo{#content-templates}
       + [Criar modelos de conteúdo](/help/content-management/templates/create-content-templates.md)
       + [Bloquear conteúdo em modelos](/help/content-management/templates/content-locking.md)

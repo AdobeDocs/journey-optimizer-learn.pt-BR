@@ -6,9 +6,9 @@ level: Intermediate
 breadcrumb-title: criar conteúdo na marca
 breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
-source-git-commit: 2f53d4498236daab8f982aff4aa5211d70c6f4aa
+source-git-commit: 6d13297a6b1a8220ce9a55c70bdf0ea5b19e4e26
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,12 @@ ht-degree: 0%
 + [Criação de conteúdo on-brand habilitado por IA no Adobe Journey Optimizer para profissionais de marketing](./overview.md)
 + Introdução e configuração da marca {#introduction-and-brand-setup}
    + [Criar conteúdo de email na marca com IA](./introduction.md)
-   + [Configurar uma marca para conteúdo alimentado por IA](./configure-brands.md)
+   + [Configurar uma marca para conteúdo alimentado por IA no Adobe Journey Optimizer](./configure-brands.md)
    + [Amplie as diretrizes da marca para todas as ferramentas criativas](./brands-tips-and-tricks.md)
 + Usar IA para gerar conteúdo {#generate-content}
-   + [Criar conteúdo do zero](./create-content-from-scratch.md)
+   + [Criar conteúdo omnicanal do zero](./create-content-from-scratch.md)
    + [Editar e personalizar o conteúdo da seção](./edit-and-personalize-section-content.md)
-   + [Melhore seu conteúdo visual](./enhance-your-visual-content.md)
+   + [Melhore seu conteúdo visual com IA](./enhance-your-visual-content.md)
    + [Criar e refinar versões multilíngues do conteúdo](./create-and-refine-multilingual-content.md)
-+ [Qualidade, alinhamento e governança da marca](./quality-brand-alignment-and-governance.md)
++ [Garantir a qualidade do conteúdo, o alinhamento da marca e a governança](./quality-brand-alignment-and-governance.md)
+

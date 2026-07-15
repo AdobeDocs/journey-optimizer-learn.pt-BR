@@ -10,8 +10,8 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-18659
 exl-id: ec2df062-4c43-4afc-9ae4-ae98f8c106af
 source-git-commit: 20e0da0799956b246370aa04dabec958ff6b51ae
-workflow-type: ht
-source-wordcount: '92'
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
@@ -28,4 +28,4 @@ O que você aprenderá:
 
 Ideal para profissionais de marketing que buscam automatizar o engajamento personalizado dos clientes por meio do WhatsApp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470287/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)

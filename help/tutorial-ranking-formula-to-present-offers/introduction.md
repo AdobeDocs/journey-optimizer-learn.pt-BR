@@ -1,6 +1,6 @@
 ---
-title: Personalizar ofertas com fórmulas de classificação com base no CEP e na receita
-description: Use as fórmulas de classificação da Adobe Journey Optimizer para fornecer dinamicamente as ofertas financeiras mais relevantes, adaptadas ao CEP e nível de renda de cada usuário, visando maior engajamento e personalização mais inteligente.
+title: Personalizar ofertas com fórmulas de classificação com base no CEP e na renda
+description: Use fórmulas de classificação do Adobe Journey Optimizer para fornecer dinamicamente as ofertas financeiras mais relevantes, adaptadas para o CEP e o nível de renda de cada usuário, para maior engajamento e uma personalização mais inteligente.
 feature: Decisioning
 role: User
 level: Beginner
@@ -10,8 +10,8 @@ jira: KT-18188
 exl-id: 11685f7c-8048-4318-9c28-71bd7da8f7ff
 source-git-commit: 85d3def3afb1d073b133df40e4cbf32d00a3a5c9
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 0%
+source-wordcount: '338'
+ht-degree: 16%
 
 ---
 

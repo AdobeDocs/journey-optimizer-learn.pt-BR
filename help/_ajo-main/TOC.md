@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0069f593c0a73f0d7b25421cfd5fb72c99032110
+source-git-commit: 07ded5be8302aeb2df77ecafb8f1bfdd747702a1
 workflow-type: tm+mt
-source-wordcount: '1527'
-ht-degree: 98%
+source-wordcount: '1546'
+ht-degree: 97%
 
 ---
 
@@ -92,6 +92,7 @@ ht-degree: 98%
       + [Criar conteúdo com o Designer de email](/help/channels/create-content-with-the-email-designer.md)
       + [Importar e criar conteúdo de email HTML](/help/channels/import-and-author-html-email-content.md)
       + [Pré-visualizar, provar e publicar](/help/channels/preview-proof-and-publish.md)
+      + [Criação de conteúdo on-brand alimentado por IA - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
    + Cartões de conteúdo{#content-cards}
       + [Criar cartões de conteúdo](/help/channels/create-content-cards.md)
    + Canal no aplicativo{#in-app-channel}
@@ -147,7 +148,7 @@ ht-degree: 98%
    + [Otimizar canais com base na preferência do perfil ou nas pontuações de propensão](/help/channels/channel-optimization.md)
    + [Criar um email usando o GenStudio](/help/content-management/create-an-email-using-genstudio.md)
    + [Habilitar integrações de dados externos na criação de canais](/help/content-management/external-data-integrations-in-channel-authoring.md)
-   + [Criar conteúdo na marca no Journey Optimizer - Tutorial](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/create-on-brand-content/overview)
+   + [Criar conteúdo na marca no Journey Optimizer - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalizar conteúdo {#personalize-content}
    + [Editor de personalização: visão geral](/help/personalize-content/personalization-editor-overview.md)
    + [Personalização baseada em perfil e associação de público-alvo](/help/personalize-content/profile-and-audience-membership-based-personalization.md)

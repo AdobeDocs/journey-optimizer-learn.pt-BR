@@ -1,24 +1,24 @@
 ---
-title: Configurar marcas no Journey Optimizer
-description: Saiba como fazer upload das diretrizes da marca, definir estilos e garantir comunicação consistente na marca em todos os canais na Adobe Journey Optimizer.
+title: Configurar marcas no Adobe Journey Optimizer
+description: Este vídeo mostra como fazer upload dos documentos de diretrizes da marca, estruturar os principais elementos da marca e definir o estilo de escrita e o conteúdo visual.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 227
-last-substantial-update: 2026-07-09T00:00:00Z
+last-substantial-update: 2026-07-14T00:00:00Z
 jira: KT-21952
-source-git-commit: 935e14c72ee3c912fb0071c9eaee03f3cfb2e597
+source-git-commit: 02e7231661fcd254f89ffcbbfd6ee6039ededffa
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 
-# Configuração de marcas no Adobe Journey Optimizer
+# Configurar marcas no Adobe Journey Optimizer
 
-Saiba como configurar as diretrizes da marca no Adobe Journey Optimizer para garantir comunicação consistente e na marca em todos os canais. Este guia aborda o upload de documentos da marca e a estruturação dos principais elementos da marca, incluindo estilos de escrita, visuais e detalhes de identidade. Você também verá como refinar essas diretrizes para aprimorar a geração de conteúdo e automatizar as verificações de qualidade, mantendo a identidade da sua marca forte e eficaz. Assista ao vídeo abaixo para obter uma apresentação passo a passo.
+Este vídeo mostra como fazer upload dos documentos de diretrizes da marca, estruturar os principais elementos da marca e definir o estilo de escrita, o conteúdo visual e os detalhes de identidade. Você também pode ver como refinar e personalizar essas diretrizes para potencializar o conteúdo gerado por IA e as verificações de qualidade automatizadas, garantindo uma comunicação consistente na marca em todos os canais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494371/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494371/?captions=por_br&learn=on)

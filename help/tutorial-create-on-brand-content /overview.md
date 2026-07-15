@@ -1,29 +1,29 @@
 ---
-title: Criar conteúdo na marca no Journey Optimizer
-description: Saiba como usar IA no Adobe Journey Optimizer para criar, refinar e dimensionar conteúdo na marca em toda a jornada do cliente. Este curso orienta você em tudo, desde a criação e configuração das diretrizes da marca até a geração de campanhas completas, edição de componentes de conteúdo individuais, melhoria das visualizações e ativação de experiências multilíngues. Você também descobrirá como aplicar verificações de qualidade automatizadas, garantir o alinhamento da marca e manter a governança em todas as comunicações. Ao final, você estará equipado para simplificar a criação de conteúdo, melhorar a consistência e fornecer experiências personalizadas de alta qualidade em todos os canais.
-feature: Content Assistant
+title: Criação de conteúdo on-brand alimentado por IA no AJO
+description: Saiba como usar os recursos de IA do Adobe Journey Optimizer para criar, refinar e controlar o conteúdo na marca em cada canal.
 topic: Content Management
 role: User
 level: Intermediate
-doc-type: overview-page
-last-substantial-update: 2026-07-08T00:00:00Z
-source-git-commit: 368f1a4344c68d4964cdd4b475421e5e339f5834
+doc-type: Tutorial
+jira: KT-20379
+last-substantial-update: 2026-07-14T00:00:00Z
+source-git-commit: 2830f79dc85175331df6b1b8eefeca678ce04b03
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
 
 
-# Criar conteúdo na marca no Journey Optimizer - Tutorial
+# Criação de conteúdo on-brand habilitado por IA no Adobe Journey Optimizer para profissionais de marketing
 
-Saiba como usar IA no Adobe Journey Optimizer para criar, refinar e dimensionar conteúdo na marca em toda a jornada do cliente.
+Saiba como usar os recursos de IA do Adobe Journey Optimizer para criar, refinar e controlar o conteúdo na marca, desde a configuração da marca e a geração completa da campanha até o aprimoramento visual, versões multilíngues e verificações automatizadas de qualidade.Criado para profissionais de marketing que desejam dimensionar conteúdo personalizado e consistente em cada canal.
 
-Este curso orienta você em tudo, desde a criação e configuração das diretrizes da marca até a geração de campanhas completas, edição de componentes de conteúdo individuais, melhoria das visualizações e ativação de experiências multilíngues.Você também descobrirá como aplicar verificações de qualidade automatizadas, garantir o alinhamento da marca e manter a governança em todas as comunicações. Ao final, você estará equipado para simplificar a criação de conteúdo, melhorar a consistência e fornecer experiências personalizadas de alta qualidade em todos os canais.
-
-## O que você vai aprender
+## O que você aprende
 
 ### Introdução e configuração da marca
+
+Esse módulo orienta você na configuração de sua marca no Adobe Journey Optimizer para que seu conteúdo gerado por IA reflita quem você é desde o início.
 
 * [Introdução](./introduction.md)
 Esta introdução aborda como as ferramentas alimentadas por IA ajudam a gerar conteúdo de email e aplicar as diretrizes da marca.
@@ -32,7 +32,9 @@ Saiba como fazer upload das diretrizes da marca, definir estilos e garantir comu
 * [Dicas sobre diretrizes de marca](./brands-tips-and-tricks.md)
 Aprenda dicas para estender as diretrizes da marca na Adobe Journey Optimizer, GenStudio e Adobe Express para obter mais consistência na identidade visual e colaboração em equipe.
 
-### Gerar e refinar conteúdo
+### Usar IA para gerar conteúdo
+
+Este módulo mostra como gerar e refinar conteúdo sob a marca de ponta a ponta usando recursos de IA no Adobe Journey Optimizer.
 
 * [Criar conteúdo do zero](./create-content-from-scratch.md)
 Comece com um modelo, aplique as diretrizes da marca e use prompts simples para criar emails, notificações por push e mensagens no aplicativo do zero.
@@ -43,7 +45,10 @@ Saiba como aprimorar o conteúdo visual no Adobe Journey Optimizer.
 * [Criar e refinar versões multilíngues do seu conteúdo](./create-and-refine-multilingual-content.md)
 Descubra como a IA ajuda a traduzir e localizar conteúdo, mantendo a consistência da marca. Conheça fluxos de trabalho eficientes para dimensionamento de comunicação global.
 
-### Garantir qualidade, alinhamento da marca e governança
+### Qualidade, alinhamento e governança da marca
+
+Este módulo ajuda a avaliar e administrar o conteúdo gerado pela IA antes que ele entre em vigor.
 
 * [Garantir qualidade, alinhamento e governança da marca](./quality-brand-alignment-and-governance.md)
 Saiba como avaliar e melhorar a qualidade do conteúdo enquanto mantém um forte alinhamento da marca usando ferramentas alimentadas por IA.
+

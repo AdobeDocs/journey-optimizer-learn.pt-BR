@@ -11,7 +11,7 @@ jira: KT-18451
 exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
 source-git-commit: 6c4f33d1f55be298781cfb0958862f9710e3647a
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '708'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 
 
-Este artigo demonstra como capturar eventos de interação de oferta (como impressões ou cliques) usando o Adobe Experience Platform Web SDK chamando alloy(&quot;sendEvent,&quot; ...) diretamente no código JavaScript. Os dados são assimilados na AEP e usados para treinar modelos de IA no Adobe Journey Optimizer (AJO) para uma classificação de ofertas mais inteligente com base no comportamento em tempo real.
+Este artigo demonstra como capturar eventos de interação de oferta (como impressões ou cliques) usando o Adobe Experience Platform Web SDK ao chamar alloy(&quot;sendEvent,&quot; ...) diretamente no seu código JavaScript. Os dados são assimilados na AEP e usados para treinar modelos de IA no Adobe Journey Optimizer (AJO) para uma classificação de ofertas mais inteligente com base no comportamento em tempo real.
 
 Para criar um modelo de IA para a classificação de ofertas no Adobe Journey Optimizer, seu conjunto de dados deve ser baseado em um esquema que inclua o grupo de campos Interações de apresentação. Esse grupo de campos é compatível com eventos importantes de decisão, como decisioning.propositionDisplay e decisioning.propositionInteract, juntamente com campos obrigatórios, como engagePropositions, display e interage.
 

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Nesta etapa, você deve começar com um modelo de conteúdo existente e gerar um ativo completo — como um email, notificação por push ou mensagem no aplicativo — usando os recursos de IA. Aplique as diretrizes da marca e defina as configurações de idioma, tom e imagem para manter o conteúdo na marca. Você gera várias variações orientadas por IA, revisa a pontuação da marca e edita o conteúdo manualmente ou com um segundo passe de IA para refinar as mensagens e os visuais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434640/?captions=por_br&learn=on)

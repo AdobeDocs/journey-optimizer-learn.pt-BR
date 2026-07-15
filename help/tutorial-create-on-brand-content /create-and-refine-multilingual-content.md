@@ -1,17 +1,17 @@
 ---
 title: Criar e refinar versões multilíngues do conteúdo
-description: Saiba como traduzir e adaptar seu conteúdo em vários idiomas, mantendo a consistência da marca.
+description: Nesta etapa, você traduz e adapta mensagens em outros idiomas usando o Adobe Journey Optimizer.
 feature: Multilingual Content
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 191
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-20389
-source-git-commit: ff729095a5631700d23b33906deb351c729aea90
+source-git-commit: 0498282fc8b8906999b10c94409908931c7bb8c1
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Criar e refinar versões multilíngues do conteúdo
 
-Saiba como traduzir e adaptar seu conteúdo em vários idiomas, mantendo a consistência da marca. Esta visão geral mostra como criar versões multilíngues de suas campanhas, usar a tradução assistida por IA para gerar conteúdo localizado rapidamente e refinar o tom e as mensagens para corresponder às diretrizes da marca. Você também pode ver como combinar fluxos de trabalho automatizados e traduções instantâneas para dimensionar com eficiência as comunicações globais entre canais.
+Nesta etapa, você traduz e adapta mensagens em outros idiomas usando o Adobe Journey Optimizer, como exemplo de localidades, o espanhol e o francês. Você copia um ponto de contato existente em modelos de local e usa recursos de IA para gerar traduções na marca, juntamente com outros fluxos de trabalho de tradução manuais ou automatizados. Você revisa a pontuação, refina o tom e as mensagens e mantém o conteúdo traduzido alinhado às diretrizes da sua marca.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494630/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on)

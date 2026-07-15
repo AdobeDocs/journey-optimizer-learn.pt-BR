@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Nesta etapa, você traduz e adapta mensagens em outros idiomas usando o Adobe Journey Optimizer, como exemplo de localidades, o espanhol e o francês. Você copia um ponto de contato existente em modelos de local e usa recursos de IA para gerar traduções na marca, juntamente com outros fluxos de trabalho de tradução manuais ou automatizados. Você revisa a pontuação, refina o tom e as mensagens e mantém o conteúdo traduzido alinhado às diretrizes da sua marca.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494630/?captions=por_br&learn=on)

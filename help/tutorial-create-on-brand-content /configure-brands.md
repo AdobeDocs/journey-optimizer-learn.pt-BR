@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Este vídeo mostra como fazer upload dos documentos de diretrizes da marca, estruturar os principais elementos da marca e definir o estilo de escrita, o conteúdo visual e os detalhes de identidade. Você também pode ver como refinar e personalizar essas diretrizes para potencializar o conteúdo gerado por IA e as verificações de qualidade automatizadas, garantindo uma comunicação consistente na marca em todos os canais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494371/?captions=por_br&learn=on)

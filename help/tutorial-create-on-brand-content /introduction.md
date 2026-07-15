@@ -20,4 +20,4 @@ ht-degree: 2%
 
 Esta introdução aborda como as ferramentas alimentadas por IA ajudam a gerar conteúdo de email, aplicar diretrizes de marca e dimensionar a personalização usando modelos, prompts e conteúdo de referência. Você também pode ver como os recursos de IA oferecem suporte à geração de conteúdo e ao controle de qualidade, garantindo que suas mensagens permaneçam consistentes, compatíveis e alinhadas à sua marca desde o início.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494362/?captions=por_br&learn=on)

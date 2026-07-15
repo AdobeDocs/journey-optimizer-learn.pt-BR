@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Este vídeo demonstra como começar com um modelo, aplicar as diretrizes da marca e usar prompts simples para criar emails, notificações por push e mensagens no aplicativo do zero. Você também pode ver como refinar tons, imagens e mensagens, aproveitando variações orientadas por IA e pontuação para produzir rapidamente conteúdo de alta qualidade e consistente em suas experiências omnicanal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434640/?captions=por_br&learn=on)

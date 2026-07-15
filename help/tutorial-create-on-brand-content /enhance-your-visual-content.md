@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Saiba como aprimorar e personalizar conteúdo visual usando ferramentas alimentadas por IA para criar designs mais envolventes e sob a marca. Este vídeo mostra como gerar infográficos, adicionar sobreposições e refinar imagens diretamente no fluxo de trabalho, além de aproveitar integrações para estender os recursos de edição. Você explora como aplicar elementos de marca como logotipos, cores e fontes, e se mover facilmente entre as ferramentas para manter a consistência e o controle, garantindo que cada ativo visual se alinhe à identidade da sua marca, da criação ao design final.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494640/?captions=por_br&learn=on)

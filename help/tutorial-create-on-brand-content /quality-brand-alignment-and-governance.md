@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Saiba como avaliar e melhorar a qualidade do conteúdo ao compará-lo com as diretrizes da sua marca, em ativos escritos e visuais. Você avalia o alinhamento da marca para conteúdo gerado por IA e criado manualmente, usando verificações de qualidade automatizadas junto com pontuações em tempo real e recomendações acionáveis. Você identifica e corrige problemas em cópia, imagens, iconografia e conformidade, usando o controle de qualidade automatizado como um auxiliar no processo de governança e revisão da sua equipe antes que o conteúdo entre em vigor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494636/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494649/?captions=por_br&learn=on)

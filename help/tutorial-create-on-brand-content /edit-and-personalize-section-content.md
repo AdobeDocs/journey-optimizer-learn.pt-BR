@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Edite e personalize seções individuais de um modelo de email com recursos de IA no Adobe Journey Optimizer. Altere linhas de assunto, pré-cabeçalhos, blocos de texto e imagens, preservando as cores da marca, a voz e as regras de conformidade. Use prompts e conteúdo de referência para ajustar o tom, reformular o texto, traduzir o idioma e gerar visuais da marca para cada componente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495882/?captions=por_br&learn=on)

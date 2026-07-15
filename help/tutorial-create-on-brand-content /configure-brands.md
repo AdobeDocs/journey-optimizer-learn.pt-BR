@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Você aprende a criar e configurar uma marca que os recursos de IA usam para gerar e validar conteúdo no Adobe Journey Optimizer. Você faz upload de documentos de diretrizes da marca e mapeia elementos-chave como tom de voz, slogans, restrições legais, regras de imagem e formatação do CTA. Edite as orientações em nível de canal e elemento para melhorar a precisão da geração e as verificações de qualidade automatizadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494371/?captions=por_br&learn=on)

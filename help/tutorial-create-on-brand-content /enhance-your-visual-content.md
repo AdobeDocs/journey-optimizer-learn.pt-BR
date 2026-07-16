@@ -1,17 +1,17 @@
 ---
-title: Melhore seu conteúdo visual
-description: Saiba como aprimorar e personalizar conteúdo visual usando ferramentas alimentadas por IA para criar designs mais envolventes e sob a marca.
+title: Melhore seu conteúdo visual com IA
+description: Nesta etapa, você pode aprimorar e personalizar imagens e gráficos com as ferramentas de IA do Adobe Journey Optimizer.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 418
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-20386
-source-git-commit: e1229050841f7552371b380142f645c36b11e957
+source-git-commit: e42f67b96ec1230e5b918a4acc6b2ef5078cef09
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Melhore seu conteúdo visual com IA
 
-Saiba como aprimorar e personalizar conteúdo visual usando ferramentas alimentadas por IA para criar designs mais envolventes e sob a marca. Este vídeo mostra como gerar infográficos, adicionar sobreposições e refinar imagens diretamente no fluxo de trabalho, além de aproveitar integrações para estender os recursos de edição. Você explora como aplicar elementos de marca como logotipos, cores e fontes, e se mover facilmente entre as ferramentas para manter a consistência e o controle, garantindo que cada ativo visual se alinhe à identidade da sua marca, da criação ao design final.
+Nesta etapa, você pode aprimorar e personalizar imagens e gráficos com as ferramentas de IA do Adobe Journey Optimizer. Você gera infográficos, adiciona sobreposições e refina imagens enquanto mantém logotipos, cores e fontes alinhados com sua marca. Movimenta ativos entre o Adobe Journey Optimizer e o Adobe Express para estender edições e manter a consistência. Ao final desta etapa, você salva as visualizações na marca no repositório para reutilização em campanhas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3494640/?captions=por_br&learn=on)

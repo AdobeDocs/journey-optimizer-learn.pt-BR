@@ -1,23 +1,23 @@
 ---
-title: Introdução
-description: Esta introdução aborda como as ferramentas alimentadas por IA ajudam a gerar conteúdo de email, aplicar diretrizes de marca e dimensionar a personalização.
+title: Criar conteúdo de email na marca com IA
+description: Veja como os recursos de IA no Adobe Journey Optimizer ajudam a criar conteúdo de email na marca em escala.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 362
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-21951
-source-git-commit: 275d51229bde149e2ce617be47685c6ac3d65ad1
+source-git-commit: 79297344b8a35e642f619ef123a676caf58e3bf7
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 2%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
-# Introdução
+# Criar conteúdo de email na marca com IA
 
-Esta introdução aborda como as ferramentas alimentadas por IA ajudam a gerar conteúdo de email, aplicar diretrizes de marca e dimensionar a personalização usando modelos, prompts e conteúdo de referência. Você também pode ver como os recursos de IA oferecem suporte à geração de conteúdo e ao controle de qualidade, garantindo que suas mensagens permaneçam consistentes, compatíveis e alinhadas à sua marca desde o início.
+Veja como os recursos de IA no Adobe Journey Optimizer ajudam a criar conteúdo de email na marca em escala. Esta apresentação mostra um email completo gerado a partir de um único prompt, usando diretrizes da marca e conteúdo de referência para orientar a geração, selecionando um modelo de geração e inserindo texto e imagens geradas por IA diretamente no modelo. Os mesmos ativos de marca também alimentam verificações automatizadas de qualidade, pontuando cada variante em termos de conformidade, tom e alinhamento de marca.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3494362/?captions=por_br&learn=on)

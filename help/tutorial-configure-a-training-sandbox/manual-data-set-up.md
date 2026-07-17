@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
 source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '1033'
 ht-degree: 100%
 
 ---
@@ -93,7 +93,7 @@ Em seguida, você será solicitado a adicionar grupos de campos ao esquema usand
 
    ![Adicione um grupo de campos](assets/add_field_group.png)
 
-1. Na página **[!UICONTROL Adicionar grupos de campos]**, ative os seguintes grupos de campos:
+1. Na página **[!UICONTROL Adicionar grupos de campos]**, habilite os seguintes grupos de campos:
 
    * **[!UICONTROL Detalhes demográficos]** para dados básicos do cliente, como nome e data de nascimento.
 
@@ -168,9 +168,9 @@ Agora o [!UICONTROL namespace] e o [!DNL Luma Loyalty schema] estão configurado
 
    2. Selecione o campo **[!DNL loyaltyId]**.
 
-   3. Nas **[!UICONTROL Propriedades do campo]**, ative a caixa **[!UICONTROL Identidade]**.
+   3. Nas **[!UICONTROL Propriedades do campo]**, habilite a caixa **[!UICONTROL Identidade]**.
 
-   4. Ative a caixa **[!UICONTROL Identidade principal]**.
+   4. Habilite a caixa **[!UICONTROL Identidade principal]**.
 
    5. Selecione o namespace `Luma Loyalty Id` no menu suspenso **[!UICONTROL Namespaces de identidade]**.
 
@@ -186,17 +186,17 @@ Agora o [!UICONTROL namespace] e o [!DNL Luma Loyalty schema] estão configurado
 
    2. Selecione o campo `crmId`.
 
-   3. Nas **[!UICONTROL Propriedades do campo]**, ative a caixa **[!UICONTROL Identidade]**.
+   3. Nas **[!UICONTROL Propriedades do campo]**, habilite a caixa **[!UICONTROL Identidade]**.
 
    4. Selecione o namespace `Luma CRM Id` na lista suspensa **[!UICONTROL Namespaces de identidade]**.
 
    5. Selecione **[!UICONTROL Aplicar]**.
 
-#### Ativar para o perfil e salvar o esquema
+#### Habilitar para o perfil e salvar o esquema
 
 1. Selecione o nó superior do esquema.
 
-1. Nas [!UICONTROL Propriedades do campo], ative o **[!UICONTROL Perfil]**.
+1. Nas [!UICONTROL Propriedades do campo], habilite o **[!UICONTROL Perfil]**.
 
    O esquema deve ficar assim:
 
@@ -297,7 +297,7 @@ Agora o [!UICONTROL namespace] e o [!DNL Luma Loyalty schema] estão configurado
 
    2. Role para baixo até a parte inferior das **[!UICONTROL Propriedades do campo]**.
 
-   3. Ative **[!UICONTROL Enumeração]**.
+   3. Habilite **[!UICONTROL Enumeração]**.
 
    4. Insira os **[!UICONTROL valores] ([!UICONTROL rótulo)]**: `restock` (`Restock`).
 
@@ -315,7 +315,7 @@ Agora o [!UICONTROL namespace] e o [!DNL Luma Loyalty schema] estão configurado
 
    1. Role para baixo até a parte inferior das **[!UICONTROL Propriedades do campo]**.
 
-   2. Ative a **[!UICONTROL Relação]**.
+   2. Habilite a **[!UICONTROL Relação]**.
 
       1. **[!UICONTROL Esquema de referência]**: [!DNL Luma Product Catalog Schema].
 
@@ -327,7 +327,7 @@ Agora o [!UICONTROL namespace] e o [!DNL Luma Loyalty schema] estão configurado
 
       ![Relação SKU](assets/sku_relationship.png)
 
-1. Ative para o **Perfil**.
+1. Habilite para o **Perfil**.
 
 1. Clique em [!UICONTROL Salvar] para salvar o esquema.
 

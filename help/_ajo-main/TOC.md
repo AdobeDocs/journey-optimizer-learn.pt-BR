@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1562'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + Jornadas {#journeys}
   + [Designer de jornada: visão geral](/help/journeys/journey-designer-overview.md)
   + [Introdução à nova tela de jornada](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [Analisar e criar jornadas com o Journey Agent](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[Conheça o novo Designer de jornadas](/help/journeys/new-journey-designer.md)
   + [Introdução à criação de jornadas](/help/journeys/introduction-to-building-a-journey.md)
-  + [Uso de pesquisa de conjunto de dados em uma jornada](/help/journeys/lookup-dataset.md)
+  + [Analisar e criar jornadas usando IA](/help/ai-agents/journey-agent-overview.md)
   + [Criar um perfil de teste](/help/journeys/test-a-journey.md)
+  + {hide-from-toc}[Simular jornadas com públicos externos](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Publicar uma jornada](/help/journeys/publish-a-journey.md)
   + [Atividade de decisão de conteúdo](/help/journeys/content-decision-activity.md)
-  + [Dominar a filtragem de vários atributos](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [Usar pesquisa de conjunto de dados em uma jornada](/help/journeys/lookup-dataset.md)
+  + [Filtragem mestre de vários atributos](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Usar o direcionamento de várias entidades com públicos-alvo federados em jornadas](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [Validar a lógica da jornada com o recurso de execução de teste da jornada](/help/journeys/journey-dry-run.md)
   + [Desbloquear reentrada da jornada com IDs complementares](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -124,6 +124,7 @@ ht-degree: 97%
     + [Introdução ao canal do WhatsApp](/help/channels/whatsapp-introduction.md)
     + [Configurar o canal do WhatsApp](/help/channels/set-up-whatsapp.md)
     + [Criar uma jornada do WhatsApp](/help/channels/create-a-whatsapp-journey.md)
+  + {hide-from-toc}[Configurar e usar canais personalizados](/help/channels/configure-and-use-custom-channels.md)
 + Gerenciamento de conteúdo{#content-management}
   + [Criação de mensagens: visão geral](/help/content-management/message-authoring-overview.md)
   + Gerenciar ativos {#assets}
@@ -177,6 +178,7 @@ ht-degree: 97%
       + [Use a tomada de decisões para personalizar emails (Tutorial)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Usar a decisão em notificações por push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Usar a decisão em uma mensagem SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + {hide-from-toc}[Usar a decisão no editor visual da Web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Usar a tomada de decisão para personalizar ofertas da web (tutorial)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [Use os fragmentos de conteúdo do Experience Manager com a tomada de decisões](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Acionar decisões a partir de acionadores externos e interações {#trigger}

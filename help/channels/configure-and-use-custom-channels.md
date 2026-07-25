@@ -31,4 +31,4 @@ Saiba como conectar canais de mensagens não suportados nativamente no Adobe Jou
 
 Este vídeo aborda a criação de um canal de saída personalizado completo e o seu uso em uma jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496286/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496290/?captions=por_br&learn=on&enablevpops)

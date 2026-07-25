@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Saiba como usar o decisioning para personalizar sua página da Web no editor visual da Web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496300/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496307/?captions=por_br&learn=on&enablevpops)

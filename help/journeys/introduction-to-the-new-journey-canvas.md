@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Descubra a nova experiência de tela do jornada no Adobe Journey Optimizer. Essa atualização apresenta um mecanismo de renderização moderno que capacita a Tela de Jornada, alinhando-a com a experiência já usada em campanhas orquestradas e composição de público-alvo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496197/?captions=por_br&learn=on&enablevpops)

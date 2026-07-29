@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
+source-git-commit: 7523b27390c4d3a5447a0ee340eee07086d22be8
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Este módulo aborda a criação e a configuração de um desafio de fidelidade d
 Saiba como configurar um desafio de fidelidade selecionando o tipo correto de desafio, configurando públicos e programações, definindo regras de participação e controlando como o progresso é monitorado e recompensado.
 * [Configurar tarefas para seu desafio de fidelidade](./configure-your-challenge/create-tasks.md)
 Saiba como configurar tarefas: compra e gasto, quantidades, itens elegíveis e exclusões e reutilização.
-* [Configurar recompensas para seu desafio de fidelidade](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
+* [Configurar recompensas para seu desafio de fidelidade](./configure-your-challenge/configure-rewards.md)
 Saiba como configurar recompensas: provedor, marco vs. entrega de conclusão, tipos de recompensa e cupons.
 * [Crie desafios e obtenha insights com o agente do Loyalty AI](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
 Saiba como usar o agente de IA de fidelidade para criar desafios e obter insights.

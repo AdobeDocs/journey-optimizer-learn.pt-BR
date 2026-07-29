@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba como usar o Adobe Journey Optimizer Loyalty para transformar dados de fidelidade em experiências personalizadas com insights alimentados por IA, gamification adaptável e perfis unificados do cliente que impulsionam os resultados de engajamento e fidelidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496441/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496455/?captions=por_br&learn=on&enablevpops)

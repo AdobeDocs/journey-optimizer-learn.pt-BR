@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba como criar e configurar tarefas de desafio de fidelidade usando atividades de compra, gasto e evento personalizado, incluindo regras de elegibilidade, exclusões e modelos de tarefa reutilizáveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496442/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496446/?captions=por_br&learn=on&enablevpops)

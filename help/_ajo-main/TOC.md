@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: b8b058d92e642d5a7787115b3ee7218d5d12c46f
+source-git-commit: f48d568f64c413c5fc1ae9b4de48735d207af7e3
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1567'
 ht-degree: 94%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 94%
     + [Caso de uso - Qualificação de público-alvo](/help/journeys/use-case-audience-qualification.md)
   + Tutoriais{#tutorials}
     + [Acionar jornada no envio do formulário](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
++ [Fidelidade](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/loyalty/overview)
 + Gerenciamento de conflitos e priorização {#conflict-management}
   + [Identificar possíveis conflitos](/help/conflict-management/identify-potential-conflicts.md)
   + [Atribuir pontuações de prioridade](/help/conflict-management/assign-priority-score.md)

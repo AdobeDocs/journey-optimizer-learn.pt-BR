@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 283c626c96cd675549425af430b7db463b2fa0ad
+source-git-commit: 22b92b46ddf2d970ddb37bccd4de9ec289cd5ed8
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 11%
@@ -36,7 +36,7 @@ Saiba como configurar um desafio de fidelidade selecionando o tipo correto de de
 Saiba como configurar tarefas: compra e gasto, quantidades, itens elegíveis e exclusões e reutilização.
 * [Configurar recompensas para seu desafio de fidelidade](./configure-your-challenge/configure-rewards.md)
 Saiba como configurar recompensas: provedor, marco vs. entrega de conclusão, tipos de recompensa e cupons.
-* [Crie desafios e obtenha insights com o agente do Loyalty AI](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
+* [Crie desafios e obtenha insights com o agente do Loyalty AI](./configure-your-challenge/create-a-challenge-and-get-insights-with-with-cx-enterprise-coworker.md)
 Saiba como usar o agente de IA de fidelidade para criar desafios e obter insights.
 
 ## Aplicar e exibir seu desafio

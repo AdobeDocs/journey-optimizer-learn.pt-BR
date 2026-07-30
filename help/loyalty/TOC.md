@@ -6,7 +6,7 @@ level: Beginner
 breadcrumb-title: fidelização
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: c3ca1e56ca2ecb2cf4ba802fbdb8b7d807199629
+source-git-commit: 22b92b46ddf2d970ddb37bccd4de9ec289cd5ed8
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
   + [Configurar um desafio de fidelidade](./configure-your-challenge/set-up-a-loyalty-challenge.md)
   + [Crie tarefas para seu desafio de fidelidade](./configure-your-challenge/create-tasks.md)
   + [Configurar recompensas para seu desafio de fidelidade](./configure-your-challenge/configure-rewards.md)
-  + {hide-from-toc}[Crie desafios e obtenha insights com o agente de IA de fidelidade](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
+  + {hide-from-toc}[Crie desafios e obtenha insights com o agente de IA de fidelidade](./configure-your-challenge/create-a-challenge-and-get-insights-with-with-cx-enterprise-coworker.md)
 + Aplicar e exibir seu desafio {#apply-and-display-your-challenge}
   + {hide-from-toc}[Criar um cartão de conteúdo de desafio com uma experiência baseada em código](./apply-and-display-your-challenge/build-a-challenge-content-card-with-a-code-based-experience.md)
 + Analisar e relatar {#analyze-and-report}

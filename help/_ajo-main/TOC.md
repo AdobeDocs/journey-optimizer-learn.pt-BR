@@ -63,7 +63,7 @@ ht-degree: 94%
     + [Caso de uso - Qualificação de público-alvo](/help/journeys/use-case-audience-qualification.md)
   + Tutoriais{#tutorials}
     + [Acionar jornada no envio do formulário](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [Fidelidade](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/overview)
++ [Fidelidade](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/loyalty/overview)
 + Gerenciamento de conflitos e priorização {#conflict-management}
   + [Identificar possíveis conflitos](/help/conflict-management/identify-potential-conflicts.md)
   + [Atribuir pontuações de prioridade](/help/conflict-management/assign-priority-score.md)
@@ -92,7 +92,7 @@ ht-degree: 94%
     + [Criar conteúdo com o Designer de email](/help/channels/create-content-with-the-email-designer.md)
     + [Importar e criar conteúdo de email HTML](/help/channels/import-and-author-html-email-content.md)
     + [Pré-visualizar, provar e publicar](/help/channels/preview-proof-and-publish.md)
-    + [Criação de conteúdo on-brand alimentado por IA - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [Criação de conteúdo on-brand alimentado por IA - Tutorial](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Cartões de conteúdo{#content-cards}
     + [Criar cartões de conteúdo](/help/channels/create-content-cards.md)
   + Canal no aplicativo{#in-app-channel}
@@ -149,7 +149,7 @@ ht-degree: 94%
   + [Otimizar canais com base na preferência do perfil ou nas pontuações de propensão](/help/channels/channel-optimization.md)
   + [Criar um email usando o GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Habilitar integrações de dados externos na criação de canais](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Criar conteúdo na marca no Journey Optimizer - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Criar conteúdo na marca no Journey Optimizer - Tutorial](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalizar conteúdo {#personalize-content}
   + [Editor de personalização: visão geral](/help/personalize-content/personalization-editor-overview.md)
   + [Personalização baseada em perfil e associação de público-alvo](/help/personalize-content/profile-and-audience-membership-based-personalization.md)

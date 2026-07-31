@@ -11,8 +11,8 @@ jira: KT-18188
 exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
 source-git-commit: 640faaf9a316b2ab3e2e7774b2c30612cf1b1dbe
 workflow-type: tm+mt
-source-wordcount: '710'
-ht-degree: 0%
+source-wordcount: '624'
+ht-degree: 1%
 
 ---
 
@@ -38,7 +38,7 @@ O resultado é um conjunto personalizado de ofertas, retornado como conteúdo do
 1. **Criar uma Configuração de Canal**\
    Defina onde e como as ofertas são exibidas (por exemplo, uma página da Web com experiência baseada em código).
    - Faça logon no Jornada Otimizer
-Navegue até _&#x200B;**Administração ->Canais ->Criar configuração de canal**&#x200B;_
+     Navegue até _&#x200B;**Administração ->Canais ->Criar configuração de canal**&#x200B;_
    - **Nome**: `finwise-web-personalization`\
      Identifica essa configuração para a entrega personalizada de ofertas da Web do FinWise.
 
@@ -65,16 +65,16 @@ Navegue até _&#x200B;**Administração ->Canais ->Criar configuração de canal
 
 3. **Adicionar ação**\
    Navegue até a guia _&#x200B;**Ações**&#x200B;_
-Adicione a ação de experiência baseada em código e vincule a ação a uma configuração de canal criada anteriormente.
+   Adicione a ação de experiência baseada em código e vincule a ação a uma configuração de canal criada anteriormente.
 
 
 
 4. **Público-alvo**\
    Navegue até a guia _&#x200B;**Público-alvo**&#x200B;_
-Todos os visitantes (padrão).
+   Todos os visitantes (padrão).
 
    Tipo de identidade: ECID (Experience Cloud ID)
-Essa configuração usa a ECID como a identidade principal para reconhecer usuários. Quando a compilação de identidade está em vigor, a ECID é vinculada à ID do CRM para o Personalized Targeting Selecione ou crie uma política de decisão que defina a lógica da oferta.
+   Essa configuração usa a ECID como a identidade principal para reconhecer usuários. Quando a compilação de identidade está em vigor, a ECID é vinculada à ID do CRM para o Personalized Targeting Selecione ou crie uma política de decisão que defina a lógica da oferta.
 
 5. **Política de decisão**
 
@@ -84,12 +84,12 @@ Essa configuração usa a ECID como a identidade principal para reconhecer usuá
    Para inserir a política de decisão, clique em **_Editar conteúdo_** na guia _&#x200B;**Ações**&#x200B;_ e em **_Editar código_** para abrir o editor de personalização.
 
    Selecione o ícone _&#x200B;**Política de decisão**&#x200B;_ à esquerda e clique no botão **Adicionar política de decisão** para abrir a tela **Criar política de decisão**. Forneça um nome significativo para a política de decisão e selecione o número de itens que a política de decisão deve retornar. O padrão é 1.
-Clique em **_avançar_**, adicione a estratégia de seleção criada na etapa anterior à política de decisão e clique em **avançar** para concluir o processo de criação da política de decisão. Selecione a oferta substituta apropriada.
+   Clique em **_avançar_**, adicione a estratégia de seleção criada na etapa anterior à política de decisão e clique em **avançar** para concluir o processo de criação da política de decisão. Selecione a oferta substituta apropriada.
 
 6. **Inserir Política de Decisão**
 
    Insira a política de decisão recém-criada clicando no botão _&#x200B;**Inserir política**&#x200B;_. Isso insere um loop for no editor de personalização no lado direito.
-Coloque o cursor entre cada loop na linha dois e insira o offerText navegando até a oferta aprofundando o `tenant name`
+   Coloque o cursor entre cada loop na linha dois e insira o offerText navegando até a oferta aprofundando o `tenant name`
 
    Política de decisão inserida no editor de personalização
 

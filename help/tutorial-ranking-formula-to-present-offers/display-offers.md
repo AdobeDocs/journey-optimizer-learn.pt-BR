@@ -11,7 +11,7 @@ recommendations: noDisplay, noCatalog
 exl-id: 6b1eec78-153c-4ea5-acfe-2dcc6f1e6078
 source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,9 @@ Essa configuração oferece uma experiência responsiva e personalizada, garanti
 * Descompacte os [arquivos fornecidos nesta pasta de fórmulas de classificação.](assets/ranking-formula.zip)
 
 * Execute o aplicativo navegando até a pasta e iniciando o servidor:
-   * `cd ranking-formula`
+  * `cd ranking-formula`
 
-   * `node server.js`
+  * `node server.js`
 
 
 * Abra o navegador e acesse http://localhost:3000/formula.html.

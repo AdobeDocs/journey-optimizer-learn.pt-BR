@@ -19,4 +19,4 @@ ht-degree: 8%
 
 Saiba como configurar as recompensas por desafio selecionando tipos de recompensa, definindo métodos de entrega e recompensando os participantes em marcos importantes ou na conclusão do desafio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496481/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496485/?captions=por_br&learn=on&enablevpops)

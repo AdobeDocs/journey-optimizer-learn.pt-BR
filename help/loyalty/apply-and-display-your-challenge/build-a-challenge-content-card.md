@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba como criar um cartão de conteúdo de desafio usando modelos, imagens, botões e configurações de aplicativo pré-criados para promover desafios de fidelidade e exibir o progresso dos participantes no aplicativo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496533/?captions=por_br&learn=on&enablevpops)

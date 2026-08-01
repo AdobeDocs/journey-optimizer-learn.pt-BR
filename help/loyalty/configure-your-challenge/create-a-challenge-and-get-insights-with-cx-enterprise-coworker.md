@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba como usar o CX Enterprise Co-worker para criar, configurar e iniciar desafios de fidelidade usando linguagem natural, incluindo públicos, recompensas, programações e configuração automatizada de jornadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496542/?captions=por_br&learn=on&enablevpops)

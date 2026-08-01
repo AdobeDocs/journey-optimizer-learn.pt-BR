@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba como configurar um desafio de fidelidade selecionando o tipo correto de desafio, configurando públicos e programações, definindo regras de participação e controlando como o progresso é monitorado e recompensado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496471/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496475/?captions=por_br&learn=on&enablevpops)

@@ -30,6 +30,6 @@ ht-degree: 100%
 
 Descubra como identificar e gerenciar possíveis conflitos, como públicos-alvo sobrepostos, linhas do tempo simultâneas, canais de comunicação compartilhados e restrições de frequência em jornadas e campanhas, para garantir uma experiência de comunicação contínua e que atenda às necessidades de clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445649/?captions=por_br&learn=on&enablevpops)
 
 Consulte a documentação do produto para obter mais informações sobre como [Detectar possíveis conflitos em jornadas e campanhas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/conflict-prioritization/conflicts).

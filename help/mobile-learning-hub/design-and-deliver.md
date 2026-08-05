@@ -10,8 +10,8 @@ last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '2669'
-ht-degree: 53%
+source-wordcount: '3509'
+ht-degree: 68%
 
 ---
 
@@ -122,7 +122,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" title="Otimizar notificações por push com o AJO Decisioning">Otimizar notificações por push com o AJO Decisioning</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" title="Otimizar notificações por push com o AJO Decisioning">Otimizar notificações por push com o serviço de decisão do AJO</a>
                     </p>
                     <p class="is-size-6">Melhore o engajamento com notificações por push personalizadas usando o AJO Decisioning. Crie ofertas personalizadas e analise o desempenho da campanha.</p>
                 </div>
@@ -588,7 +588,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts" title="Identificar possíveis conflitos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435528/?format=jpeg&nocache=1770071087955" alt="Identificar possíveis conflitos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445649/?captions=por_br&format=jpeg&nocache=1770071087955" alt="Identificar possíveis conflitos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -1,6 +1,6 @@
 ---
-title: Introdução à nova tela de jornada
-description: Descubra a nova experiência de tela do jornada no Adobe Journey Optimizer. Essa atualização apresenta um mecanismo de renderização moderno que capacita a Tela de Jornada, alinhando-a com a experiência já usada em campanhas orquestradas e composição de público-alvo.
+title: Introdução à nova tela da jornada
+description: Descubra a nova experiência de tela da jornada no Adobe Journey Optimizer. Essa atualização apresenta um mecanismo de renderização moderno que impulsiona a tela da jornada, alinhando-a com a experiência já usada em campanhas orquestradas e composição de público-alvo.
 feature: Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -15,15 +15,15 @@ product_v2:
 feature_v2:
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
 source-git-commit: aada6451a411d6e29f34399dc1cb8f397f71029b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 82
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Introdução à nova tela de jornada
+# Introdução à nova tela da jornada
 
-Descubra a nova experiência de tela do jornada no Adobe Journey Optimizer. Essa atualização apresenta um mecanismo de renderização moderno que capacita a Tela de Jornada, alinhando-a com a experiência já usada em campanhas orquestradas e composição de público-alvo.
+Descubra a nova experiência de tela da jornada no Adobe Journey Optimizer. Essa atualização apresenta um mecanismo de renderização moderno que impulsiona a tela da jornada, alinhando-a com a experiência já usada em campanhas orquestradas e composição de público-alvo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496197/?captions=por_br&learn=on&enablevpops)

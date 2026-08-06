@@ -1,6 +1,6 @@
 ---
-title: Usar a decisão para personalizar a página da Web no editor visual da Web
-description: Saiba como usar o decisioning para personalizar sua página da Web no editor visual da Web.
+title: Use o serviço de decisão para personalizar a página da web no editor visual da web
+description: Saiba como usar o serviço de decisão para personalizar a página da web no editor visual da web.
 feature: Decisioning, Web Channel
 role: User
 level: Beginner
@@ -19,15 +19,15 @@ feature_v2:
 subfeature_v2:
   - id: c618a0dc-1818-4c6d-9916-0d92e6796f24
 source-git-commit: 0e0dc8b1e62c73e3597c8f62cffc71e3be35aa14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 54
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Usar a decisão para personalizar a página da Web no editor visual da Web
+# Use o serviço de decisão para personalizar a página da web no editor visual da web
 
-Saiba como usar o decisioning para personalizar sua página da Web no editor visual da Web.
+Saiba como usar o serviço de decisão para personalizar a página da web no editor visual da web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496307/?captions=por_br&learn=on&enablevpops)

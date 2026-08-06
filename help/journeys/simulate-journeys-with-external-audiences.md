@@ -1,5 +1,5 @@
 ---
-title: Simular jornadas com públicos externos
+title: Simular jornadas com públicos-alvo externos
 description: Saiba como simular jornadas que usam perfis de públicos-alvo externos de um arquivo CSV ou composição de público-alvo federado, incluindo atributos não armazenados no perfil.
 feature: Journeys
 role: User
@@ -15,15 +15,15 @@ product_v2:
 feature_v2:
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
 source-git-commit: ff9724176cd6b581b987d282f9fa8b26d9322c55
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 96
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Simular jornadas com públicos externos
+# Simular jornadas com públicos-alvo externos
 
-Saiba como simular jornadas que usam perfis de públicos-alvo externos de um arquivo CSV ou composição de público-alvo federado, incluindo atributos não armazenados no perfil, como ID de tíquete ou data de viagem. Este vídeo aborda a filtragem de um público-alvo, a personalização de mensagens com atributos externos, a criação de um usuário simulado e o zombamento de dados do público-alvo para validar o caminho correto antes que sua jornada seja publicada.
+Saiba como simular jornadas que usam perfis de públicos-alvo externos de um arquivo CSV ou composição de público-alvo federado, incluindo atributos não armazenados no perfil, como ID de tíquete ou data de viagem. Este vídeo aborda a filtragem de um público-alvo, a personalização de mensagens com atributos externos, a criação de um usuário simulado e a simulação de dados de público-alvo para validar o caminho correto antes que a jornada seja publicada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496273/?captions=por_br&learn=on&enablevpops)

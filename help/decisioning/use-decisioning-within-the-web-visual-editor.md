@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Saiba como usar o serviço de decisão para personalizar a página da web no editor visual da web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496300/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496307/?captions=por_br&learn=on&enablevpops)

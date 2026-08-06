@@ -31,4 +31,4 @@ Saiba como conectar canais de mensagens sem suporte nativo no Adobe Journey Opti
 
 Este vídeo aborda a criação completa de um canal de saída personalizado e o seu uso em uma jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496286/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496290/?captions=por_br&learn=on&enablevpops)

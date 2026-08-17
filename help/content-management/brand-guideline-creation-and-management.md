@@ -12,8 +12,8 @@ jira: KT-18685
 thumbnail: KT-18685.jpeg
 exl-id: 438f11d7-5d17-4f7d-875d-2e1894b7adca
 source-git-commit: 636d60b20b132071e643062fc49c57cdae8b95da
-workflow-type: ht
-source-wordcount: '108'
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Saiba como criar e personalizar as suas próprias marcas para definir claramente a sua identidade visual e verbal nas comunicações. Entenda como você pode receber feedback em tempo real para medir se o conteúdo reflete o tom, o estilo e as diretrizes da sua marca, com a pontuação de alinhamento à marca.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470551/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3470551/?captions=por_br&learn=on&enablevpops)
 
 Para mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).

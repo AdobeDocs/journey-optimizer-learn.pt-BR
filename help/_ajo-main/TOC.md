@@ -3,7 +3,7 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 9a3164399d0a0e0f1434650e1f7a7bca55eb9793
+source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
 workflow-type: tm+mt
 source-wordcount: '1573'
 ht-degree: 99%
@@ -64,7 +64,7 @@ ht-degree: 99%
     + [Caso de uso - Qualificação de público-alvo](/help/journeys/use-case-audience-qualification.md)
   + Tutoriais{#tutorials}
     + [Acionar jornada no envio do formulário](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [Fidelidade](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/loyalty/overview)
++ [Fidelidade](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
 + Gerenciamento de conflitos e priorização {#conflict-management}
   + [Identificar possíveis conflitos](/help/conflict-management/identify-potential-conflicts.md)
   + [Atribuir pontuações de prioridade](/help/conflict-management/assign-priority-score.md)
@@ -178,7 +178,7 @@ ht-degree: 99%
       + [Use a tomada de decisões para personalizar emails (Tutorial)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Usar a decisão em notificações por push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Usar a decisão em uma mensagem SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + {hide-from-toc}[Usar o serviço de decisão no editor visual da web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + [Usar a decisão no editor visual da Web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Usar a tomada de decisão para personalizar ofertas da web (tutorial)](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [Use os fragmentos de conteúdo do Experience Manager com a tomada de decisões](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Acionar decisões a partir de acionadores externos e interações {#trigger}

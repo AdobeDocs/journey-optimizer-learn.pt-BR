@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Saiba como publicar um desafio e gerar uma jornada automaticamente. Descubra como as comunicações de desafio são traduzidas em orquestração de jornadas, revise a estrutura de jornadas gerada e personalize-a com condições adicionais, decisões ou lógica de otimização.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498577/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3498581/?captions=por_br&learn=on&enablevpops)

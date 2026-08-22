@@ -19,4 +19,4 @@ ht-degree: 0%
 
 A Simulação rápida simplifica o teste de jornadas do cliente automatizando os principais processos. Ele gera perfis de teste, coordena eventos, acelera os tempos de espera e valida cenários. Essa ferramenta ajuda a garantir que jornadas complexas funcionem conforme o esperado antes de publicar, economizando tempo e melhorando a precisão.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497475/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497479/?captions=por_br&learn=on&enablevpops)

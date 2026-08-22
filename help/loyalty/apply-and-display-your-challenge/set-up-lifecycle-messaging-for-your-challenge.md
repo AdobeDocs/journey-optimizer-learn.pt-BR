@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Saiba como configurar mensagens multicanal para cada estágio de um desafio de fidelidade, de convites e mensagens de engajamento a notificações de conclusão e recompensa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497455/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497459/?captions=por_br&learn=on&enablevpops)

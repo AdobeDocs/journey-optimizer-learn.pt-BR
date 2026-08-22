@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Saiba como configurar um provedor de premiação, criar definições de premiação e configurar cargas de premiação para que o Adobe Journey Optimizer possa emitir recompensas de fidelidade por meio de seu sistema de recompensas externo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497346/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497413/?captions=por_br&learn=on&enablevpops)

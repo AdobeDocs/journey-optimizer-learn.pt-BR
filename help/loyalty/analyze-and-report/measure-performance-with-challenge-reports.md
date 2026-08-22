@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Saiba como usar relatórios de desafios e painéis de desempenho para medir a participação, as taxas de conclusão, a atribuição de receita e o desempenho geral do programa de fidelidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497563/?captions=por_br&learn=on&enablevpops)

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Explore o painel Insights de fidelidade e saiba como os insights gerados por IA ajudam a identificar alterações significativas no desempenho do programa de fidelidade, priorizar descobertas com base em KPIs de negócios e agir sobre as métricas mais importantes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497563/?captions=por_br&learn=on&enablevpops)

@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Use relatórios de desafios e painéis para medir a participação, as taxas de conclusão e a receita para seu programa de fidelidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497563/?captions=por_br&learn=on&enablevpops)

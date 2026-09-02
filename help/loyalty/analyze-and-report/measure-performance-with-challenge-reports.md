@@ -1,6 +1,6 @@
 ---
 title: Meça o desempenho de desafios com relatórios de desafios
-description: Saiba como usar relatórios de desafios e painéis de desempenho para medir a participação, as taxas de conclusão, a atribuição de receita e o desempenho geral do programa de fidelidade.
+description: Use relatórios de desafios e painéis para medir a participação, as taxas de conclusão e a receita para seu programa de fidelidade.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -19,9 +19,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6494b51da77e23e184d33e235fd612700b2a801d
 workflow-type: tm+mt
-source-wordcount: 54
+source-wordcount: 44
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 # Meça o desempenho de desafios com relatórios de desafios
 
-Saiba como usar relatórios de desafios e painéis de desempenho para medir a participação, as taxas de conclusão, a atribuição de receita e o desempenho geral do programa de fidelidade.
+Use relatórios de desafios e painéis para medir a participação, as taxas de conclusão e a receita para seu programa de fidelidade.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497563/?captions=por_br&learn=on&enablevpops)

@@ -166,7 +166,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html?lang=pt-BR" title="Criar uma mensagem no aplicativo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410471?format=jpeg&nocache=1770071085016" alt="Criar uma mensagem no aplicativo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502541?captions=por_br&format=jpeg&nocache=1770071085016" alt="Criar uma mensagem no aplicativo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

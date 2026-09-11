@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: fidelização
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 3062d3cfc74a3e6c578d9c5282ec2ac07185033a
+source-git-commit: b812dd2c5228314771c572a184ae396aa400d524
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 + [Introdução ao Journey Optimizer Loyalty para profissionais de marketing](./overview.md)
 + Introdução à Fidelidade {#introduction}
-  + [Descubra a fidelidade do Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+  + [Descubra o Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + Configurar Fidelidade {#set-up-loyality}
   + [Configurar um provedor de premiação de fidelidade](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Configurar seu desafio {#configure-your-challenge}
@@ -29,6 +29,7 @@ ht-degree: 0%
 + Aplicar e exibir seu desafio {#apply-and-display-your-challenge}
   + [Criar um cartão de conteúdo de desafio](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
   + [Exibir conteúdo de desafio usando o canal de experiência baseado em código](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
+  + [Personalizar conteúdo com atributos de desafio usando ações personalizadas](./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md)
   + [Configurar mensagens de ciclo de vida para seu desafio](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
   + [Publicar um desafio e gerar uma jornada](./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md)
 + Analisar e relatar {#analyze-and-report}

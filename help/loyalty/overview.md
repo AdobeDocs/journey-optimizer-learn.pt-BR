@@ -301,7 +301,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md" title="Personalizar conteúdo com atributos de desafio usando ações personalizadas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503375/?format=jpeg&nocache=1789156824989" alt="Personalizar conteúdo com atributos de desafio usando ações personalizadas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503388/?captions=por_br&format=jpeg&nocache=1789156824989" alt="Personalizar conteúdo com atributos de desafio usando ações personalizadas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

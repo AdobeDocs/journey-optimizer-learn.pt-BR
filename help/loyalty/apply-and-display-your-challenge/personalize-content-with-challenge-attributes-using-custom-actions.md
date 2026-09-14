@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Saiba como recuperar dados de desafio com uma ação personalizada e usá-los para personalizar dinamicamente cartões de conteúdo e experiências baseadas em código com base no progresso e nas recompensas de desafio de cada membro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503375/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503388/?captions=por_br&learn=on&enablevpops)

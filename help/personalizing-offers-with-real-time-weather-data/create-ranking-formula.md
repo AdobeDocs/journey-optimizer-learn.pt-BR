@@ -5,25 +5,24 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+exl-id: 23a9d36f-ac2c-42a5-b08d-79c7118920c9
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
-
 ---
-
 # Criar fórmula de classificação
 
 Uma fórmula de classificação no Adobe Journey Optimizer é usada durante o Offer Decisioning, especificamente em uma estratégia de seleção para determinar a ordem de prioridade das ofertas elegíveis. A fórmula de classificação entra em ação após a filtragem de qualificação, quando várias ofertas se qualificam para um determinado perfil, mas somente a principal (ou algumas) deve ser apresentada com base na lógica de negócios ou no contexto do perfil.
 
 * Fazer logon no Journey Optimizer
 
-* Navegue até _&#x200B;**Decisão ->Configuração da estratégia ->Fórmulas de classificação ->Criar fórmula**&#x200B;_
+* Navegue até _**Decisão ->Configuração da estratégia ->Fórmulas de classificação ->Criar fórmula**_
 
-Nomeie a fórmula _&#x200B;**Clima - Relacionado - Ofertas**&#x200B;_
+Nomeie a fórmula _**Clima - Relacionado - Ofertas**_
 
 
 

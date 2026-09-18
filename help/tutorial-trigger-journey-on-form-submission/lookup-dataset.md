@@ -21,6 +21,6 @@ Nesse caso de uso, quando um usuário envia um formulário de Preferência de in
 
 **Criação de um conjunto de dados de pesquisa**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478765?captions=por_br)
 
 Teste os campos de pesquisa do conjunto de dados enviando a configuração do formulário na etapa anterior

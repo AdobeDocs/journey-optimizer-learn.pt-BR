@@ -1,20 +1,19 @@
 ---
 title: Entrega do Personalization com conteúdo JSON no Adobe Journey Optimizer
-description: Aproveite o tipo de conteúdo JSON no Adobe Journey Optimizer (AJO) para criar experiências de personalização flexíveis e orientadas por dados.
+description: Use o conteúdo JSON no Adobe Journey Optimizer (AJO) para criar experiências de personalização flexíveis e orientadas por dados.
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-18T00:00:00Z
+last-substantial-update: 2025-06-18
 jira: KT-18387
 recommendations: noDisplay, noCatalog
-source-git-commit: 9f5b52063605832a9b00c05fb1a93bf60ec7686f
+exl-id: a09beca4-9266-4004-9831-d3c706b631a5
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 0%
-
+source-wordcount: '501'
+ht-degree: 3%
 ---
-
 # Entrega do Personalization com conteúdo JSON no Adobe Journey Optimizer
 
 Esta seção é fornecida como um recurso adicional para usuários avançados que desejam maior controle sobre como as ofertas são renderizadas no front-end.
@@ -36,7 +35,7 @@ Depois que a Experiência baseada em código (CBE) com tipo de conteúdo JSON é
 Ao inserir a Política de decisão no Editor do Personalization (por exemplo, para mensagens no aplicativo ou emails), é importante garantir que a saída mantenha uma estrutura JSON válida.
 
 Ao inserir uma Política de decisão no Editor do Personalization (PE) em uma campanha, o Adobe Journey Optimizer gera automaticamente um loop Handlebars com base na política selecionada. Por exemplo:
-![código-padrão](assets/handlebar-code-default.png)
+![código padrão](assets/handlebar-code-default.png)
 Esse loop repete todos os itens de decisão retornados pela política e injeta o campo offerText de cada oferta. Essa estrutura padrão funciona bem para tipos de conteúdo do HTML, mas ao trabalhar com conteúdo JSON, pode ser necessário reestruturar para produzir uma matriz ou objeto JSON válido, especialmente se o resultado estiver sendo analisado programaticamente.
 
 ![código reestruturado](assets/restructured-code.png)

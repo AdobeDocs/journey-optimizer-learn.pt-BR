@@ -5,15 +5,14 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30
 jira: KT-17923
-source-git-commit: ba83be3caf214d2daaa8c99556d246686ff3f0cb
+exl-id: d90f1868-0514-49b2-832d-82460883b6e4
+source-git-commit: 073d4a99b74a0bc341117e83a66747aed02648bf
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '155'
 ht-degree: 0%
-
 ---
-
 # Criação de públicos no Adobe Journey Optimizer
 
 
@@ -27,11 +26,11 @@ Os públicos-alvo no Adobe Experience Platform são grupos de usuários criados 
 
 * Crie os 3 públicos a seguir
 
-   * Clientes interessados em Ações
+  * Clientes interessados em Ações
 
-   * Clientes interessados em títulos
+  * Clientes interessados em títulos
 
-   * Clientes interessados no CD
+  * Clientes interessados no CD
 
 
 * Verifique se o método de avaliação de cada público-alvo está definido como _&#x200B;**Edge**&#x200B;_ para qualificação em tempo real.
@@ -53,5 +52,3 @@ Os públicos-alvo no Adobe Experience Platform são grupos de usuários criados 
 
 
 ![alternar-esquema-xdm-completo](assets/show-custom-fields.png)
-
-

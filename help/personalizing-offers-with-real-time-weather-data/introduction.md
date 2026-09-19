@@ -1,19 +1,18 @@
 ---
-title: Personalização de ofertas com dados meteorológicos em tempo real no Adobe Journey Optimizer usando o Web SDK
-description: Este tutorial demonstra como fornecer ofertas dinâmicas e com reconhecimento de clima no Adobe Journey Optimizer usando dados contextuais em tempo real e a API do Personalization do Adobe Web SDK. Você aprenderá a transmitir atributos de clima (como temperatura e condições) do seu site para o Adobe Experience Platform, mapeá-los para o esquema do evento e usá-los em regras de decisão e fórmulas de classificação para personalizar ofertas no momento do carregamento da página. Ideal para profissionais de marketing e desenvolvedores que buscam aprimorar experiências digitais com contexto ambiental em tempo real.
+title: Personalização de ofertas com dados meteorológicos em tempo real no Adobe Journey Optimizer usando o SDK da web
+description: Este tutorial demonstra como entregar ofertas dinâmicas e baseadas no clima no Adobe Journey Optimizer usando dados contextuais em tempo real e a API de personalização do SDK da web da Adobe. Você aprenderá a transmitir atributos de clima (como temperatura e condições) do seu site para a Adobe Experience Platform, mapeá-los para o esquema do evento e usá-los em regras de decisão e fórmulas de classificação para personalizar ofertas no momento do carregamento da página. Ideal para profissionais de marketing e desenvolvedores que buscam aprimorar experiências digitais com contexto ambiental em tempo real.
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 jira: KT-18258
-source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
+exl-id: f40dd541-470c-4f42-8181-eb1c277ebaa3
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 0%
-
+source-wordcount: '230'
+ht-degree: 42%
 ---
-
 # Descrição do caso de uso
 
 Usar dados relacionados ao clima no Adobe Journey Optimizer (AJO) para atender ofertas permite que as empresas personalizem as experiências do cliente com base em condições ambientais em tempo real. O tempo é um poderoso sinal contextual. As necessidades e o comportamento das pessoas mudam de acordo com o tempo. Usando dados meteorológicos:

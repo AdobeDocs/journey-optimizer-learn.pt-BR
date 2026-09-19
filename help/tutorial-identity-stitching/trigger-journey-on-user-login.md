@@ -1,20 +1,19 @@
 ---
 title: Acionar a Jornada do Adobe Journey Optimizer usando o Adobe Web SDK
-description: Saiba como iniciar uma jornada do Adobe Journey Optimizer a partir de eventos do site, como logons de usuário, aproveitando o AEP Web SDK configurado por meio de Tags do Adobe Experience Platform
+description: Saiba como iniciar uma jornada do Adobe Journey Optimizer a partir de eventos do site, como logons de usuário, usando o SDK da web da AEP configurado por meio de tags da Adobe Experience Platform
 feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-09-24T00:00:00Z
+last-substantial-update: 2025-09-24
 recommendations: noDisplay, noCatalog
 jira: KT-19287
-source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
+exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 0%
-
+source-wordcount: '290'
+ht-degree: 10%
 ---
-
 # Acionar a Jornada do Adobe Journey Optimizer usando o Adobe Web SDK
 
 Nesta extensão do tutorial de Compilação de identidade, a jornada do Adobe Journey Optimizer é acionada para enviar um email ao usuário conectado usando seu perfil compilado. **Este artigo supõe que você esteja familiarizado com o canal de email e com a criação de conteúdo para o canal de email.**
@@ -39,7 +38,7 @@ Nesta extensão do tutorial de Compilação de identidade, a jornada do Adobe Jo
 * Verifique se eventType do evento é igual a LoginEvent. O tipo `LoginEvent` está definido na Marca Adobe Experience Platform.
 * Salvar o evento
 
-## Criar jornada
+## Criar Jornada
 
 * Fazer logon no _&#x200B;**Journey Optimizer**&#x200B;_
 * Navegue até _&#x200B;**Gerenciamento de Jornadas > Jornadas > Criar Jornada**&#x200B;_
@@ -53,7 +52,3 @@ A jornada é acionada quando a carga do evento enviada via Web SDK corresponde a
 
 * Verifique isso exibindo o relatório de jornada
 * ![relatório-jornada](assets/journey-triggered-report.png)
-
-
-
-

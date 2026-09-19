@@ -5,15 +5,14 @@ feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-12-25T00:00:00Z
+last-substantial-update: 2025-12-25
 jira: KT-20014
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+exl-id: 9b4a3e0c-d153-4a6b-a7de-b926bd669f6a
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '144'
 ht-degree: 0%
-
 ---
-
 # Testar a solução
 
 
@@ -58,7 +57,5 @@ Crie um novo diretório para o aplicativo de amostra usando os seguintes comando
 
 Verifique se você está no diretório `trigger-journey`.
 Executar o comando `node server.js`
-Aponte seu navegador para [página da Web](http://localhost:3000/)
+Aponte seu navegador para a [página da Web](http://localhost:3000/)
 Preencha e envie o formulário. A jornada é acionada e um email é enviado para a ID de email inserida no formulário.
-
-

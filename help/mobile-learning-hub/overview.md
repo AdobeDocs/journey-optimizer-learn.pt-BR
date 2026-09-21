@@ -6,22 +6,20 @@ role: User, Admin, Developer
 hide: false
 index: true
 jira: KT-19860
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '973'
 ht-degree: 5%
-
 ---
-
 # Journey Optimizer - Hub de aprendizagem móvel
 
 Acelere ou aprimore sua estratégia de engajamento móvel com o Adobe Journey Optimizer. Este centro de aprendizagem para dispositivos móveis fornece a desenvolvedores, admins, profissionais de marketing e analistas tudo o que é necessário para configurar canais móveis de entrada e saída e integrá-los perfeitamente a campanhas e jornadas avançadas entre canais.
 
 Explore as práticas recomendadas, aprenda a impulsionar a adoção e a configurar fluxos de trabalho de relatórios centralizados — tudo em um só lugar — para fornecer experiências móveis impactantes e orientadas por dados que chegam aos clientes a qualquer hora, em qualquer lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477003?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Visão geral do canal móvel
@@ -34,9 +32,9 @@ Os canais de saída permitem que você forneça mensagens de forma proativa aos 
 
 Todos os canais de saída no Adobe Journey Optimizer impõem Políticas de consentimento personalizadas no momento do envio da mensagem. Se o consentimento não for concedido para uma ação de marketing específica, a mensagem será automaticamente suprimida para garantir o delivery em conformidade.
 
-| ![Notificações por push](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Notificações por push](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
-|-------------------------------------|------------------------------------|-------------------------------|
-| Enviadas para fora do aplicativo, as mensagens de push chamam a atenção imediatamente. São ideais para atualizações com prazo determinado e para incentivar os usuários a retornar ao seu aplicativo. | Mensagens diretas enviadas para os celulares dos usuários sem precisar do aplicativo. Excelente para alertas urgentes, lembretes e conteúdo de mídia avançada como imagens ou vídeos. | Canal de conversa por meio de um aplicativo de mensagens amplamente usado, permitindo campanhas personalizadas, bidirecionais e de comunicação. |
+| ![Notificações por push](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Notificações por push](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** | ![Atividades online](/help/mobile-learning-hub/assets/live-activities.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Atividades online](/help/mobile-learning-hub/channels/live-activities-overview.md)** |
+|-------------------------------------|------------------------------------|-------------------------------|-------------------------------|
+| Enviadas para fora do aplicativo, as mensagens de push chamam a atenção imediatamente. São ideais para atualizações com prazo determinado e para incentivar os usuários a retornar ao seu aplicativo. | Mensagens diretas enviadas para os celulares dos usuários sem precisar do aplicativo. Excelente para alertas urgentes, lembretes e conteúdo de mídia avançada como imagens ou vídeos. | Canal de conversa por meio de um aplicativo de mensagens amplamente usado, permitindo campanhas personalizadas, bidirecionais e de comunicação. | Atualizações persistentes e em tempo real na Tela de bloqueio, Ilha dinâmica ou sombra de notificação que mantêm os clientes informados à medida que uma atividade avança. |
 
 ### Canais de entrada
 
@@ -99,4 +97,4 @@ Saiba mais sobre os conceitos e como
 
 ## Casos de uso do cliente
 
-* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=pt)
+* [Voar com personalização: como as companhias aéreas podem elevar ofertas com o Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)

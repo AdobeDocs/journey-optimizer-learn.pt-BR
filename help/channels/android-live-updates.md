@@ -1,0 +1,28 @@
+---
+title: Configurar atualizações em tempo real do Android
+description: Saiba como criar e fornecer atualizações do Android Live no Adobe Journey Optimizer, permitindo experiências do cliente em tempo real e persistentes que mantêm os usuários informados à medida que as atividades avançam. Este tutorial demonstra como configurar o canal do Android Live Updates, criar e ativar campanhas e usar APIs para iniciar, atualizar e encerrar experiências online nas jornadas do cliente
+role: Admin, User
+level: Beginner
+doc-type: Feature Video
+duration: 147
+last-substantial-update: '2026-09-21T00:00:00.000Z'
+jira: KT-22661
+feature_v2:
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: 3c5473a1-8c61-58ed-83fe-e928ccbe0743
+    internal-label: Channel Configuration
+source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
+workflow-type: tm+mt
+source-wordcount: '120'
+ht-degree: 0%
+---
+
+# Configurar atualizações em tempo real do Android
+
+Saiba como criar e fornecer atualizações do Android Live no Adobe Journey Optimizer, permitindo experiências do cliente em tempo real e persistentes que mantêm os usuários informados à medida que as atividades avançam. Este tutorial demonstra como configurar o canal do Android Live Updates, criar e ativar campanhas e usar APIs para iniciar, atualizar e encerrar experiências online nas jornadas do cliente
+
+>[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)

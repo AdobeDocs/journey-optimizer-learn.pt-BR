@@ -6,15 +6,13 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19870
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
 workflow-type: tm+mt
-source-wordcount: '3509'
-ht-degree: 68%
-
+source-wordcount: '3622'
+ht-degree: 67%
 ---
-
 # Projetar e entregar
 
 Descubra como criar e fornecer comunicações móveis impactantes usando o Adobe Journey Optimizer. Saiba como criar, projetar e enviar uma variedade de tipos de mensagens, incluindo notificações por push, mensagens no aplicativo, cartões de conteúdo, SMS/MMS/RCS, mensagens de marketing para WhatsApp e experiências baseadas em código personalizadas para seu público-alvo e otimizadas para engajamento móvel.
@@ -272,6 +270,32 @@ CARDS
 
 | ![Criar e Configurar Cartões de Conteúdo &#x200B;](./assets/configuration.svg) [**Criar e Configurar Cartões de Conteúdo**](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Criar Cartões de Conteúdo &#x200B;](./assets/content-management.png){width="50"}[**Criar Cartões de Conteúdo**](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+>[!TAB Atividades online]
+
+### Atividades ao vivo
+
+>[!PREREQUISITES]
+>
+> 1. Verifique se o aplicativo está integrado ao Mobile SDK e configurado com as extensões Live Activity (consulte [Configurar Live Activity](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}).
+> 2. Verifique se os perfis do cliente e os segmentos de público-alvo estão prontos para o direcionamento.
+
+#### Atividades ao vivo no iOS
+
+Descubra como configurar as atividades ao vivo no iOS com o Adobe Journey Optimizer para fornecer atualizações avançadas em tempo real na tela de bloqueio do iPhone e no Dynamic Island.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3479869/?captions=por_br&learn=on&enablevpops)
+
+#### Android Live Updates
+
+Saiba como criar e fornecer atualizações do Android Live no Adobe Journey Optimizer, permitindo experiências do cliente em tempo real e persistentes que mantêm os usuários informados à medida que as atividades avançam.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+
+#### Documentação do produto
+
+| ![Configurar Atividade Dinâmica &#x200B;](./assets/configuration.svg) [**Configurar Atividade Dinâmica**](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"} |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
 

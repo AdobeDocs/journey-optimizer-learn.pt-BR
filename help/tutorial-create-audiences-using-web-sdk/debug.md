@@ -5,17 +5,15 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 33b084ea-e712-4de0-8836-8795efaac7e2
 source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '408'
 ht-degree: 0%
-
 ---
-
 # Teste da solução
 
 Para validar sua implementação, comece abrindo a página da Web que contém seu formulário de preferência. Use o DevTools do navegador (guias Console e Rede) para monitorar o processo de envio de formulários. Depois de enviar uma preferência (por exemplo, selecionar &quot;Estoques&quot;), confirme se o AEP Web SDK (alloy.sendEvent) foi acionado com êxito e se os dados corretos foram enviados para o Adobe Experience Platform. No AEP, navegue até a seção Públicos-alvo e verifique se seu perfil se qualifica para o público-alvo esperado (por exemplo, &quot;Interessado em estoques&quot;) dentro de alguns momentos, usando a segmentação do Edge. Você também pode inspecionar os dados de evento recebidos no conjunto de dados associado para garantir que eles contenham o valor de preferência correto. Repetir esse processo para cada classe de ativo (Ações, Títulos, CDs) para garantir que o fluxo de trabalho completo esteja funcionando corretamente.

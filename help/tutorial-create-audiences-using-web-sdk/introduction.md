@@ -5,16 +5,14 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30
 jira: KT-17923
 exl-id: ebaa3aa5-0a08-43fd-8d06-8e4b5d8dee05
 source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '268'
 ht-degree: 0%
-
 ---
-
 # Criar públicos usando o Web SDK
 
 Neste tutorial, você aprenderá a capturar as preferências do usuário por meio de um formulário web, enviar esses dados para o Adobe Experience Platform (AEP) em tempo real e qualificar usuários dinamicamente em públicos-alvo direcionados com base em suas seleções. Ao combinar Tags do Adobe (Launch), o AEP Web SDK (Alloy.js) e a Segmentação do Edge, você permite oportunidades imediatas de personalização para clientes interessados em Ações, Títulos ou Certificados de depósito (CDs).

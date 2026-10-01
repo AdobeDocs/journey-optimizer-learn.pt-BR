@@ -1,6 +1,6 @@
 ---
 title: Configurar atualizações em tempo real do Android
-description: Saiba como criar e fornecer atualizações do Android Live no Adobe Journey Optimizer, permitindo experiências do cliente em tempo real e persistentes que mantêm os usuários informados à medida que as atividades avançam. Este tutorial demonstra como configurar o canal do Android Live Updates, criar e ativar campanhas e usar APIs para iniciar, atualizar e encerrar experiências online nas jornadas do cliente
+description: Saiba como criar e fornecer Android Live Updates no Adobe Journey Optimizer, permitindo experiências do cliente em tempo real e persistentes que mantêm os usuários informados à medida que as atividades avançam. Este tutorial demonstra como configurar o canal do Android Live Updates, criar e ativar campanhas e usar APIs para iniciar, atualizar e encerrar experiências em tempo real nas jornadas do cliente
 role: Admin, User
 level: Beginner
 doc-type: Feature Video
@@ -16,13 +16,13 @@ subfeature_v2:
   - id: 3c5473a1-8c61-58ed-83fe-e928ccbe0743
     internal-label: Channel Configuration
 source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
 # Configurar atualizações em tempo real do Android
 
-Saiba como criar e fornecer atualizações do Android Live no Adobe Journey Optimizer, permitindo experiências do cliente em tempo real e persistentes que mantêm os usuários informados à medida que as atividades avançam. Este tutorial demonstra como configurar o canal do Android Live Updates, criar e ativar campanhas e usar APIs para iniciar, atualizar e encerrar experiências online nas jornadas do cliente
+Saiba como criar e fornecer Android Live Updates no Adobe Journey Optimizer, permitindo experiências do cliente em tempo real e persistentes que mantêm os usuários informados à medida que as atividades avançam. Este tutorial demonstra como configurar o canal do Android Live Updates, criar e ativar campanhas e usar APIs para iniciar, atualizar e encerrar experiências em tempo real nas jornadas do cliente
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503650/?captions=por_br&learn=on&enablevpops)

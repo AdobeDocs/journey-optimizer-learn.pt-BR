@@ -33,10 +33,10 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 15d0be3f2fb94737746f3f7fb2d668838c124d36
+source-git-commit: c6d18e0a5cc1f80affb52852be6d7fcc6c832fe1
 workflow-type: tm+mt
-source-wordcount: '1658'
-ht-degree: 42%
+source-wordcount: '1981'
+ht-degree: 43%
 ---
 
 # Introdução ao Journey Optimizer Loyalty
@@ -50,9 +50,9 @@ Esta seção apresenta o Journey Optimizer Loyalty, abordando o que é, onde ele
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
   {description = Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.}
-* https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts
     {decription = Before you build anything in Adobe Journey Optimizer Loyalty, it helps to understand what a loyalty challenge is and the few pieces it's made of.}
     {image = (./help/assets/loyalty-key-terms.png) }
 
@@ -63,8 +63,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Descubra o Journey Optimizer Loyalty" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496455/?captions=por_br&format=jpeg&nocache=1789777079801" alt="Descubra o Journey Optimizer Loyalty"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Descubra o Journey Optimizer Loyalty" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496441/?format=jpeg&nocache=1789777079801" alt="Descubra o Journey Optimizer Loyalty"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -72,11 +72,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Descubra o Journey Optimizer Loyalty">Descobrir Journey Optimizer Loyalty</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Descubra o Journey Optimizer Loyalty">Descobrir Journey Optimizer Loyalty</a>
                     </p>
                     <p class="is-size-6">Entenda o que é o Journey Optimizer Loyalty, onde ele está no AJO e o ciclo de vida de desafio.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
                 </a>
             </div>
@@ -86,7 +86,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts" title="Entender os conceitos de desafio de fidelidade" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts" title="Entender os conceitos de desafio de fidelidade" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="(./help/assets/loyalty-key-terms.png)" alt="Entender os conceitos de desafio de fidelidade"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -95,11 +95,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" title="Entender os conceitos de desafio de fidelidade">Entender os conceitos do desafio de fidelidade</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" title="Entender os conceitos de desafio de fidelidade">Entender os conceitos do desafio de fidelidade</a>
                     </p>
                     <p class="is-size-6">Entenda os conceitos e o vocabulário principais por trás do Journey Optimizer Loyalty. Você aprenderá sobre os componentes de um desafio de fidelidade (desafios, tarefas e recompensas) e como as peças se encaixam, para que você tenha o modelo mental necessário antes de criar uma no próximo módulo.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
                 </a>
             </div>
@@ -110,24 +110,99 @@ CARDS
 
 ## Configurar Fidelidade
 
-Esta seção aborda a configuração única necessária antes de começar a criar desafios.
+Esta seção aborda a configuração única necessária antes de começar a criar desafios, incluindo a assimilação de dados de fidelidade, relatórios de desempenho e provedores de recompensa.
 
 
 <!--
 CARDS
 
+* ./set-up-loyalty/create-profile-and-event-schemas-and-datasets.md
+    {description = Learn how to create XDM schemas and profile-enabled datasets in Adobe Experience Platform to receive loyalty member profile data and loyalty event data.}
+* ./set-up-loyalty/configure-the-http-api-source-and-map-loyalty-data.md
+    {description = Learn how to configure an HTTP API source connection and dataflows in Adobe Experience Platform, then map loyalty profile and event fields to your datasets.}
+* ./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md
+    {description = Learn how to test loyalty profile and event data ingestion, verify datasets and unified customer profiles, and configure Loyalty Performance settings.}
 * ./set-up-loyalty/set-up-a-loyalty-reward-provider.md
   {description = Learn how to set up a reward provider, create reward definitions, and configure reward payloads so Adobe Journey Optimizer can issue loyalty rewards through your external rewards system.}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create profile and event schemas and datasets">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/create-profile-and-event-schemas-and-datasets.md" title="Criar esquemas de perfil e evento e conjuntos de dados" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504120/?format=jpeg" alt="Criar esquemas de perfil e evento e conjuntos de dados"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/create-profile-and-event-schemas-and-datasets.md" target="_blank" rel="referrer" title="Criar esquemas de perfil e evento e conjuntos de dados">Criar esquemas de perfil e evento e conjuntos de dados</a>
+                    </p>
+                    <p class="is-size-6">Saiba como criar esquemas XDM e conjuntos de dados habilitados para perfil no Adobe Experience Platform para receber dados de perfil de membros de fidelidade e dados de evento de fidelidade.</p>
+                </div>
+                <a href="./set-up-loyalty/create-profile-and-event-schemas-and-datasets.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Configure the HTTP API source and map loyalty data">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/configure-the-http-api-source-and-map-loyalty-data.md" title="Configurar a fonte da API HTTP e mapear dados de fidelidade" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504118/?format=jpeg" alt="Configurar a fonte da API HTTP e mapear dados de fidelidade"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/configure-the-http-api-source-and-map-loyalty-data.md" target="_blank" rel="referrer" title="Configurar a fonte da API HTTP e mapear dados de fidelidade">Configurar a fonte da API HTTP e mapear dados de fidelidade</a>
+                    </p>
+                    <p class="is-size-6">Saiba como configurar uma conexão de origem de API HTTP e fluxos de dados no Adobe Experience Platform e, em seguida, mapear campos de perfil de fidelidade e evento para seus conjuntos de dados.</p>
+                </div>
+                <a href="./set-up-loyalty/configure-the-http-api-source-and-map-loyalty-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Verify loyalty data and configure performance reporting">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" title="Verificar dados de fidelidade e configurar relatórios de desempenho" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504119/?format=jpeg" alt="Verificar dados de fidelidade e configurar relatórios de desempenho"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" target="_blank" rel="referrer" title="Verificar dados de fidelidade e configurar relatórios de desempenho">Verificar dados de fidelidade e configurar relatórios de desempenho</a>
+                    </p>
+                    <p class="is-size-6">Saiba como testar a assimilação de dados de eventos e perfis de fidelidade, verificar conjuntos de dados e perfis unificados de clientes e definir as configurações de Desempenho de fidelidade.</p>
+                </div>
+                <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up a loyalty reward provider">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/set-up-a-loyalty-reward-provider.md" title="Configurar um provedor de premiação de fidelidade" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497413/?captions=por_br&format=jpeg&nocache=1789777080249" alt="Configurar um provedor de premiação de fidelidade"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497346/?format=jpeg&nocache=1789777080249" alt="Configurar um provedor de premiação de fidelidade"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -173,7 +248,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/set-up-a-loyalty-challenge.md" title="Configurar um desafio de fidelidade" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496475/?captions=por_br&format=jpeg&nocache=1789777080674" alt="Configurar um desafio de fidelidade"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496471/?format=jpeg&nocache=1789777080674" alt="Configurar um desafio de fidelidade"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -196,7 +271,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/create-tasks.md" title="Crie tarefas para seu desafio de fidelidade" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496446/?captions=por_br&format=jpeg&nocache=1789777080701" alt="Crie tarefas para seu desafio de fidelidade"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496442/?format=jpeg&nocache=1789777080701" alt="Crie tarefas para seu desafio de fidelidade"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +294,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/configure-rewards.md" title="Configurar recompensas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496485/?captions=por_br&format=jpeg&nocache=1789777080685" alt="Configurar recompensas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496481/?format=jpeg&nocache=1789777080685" alt="Configurar recompensas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -241,8 +316,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" title="Crie um desafio de fidelidade e insights com o CX Enterprise Co-worker" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496542/?captions=por_br&format=jpeg&nocache=1789777080693" alt="Crie um desafio de fidelidade e insights com o CX Enterprise Co-worker"
+                    <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" title="Crie um desafio de fidelidade e insights de superfície com o CX Enterprise Coworker" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496528/?format=jpeg&nocache=1789777080693" alt="Crie um desafio de fidelidade e insights de superfície com o CX Enterprise Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -250,9 +325,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" target="_blank" rel="referrer" title="Crie um desafio de fidelidade e insights com o CX Enterprise Co-worker">Crie um desafio de fidelidade e forneça insights com o CX Enterprise Co-worker</a>
+                        <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" target="_blank" rel="referrer" title="Crie um desafio de fidelidade e insights de superfície com o CX Enterprise Coworker">Crie um desafio de fidelidade e insights de superfície com o CX Enterprise Coworker</a>
                     </p>
-                    <p class="is-size-6">Saiba como usar o CX Enterprise Co-worker para criar, configurar e iniciar desafios de fidelidade usando linguagem natural, incluindo públicos, recompensas, programações e configuração automatizada de jornadas.</p>
+                    <p class="is-size-6">Saiba como usar o CX Enterprise Coworker para criar, configurar e iniciar desafios de fidelidade usando linguagem natural, incluindo públicos, recompensas, agendas e configuração de jornada automatizada.</p>
                 </div>
                 <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
@@ -288,7 +363,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/build-a-challenge-content-card.md" title="Criar um cartão de conteúdo de desafio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496533/?captions=por_br&format=jpeg&nocache=1789777081049" alt="Criar um cartão de conteúdo de desafio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496529/?format=jpeg&nocache=1789777081049" alt="Criar um cartão de conteúdo de desafio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -311,7 +386,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md" title="Exibir conteúdo de desafio usando o canal de experiência baseado em código" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497469/?captions=por_br&format=jpeg&nocache=1789777081044" alt="Exibir conteúdo de desafio usando o canal de experiência baseado em código"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497465/?format=jpeg&nocache=1789777081044" alt="Exibir conteúdo de desafio usando o canal de experiência baseado em código"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -334,7 +409,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md" title="Personalizar conteúdo com atributos de desafio usando ações personalizadas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503388/?captions=por_br&format=jpeg&nocache=1789777081061" alt="Personalizar conteúdo com atributos de desafio usando ações personalizadas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503375/?format=jpeg&nocache=1789777081061" alt="Personalizar conteúdo com atributos de desafio usando ações personalizadas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -357,7 +432,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md" title="Configurar mensagens de ciclo de vida para seu desafio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497459/?captions=por_br&format=jpeg&nocache=1789777081054" alt="Configurar mensagens de ciclo de vida para seu desafio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497455/?format=jpeg&nocache=1789777081054" alt="Configurar mensagens de ciclo de vida para seu desafio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -380,7 +455,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md" title="Publicar um desafio e gerar uma jornada" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498581/?captions=por_br&format=jpeg&nocache=1789777081057" alt="Publicar um desafio e gerar uma jornada"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498577/?format=jpeg&nocache=1789777081057" alt="Publicar um desafio e gerar uma jornada"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -421,7 +496,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./analyze-and-report/measure-performance-with-challenge-reports.md" title="Meça o desempenho de desafios com relatórios de desafios" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497563/?captions=por_br&format=jpeg&nocache=1789777081448" alt="Meça o desempenho de desafios com relatórios de desafios"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497534/?format=jpeg&nocache=1789777081448" alt="Meça o desempenho de desafios com relatórios de desafios"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

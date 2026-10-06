@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba como configurar o canal de correspondência direta e como criar e visualizar campanhas de correspondência direta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449359/?captions=por_br&learn=on){transcript=true}

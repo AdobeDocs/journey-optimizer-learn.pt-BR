@@ -30,4 +30,4 @@ Saiba como criar coleções para a gestão de decisões.
 
 As coleções são usadas para gerenciar ofertas em grupos lógicos e são necessárias para criar atividades da gestão de decisões. As coleções dinâmicas permitem agrupar ofertas com base em tags, enquanto as coleções estáticas permitem preparar manualmente as ofertas.
 
->[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409146?captions=por_br&quality=12&learn=on){transcript=true}

@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Saiba como atualizar conteúdo em uma jornada em tempo real.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429844/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439611/?captions=por_br&learn=on)

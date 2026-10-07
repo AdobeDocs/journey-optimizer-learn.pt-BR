@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Saiba como criar uma campanha de experiência baseada em código para melhorar a personalização permitindo o uso de métodos de implementação do lado do servidor, baseados em API ou SDK, para uma integração perfeita com ambientes de desenvolvimento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449458/?captions=por_br&learn=on)

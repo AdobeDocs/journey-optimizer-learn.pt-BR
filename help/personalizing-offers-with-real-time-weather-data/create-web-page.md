@@ -117,5 +117,5 @@ O JavaScript busca dinamicamente informações meteorológicas com base na local
 
 ## Próximas etapas
 
-[Avalie e relate o impacto do AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
+[Avalie e relate o impacto do AJO Decisioning.](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 

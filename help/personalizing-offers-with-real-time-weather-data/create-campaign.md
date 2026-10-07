@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30T00:00:00Z
+last-substantial-update: 2025-05-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: c3e4f760-9b10-4a99-bc53-9245e76c1bab
-source-git-commit: 95a8abd08fbf57900870826112b01a8cd375fe96
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '658'
 ht-degree: 1%
-
 ---
-
 # Criar uma campanha
 
 Para fornecer ofertas personalizadas aos usuários na página da Web, uma campanha foi criada no Adobe Journey Optimizer e configurada com o canal correto, canal de experiência baseado em código. Essa configuração garante que as ofertas sejam entregues por meio de decisões em tempo real aos usuários que interagem com o site.
@@ -32,11 +45,11 @@ Quando um usuário visita o site, o sistema detecta sua localização e busca a 
 ## Etapas de alto nível para criar uma campanha no AJO
 
 - Criar uma configuração de canal
-   - Defina onde e como as ofertas são exibidas (por exemplo, uma página da Web com experiência baseada em código).
-   - Faça logon no Jornada Otimizer
-   - Navegue até _&#x200B;**Administração ->Canais ->Criar configuração de canal**&#x200B;_
-   - **Nome**: `offers-by-weather`\
-     Identifica essa configuração para a entrega personalizada de ofertas da Web.
+  - Defina onde e como as ofertas são exibidas (por exemplo, uma página da Web com experiência baseada em código).
+  - Faça logon no Jornada Otimizer
+  - Navegue até _&#x200B;**Administração ->Canais ->Criar configuração de canal**&#x200B;_
+  - **Nome**: `offers-by-weather`\
+    Identifica essa configuração para a entrega personalizada de ofertas da Web.
 - **Canal**:
   `Code-based experience`\
   As ofertas não são injetadas diretamente no DOM. Em vez disso, o AJO retorna o HTML bruto, que é analisado usando o JavaScript personalizado.
@@ -53,23 +66,23 @@ Quando um usuário visita o site, o sistema detecta sua localização e busca a 
 
 
 - **Iniciar uma nova campanha**
-   - Navegue até a seção Campanhas e crie uma nova campanha de marketing agendada. Nomeie a campanha apropriadamente.
-   - **Adicionar ação**
-      - Adicione a ação de experiência baseada em código e vincule a ação a uma configuração de canal criada anteriormente.
+  - Navegue até a seção Campanhas e crie uma nova campanha de marketing agendada. Nomeie a campanha apropriadamente.
+  - **Adicionar ação**
+    - Adicione a ação de experiência baseada em código e vincule a ação a uma configuração de canal criada anteriormente.
 
 
 
-   - **Público-alvo**
-      - Todos os visitantes (padrão).
-      - Tipo de identidade: ECID (Experience Cloud ID)
-Essa configuração usa a ECID como a identidade principal para reconhecer usuários.
+  - **Público-alvo**
+    - Todos os visitantes (padrão).
+    - Tipo de identidade: ECID (Experience Cloud ID)
+      Essa configuração usa a ECID como a identidade principal para reconhecer usuários.
 
 
 - **Criar Política de Decisão**
-   - A ação está vinculada a uma **Política de Decisão** que define como as ofertas são selecionadas e quantas ofertas são retornadas para exibição. Esta política usa uma **Estratégia de Seleção** criada anteriormente no tutorial.
-   - Para inserir a política de decisão, clique em **_Editar conteúdo_** nas seções Ações e em **_Editar código_** para abrir o editor de personalização.
-   - Selecione o ícone _&#x200B;**Política de decisão**&#x200B;_ à esquerda e clique no botão **Adicionar política de decisão** para abrir a tela **Criar política de decisão**. Forneça um nome significativo para a política de decisão e selecione o número de itens que a política de decisão deve retornar. O padrão é 1.
-   - Clique em **_avançar_**, adicione a estratégia de seleção criada na etapa anterior à política de decisão e clique em **avançar** para concluir o processo de criação da política de decisão. Nenhuma oferta substituta foi associada à política de decisão.
+  - A ação está vinculada a uma **Política de Decisão** que define como as ofertas são selecionadas e quantas ofertas são retornadas para exibição. Esta política usa uma **Estratégia de Seleção** criada anteriormente no tutorial.
+  - Para inserir a política de decisão, clique em **_Editar conteúdo_** nas seções Ações e em **_Editar código_** para abrir o editor de personalização.
+  - Selecione o ícone _&#x200B;**Política de decisão**&#x200B;_ à esquerda e clique no botão **Adicionar política de decisão** para abrir a tela **Criar política de decisão**. Forneça um nome significativo para a política de decisão e selecione o número de itens que a política de decisão deve retornar. O padrão é 1.
+  - Clique em **_avançar_**, adicione a estratégia de seleção criada na etapa anterior à política de decisão e clique em **avançar** para concluir o processo de criação da política de decisão. Nenhuma oferta substituta foi associada à política de decisão.
 
 
 
@@ -77,7 +90,7 @@ Essa configuração usa a ECID como a identidade principal para reconhecer usuá
   ![editor-personalização](assets/personalization-editor.png)
 
   Insira a política de decisão recém-criada clicando no botão _&#x200B;**Inserir política**&#x200B;_. Isso insere um loop for no editor de personalização no lado direito.
-Coloque o cursor entre cada loop na linha dois e insira o offerText navegando até a oferta aprofundando o `tenant name`. Envolva a oferta em uma Div com o item de oferta da classe, como mostrado na captura de tela.
+  Coloque o cursor entre cada loop na linha dois e insira o offerText navegando até a oferta aprofundando o `tenant name`. Envolva a oferta em uma Div com o item de oferta da classe, como mostrado na captura de tela.
 
 
 

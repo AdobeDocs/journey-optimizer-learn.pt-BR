@@ -9,13 +9,23 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 2%
-
+source-wordcount: '825'
+ht-degree: 4%
 ---
-
 # Lição 4: criar uma campanha por push
 
 No exercício anterior, o senhor era um entusiasta do café, cliente da Fréscopa. Você interagiu com a marca por meio do site e do aplicativo Fréscopa e recebeu muitas mensagens transacionais. Essas mensagens são acionadas por meio da interação do usuário com o site ou o aplicativo.
@@ -214,4 +224,4 @@ Se estiver satisfeito com o conteúdo da mensagem, você poderá ativá-la:
 * [Introdução à notificação por push](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/push/get-started-push)
 * [Criar uma notificação por push](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/push/create-push)
 * [Criar uma notificação por push](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/push/design-push)
-* [Verificar e enviar sua notificação por push](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/push/send-push)
+* [Verificação e envio da notificação por push](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/push/send-push)

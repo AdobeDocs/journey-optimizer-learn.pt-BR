@@ -5,17 +5,30 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: e080149c-0ac0-4559-b99d-ebad9f03b98b
-source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '208'
 ht-degree: 0%
-
 ---
-
 # Crie o aplicativo de amostra para simular a atividade de logon
 
 Este aplicativo de amostra, criado e implantado em um servidor Node.js, demonstra como enviar uma ID do CRM para o Adobe Experience Platform (AEP) quando um usuário faz logon. O aplicativo simula um fluxo de logon em que as credenciais do usuário são validadas no lado do servidor. Após o logon bem-sucedido, a ID do CRM do usuário é recuperada e enviada para a adobeDataLayer, acionando uma regra correspondente nas Tags do Adobe Experience Platform (antigo Adobe Launch).

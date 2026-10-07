@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 55cb0875-2953-4d5c-a240-4277aa2f746e
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '318'
 ht-degree: 2%
-
 ---
-
 # Depuração do push da Web no AJO
 
 Esta página fornece dicas úteis para depurar o fluxo de notificação por push da Web, incluindo a verificação de solicitações do Web SDK, a verificação da ECID e do perfil do usuário no AEP e a garantia de que eventos como price.drop sejam enviados e recebidos corretamente.
@@ -32,8 +42,8 @@ Essa ferramenta permite:
 
 - **Use a guia Rede para verificar solicitações**\
   Abra a **guia Rede** nas ferramentas de desenvolvedor do seu navegador e filtre as solicitações feitas pelo Web SDK (procure `/collect` ou `interact`).
-   - Confirme se as solicitações estão sendo enviadas quando a página é carregada e quando as ações são acionadas
-   - Verifique se o evento `price.drop` está incluído na carga
+  - Confirme se as solicitações estão sendo enviadas quando a página é carregada e quando as ações são acionadas
+  - Verifique se o evento `price.drop` está incluído na carga
 
 - **Pesquisar o perfil de usuário no AEP**\
   Use a ECID para pesquisar o perfil do usuário no Adobe Experience Platform. Isso ajuda a confirmar que o usuário é reconhecido e que seus dados (como assinatura push) estão sendo armazenados corretamente.
@@ -45,8 +55,8 @@ Verifique o json do evento message.feedback para `feedback.status`. O valor de s
 
 - **Confirmar se as notificações por push estão habilitadas**\
   Verifique se:
-   - O usuário aceitou o prompt de notificação do navegador
-   - Existe um token de push no perfil do usuário
+  - O usuário aceitou o prompt de notificação do navegador
+  - Existe um token de push no perfil do usuário
 
 - **Verificar a configuração do jornada**\
   Verifique se a jornada foi publicada e configurada para escutar o evento `price.drop`.

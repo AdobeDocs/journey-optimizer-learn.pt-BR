@@ -5,15 +5,25 @@ jira: KT-7531
 feature: Journeys
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 100%
-
 ---
-
 
 # Criar email de confirmação de pedido
 
@@ -47,9 +57,9 @@ Crie uma jornada que envia um email de confirmação de pedido quando um cliente
 
    * Use o modelo `Luma - Order summary` e modifique-o:
 
-      * Remova as seções `You may also like`
+     * Remova as seções `You may also like`
 
-      * Adicione o link para cancelar inscrição na parte inferior do email
+     * Adicione o link para cancelar inscrição na parte inferior do email
 
 O email deve ser estruturado da seguinte maneira:
 

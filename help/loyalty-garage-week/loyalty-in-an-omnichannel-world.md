@@ -6,13 +6,23 @@ role: User
 hide: true
 index: false
 exl-id: 73603f31-b60f-4062-8de2-636b20d2c039
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '2186'
 ht-degree: 0%
-
 ---
-
 # Fidelidade em um mundo omnicanal
 
 ## Desenvolvendo uma experiência de fidelidade unificada, preditiva e em tempo real em todos os pontos de contato do cliente
@@ -32,21 +42,21 @@ A maioria dos programas de fidelidade foi criada em uma era dominada pelo market
 
 O primeiro ponto de falha principal é **fragmentação de identidade**. Um único cliente pode interagir com a marca por meio de um logon de aplicativo, uma ID de navegador, um número de fidelidade de PDV, um endereço de email, um número de telefone para SMS e um cookie para eventos da Web. Em muitas organizações, esses identificadores permanecem desconectados, resultando em divisões de identidade equivocadas, perfis duplicados, históricos de fidelidade incompletos e estado de progresso interrompido. Um cliente que conclui um desafio no aplicativo pode não vê-lo refletido no site. Um cliente que resgata uma recompensa na loja ainda pode receber um email pedindo resgate. A fragmentação de identidade mina a confiança e a experiência de fidelidade.
 
-O segundo ponto de falha é **silos de canal**. Most large organizations still operate with separate teams responsible for email, mobile marketing, SMS, web personalization, customer support, and retail operations. Each team executes campaigns independently, optimizing for channel KPIs (click rates, open rates, app DAU, SMS conversion) rather than holistic customer value. This produces message collisions, inconsistent loyalty visibility, and multiple overlapping contact streams that fatigue users.
+O segundo ponto de falha é **silos de canal**. A maioria das grandes organizações ainda opera com equipes separadas responsáveis por email, marketing móvel, SMS, personalização da Web, suporte ao cliente e operações de varejo. Cada equipe executa campanhas independentemente, otimizando para KPIs do canal (taxas de clique, taxas de abertura, DAU do aplicativo, conversão de SMS) em vez de valor holístico do cliente. Isso produz colisões de mensagens, visibilidade de fidelidade inconsistente e vários fluxos de contato sobrepostos que fatigam os usuários.
 
-The third failure point is **batch-based data synchronization**. Many enterprise loyalty systems still reconcile transactions, point earnings, reward balances, and behavioral events overnight or via delayed ETL processes. But customers expect their loyalty state to reflect reality instantly. If a reward is redeemed in-store, the app and website should refresh within seconds, not hours. Loyalty balances updated only once per day are incompatible with omnichannel engagement.
+O terceiro ponto de falha é **sincronização de dados baseada em lote**. Muitos sistemas de fidelidade corporativa ainda reconciliam transações, ganhos pontuais, saldos de recompensa e eventos comportamentais da noite para o dia ou por meio de processos ETL atrasados. Mas os clientes esperam que seu estado de fidelidade reflita a realidade instantaneamente. Se uma recompensa for resgatada na loja, o aplicativo e o site deverão ser atualizados em segundos, não em horas. Os saldos de fidelidade atualizados apenas uma vez por dia são incompatíveis com o envolvimento omnicanal.
 
-The fourth failure point is **loyalty experiences that are not embedded across all customer touchpoints**. Many programs display loyalty only in the app or in email communications. But customers engage everywhere. Loyalty value must be visible on the homepage, product detail pages, cart, push notifications, SMS threads, digital receipts, call center interfaces, and physical store signage. When loyalty is invisible or inconsistently surfaced, customers perceive less value and engage less frequently.
+O quarto ponto de falha é **experiências de fidelidade que não estão inseridas em todos os pontos de contato do cliente**. Muitos programas exibem fidelidade somente no aplicativo ou em comunicações por email. Mas os clientes se envolvem em todos os lugares. O valor de fidelidade deve estar visível na página inicial, nas páginas de detalhes do produto, no carrinho, nas notificações por push, nos threads de SMS, nos recibos digitais, nas interfaces da central de atendimento e na sinalização de loja física. Quando a fidelidade é invisível ou exibida de forma inconsistente, os clientes percebem menos valor e se envolvem com menos frequência.
 
-The combination of these failures leads to what can be called **loyalty dissonance**—the psychological gap between what the customer expects and what the brand delivers. Omnichannel loyalty solves this by aligning identity, data, decisioning, journey orchestration, and user experience around a single continuous narrative.
+A combinação dessas falhas leva ao que pode ser chamado de **dissonância de fidelidade** — a lacuna psicológica entre o que o cliente espera e o que a marca oferece. A fidelidade omnicanal resolve isso alinhando identidade, dados, decisões, orquestração de jornadas e experiência do usuário em torno de uma única narrativa contínua.
 
-## 2. What Omnichannel Loyalty Really Means
+## &#x200B;2. O que a fidelidade omnicanal realmente significa
 
-Omnichannel loyalty is not about using more channels or sending more messages. It is the discipline of creating a seamless experience across all brand surfaces, anchored by a single customer identity, with real-time continuity of loyalty value.
+A fidelidade omnicanal não se trata de usar mais canais ou enviar mais mensagens. É a disciplina de criar uma experiência contínua em todas as superfícies da marca, ancorada por uma única identidade do cliente, com continuidade em tempo real do valor de fidelidade.
 
-At its core, omnichannel loyalty requires that **every touchpoint knows who the customer is, what matters to them now, what loyalty value they hold, what they have done recently, and what the next best experience should be**. This is not accomplished through campaigns but through architecture. Omnichannel loyalty is a system in which the customer profile is continuously updated, the decisioning layer continuously evaluates the next best action, and all channels operate in coordination rather than competition.
+Em sua essência, a fidelidade omnicanal requer que **todos os pontos de contato saibam quem é o cliente, o que é importante para eles agora, qual o valor de fidelidade que possuem, o que fizeram recentemente e qual deve ser a próxima melhor experiência**. Isso não é feito por meio de campanhas, mas por meio de arquitetura. A fidelidade omnicanal é um sistema no qual o perfil do cliente é atualizado continuamente, a camada de decisão avalia continuamente a próxima melhor ação e todos os canais operam em coordenação, em vez de concorrência.
 
-A customer opening the app should see the same reward countdown they saw in an email. A customer visiting a store should be greeted with staff who can see their tier and eligibility. A customer viewing a product online should see loyalty pricing or points potential tailored to their status. A customer receiving a push notification should not also receive an email if the push achieves the intended outcome. A fidelidade omnicanal exige uma experiência de front-end unificada e lógica de back-end unificada.
+Um cliente que abrir o aplicativo deve ver a mesma contagem regressiva de recompensas que viu em um email. Um cliente que visita uma loja deve ser recebido com uma equipe que pode ver sua camada e qualificação. Um cliente que visualiza um produto online deve ver os preços de fidelidade ou os pontos em potencial ajustados ao seu status. Um cliente que recebe uma notificação por push também não deve receber um email se o push atingir o resultado desejado. A fidelidade omnicanal exige uma experiência de front-end unificada e lógica de back-end unificada.
 
 Isso nos leva à espinha dorsal arquitetônica da lealdade omnicanal.
 

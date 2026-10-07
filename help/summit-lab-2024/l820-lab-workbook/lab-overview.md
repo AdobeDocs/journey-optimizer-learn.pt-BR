@@ -8,15 +8,28 @@ doc-type: Tutorial
 duration: 0
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-last-substantial-update: 2024-03-26T00:00:00Z
+last-substantial-update: 2024-03-26T00:00:00.000Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
-source-git-commit: 1de5297037b9ec707fca7f28e65ae6149f7ad076
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '505'
 ht-degree: 0%
-
 ---
-
 # PASTA DE TRABALHO DO LABORATÓRIO
 
 ![Adobe Summit - texto alternativo](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
@@ -30,16 +43,16 @@ Neste laboratório prático, você explora vários cenários móveis e aprende a
 >
 >Evite publicar fotos ou capturas de tela da sessão nas redes sociais.
 ><br>
->**Confidencialidade de Adobe**
+>**Confidencialidade do Adobe**
 >As informações e divulgações de produtos compartilhadas hoje durante este laboratório são Informações confidenciais da Adobe.
 >Os participantes não podem reproduzir, utilizar, divulgar ou divulgar Informações confidenciais a qualquer pessoa ou entidade.
 >As divulgações de produtos são somente para fins informativos, não são uma garantia de qualquer recurso ou funcionalidade futura e estão sujeitas a alterações a qualquer momento. Sendo assim, esses recursos ou funcionalidades do produto não fazem parte de nenhum modo de seu contrato com a Adobe ou são de outra forma comprometidos com você.
 ><br>
->**Aviso de Isenção de Responsabilidade**
+>**Aviso**
 >A Adobe está fornecendo acesso antecipado aos recursos do, que aproveitam a tecnologia de IA geradora. Observe que esses recursos ainda estão em desenvolvimento e podem produzir respostas inesperadas ou imprecisas. Seus comentários são bem-vindos à medida que lançamos esse recurso no mercado.
 
 
-### Principais pontos
+### Principais lições
 
 * Entenda a variedade de experiências móveis compatíveis.
 * Configure uma campanha por push.
@@ -51,7 +64,7 @@ Neste laboratório prático, você explora vários cenários móveis e aprende a
 
 * Conheça o número do seu assento: Você pode encontrar o número do seu assento no tampo da mesa da máquina do laboratório:
 
-![Número de vagas](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+![Número da vaga](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 Você precisa de acesso a:
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - os detalhes de logon são fornecidos durante os exercícios.

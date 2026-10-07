@@ -5,15 +5,32 @@ jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+  - id: fda7be7c-b81e-42c0-95a9-616e5b893c03
+    internal-label: Build expressions
+subfeature_v2:
+  - id: a9db6739-b0ee-4ac1-bf1b-d880e21c6a00
+    internal-label: Segments
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
-
 ---
-
 # Criar um anúncio para a Coleção de verão - Desafio
 
 | Desafio | Criar um anúncio de Coleção de Verão |
@@ -84,7 +101,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >[!ENDTABS]
 
 
-### Etapa 2: Criação da Jornada – anúncio da Coleção de Verão
+### Etapa 2: Criação da Jornada - anúncio da Coleção de Verão
 
 >[!BEGINTABS]
 
@@ -109,17 +126,17 @@ Uma agência forneceu quatro arquivos HTML com o design para os emails:
       * Use o arquivo HTML fornecido `SeasonalCollectionEmail.html` no corpo do email.
    1. Aguarde dois dias e envie uma mensagem de email de acompanhamento com conteúdo mais direcionado:
       * Os clientes do sexo masculino devem receber o email **Coleção masculina da Luma**.
-         * Título da mensagem: *Coleção masculina da Luma*
-         * Linha de assunto: *(nome do destinatário), descubra os novos equipamentos atléticos masculinos!*
-         * Corpo do email: `MensCollectionEmail.html` no corpo do email.
+        * Título da mensagem: *Coleção masculina da Luma*
+        * Linha de assunto: *(nome do destinatário), descubra os novos equipamentos atléticos masculinos!*
+        * Corpo do email: `MensCollectionEmail.html` no corpo do email.
       * As clientes do sexo feminino devem receber o email **Coleção feminina da Luma**.
-         * Título da mensagem: *Coleção feminina da Luma*
-         * Linha de assunto: *(nome do destinatário), descubra coleção feminina da Luma!*
-         * Corpo do email: `WomensCollectionEmail.html`
+        * Título da mensagem: *Coleção feminina da Luma*
+        * Linha de assunto: *(nome do destinatário), descubra coleção feminina da Luma!*
+        * Corpo do email: `WomensCollectionEmail.html`
       * Outros clientes devem receber o email **Luma - Coleção com 20% de desconto**.
-         * Título da mensagem: *Luma - Coleção com 20% de desconto*
-         * Linha de assunto: *(nome do destinatário), aproveite a liquidação com 20% de desconto!*
-         * Corpo do email: `20OOffCollectionEmail.html`
+        * Título da mensagem: *Luma - Coleção com 20% de desconto*
+        * Linha de assunto: *(nome do destinatário), aproveite a liquidação com 20% de desconto!*
+        * Corpo do email: `20OOffCollectionEmail.html`
    1. Depois de enviar os emails direcionados acima, aguarde mais dois dias para que eles sejam abertos
    1. Se o email direcionado não for aberto em 2 dias, envie o email **Luma - Coleção com 20% de desconto** como uma tentativa final de redirecionamento
 
@@ -207,9 +224,9 @@ Você deve receber os seguintes emails:
 
 * Luma - Anúncio da nova coleção da estação
 * Dependendo do perfil de teste usado, você deve receber um dos seguintes emails:
-   * Leora: Coleção Luma para mulheres
-   * Stanleigh: Coleção Luma para homens
-   * Louise: Luma - Coleção com 20% de desconto
+  * Leora: Coleção Luma para mulheres
+  * Stanleigh: Coleção Luma para homens
+  * Louise: Luma - Coleção com 20% de desconto
 * Caso não tenha aberto o segundo email: Luma - Coleção com 20% de desconto
 
 >[!TAB Verifique o seu trabalho]

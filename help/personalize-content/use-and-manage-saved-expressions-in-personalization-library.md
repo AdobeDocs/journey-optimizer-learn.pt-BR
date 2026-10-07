@@ -1,21 +1,36 @@
 ---
 title: Usar e gerenciar expressões salvas na biblioteca de personalização
-description: Saiba como usar os itens salvos na biblioteca de personalização em uma mensagem e como criar e gerenciar itens na biblioteca de personalização.
+description: Saiba como usar em uma mensagem os itens da biblioteca de personalização salvos e como criar e gerenciar itens da biblioteca de personalização.
 feature: Personalization, Email Design
 role: User
 level: Beginner
 jira: KT-9806
 thumbnail: 340941.jpg
 exl-id: 9ae24064-11a7-4fa0-8eb8-125f7764cfc4
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: e27fbada-1278-56f5-ac8f-e77b392cb15b
+    internal-label: Personalization
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+subfeature_v2:
+  - id: ee5bb250-0884-4d71-86eb-d8489e8bcadd
+    internal-label: Email design
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '58'
 ht-degree: 100%
-
 ---
-
 # Usar e gerenciar expressões salvas na biblioteca de personalização
 
-Saiba como usar os itens salvos na biblioteca de personalização em uma mensagem e como criar e gerenciar itens na biblioteca de personalização.
+Saiba como usar em uma mensagem os itens da biblioteca de personalização salvos e como criar e gerenciar itens da biblioteca de personalização.
 
->[!VIDEO](https://video.tv.adobe.com/v/344989?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344989?captions=por_br&quality=12&learn=on){transcript=true}

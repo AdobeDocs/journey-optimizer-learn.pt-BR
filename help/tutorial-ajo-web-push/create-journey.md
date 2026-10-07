@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 14342b47-5485-4f7f-9312-cff1ee0f8972
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '481'
 ht-degree: 0%
-
 ---
-
 # Criar Jornada
 
 Nesta etapa, você criará uma jornada no Adobe Journey Optimizer acionada pelo evento price.drop personalizado. Quando esse evento é recebido, a jornada é iniciada em tempo real e envia uma notificação por push aos usuários que aceitaram, permitindo o engajamento orientado por eventos.
@@ -55,7 +65,7 @@ Adicione uma combinação de conteúdo estático e dinâmico à notificação po
 Para começar a compor a mensagem, clique em `Content` para abrir a guia de conteúdo, onde é possível definir o texto fixo e os campos dinâmicos derivados dos dados do evento.
 ![content-push](assets/compose-message.png)
 
-Especifique o título da mensagem de push e abra o editor de personalização para compor o corpo da mensagem. O conteúdo incluirá dinamicamente os nomes dos produtos cujos preços caíram. Para fazer isso, use cada função auxiliar [&#128279;](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+Especifique o título da mensagem de push e abra o editor de personalização para compor o corpo da mensagem. O conteúdo incluirá dinamicamente os nomes dos produtos cujos preços caíram. Para fazer isso, use cada função auxiliar [](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 para iterar sobre a lista de produtos e renderizar seus nomes na mensagem.
 
 ## Compor o corpo da mensagem

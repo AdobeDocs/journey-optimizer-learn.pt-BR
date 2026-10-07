@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30T00:00:00Z
+last-substantial-update: 2025-05-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18188
 exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
-source-git-commit: 640faaf9a316b2ab3e2e7774b2c30612cf1b1dbe
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '624'
-ht-degree: 1%
-
+source-wordcount: '741'
+ht-degree: 0%
 ---
-
 # Criar uma campanha
 
 Para fornecer ofertas personalizadas aos usuários na página da Web, uma campanha foi criada no Adobe Journey Optimizer e configurada com o canal correto, canal da Web. Essa configuração garante que as ofertas sejam entregues por meio de decisões em tempo real aos usuários que interagem com o site.
@@ -38,7 +51,7 @@ O resultado é um conjunto personalizado de ofertas, retornado como conteúdo do
 1. **Criar uma Configuração de Canal**\
    Defina onde e como as ofertas são exibidas (por exemplo, uma página da Web com experiência baseada em código).
    - Faça logon no Jornada Otimizer
-     Navegue até _&#x200B;**Administração ->Canais ->Criar configuração de canal**&#x200B;_
+     Navegue até _**Administração ->Canais ->Criar configuração de canal**_
    - **Nome**: `finwise-web-personalization`\
      Identifica essa configuração para a entrega personalizada de ofertas da Web do FinWise.
 
@@ -64,13 +77,13 @@ O resultado é um conjunto personalizado de ofertas, retornado como conteúdo do
 
 
 3. **Adicionar ação**\
-   Navegue até a guia _&#x200B;**Ações**&#x200B;_
+   Navegue até a guia _**Ações**_
    Adicione a ação de experiência baseada em código e vincule a ação a uma configuração de canal criada anteriormente.
 
 
 
 4. **Público-alvo**\
-   Navegue até a guia _&#x200B;**Público-alvo**&#x200B;_
+   Navegue até a guia _**Público-alvo**_
    Todos os visitantes (padrão).
 
    Tipo de identidade: ECID (Experience Cloud ID)
@@ -81,14 +94,14 @@ O resultado é um conjunto personalizado de ofertas, retornado como conteúdo do
 
    A ação está vinculada a uma **Política de Decisão** que define como as ofertas são selecionadas e quantas ofertas são retornadas para exibição. Esta política usa uma **Estratégia de Seleção** criada anteriormente no tutorial.
 
-   Para inserir a política de decisão, clique em **_Editar conteúdo_** na guia _&#x200B;**Ações**&#x200B;_ e em **_Editar código_** para abrir o editor de personalização.
+   Para inserir a política de decisão, clique em **_Editar conteúdo_** na guia _**Ações**_ e em **_Editar código_** para abrir o editor de personalização.
 
-   Selecione o ícone _&#x200B;**Política de decisão**&#x200B;_ à esquerda e clique no botão **Adicionar política de decisão** para abrir a tela **Criar política de decisão**. Forneça um nome significativo para a política de decisão e selecione o número de itens que a política de decisão deve retornar. O padrão é 1.
+   Selecione o ícone _**Política de decisão**_ à esquerda e clique no botão **Adicionar política de decisão** para abrir a tela **Criar política de decisão**. Forneça um nome significativo para a política de decisão e selecione o número de itens que a política de decisão deve retornar. O padrão é 1.
    Clique em **_avançar_**, adicione a estratégia de seleção criada na etapa anterior à política de decisão e clique em **avançar** para concluir o processo de criação da política de decisão. Selecione a oferta substituta apropriada.
 
 6. **Inserir Política de Decisão**
 
-   Insira a política de decisão recém-criada clicando no botão _&#x200B;**Inserir política**&#x200B;_. Isso insere um loop for no editor de personalização no lado direito.
+   Insira a política de decisão recém-criada clicando no botão _**Inserir política**_. Isso insere um loop for no editor de personalização no lado direito.
    Coloque o cursor entre cada loop na linha dois e insira o offerText navegando até a oferta aprofundando o `tenant name`
 
    Política de decisão inserida no editor de personalização
@@ -101,6 +114,6 @@ O resultado é um conjunto personalizado de ofertas, retornado como conteúdo do
 
 7. **Salvar a campanha**
 
-   Salve a campanha clicando no botão _&#x200B;**Revisar para Ativar**&#x200B;_
+   Salve a campanha clicando no botão _**Revisar para Ativar**_
 
 

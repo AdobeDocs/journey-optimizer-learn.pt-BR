@@ -5,11 +5,26 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-09-24
+last-substantial-update: 2025-09-24T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-19287
 exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
-source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 10%
@@ -20,8 +35,8 @@ Nesta extensão do tutorial de Compilação de identidade, a jornada do Adobe Jo
 
 ## Criar configuração de canal de email
 
-* Fazer logon no _&#x200B;**Journey Optimizer**&#x200B;_
-* Navegue até _&#x200B;**Administração -> Canais -> Criar configuração de canal**&#x200B;_
+* Fazer logon no _**Journey Optimizer**_
+* Navegue até _**Administração -> Canais -> Criar configuração de canal**_
 * Selecione **Email** na lista de canais. Forneça um nome e uma descrição significativos.
 * Preencha as configurações de email.
 * Forneça os detalhes da execução conforme mostrado abaixo. O email é enviado para o endereço de email do perfil armazenado no campo
@@ -30,8 +45,8 @@ Nesta extensão do tutorial de Compilação de identidade, a jornada do Adobe Jo
 
 ## Criar evento
 
-* Fazer logon no _&#x200B;**Journey Optimizer**&#x200B;_
-* Navegue até _&#x200B;**Administração -> Configurações**&#x200B;_
+* Fazer logon no _**Journey Optimizer**_
+* Navegue até _**Administração -> Configurações**_
 * Clique no botão Gerenciar do cartão Eventos e clique em Criar evento. Especifique os valores conforme mostrado abaixo
 * ![jornada-evento](assets/journey-event1.png)
 
@@ -40,9 +55,9 @@ Nesta extensão do tutorial de Compilação de identidade, a jornada do Adobe Jo
 
 ## Criar Jornada
 
-* Fazer logon no _&#x200B;**Journey Optimizer**&#x200B;_
-* Navegue até _&#x200B;**Gerenciamento de Jornadas > Jornadas > Criar Jornada**&#x200B;_
-* Arraste e solte o evento _&#x200B;**UserLoggedIn**&#x200B;_ na tela
+* Fazer logon no _**Journey Optimizer**_
+* Navegue até _**Gerenciamento de Jornadas > Jornadas > Criar Jornada**_
+* Arraste e solte o evento _**UserLoggedIn**_ na tela
 * Arraste e solte Email no menu de ações. Configure a ação de email para usar a configuração de canal de email criada anteriormente.
 * Publique a jornada.
 

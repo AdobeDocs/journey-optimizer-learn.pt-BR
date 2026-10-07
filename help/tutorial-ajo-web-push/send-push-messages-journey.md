@@ -5,15 +5,28 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-01-21T00:00:00Z
+last-substantial-update: 2026-01-21T00:00:00.000Z
 jira: KT-18526
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
-
 ---
-
 # Enviar mensagens por push em uma jornada
 
 O acionamento de uma jornada com base em um evento de queda de preço permite um engajamento em tempo real e orientado por comportamento com os usuários. Em cenários do mundo real, esse evento normalmente é originado de um sistema de preços de back-end quando o preço de um produto é atualizado. Neste tutorial, simulamos esse comportamento enviando um evento price.drop personalizado pela Camada de dados do Adobe usando Tags da AEP, incluindo detalhes do produto, como nome e SKU. Esse evento é assimilado na Adobe Experience Platform e usado como um acionador de entrada para uma jornada no Adobe Journey Optimizer. Depois de recebida, a jornada pode enviar imediatamente uma notificação por push personalizada para usuários elegíveis, informando-os sobre a queda de preço e incentivando a ação oportuna.

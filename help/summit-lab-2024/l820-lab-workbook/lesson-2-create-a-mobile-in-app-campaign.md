@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
 exl-id: fe18eca7-229c-4867-ab34-1862bad63124
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '1432'
-ht-degree: 1%
-
+source-wordcount: '1520'
+ht-degree: 2%
 ---
-
 # Lição 2: criar uma campanha móvel no aplicativo
 
 Nesta lição, você cria e aciona mensagens móveis no aplicativo.
@@ -33,7 +46,7 @@ Nesta lição, você cria e aciona mensagens móveis no aplicativo.
 2. Faça logon usando os seguintes detalhes:
    <br>
    **Nome de Usuário:** L820+**`<your seat number>`**@adobeeventlab.com
-   **Senha:**   Adobe2024!
+   **Senha:** Adobe2024!
    <br>
 Você pode encontrar os detalhes para fazer login no desktop da sua máquina de laboratório. Use a Adobe ID e a senha.
    ![área de trabalho](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
@@ -147,9 +160,9 @@ Por exemplo, clique em **[!UICONTROL Modal]** para transformar sua mensagem no a
 
 #### 2.3.3.2 Criando sua mensagem e publicando sua campanha
 
-1. Na seção de mídia, cole na seguinte URL: `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
+1. Na seção de mídia, cole no seguinte URL:  `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
    <br>
-Ao clicar fora do campo de valor, a imagem deve aparecer.
+   Ao clicar fora do campo de valor, a imagem deve aparecer.
 
    ![mídia mostrada na visualização](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
 
@@ -282,7 +295,7 @@ Os recursos **Duplicar campanha** e **Visualizar no dispositivo** são funcional
 
 1. Em seguida, clique no **[!UICONTROL botão Iniciar]** da tela conectar ao dispositivo.
 
-   ![botão Iniciar](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-2-connect-to-device-start.png)
+   Botão ![iniciar](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-2-connect-to-device-start.png)
    <br>
 
 1. Insira a url base que foi configurada para iniciar o aplicativo Fréscopa: `dxdemo://`
@@ -296,7 +309,7 @@ Os recursos **Duplicar campanha** e **Visualizar no dispositivo** são funcional
    2. Insira o pino mostrado no AJO na tela do Assurance do seu dispositivo e clique no botão Connect (Conectar), exibido na parte inferior direita após inserir o pino.
 
 
-   ![insira o pino](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
+   ![insira o pin](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
    <br>
 1. Este pop-up é exibido na tela do computador
 
@@ -320,7 +333,7 @@ Os recursos **Duplicar campanha** e **Visualizar no dispositivo** são funcional
 
 **Documentação do produto:**
 
-* [Introdução ao canal no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Criar uma mensagem móvel no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/create-in-app)
-* [Projete seu conteúdo no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/design-in-app)
-* [Verifique e envie sua notificação no aplicativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/in-app/send-in-app)
+* [Introdução ao canal no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Criar uma mensagem no aplicativo móvel](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [Criar seu conteúdo no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Verificação e envio da notificação no aplicativo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

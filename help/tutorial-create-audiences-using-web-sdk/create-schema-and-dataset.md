@@ -5,16 +5,29 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30T00:00:00.000Z
 jira: KT-17923
 exl-id: 0efa418a-5b4f-4012-a6fc-afaa34a59285
-source-git-commit: 15b2379c251ed0d7583a01fb6af67815322456cf
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
+    internal-label: Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '284'
 ht-degree: 0%
-
 ---
-
 # Configurar esquema XDM, conjunto de dados e sequência de dados no AEP
 
 ## Criar esquema XDM
@@ -22,9 +35,9 @@ ht-degree: 0%
 * Fazer logon no Adobe Experience Platform
 * Gerenciamento de dados -> Esquemas -> Criar esquema
 
-* Crie um esquema baseado em eventos XDM chamado _Supervisores Financeiros_. Se você não estiver familiarizado com a criação de um esquema, siga esta [documentação](https://experienceleague.adobe.com/pt-br/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Crie um esquema baseado em eventos XDM chamado _Supervisores Financeiros_. Se você não estiver familiarizado com a criação de um esquema, siga esta [documentação](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
-* Adicione a estrutura a seguir ao esquema. O elemento PreferredFinancialInstrument armazena a preferência do usuário para Ações, Títulos, CD. O **__techmarketingdemos_**&#x200B;é a ID do locatário e será diferente em seu ambiente.
+* Adicione a estrutura a seguir ao esquema. O elemento PreferredFinancialInstrument armazena a preferência do usuário para Ações, Títulos, CD. O **__techmarketingdemos_**é a ID do locatário e será diferente em seu ambiente.
   ![xdm-schema](assets/xdm-schema.png)
 
 * O elemento PreferredFinancialInstrument tem valores de enumeração definidos como mostrado abaixo

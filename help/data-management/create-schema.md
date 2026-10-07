@@ -9,7 +9,22 @@ team: PM
 role: Developer
 level: Beginner
 exl-id: 168550e9-e304-4a1a-96da-8aab9e4af4dd
-source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
+    internal-label: Audiences
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
@@ -18,6 +33,6 @@ ht-degree: 100%
 
 Saiba como criar esquemas na Adobe Experience Platform usando a classe de Perfil Individual XDM e vários grupos de campos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430218?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27012?quality=12&learn=on){transcript=true}
 
 Para obter a documentação detalhada do produto, consulte [introdução a esquemas](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/get-started-schemas.html?lang=pt-BR), [criar um esquema na interface](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=pt-BR) e [criar um esquema com a API](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-api.html?lang=pt-BR).

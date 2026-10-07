@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: fidelização
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: b01ac079dd907d420e91dae44e47d11660587e2d
+source-git-commit: a07c147cfaeb33372c1626a2c23b54c77c28f637
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '170'
 ht-degree: 0%
 ---
 
@@ -16,9 +16,13 @@ ht-degree: 0%
 
 + [Introdução ao Journey Optimizer Loyalty para profissionais de marketing](./overview.md)
 + Introdução à Fidelidade {#introduction}
-  + [Descubra a fidelidade do Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+  + [Descubra o Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
   + [Entender os conceitos de desafio de fidelidade](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + Configurar Fidelidade {#set-up-loyality}
+  + Configurar assimilação de dados de fidelidade {#set-up-loyalty-data-ingestion}
+    + [Preparar estruturas de dados de fidelidade](./set-up-loyalty/prepare-loyalty-data-structures.md)
+    + [Conectar e mapear dados de fidelidade](./set-up-loyalty/connect-and-map-loyalty-data.md)
+    + [Verificar dados de fidelidade e configurar relatórios de desempenho](./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md)
   + [Configurar um provedor de premiação de fidelidade](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Configurar seu desafio {#configure-your-challenge}
   + [Configurar um desafio de fidelidade](./configure-your-challenge/set-up-a-loyalty-challenge.md)

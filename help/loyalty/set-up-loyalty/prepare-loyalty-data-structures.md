@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Saiba como configurar os esquemas XDM e os conjuntos de dados habilitados para perfis necessários para receber dados de membros de fidelidade e eventos no Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504120/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504142/?captions=por_br&learn=on)

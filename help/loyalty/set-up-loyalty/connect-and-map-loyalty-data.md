@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Saiba como criar uma conexão de API HTTP e fluxos de dados e, em seguida, mapear o perfil de fidelidade recebido e os campos de evento para seus conjuntos de dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504118/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504133/?captions=por_br&learn=on)

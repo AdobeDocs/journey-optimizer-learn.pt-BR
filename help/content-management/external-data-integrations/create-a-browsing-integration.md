@@ -43,4 +43,4 @@ Saiba como configurar uma integração de navegação para uma API externa, vinc
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
 
-Para obter mais informações, consulte a [Documentação de integração de navegação](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).
+Para obter mais informações, consulte a [Documentação de integração de navegação](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).

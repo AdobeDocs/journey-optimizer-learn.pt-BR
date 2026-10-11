@@ -43,4 +43,4 @@ Saiba como criar uma integração do Standard para usar dados e conteúdo extern
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-Para obter mais informações, consulte a [Documentação de integração padrão](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
+Para obter mais informações, consulte a [Documentação de integração padrão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).

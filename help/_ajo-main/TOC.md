@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Esses são os tutoriais do Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: ht
-source-wordcount: '1579'
-ht-degree: 100%
+source-git-commit: cec289fc6f0240c67a5fe6a297ba9a1512d9005f
+workflow-type: tm+mt
+source-wordcount: '1583'
+ht-degree: 99%
 ---
 
 # Tutoriais do Journey Optimizer {#tutorials}
@@ -78,6 +78,7 @@ ht-degree: 100%
   + [Páginas de assinaturas e de destino](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + Canais {#channels}
   + [Otimização do aplicativo móvel: visão geral](/help/channels/mobile-app-optimization-overview.md)
+  + [Otimizar canais com base na preferência do perfil ou nas pontuações de propensão](/help/channels/channel-optimization.md)
   + Canal de experiência baseada em código{#code-based-experience-channel}
     + [Criar uma campanha de experiência baseada em código](/help/channels/create-a-code-based-experience-campaign.md)
     + [Adicionar campos de formulário a modelos de canal de experiência baseada em código](/help/channels/form-fields-in-code-based-experiences.md)
@@ -146,9 +147,10 @@ ht-degree: 100%
     + [Assistente de IA para geração de conteúdo: Visão geral](/help/content-management/ai-assistant-for-content-generation-overview.md)
     + [Criar conteúdo com o Assistente de IA para geração de conteúdo](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
     + [Criação e gerenciamento de diretrizes da marca](/help/content-management/brand-guideline-creation-and-management.md)
-  + [Otimizar canais com base na preferência do perfil ou nas pontuações de propensão](/help/channels/channel-optimization.md)
   + [Criar um email usando o GenStudio](/help/content-management/create-an-email-using-genstudio.md)
-  + [Habilitar integrações de dados externos na criação de canais](/help/content-management/external-data-integrations-in-channel-authoring.md)
+  + Integrações de dados externas {#external-data-integrations}
+    + [Criar uma integração do Standard](/help/content-management/external-data-integrations/create-a-standard-integration.md)
+    + [Criar uma integração de navegação](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
   + [Criar conteúdo consistente com a marca no Journey Optimizer - Tutorial](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalizar conteúdo {#personalize-content}
   + [Editor de personalização: visão geral](/help/personalize-content/personalization-editor-overview.md)

@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Saiba como enviar dados de perfil de fidelidade de exemplo e de evento para a Adobe Experience Platform, verificar se eles aparecem nos conjuntos de dados e no perfil de cliente unificado, selecionar os conjuntos de dados e priorizar um KPI nas configurações de Desempenho de fidelidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504119/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504124/?captions=por_br&learn=on)

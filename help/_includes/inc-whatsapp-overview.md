@@ -2,8 +2,7 @@
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
 source-wordcount: '275'
-ht-degree: 3%
-
+ht-degree: 5%
 ---
 # WhatsApp
 
@@ -24,7 +23,7 @@ Exemplos:
 
 Escolha o WhatsApp como seu canal preferido quando precisar:
 
-| # | Benefícios | Por que | Exemplo de casos de uso |
+| # | Benefícios | Por que | Casos de uso de exemplo |
 |---|---------|-----|-------------------|
 | 1 | Alcance usuários em uma plataforma de mensagens amplamente usada | O WhatsApp tem uma grande base de usuários ativos globalmente com alto engajamento | <ul><li>Atualizações de pedidos e entregas</li><li>Conversações sobre o suporte ao cliente</li></ul> |
 | 2 | Entregar mensagens interativas e avançadas | Oferece suporte a imagens, vídeos, documentos, botões e respostas rápidas | <ul><li>Campanhas promocionais com CTAs</li><li>Pesquisas interativas ou solicitações de feedback</li></ul> |

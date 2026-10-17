@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Explore as opções de configuração compatíveis com desafios de fidelidade, incluindo configurações globais, relatórios, recompensas, mapeamento de eventos, inventário de produtos e exclusões. Para obter orientação detalhada sobre a configuração, assista aos vídeos dedicados sobre provedores de recompensa e mapeamento de eventos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504405/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504418/?captions=por_br&learn=on&enablevpops)

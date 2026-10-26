@@ -31,9 +31,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '226'
-ht-degree: 75%
+ht-degree: 100%
 ---
 
 # Planejar públicos-alvo com o Adobe Marketing Agent para Microsoft 365 Copilot
@@ -46,5 +46,5 @@ Assista ao vídeo incorporado abaixo para ver uma demonstração ao vivo do Adob
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491188/?captions=por_br&learn=on&enablevpops)
 
-Para obter mais informações sobre como começar, assista [Introdução ao Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}.
-Para ver como os profissionais de marketing usam o Adobe Marketing Agent for Microsoft 365 Copilot para planejar campanhas, revisar o desempenho e monitorar jornadas em andamento, assista aos [Fluxos de trabalho de marketing com o Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}.
+Para mais informações sobre como começar, assista [Introdução ao Adobe Marketing Agent para Microsoft 365 Copilot](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}.
+Para ver como os profissionais de marketing usam o Adobe Marketing Agent para Microsoft 365 Copilot no planejamento de campanhas, na revisão de desempenho e no monitoramento de jornadas em andamento, assista [Fluxos de trabalho de marketing com o Adobe Marketing Agent para Microsoft 365 Copilot](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}.

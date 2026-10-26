@@ -20,14 +20,14 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
 ht-degree: 100%
 ---
 
 # Entregar ofertas com a API do hub de decisões
 
-Saiba como entregar ofertas com a [API do hub de decisões](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=pt-BR). Usando o [!DNL Postman] como demonstração, é feita uma chamada à API para recuperar a ID do container. Em seguida, uma amostra da API de Decisões é personalizada com a ID da atividade, a ID da inserção, o namespace de identidade e a ID do cliente para recuperar uma oferta personalizada. Após recuperar uma oferta personalizada com a API de Decisões, é possível integrar o conteúdo da oferta ao sistema de marketing.
+Saiba como entregar ofertas com a [API do hub de decisões](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=pt-BR). Usando o [!DNL Postman] como demonstração, é feita uma chamada de API para recuperar a ID do container. Em seguida, uma amostra da chamada de API de Decisões é personalizada com a ID da atividade, a ID da inserção, o namespace de identidade e a ID do cliente para recuperar uma oferta personalizada. Após recuperar uma oferta personalizada com a API de Decisões, é possível integrar o conteúdo da oferta ao sistema de marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342833?captions=por_br&quality=12&learn=on){transcript=true}
 

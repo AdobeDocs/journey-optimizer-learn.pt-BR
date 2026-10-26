@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 ---
@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Saiba como as sandboxes da Experience Platform fornecem ambientes isolados para testar funcionalidades novas ou já existentes, bem como trabalhar com uma abordagem de “falha rápida”. Saiba como redefinir e reiniciar os ambientes de desenvolvimento, bem como usar sandboxes com chamadas de API. Para mais informações, consulte o [guia do usuário de sandboxes](https://experienceleague.adobe.com/pt-br/docs/experience-platform/sandbox/home).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430295/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29838/?learn=on)

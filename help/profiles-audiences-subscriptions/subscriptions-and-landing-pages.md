@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '57'
 ht-degree: 100%
 ---
@@ -38,4 +38,4 @@ Saiba como configurar assinaturas e criar páginas de destino:
 * Integre a opção de assinatura ou de cancelamento de assinatura na sua mensagem
 * Configurar jornadas relevantes
 
->[!VIDEO](https://video.tv.adobe.com/v/344402?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on){transcript=true}

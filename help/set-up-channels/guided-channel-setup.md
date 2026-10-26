@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
 ht-degree: 100%
 ---
@@ -40,7 +40,7 @@ A configuração de canal guiada ajuda a configurar e validar rapidamente os can
 
 Saiba como configurar e validar uma notificação do canal de push em um aplicativo de marketing para dispositivos móveis iOS de exemplo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449627/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 Consulte a documentação do produto para obter mais informações:
 

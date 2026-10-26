@@ -20,7 +20,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
 ht-degree: 100%
 ---
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Saiba como criar [ofertas substitutas](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html?lang=pt-BR) para a gestão de decisões. As ofertas substitutas são ofertas padrão exibidas para clientes que não se qualificam para nenhuma das ofertas personalizadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/341361?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329383?quality=12&learn=on){transcript=true}
 
 Para saber mais sobre como criar ofertas substitutas com uma API, consulte o [guia do produto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=pt-BR)

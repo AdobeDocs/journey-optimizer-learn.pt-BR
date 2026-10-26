@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Saiba mais sobre os conceitos fundamentais do armazenamento relacional usado na orquestração de campanhas do Journey Optimizer, que abrangem design de esquemas, ingestão de dados, fontes compatíveis e as principais diferenças em relação ao armazenamento de perfis em tempo real.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470219/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)

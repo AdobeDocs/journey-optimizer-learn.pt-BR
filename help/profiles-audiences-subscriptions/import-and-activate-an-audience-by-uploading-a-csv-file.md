@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 ---
@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Descubra como importar e ativar um público-alvo com eficiência através de um arquivo CSV. Saiba como personalizar o conteúdo usando atributos de enriquecimento do arquivo CSV, garantindo uma experiência mais adaptada para o seu público-alvo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444348/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444298/?learn=on&enablevpops)

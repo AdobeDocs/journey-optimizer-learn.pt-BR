@@ -22,7 +22,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 ---
@@ -30,6 +30,6 @@ ht-degree: 100%
 
 Saiba mais sobre como navegar pelas ferramentas de relatório avançadas do Adobe Journey Optimizer, desde métricas unificadas e visualização de jornada até insights personalizados e análise avançada
 
->[!VIDEO](https://video.tv.adobe.com/v/3443156/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
 
 Para obter a documentação detalhada, acesse [Análise no Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.

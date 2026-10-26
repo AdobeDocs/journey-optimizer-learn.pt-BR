@@ -32,7 +32,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
 ht-degree: 100%
 ---
@@ -46,6 +46,6 @@ ht-degree: 100%
 
 Descubra como exportar um modelo de email do [!DNL Journey Optimizer] para o [!DNL GenStudio for Performance Marketing], criando emails compatíveis com a marca por meio do modelo no [!DNL GenStudio] e importando-os perfeitamente de volta para o [!DNL Journey Optimizer].
 
->[!VIDEO](https://video.tv.adobe.com/v/3456054/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
 
 Para saber mais sobre o [!DNL GenStudio for Performance Marketing], consulte o [[!DNL Adobe GenStudio for Performance Marketing] Guia do usuário](https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"} ou veja os [tutoriais do Adobe GenStudio para marketing de desempenho](https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing-learn/tutorials/overview).

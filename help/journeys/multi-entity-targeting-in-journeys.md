@@ -31,7 +31,7 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 ---
@@ -43,5 +43,5 @@ Este vídeo demonstra como direcionar jornadas por ID de assinatura, ID de conta
 
 Para mais informações sobre esse recurso, consulte [a documentação](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491839/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491835/?learn=on)
 

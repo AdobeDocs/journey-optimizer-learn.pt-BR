@@ -26,7 +26,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 ---
@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Saiba como o Adobe Journey Optimizer simplifica o gerenciamento de ativos digitais com o Adobe Experience Manager incorporado, permitindo pesquisar, navegar e buscar ativos diretamente do repositório. Veja como criar campanhas, criar emails com modelos existentes e fazer upload ou editar ativos sem esforço, colocando à sua disposição uma criação de conteúdo eficiente e impactante.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477016/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)

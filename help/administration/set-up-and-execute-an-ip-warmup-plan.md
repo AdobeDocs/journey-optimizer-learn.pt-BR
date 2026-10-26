@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
 ht-degree: 100%
 ---
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 Entenda o que é o aquecimento de IP e saiba como configurar e executar um plano de aquecimento de IP no Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453845/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 
 Consulte o [Guia de práticas recomendadas de capacidade de entrega](https://experienceleague.adobe.com/pt-br/docs/deliverability-learn/deliverability-best-practice-guide/introduction) para obter as práticas recomendadas sobre [Critérios de direcionamento](https://experienceleague.adobe.com/pt-br/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [Considerações específicas do ISP durante o aquecimento de IP](https://experienceleague.adobe.com/pt-br/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming) e [volume](https://experienceleague.adobe.com/pt-br/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) durante o aquecimento de IP.
 

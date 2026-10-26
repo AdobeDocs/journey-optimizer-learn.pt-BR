@@ -1,6 +1,6 @@
 ---
 title: Criar uma integração de navegação
-description: Saiba como configurar uma integração de navegação para uma API externa, vinculá-la a uma integração do Standard e permitir que os profissionais de marketing pesquisem, naveguem e selecionem itens no editor do AJO sem inserir valores manualmente.
+description: Saiba como configurar uma integração de navegação para uma API externa, vinculá-la a uma integração padrão e permitir que os profissionais de marketing pesquisem, naveguem e selecionem itens no editor do AJO sem inserir valores manualmente.
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -32,15 +32,15 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
 # Criar uma integração de navegação
 
-Saiba como configurar uma integração de navegação para uma API externa, vinculá-la a uma integração do Standard e permitir que os profissionais de marketing pesquisem, naveguem e selecionem itens no editor do AJO sem inserir valores manualmente.
+Saiba como configurar uma integração de navegação para uma API externa, vinculá-la a uma integração padrão e permitir que os profissionais de marketing pesquisem, naveguem e selecionem itens no editor do AJO sem inserir valores manualmente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
 
-Para obter mais informações, consulte a [Documentação de integração de navegação](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).
+Para obter mais informações, consulte a [documentação de integração de navegação](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).

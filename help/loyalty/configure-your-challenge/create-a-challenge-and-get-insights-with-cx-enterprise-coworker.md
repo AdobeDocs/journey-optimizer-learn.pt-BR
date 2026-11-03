@@ -39,4 +39,4 @@ ht-degree: 0%
 
 Use prompts em linguagem simples para criar, configurar e iniciar desafios de fidelidade com o CX Enterprise Coworker. Neste vídeo, veja como definir públicos, recompensas e agendamentos, automatizar a configuração do jornada e analisar insights de desafio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496542/?captions=por_br&learn=on&enablevpops)

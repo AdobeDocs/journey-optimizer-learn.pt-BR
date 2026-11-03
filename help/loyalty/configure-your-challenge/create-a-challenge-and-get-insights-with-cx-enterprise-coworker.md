@@ -1,6 +1,6 @@
 ---
-title: Crie um desafio de fidelidade e insights com o CX Enterprise Co-worker
-description: Saiba como usar o CX Enterprise Co-worker para criar, configurar e iniciar desafios de fidelidade usando linguagem natural, incluindo públicos, recompensas, programações e configuração automatizada de jornadas.
+title: Crie um desafio de fidelidade e insights de superfície com o CX Enterprise Coworker
+description: Saiba como usar o CX Enterprise Coworker para criar e iniciar desafios de fidelidade no Adobe Journey Optimizer.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -29,16 +29,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6b3d2ad0ea5d8f185d6c8482e2f4f92f4bb75ded
 workflow-type: tm+mt
-source-wordcount: 72
+source-wordcount: '72'
 ht-degree: 0%
-
 ---
 
+# Crie um desafio de fidelidade e insights de superfície com o CX Enterprise Coworker
 
-# Crie um desafio de fidelidade e insights com o CX Enterprise Co-worker
-
-Saiba como usar o CX Enterprise Co-worker para criar, configurar e iniciar desafios de fidelidade usando linguagem natural, incluindo públicos, recompensas, programações e configuração automatizada de jornadas.
+Use prompts em linguagem simples para criar, configurar e iniciar desafios de fidelidade com o CX Enterprise Coworker. Neste vídeo, veja como definir públicos, recompensas e agendamentos, automatizar a configuração do jornada e analisar insights de desafio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496542/?captions=por_br&learn=on&enablevpops)

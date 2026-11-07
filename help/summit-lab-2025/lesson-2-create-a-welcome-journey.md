@@ -35,6 +35,6 @@ ht-degree: 0%
 
 Neste exercício, você começa a criar a jornada de boas-vindas, com base em uma jornada existente. Você começa definindo os critérios de entrada e cria a mensagem de email primeiro, usando o Acelerador de conteúdo de IA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505846/?captions=por_br&learn=on&enablevpops)
 
 Consulte [Introdução à criação de uma jornada](/help/journeys/introduction-to-building-a-journey.md) e [Caso de uso - Qualificação de público-alvo](/help/journeys/use-case-audience-qualification.md) para obter mais orientações sobre este tópico.

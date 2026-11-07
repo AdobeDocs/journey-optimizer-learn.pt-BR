@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Nesta lição, você terá a jornada de integração de um novo cliente do SecurFinancial.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457827/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505812/?captions=por_br&learn=on&enablevpops)

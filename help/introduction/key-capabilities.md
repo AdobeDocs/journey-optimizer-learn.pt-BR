@@ -1,6 +1,6 @@
 ---
 title: Principais recursos
-description: Explore os recursos do Adobe Journey Optimizer, incluindo públicos, jornadas, canais, conteúdo, decisões, fidelidade e fluxos de trabalho assistidos por IA.
+description: Explore os recursos do Adobe Journey Optimizer, incluindo públicos-alvo, jornadas, canais, conteúdo, serviço de decisão, fidelidade e fluxos de trabalho assistidos por IA.
 jira: KT-7606
 thumbnail: 3424995.jpeg
 feature: Overview
@@ -23,13 +23,13 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 8%
+ht-degree: 100%
 ---
 
 # Principais recursos
 
-Saiba mais sobre os principais recursos do Adobe Journey Optimizer, desde dados e públicos-alvo do cliente até jornadas, canais, conteúdo, decisões e fidelidade, e onde a IA pode apoiar seu trabalho.
+Saiba mais sobre os principais recursos do Adobe Journey Optimizer, desde dados de clientes e públicos-alvo até jornadas, canais, conteúdo, serviço de decisão e fidelidade, e onde a IA pode apoiar seu trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430320?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424995?learn=on){transcript=true}

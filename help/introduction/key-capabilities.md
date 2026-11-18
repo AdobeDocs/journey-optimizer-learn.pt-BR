@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Saiba mais sobre os principais recursos do Adobe Journey Optimizer, desde dados de clientes e públicos-alvo até jornadas, canais, conteúdo, serviço de decisão e fidelidade, e onde a IA pode apoiar seu trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430320?captions=por_br&learn=on){transcript=true}

@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Saiba como a funcionalidade de IA do Adobe Journey Optimizer transforma prompts em inglês simples em condições de jornada, sem escrever o idioma da expressão. Este vídeo demonstra como usar verificações de assinatura de fidelidade e de usuários inativos para criar caminhos de clientes mais relevantes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504898/?captions=por_br&learn=on&enablevpops)

@@ -44,4 +44,4 @@ ht-degree: 0%
 
 Neste exercício, você vincula uma estratégia de seleção a uma Experiência baseada em código para personalização de banner da Web em tempo real.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508540/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508544/?captions=por_br&learn=on)

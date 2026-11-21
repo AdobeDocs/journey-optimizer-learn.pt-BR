@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Saiba como navegar no Adobe Journey Optimizer, entender as quatro principais funções de usuário e encontrar as ferramentas e configurações relevantes para sua função. Descubra como organizações, sandboxes e permissões moldam seu espaço de trabalho antes de criar seu primeiro caso de uso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508506?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508511?captions=por_br&learn=on){transcript=true}
